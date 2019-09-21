@@ -1,0 +1,5317 @@
+half	en:Sports
+pollution
+remote
+kettle	en:Vessels	en:Tea	en:Rail transportation	en:Ornithology	en:Musical instruments	en:Geology	en:Cookware and bakeware
+tea	hu:Tea	hu:Beverages	en:Tea	en:Meals	en:Marijuana	en:Ericales order plants	en:Cricket
+twins
+rabbit
+energy	en:Video games	en:Role-playing games	en:Physics	en:Energy	en:Board games
+nova	vep:Landforms	la:Astronomy	fr:Astronomy	en:Astronomy	Words approved by the Akademio de Esperanto
+sunglasses	en:Eyewear
+solid	sv:Geometry	en:Typography	en:Printing	en:Politics	en:Geometry	en:Chemistry
+spreading
+scratch	es:Music	en:Sports	en:Music	en:Headwear	en:Cycling	en:Computing	en:Billiards
+circular	pt:Rhetoric	pt:Media	pt:Lexicography	pt:Economics	gl:Geometry	en:Geometry
+moose	sco:Rodents	oj:Mammals	en:Cervids	Word of the day archive
+lion	fro:Animals	fr:Zoology	fr:Panthers	fr:Male animals	fr:Heraldic charges	en:People	en:Panthers	en:Male animals	en:Heraldic charges	en:Browns
+backwards
+willow	en:Willows and poplars	en:Cricket	en:Baseball
+size	en:Mining	en:Military	en:Graph theory
+left
+cellular	en:Mobile phones
+handheld
+baked	en:Recreational drugs
+rounded	en:Mathematics	en:Linguistics	en:Botany
+dawn	en:Times of day
+object	nl:Grammar
+wind	nl:Atmospheric phenomena	gsw:Atmospheric phenomena	en:Nautical	en:Music	en:Boxing	en:Atmospheric phenomena	ang:Wind
+newspaper	en:Periodicals	en:Media
+eraser	en:Computing
+tadpole	en:Psychology	en:Baby animals	en:Amphibians
+flight	en:Travel	en:Sports	en:Fictional abilities	en:Engineering	en:Cricket	en:Aviation
+chirp	en:Animal sounds
+turf
+cliff	en:Music	en:Landforms
+roll	en:Role-playing games	en:Nautical	en:Geometry	en:Football (soccer)	en:Foods	en:Dice games	en:Computing	en:Aviation
+yellow	en:Yellows	en:Sports	en:Snooker	en:Publishing	en:Politics	en:Mass media	en:Entomology	en:Colors of the rainbow	en:Colors
+turn	ro:Chess	nn:Sports	nb:Sports	en:Theater	en:Role-playing games	en:Printing	en:Poker	en:Obstetrics	en:Knots	en:Geometry
+talking
+gold	vo:Metals	enm:Metals	en:Yellows	en:Programming	en:Metals	en:Colors	en:Chemical elements	ceb:Yellows	ceb:Role-playing games	ceb:Metals
+golf	sv:Ball games	sk:Geography	pt:Sports	nn:Sports	nn:Landforms	nl:Sports	nl:Physics	nl:Landforms	nl:Golf	nl:Geography
+feeding
+evaporate
+equator
+hand	sv:Card games	sv:Anatomy	nn:Anatomy	nb:Anatomy	fr:Sports	en:Units of measure	en:Tobacco	en:Poker	en:Nautical	en:Firearms
+ordered
+sharpen
+salt	sv:Spices and herbs	sv:Chemistry	fo:Spices and herbs	fo:Chemistry	enm:Seasonings	en:Seasonings	en:Mining	en:Cryptography	en:Chemistry	en:Archaeology
+webbed
+fertilization
+union	en:Set theory	en:Programming	en:One	en:Collectives
+eating
+l	head tracking/no lang category
+blood	enm:Bodily fluids	en:Medicine	en:Bodily fluids
+entering
+sale	vec:Chemistry	vec:Chemical elements	it:Spices and herbs	it:Foods
+photograph
+component
+fieldwork
+nonmagnetic
+blue	eo:Colors	eo:Blues	en:Snooker	en:Pornography	en:Politics	en:Particle physics	en:Metallurgy	en:Gossamer-winged butterflies	en:Fish	en:Entomology
+outdoors
+throw	en:Sports	en:Pregnancy	en:Martial arts	en:Cricket	en:Computing	en:Ceramics	en:Bridge	en:Bedding	en:Baseball	Scottish English
+sunset	en:Time	en:Politics	en:Business
+days
+arch	en:Geometry	en:Architecture	en:Anatomy
+plasma	pt:Physics	pt:Biology	nn:Physics	nn:Biology	nl:Physics	nl:Mineralogy	nl:Medicine	nl:Biology	nb:Physics	nb:Biology
+disguise
+empty	en:Programming	en:Mathematics	en:Computing
+reproduce	en:Biology
+skeleton	pt:Sports	fr:Winter sports	fr:Sports	en:Sports	en:Printing	en:Geometry	en:Computing	en:Architecture	en:Anatomy	Visual dictionary
+tie	en:Surveying	en:Statistics	en:Sports	en:Rail transportation	en:Neckwear	en:Music	en:Graph theory	en:Cricket	en:Construction	Words approved by the Akademio de Esperanto
+tin	nl:Chemical elements	is:Chemical elements	fo:Chemical elements	enm:Metals	en:Squash	en:Chemical elements	aot:Metallurgy	aot:Building materials	ang:Metals	af:Metals
+pan	rm:Foods	rm:Breads	pl:Titles	pl:Male people	oc:Breads	nl:Cookware and bakeware	lmo:Breads	gl:Foods	gl:Breads
+area	sv:Geometry	gl:Landforms	gl:Geology	en:Mathematics	en:Football (soccer)
+visibility	en:Vision	en:Programming
+erode
+paw	pl:Male animals	pl:Fowls	pl:Bodily fluids	dsb:Fowls
+moisture
+check	en:Textiles	en:Sports	en:Poker	en:Nautical	en:Heraldry	en:Falconry	en:Chess	en:Basketball
+list	sv:Graphical user interface	sl:Paper	sl:Fish	sl:Botany	sl:Body parts	sl:Anatomy	sk:Writing	sk:Post	sk:Paper	sk:Botany
+bouncing
+sand	en:Geology	en:Colors	en:Browns
+wire	en:Technology	en:Sports	en:Espionage	en:Billiards
+sinking
+erosion	en:Medicine	en:Mathematics	en:Dentistry
+child	enm:People	enm:Nobility	enm:Family	enm:Children	en:People	en:Family members	en:Computing	en:Children	en:Cartomancy	en:Age
+young	en:Geology	en:Demography
+rope	fi:Gaming	en:Nautical	en:Jainism	en:Computer science	en:Ceramics	en:Baseball
+divided
+instrument	enm:Tools	enm:Senses	enm:Organs	enm:Musical instruments	enm:Law	enm:Directives	enm:Body	en:Law
+decomposition	en:Death
+gasoline	en:Liquids
+medium	nl:Physics	nl:Media	nl:Grammar	nl:Communication	en:Spiritualism	en:People	en:Painting	en:Microbiology	en:Logic	en:Engineering
+lens	tr:Eyewear	nl:Optics	la:Legumes	en:Geometry	en:Geology	en:Earth sciences	en:Biology	en:Anatomy
+remove
+recycled
+root	pt:Computing	nds-de:Colors	en:Music	en:Mathematical analysis	en:Linguistic morphology	en:Horticulture	en:Graph theory	en:Computing	en:Arithmetic	dum:Colors
+hard	nl:Economics	en:Politics	en:Physics	en:Phonetics	en:Nautical	en:Bodybuilding	en:Art
+hare	sv:Hares	nn:Mammals	nb:Mammals	enm:Meats	enm:Mammals	enm:Lagomorphs	enm:Hides	en:Hares	da:Hares	West Midland Middle English
+live	eo:Directions	en:Sports	en:Poker	en:Engineering	en:Broadcasting
+pilot	pl:Occupations	nn:Occupations	nn:Aviation	nb:Occupations	nb:Aviation	en:Television	en:Road transport	en:Rail transportation	en:People	en:Mining
+perform
+magnet	en:Electromagnetism	ceb:Electromagnetism
+room	nl:Dairy products
+tundra	pt:Geography	nn:Landforms	nb:Landforms	ga:Geography	en:Geography	Word of the day archive
+footprint	en:Computing
+acidity
+china	en:Music
+coffee	en:Madder family plants	en:Colors	en:Coffee	en:Browns
+lady
+well	en:Video games	en:Tetris	en:Nautical	en:Military	en:Biology	en:Architecture
+dimple
+t-shirt
+fountain	en:Juggling	en:Heraldic charges
+pile	sh:Birds	sh:Baby animals	fr:Heraldic charges	en:Military	en:Heraldic charges
+channel	en:Water	en:Nautical	en:Marketing	en:Landforms	en:Internet	en:Electronics	en:Communication	en:Business	en:Broadcasting
+pill
+wrist	enm:Body parts	enm:Anatomy	en:Ice hockey	en:Engineering	en:Anatomy	Visual dictionary
+wiring
+rainy
+experiment
+flour	rm:Flowers	kw:Flowers	enm:Botany	en:Standards of identity	en:Foods
+camel	fro:Animals	enm:Mammals	en:Camelids	en:Browns	Tocharian B nouns	Tocharian B lemmas
+bump
+block	en:Volleyball	en:Theater	en:Sports	en:Rail transportation	en:Programming	en:Printing	en:Philately	en:Falconry	en:Cryptography	en:Cricket
+flagpole
+skunk	sv:Mephitids
+kilogram	tt:Units of measure	pl:Units of measure	en:SI units	cs:Units of measure
+write
+flow
+curling	sv:Winter sports	sv:Curling	fr:Winter sports	fi:Sports	en:Winter sports	en:Curling
+fiber	la:Rodents	en:Textiles	en:Mathematics	en:Fibers	en:Computing	en:Category theory
+musical	hu:Music
+bulb	en:Nautical	ca:Botany
+birth
+classroom	en:Rooms
+picnic	en:Meals
+slowly
+seismograph	en:Measuring instruments
+daylight	en:Sun	en:Light	en:Architecture
+binary
+microscopic
+pink	en:Snooker	en:Salmonids	en:Reds	en:Pinks	en:Flowers	en:Cyprinids	en:Colors	en:Carnation family plants	de:Colors	chk:Colors
+circuit	nl:Sports	nl:Physics	en:Technology	en:Scientology	en:Motor racing	en:Law	en:Graph theory	en:Electricity	en:Collectives
+pine	zza:Computing	en:Pines	en:Bromeliads	Zazaki nouns	Zazaki lemmas	Word of the day archive	West Frisian nouns	West Frisian lemmas
+matter
+caterpillar
+tom	pt:Music	gd:Medicine	gd-noun 2	en:Nautical	en:Music	en:Male animals	en:Cats
+top	sl:Weapons	sh:Chess	pt:Clothing	pl:Nautical	fro:Nautical	enm:Toys	enm:Roofing	enm:Nautical	enm:Hair	enm:Fibers
+bedrock	en:Rocks	en:Mining	en:Geology	en:Engineering	en:Construction
+recharge
+native	en:People	en:Mineralogy	en:Computing	en:Biology
+noise
+casting	en:Programming
+meadow
+toy	fo:Clothing	en:Toys
+taller
+colorless
+product	en:Mathematics	en:Cosmetics	en:Chemistry	en:Arithmetic
+question	en:Communication
+vinegar	en:Condiments
+produce	en:Music	en:Media	en:Mathematics
+picture	en:Visualization
+warmer
+sandpaper
+spinal	fr:Anatomy	en:Medicine
+microorganism	en:Microbiology
+rose	nrf:Flowers	nrf:Colors	nn:Plants	nn:Flowers	nb:Plants	nb:Flowers	fr:Heraldic charges	fr:Flowers	fr:Colors	enm:Plants
+tide
+burying
+measuring
+bacteria
+arrow	en:Spears	en:Graph theory	en:Directives	en:Darts	en:Computing	en:Botany	en:Archery
+fuel
+cow
+lab
+crawl	sv:Swimming	it:Swimming	fr:Swimming	en:Television	en:Gaits	en:Film
+identical	en:Philosophy	en:Mathematics	en:Biology
+kidney
+towel	Webster 1913
+coral	es:Zoology	es:Plants	en:Oranges	en:Gems	en:Colors	en:Cnidarians
+spoon	en:Tennis	en:Military	en:Golf	en:Fishing	en:Dentistry	en:Cutlery
+chloride	en:Chemistry
+pipe	pt:Computing	nrf:Units of measure	fr:Sex	enm:Wine	enm:Units of measure	enm:Taxation	enm:Musical instruments	enm:Medicine	enm:Finance	enm:Containers
+mineral	pt:Nutrition	pt:Geology	gl:Mineralogy	en:Geology
+traffic	en:Computing
+tower	en:Cartomancy	en:Buildings
+sloping
+counting
+lay	en:Printing	en:Nautical	en:Military	en:Law	en:Judaism	Webster 1913
+hatch	en:Mining	en:Mayflies	en:Eggs
+flavoring
+rainwater
+herbivore	fr:Animals
+christmas
+snow
+shining
+cadmium	nl:Chemical elements	la:Chemical elements	fr:Chemical elements	en:Chemical elements
+arms	en:Heraldry
+lake	sv:Fish	nn:Fish	nb:Fish	en:Water	en:Landforms
+hawk	en:Politics	en:Game theory	en:Falconry	en:Birds of prey
+acidic	en:Mineralogy	en:Chemistry
+boulder
+chicken	en:Poultry	en:Food and drink	en:Dances	en:Chickens
+rising	Webster 1913
+fruit	nl:Fruits	fr:Nutrition	fr:Fruits	fr:Foods	en:People	en:LGBT	en:Botany	Visual dictionary
+wound	en:Law
+teacher	en:People	en:Occupations	en:Mormonism	en:Fingers	en:Education
+genetics
+design	hu:Design	en:Design
+muscle	oc:Bivalves	oc:Anatomy	nrf:Anatomy	frm:Anatomy	fr:Anatomy	en:Body
+land	non:Landforms	nl:Landforms	en:Travel	en:Nautical	en:Landforms	en:Electronics	en:Agriculture
+working	en:Arithmetic
+floor	en:Nautical	en:Mining	en:Mathematics	en:Gymnastics	en:Finance
+elevation
+predator	en:People
+lamp	nl:Light sources	nl:Electronics	en:Light sources	cy:Light sources	cim:Sheep	cim:Baby animals
+opening	en:Mathematics	en:Cricket	en:Chess	attention lacking explanation
+hatching
+burning	en:Temperature	en:Fire
+saliva	la:Bodily fluids	it:Physiology
+pebble
+crescent	en:Roads	en:Islam	en:Heraldic charges	Webster 1913
+industrial	en:Music	en:Finance	en:Film	en:Business
+bury	pl:Ursids	pl:Colors	pl-adj without corresponding adverb	pl-adj or pl-adv without comparative form
+esophagus
+wall
+walk	wikipedia with redundant first parameter	en:Sports	en:Poker	en:Law	en:Horse gaits	en:Graph theory	en:Gaits	en:Finance	en:Cricket	en:Baseball
+prey
+japan
+vertebrate
+decay	en:Physics	en:Electronics	en:Computing	en:Chemistry	en:Aviation
+absorb
+acorn	en:Zoology	en:Oaks	en:Nuts	en:Nautical
+supply
+mountain	en:Landforms	en:Cartomancy
+state	en:Talking	en:Sciences	en:Polities	en:Political subdivisions	en:Physics	en:Mathematics	en:Computing	en:Collectives	en:Anthropology	en:Administrative divisions
+marsh	en:Landforms
+dough	en:Food and drink
+element	tr:Chemistry	sv:Mathematics	sv:Computing	nl:Set theory	nl:Chemistry	en:Set theory	en:Law	en:Computing	en:Collectives	en:Christianity
+drift	nl:Anger	en:Nautical	en:Mining	en:Gaits	en:Engineering	en:Cricket	en:Architecture
+sandbar	en:Landforms
+germs
+absorption
+night	en:Times of day	en:Time	en:Sports
+pigment	nl:Art	en:Biology
+pollutant
+mudslide
+cub
+demonstration	en:Communication
+molecule
+circle
+drier
+cup	nn:Sports	nb:Sports	en:Units of measure	en:Ultimate	en:Surgery	en:Medicine	en:Mathematics	en:Golf	en:Football (soccer)	en:Engineering
+cut	kyi:Anatomy	en:Theater	en:Sports	en:Meats	en:Graph theory	en:Golf	en:Film	en:Fencing	en:Fashion	en:Cricket
+document	fr:Computing	en:Computing
+aluminum
+battery	en:Violence	en:Music	en:Law	en:Electronics	en:Chess	en:Baseball	en:Artillery
+accident	nl:Theology	nl:Philosophy
+colors
+marine	nl:Navigation	nl:Military	en:People	en:Nautical	en:Military
+clay	en:Tennis	en:Geology	en:Firearms	en:Bible
+tear	gl:Tools
+mornings
+combust	en:Astrology	Quotation templates to be cleaned
+disperser	en:Graph theory	en:Ecology	en:Chemistry	comparative of/without nocat
+digestion
+knight
+tabasco	es:Sauces	en:Spices and herbs	en:Peppers
+skinny
+jeweler	en:People	en:Occupations
+attach	en:Law
+kitchen	en:Rooms	en:Music
+shout
+flashlight	en:Light sources
+escape	it:Computing	es:Auto parts	en:Snooker	en:Programming	en:Manufacturing	en:Computing	en:Architecture
+binoculars	en:Astronomy
+tidal
+combining
+team	en:Law	en:Collectives	West Frisian terms with usage examples
+diagram	en:Visualization	en:Category theory
+standing	fo:Physiology
+claw	en:Juggling	en:Botany	en:Animal body parts
+watch	en:Nautical	en:Clocks
+purple	en:Purples	en:Politics	en:Nymphalid butterflies	en:Motor racing	en:Medicine	en:Gastropods	en:Colors
+clam
+thing	en:Law
+cabinet
+chart	pl:Dogs	en:Topology	dsb:Dogs
+tilt
+smell
+wasp	enm:Insects	en:Hymenopterans	en:Entomology
+canopy
+shook
+dying	en:Death
+school	nl:Schools	nl:Education	nl:Buildings
+roughness
+dogs	en:Nautical
+tile	ga:Nautical	en:Theory of computing	en:Computing
+brush	en:Zoology	en:Video games	en:Tools	en:Poker	en:Music	en:Hair	en:Computer graphics
+hay
+glass	gv:Colors	en:Vessels	en:Sports	en:Science fiction	en:Materials	en:Ice hockey	en:Basketball
+eastern
+last	sv:Engineering	sv:Electrical engineering	nl:Law	dum:Units of measure
+reflection
+wash	en:Television	en:Nautical	en:Mining	en:Liquids	en:Landforms	en:Hygiene	en:Finance	en:Art	en:Architecture
+weight	en:Weightlifting	en:Typography	en:Topology	en:Statistics	en:Sports	en:Physics	en:Mechanics	en:Mathematics	en:Horse racing
+gully	en:Landforms	en:Cricket	Scottish English
+warm	nl:Temperature	nl:Meteorology	gsw:Temperature	enm:Weather	enm:Temperature	en:Temperature
+measure	en:Poetry	en:Music	en:Measure theory	en:Mathematics	en:Geology	en:Cooking
+pry
+district
+hydrologist	en:Scientists	en:People
+rattle
+swim	en:Swimming	en:Dances
+coastal	en:Geography
+full	it:Poker	it:Card games	fr:Poker	en:Poker
+pepper	nb:Spices and herbs	en:Spices	en:Seasonings	en:Piperales order plants	en:Peppers	en:Cryptography	en:Baseball
+rotating
+scientist	en:Scientists	en:People	en:Occupations
+salamander	nl:Amphibians	gv:Amphibians	en:Salamanders	en:Rodents	en:Mythology	en:Mythological creatures	en:Metallurgy	en:Heraldic charges	en:Cooking
+surroundings	en:Systems theory	en:Physics
+house	sv:Music	pl:Music	nb:Music	hu:Music	fr:Musical genres	fi:Music	en:Politics	en:Nautical	en:Musical genres	en:Music
+mice
+wave	en:Water	en:Video games	en:Physics	en:Baseball
+disaster
+lava	sh:Geology	pt:Volcanology	nn:Geology	nb:Geology	gl:Geology
+lifting	it:Surgery	ga:Nautical	en:Sports	en:Medicine
+pail
+rotation	en:Mathematics	en:Geometry	en:Baseball	en:Aviation
+center	sv:Sports	sv:Politics	es:Baseball	en:Rugby	en:Politics	en:Netball	en:Ice hockey	en:Group theory	en:Geometry	en:Football (soccer)
+shore	Webster 1913
+lowering
+engineer	en:Rail transportation	en:People	en:Occupations	en:Nautical
+pair	rm:Fruits	en:Two	en:Rowing	en:Politics	en:Poker	en:Cricket	en:Card games	en:Baseball	Vallader Romansch
+fallen	en:Death	en:Christianity	de:Military
+cooler	en:Prison	en:Poker	comparative of/without nocat
+short	zh:Electrical engineering	pt:Clothing	fr:Clothing
+time	pt:Sports	nn:Time	nb:Time	en:Time	en:Tennis	en:Sports	en:Physics	en:Music	en:Grammar
+tray
+parking
+measured
+downward
+cabbage
+shadow
+freckles
+palm	en:Scouting	en:Palm trees	en:Nautical	en:Anatomy
+cyan	sv:Colors	fr:Colors	en:Greens	en:Colors	en:Blues	cs:Printing	cs:Colors
+hen	vi:Diseases	nl:Female animals	nl:Chickens	enm:Female animals	enm:Chickens	enm:Birds	en:Female animals	en:Chickens	en:Birds	Yola nouns
+climb	it:Aviation	en:Botany
+carbon	ro:Chemical elements	gd-noun 2	en:Internet	en:Ecology	en:Chemical elements	da:Chemistry
+season	en:Video games	en:Time	en:Seasons	en:Cricket	en:Broadcasting
+coloring	en:Graph theory
+swimsuit	en:Swimwear
+enter	pl:Computing	fr:Agriculture	en:Law	en:Computing	en:Buttons
+dinosaur	vo:Reptiles	vo:Paleontology	vo:Animals	en:Reptiles
+metamorphosis	en:Pathology	en:Biology
+pedal	en:Music	en:Medicine	en:Bicycle parts
+warmth
+pollination	en:Botany
+biofuel
+magnesium	sv:Chemical elements	se:Chemical elements	nn:Chemical elements	nl:Chemical elements	nb:Chemical elements	ms:Chemical elements	li:Chemical elements	la:Chemical elements	fi:Chemical elements	en:Chemical elements
+grouping
+metallic
+coast
+light	enm:Vision	enm:Religion	enm:Light sources	enm:Light	enm:Chemistry	enm:Architecture	en:Rail transportation	en:Physics	en:Painting	en:Nautical
+passenger
+tiny	en:Size
+pumice
+spatula
+log	vo:Anatomy	nl:Internet	nl:Computing	mul:Mathematics
+ventilation	en:Medicine
+bright	en:People
+solar	pt:Sports	pt:Music	pt:Astronomy
+cobalt	ro:Metals	ro:Chemical elements	fr:Chemical elements
+formation	fr:Military	fr:Education	en:Sports	en:Military	en:Geology	en:Category theory
+shamrock
+layer
+lot	tt:Units of measure	pl:Aviation
+glasses	en:Eyewear	Middle English noun plural forms	Middle English non-lemma forms
+panama	ro:Headwear
+computer	rm:Computing	en:People	en:Computing
+low	en:Phonetics	en:Meteorology	en:Fire	en:Card games	en:Biology	en:Baseball	en:Astronomy	en:Animal sounds	en:Acoustics	Scottish English
+ivory	en:White	en:Teeth	en:Elephants	en:Colors
+grown
+bifocal	en:Optics
+tire	tr:Punctuation marks	en:Auto parts	az:Punctuation marks
+chain
+touching	Quotation templates to be cleaned
+chair	en:Rail transportation	en:People	en:Music	en:Chemistry	en:Chairs
+tennis	sv:Sports	nn:Sports	nb:Sports	it:Sports	fr:Sports	fi:Sports
+fingernail	en:Anatomy
+fungi	en:Pathology	en:Music
+january
+garden	en:Horticulture	en:Cricket	en:Cartomancy	ceb:Horticulture
+travel	en:Basketball
+waxy	en:Anger	Regional English
+clip	en:Signal processing	en:Football (American)	en:Fishing	en:Computer graphics
+small	en:Writing	en:Size
+sliding	enm:Gaits	Middle English words suffixed with -ing	Middle English terms with rare senses
+door
+beak	en:Nautical	en:Entomology	en:Botany	en:Architecture	en:Animal body parts	Ulster English
+nutrient	en:Nutrition
+compact
+replace	Webster 1913
+stomach	en:Organs
+dam	sv:Chess	sv:Card games	sga:Male animals	sga:Female animals	sga:Cattle	mul:Metrology	fr:Religion	en:Dentistry
+hit	en:Violence	en:Programming	en:Military	en:Internet	en:Games	en:Computing	en:Card games	en:Baseball	en:Backgammon
+thermostat	fr:Cooking	en:Technology	en:Systems theory
+bear	fy:Ursids	en:Ursids	en:Nautical	en:Military	en:Finance	en:Engineering	en:Cartomancy
+pointing	en:Art	Webster 1913
+day	sco:Time	enm:Time	en:Times of day	en:Time	en:Meteorology	en:Days of the week	en:Astronomy
+bean	pl:People	gd:Marriage	gd:Female	gd-noun 2	ga:Marriage	ga:Female	fy:Vegetables	en:Vegetables	en:Software	en:Legumes
+group	en:Sports	en:Sociology	en:Musicians	en:Music	en:Military	en:Group theory	en:Geometry	en:Geology	en:Computing	en:Collectives
+jewelry
+raising
+tapping	en:Music
+drinking	Quotation templates to be cleaned
+wetland
+island	en:Landforms	en:Grammar	en:Government
+liter	tt:Units of measure	sga:Christianity	nn:Units of measure	nb:Units of measure	hu:Units of measure	en:Units of measure
+tree	nl-noun plural matches generated form	gv:Three	en:Trees	en:Theory of computing	en:Graphical user interface	en:Graph theory	en:Chemistry	en:Cartomancy	Visual dictionary
+flooding	en:Psychology
+water	nl:Water
+eclipse	pt:Astronomy	gl:Astronomy
+rainbow
+whiskers
+square	enm:Tools	enm:Measuring instruments	enm:Geometry	en:Units of measure	en:Shapes	en:Roofing	en:Roads	en:Real estate	en:Printing	en:Nautical
+grassy
+soap	nl:Television	fr:Television	en:Toiletries	en:Hygiene	en:Chemistry
+mike
+wagon	en:Vehicles	en:Toys	en:Rail transportation	en:Female	Word of the day archive	Reference templates lacking the author or editor parameters
+part	hu:Nature	et:Birds	en:Music	en:Mathematics	en:Judaism	en:Internet	en:Hair	en:Directives	ca:Demonyms
+point	nrf:Punctuation marks	fr:Sports	fr:Games	en:Video games	en:Typography	en:Sports	en:Sciences	en:Rail transportation	en:Navigation	en:Nautical
+bike	nrf:Cycling	it:Vehicles
+east	en:Meteorology	en:Compass points	en:Christianity	ang:Compass points
+specimen
+unicellular	en:Biology
+piles	en:Pathology
+park	en:Internet	en:Football (soccer)	en:Finance	en:Baseball
+ceiling	en:Nautical	en:Mathematics
+washed
+sprout
+built	Scottish Gaelic noun forms	Scottish Gaelic non-lemma forms
+clear
+chef	nl:Occupations	fro:Anatomy	fr:Heraldic charges	es:Occupations	enm:People	enm:Occupations	enm:Heraldry	en:People	en:Occupations
+crowded
+landslide
+soda	sw:Beverages	krl:War
+prairie
+meal	rm:Foods
+diamond	wikipedia with redundant first parameter	en:Shapes	en:Printing	en:Geometry	en:Gems	en:Card games	en:Birthstones	en:Baseball
+someone
+third	en:Three	en:Music	en:Golf	en:Baseball
+build
+meat	en:Sports	en:Meats	en:Foods
+account	it:Computing
+path	enm:Roads	enm:Human behaviour	enm:Anatomy	en:Topology	en:Roads	en:Paganism	en:Medicine	en:Graph theory	en:Computing
+trip	en:Poker	en:Nautical	en:Gaits	en:Engineering	en:Electricity	Webster 1913
+dental	fr:Linguistics	en:Veterinary medicine	en:Phonetics
+record
+dew	enm:Liquids	en:Liquids	Zazaki terms with incomplete gender	Zazaki nouns	Zazaki lemmas
+cube
+hunting	en:Engineering
+soft	fr:Sexuality	fr:Computing	en:Physics	en:Linguistics
+bees	nl-noun plural matches generated form	Pennsylvania German lemmas	Pennsylvania German adjectives	Middle English noun plural forms	Middle English non-lemma forms
+shock
+milk
+active	la:Grammar	en:Grammar	en:Computing	de:Grammar
+bill	fr:Law
+solstice	fro:Astronomy	fr:Astronomy
+population	en:Statistics	en:Computing	en:Collectives	en:Biology	da:Statistics
+bucket
+atlantic
+route	nrf:Nautical	fr:Roads	en:Internet	en:Computing
+eats	en:Food and drink
+millions
+organ	sv:Anatomy	pl:Politics	nn:Biology	nn:Anatomy	nb:Biology	nb:Anatomy	en:Musical instruments	en:Biology
+mirror	en:Toiletries	en:Internet	en:Computing
+shiver	en:Nautical	en:Medicine	en:Geology
+soil
+bottle	en:Vessels	en:Printing	en:Buildings
+hot	nl:Nautical	en:Temperature	en:Appearance
+transparent	fr:Linguistics	en:Signal processing
+journal	fr:Computing
+composition	fr:Sports	fr:Printing	fr:Object-oriented programming	fr:Linguistics	en:Printing	en:Physics	en:Photography	en:Painting	en:Object-oriented programming	en:Mathematics
+grass	en:Recreational drugs	en:Physics	en:Marijuana	Thirteen Communities Cimbrian
+blocking	en:Theater	en:Computing	Quotation templates to be cleaned
+radiator	sv:Construction	sv:Automotive	sv:Auto parts	nn:Automotive	nb:Automotive	en:Electronics	en:Automotive	en:Auto parts
+farming	en:Agriculture
+comet	en:Hummingbirds	en:Astronomy
+chimpanzee	en:Hominids
+hearing	en:Law
+volcano	en:Geology
+rigid
+paired
+mine	nn:Weapons	nb:Weapons	fr:Weapons	fr:Mining	en:Weapons	en:Pyrotechnics	en:Mining	en:Military	en:Entomology	en:Cryptocurrency
+tail
+hydropower	en:Electricity
+right
+hibernation
+assemble
+repel	en:Sports	en:Physics	Word of the day archive
+june	eo:Age
+stage	nl:Education
+meet	en:Sports	en:Rail transportation	en:Algebra
+desert	en:Deserts
+volcanic
+arches	Norman noun plural forms	Norman non-lemma forms
+quarter	en:Nautical	en:Heraldic charges	en:Four	en:Coins	en:Basketball	ca:Mathematics
+dig	en:Volleyball	en:Mining	en:Medicine
+thickness
+dim	sl:Smoking	sl:Combustion	sh:Smoking	sh:Combustion
+down	en:Sports	en:Rail transportation	en:Military	en:Law enforcement	en:Football (American)	en:Directions	en:Botany	en:Baseball	en:Aviation
+hold	hu:Astronomy	es:Baseball	en:Wrestling	en:Video games	en:Tennis	en:Nautical	en:Exercise	en:Baseball	en:Aviation
+dandelion	en:Yellows	en:Flowers	en:Colors	en:Cichorieae tribe plants	Word of the day archive
+trail	en:Military	en:Graph theory
+insulated	en:Astronomy
+talc	fr:Minerals
+limestone	en:Rocks	en:Minerals
+chainsaw	en:Saws
+bird
+rubber	en:Telephony	en:Sports	en:Birth control	en:Baseball
+camper	enm:Sports	enm:People	en:Video games	en:Vehicles	en:People	ca:Heraldry
+talk	sv:Mineralogy	en:Talking
+tall	sv:Trees	sv:Conifers	en:Size
+signal	en:Rail transportation	en:Directives	en:Computing	en:Biochemistry	Vilamovian terms with audio links
+dolphin
+test	hu:Geometry	hu:Anatomy	hu:Algebra	fr:Marine biology	en:Marine biology	en:Cricket	en:Chemistry	en:Botany
+planet	tr:Astronomy	sv:Astronomy	sl:Astronomy	rm:Astronomy	rm:Astrology	nn:Astronomy	nb:Astronomy	en:Astronomy	en:Astrology	da:Astronomy
+count	en:Nobility	en:Law	en:Entomology	en:Baseball
+brown	en:Snooker	en:Entomology	en:Demography	en:Cooking	en:Colors	en:Browns	cy:Colors
+straw	enm:Agriculture	en:Colors	en:Browns
+frosting
+graph	en:Visualization	en:Typography	en:Topology	en:Statistics	en:Mathematics	en:Linguistics	en:Graph theory	en:Category theory
+sodium	fr:Chemical elements	fr:Alkali metals
+vision	fr:Senses
+month	en:Time	en:Islamic months	en:Hebrew calendar months	en:Gregorian calendar months
+freezer
+carrying
+needles
+back	en:Sports	en:Printing	en:Phonetics	en:Nautical	en:Mining	en:Law	en:Body parts	en:Alcoholic beverages	cs:Sports
+dimmer
+pound	enm:Units of measure	enm:Currency	en:Units of measure	en:Engineering	en:Currencies	en:Canals	en:Baseball
+load	wikipedia with redundant first parameter	en:Engineering	en:Electrical engineering	en:Computing	en:Baseball
+kazoo	en:Musical instruments
+company
+hemisphere
+tank	nl:Auto parts	fr:Vehicles	fr:Containers	en:Video games	en:Role-playing games	en:Military vehicles	en:Board games	Webster 1913	Texan English
+equinox	en:Calendar terms	en:Astronomy
+human	rm:People	en:Hominids
+lunar	gl:Anatomy	es:Anatomy	en:Astronomy	en:Anatomy	en:Alchemy	cbk:Anatomy	Webster 1913
+prince	fr:Nobility	en:People	en:Nobility	en:Mushrooms	en:Monarchy	en:Entomology
+length	en:Size	en:Mathematics	en:Horse racing	en:Cricket
+monitor	pt:Computing	pl:Computing	hu:Computing
+home	mwl:Human	mwl:Family	it:Computing	gl:People	fro:People	fi:Botany
+raccoon	en:Procyonids	Word of the day archive
+print
+material	pt:Religion	pt:Education	pt:Chemistry
+cavern	en:Landforms	en:Caving
+beach	gd:Insects	gd:Beekeeping	gd-noun 2	ga:Bees	ga:Beekeeping	en:Water	en:Landforms
+universe	enm:Astronomy	en:Marketing	en:Economics	en:Astronomy
+baby	nl:Age
+iron	en:Weightlifting	en:Physics	en:Military	en:Metallurgy	en:Golf	en:Chemistry	en:Chemical elements
+downhill	en:Skiing
+indented	en:Zoology	en:Heraldry
+grant	en:Philanthropy	en:Law	Webster 1913
+showing
+muscular	en:Bodybuilding
+basket	tr:Sports	nl:Basketball	enm:Containers	en:Containers	en:Basketball	en:Architecture	ceb:Baskets	ceb:Basketball
+hum	sh:Landforms
+lunch	en:Meals	en:Cricket
+cylindrical	en:Geometry	en:Cartography
+dropper	fr:Golf	en:Mining	en:Fishing	en:Computing
+shedding	Webster 1913
+thick
+tablet	pt:Computing	es:Computing	enm:Writing	enm:Pharmacology	enm:Medicine	enm:Jewelry	enm:Bible	enm:Art	en:Religion	en:Rail transportation
+melt
+kitten	nl:Cats	nl:Baby animals	en:Mammals	en:Cats	en:Baby animals
+tape	en:Trading	en:Ice hockey
+supplier	en:People	en:Football (soccer)
+stinger	West Country English
+bend	sh:Music	pt:Music	en:Underwater diving	en:Nautical	en:Music	en:Mining	en:Medicine	en:Heraldic charges
+fingerprint	en:Computing
+prism
+inspection
+gauge	enm:Metrology	en:Rail transportation	en:Nautical	en:Mathematics	en:Mathematical analysis	en:Knitting	en:Firearms
+riverbed	en:Hydrology
+electrical
+statue	fr:Sculpture	en:Sculpture
+cream	en:Yellows	en:Whites	en:Standards of identity	en:Medicine	en:Cooking	en:Colors	en:Coffee
+hood	frr:Anatomy
+bell
+physicist	en:Scientists	en:Physics	en:People
+heavy	en:Physics	en:People	en:Music	en:Aviation
+scraping
+field	en:Sports	en:Softball	en:Physics	en:Military	en:Heraldry	en:Geology	en:Cricket	en:Computing	en:Baseball	en:Algebra
+birthplace
+underground	en:Music	en:Geography	en:Art
+deflect
+baseball	pl:Sports	pl:Baseball	nn:Sports	nb:Sports	it:Sports	hu:Sports	fr:Sports	fr:Baseball	fi:Sports	en:Sports
+dog	vo:Dogs	tcs:Mammals	rop:Mammals	en:Poker	en:Nautical	en:Male animals	en:Dogs	en:Cartomancy	Westrobothnian lemmas	Westrobothnian adjectives
+machinery
+jaguar	tr:Panthers	sh:Mammals	ro:Felids	pt:Panthers	pt:Mammals	pl:Panthers	nn:Felids	nl:Felids	nb:Felids	en:Panthers
+skin	vo:Anatomy	tpi:Anatomy	pt:Video games	pt:Computing
+deliver
+summer	gsw:Seasons	en:Summer	en:Seasons	en:Calendar terms
+chihuahua	fi:Dogs	es:Dogs
+chloroplast	en:Cytology
+buoyant
+stream	es:Computing	en:Water	en:Sciences	en:Landforms	en:Internet	en:Education	en:Computing
+member
+periods
+cacti
+dwarf
+illness
+grease	en:Fats and oils	en:Aviation
+pavement
+faucet
+bent	en:Poeae tribe grasses	en:LGBT	en:Football (soccer)	en:Carpentry
+toothpaste	en:Toiletries	en:Dental hygiene
+machine	en:Telephony	en:Politics	en:Computing
+darts	fi:Sports	fi:Games	en:Sports	en:Games	en:Darts
+evening
+rotate
+stinging
+subject	en:Philosophy	en:People	en:Music	en:Mathematics	en:Logic	en:Grammar	en:Feudalism
+reptile
+serve
+radio	nrf:Telecommunications	nrf:Physics	nl:Radio	it:Skeleton	it:Metals	it:Chemistry	it:Chemical elements	io:Ichthyology	io:Geometry	gl:Skeleton
+strip
+oxygen
+combine
+waste	en:Law	en:Geology	West Flemish nouns	West Flemish lemmas	Tocharian B nouns	Tocharian B lemmas
+turtle
+flatness	en:Statistics	en:Oenology
+noodles
+broom	nl:Chemical elements	et:Chemical elements	en:Roofing	en:Nautical	en:Hygiene	en:Genisteae tribe plants	en:Curling	en:Cleaning	af:Chemical elements
+equipment
+dry
+pressure	en:Physics
+streak	Scottish English
+fill	ga:Medicine	ga:Geology	ga:Biology
+steps
+heart	en:Shapes	en:Love	en:Cartomancy	en:Cardiology	en:Botany	en:Anatomy	en:Agriculture
+trash
+feed	pt:Internet	gv:Twenty	es:Internet	en:Sports	en:Phonology	en:Internet	en:Food and drink
+eroded
+compass
+sawdust
+valley	en:Landforms
+present	fro:Grammar	frm:Grammar	en:Zoology	en:Time	en:Military	en:Medicine	ca:Grammar
+soup
+pollen	sv:Botany	nn:Botany	nl:Computing	nb:Botany	en:Botany	de:Computing	da:Botany
+blend	en:Linguistics
+incandescent
+breath	en:Air
+hour	en:Time	en:Military
+smoking	pl:Clothing	nn:Clothing	nb:Clothing	it:Clothing	en:Smoking
+physical	en:Computing
+insulator
+microwave	en:Home appliances
+falling
+submerged
+bunting
+waving
+beaker
+compound	en:Rail transportation	en:Music	en:Mathematics	en:Linguistics	en:Law	en:Finance	en:Chemistry
+structure
+orange	sv:Colors	nrf:Colors	lb:Colors	fr:Fruits	fr:Colors
+outdoor
+wildflower
+due	nn:Birds	nb:Birds	it:Card games
+backpack	en:Containers
+pumpkin	en:Vegetables	en:Cucurbitas	en:Colors
+fence	en:Walls and fences	en:Sports	en:Programming	en:People	en:Occupations	en:Equestrianism	en:Crime	en:Computing
+invention	en:Music
+powdered
+cover	sv:Music	pt:Music
+precipitation
+bank	sv:Finance	nl:Games	nl:Buildings	hu:Gambling	hu:Buildings	hu:Banking	en:Rail transportation	en:Printing	en:Nautical	en:Music
+constellation
+sizes
+doorbell
+bang	ms:Family	ga:Swimming	en:Sound	en:Mining	en:Mathematics	en:Hair
+above	en:Theater	en:Biology
+drawing	en:Visualization	en:Art
+magnetic
+stick	sv:Card games	en:Typography	en:Sports	en:Printing	en:Nautical	en:Motor racing	en:Military	en:Jazz	en:Ice hockey	en:Horse racing
+orbit	en:Physics	en:Mathematics	en:Group theory	en:Geometry	en:Astronomy	en:Anatomy
+band	sv:Physics	sv:Music	nn:Music	nl:Physics	nl:Music	nl:Auto parts	nb:Music	is:Music	enm:Heraldry	enm:Directives
+respiratory
+height
+resident
+august	su:Months	sk:Months	sh:Months	sh:Gregorian calendar months	ro:Months	no:Months	ie:Months	ia:Months	frr:Time	frr:Months
+scratching
+outer	en:Politics	en:Military	en:Firearms
+frozen	en:Temperature
+tiger	sv:Panthers	sl:Felids	nn:Animals	nb:Animals	kw:Mammals	kw:Cats	fy:Felids	en:People	en:Panthers	en:Nymphalid butterflies
+flood
+dryer	en:Laundry	en:Home appliances
+cracking	en:Chemistry
+vitamin
+animal	rm:Animals	pt:Biology	ht:Animals	gl:Animals	fr:Animals	enm:Animals	ca:Animals	ast:Animals	Visual dictionary	Vallader Romansch
+male	et:Chess	et:Board games	en:Transgender	en:Male	en:Grammar	en:Gender	Translingual translations
+transporting
+shower
+shelter
+melting
+long	nl:Organs	gd-noun 2	ga:Watercraft	en:Tennis	en:Prosody	en:Programming	en:Music	en:Linguistics	en:Finance	en:Cricket
+landfill
+fell
+bases
+butterfly	en:Swimming	en:Insects	en:Butterflies	Word of the day archive
+temperature	en:Thermodynamics
+operating
+galaxy	en:Galaxies	en:Astronomy
+destruction
+striped
+crayon	fr:Writing instruments
+middle
+star	nn:Birds
+wolf	nl:Canids	gsw:Canids	goh:Canids	gmh:Canids	fy:Canids	enm:Mammals	enm:Carnivores	enm:Canids	en:Wolves	en:Music
+electrocution	en:Death
+swamp	en:Water	en:Landforms
+people	en:Collectives
+transportation
+appear
+face	pt:Geometry	pt:Anatomy	fro:Anatomy	fr:Geometry	fr:Anatomy	enm:Face	enm:Anatomy	en:Typography	en:Heraldic charges	en:Golf
+fish	en:Zoology	en:Poker	en:Nautical	en:Fish	en:Cricket	en:Cartomancy	Visual dictionary
+mane	enm:Hair	enm:Animal body parts	en:Hair	dum:Celestial bodies
+tripe	nrf:Meats
+household	en:Household	en:Collectives
+eyeglasses	en:Eyewear
+melted	en:Liquids
+open	es:Sports	en:Topology	en:Poker	en:Phonetics	en:Music	en:Medicine	en:Mathematics	en:Logic	en:Law	en:Graph theory
+crumble	en:Desserts
+berry
+woodland
+rapid
+project	en:Psychology	en:Psychoanalysis	en:Cartography
+ice	ha:Plants	en:Physics	en:Ice hockey	en:Astronomy
+inside
+leaves
+diameter	sv:Geometry	nn:Geometry	nl:Geometry	nb:Geometry
+bark	sq:Anatomy	pl:Watercraft	pl:Sound	pl:Anatomy	nb:Watercraft	nb:Botany	fo:Nautical	enm:Medicine	enm:Hides	enm:Botany
+tobacco	en:Tobacco	en:Nightshades
+bare	en:Architecture
+vanilla	en:Spices and herbs	en:Spices	en:Sexuality	en:Orchids	en:Computing
+sidewalk
+dropping
+sealed	en:Object-oriented programming
+collection	en:Topology	en:Mathematical analysis	en:Law
+offshore
+dense	en:Topology	en:Mathematics
+scar	Webster 1913
+goggles	en:Eyewear
+laboratory
+flying	en:Nautical
+inspect
+internet	pt:Internet	it:Internet	hu:Computing	gl:Internet	es:Internet	en:Internet	en:Computing	ceb:Internet	ceb:Computing
+loudly
+appliance	en:Technology
+alloy
+rough	en:Touch	en:Ice hockey	en:Cricket
+mass	vro:Body
+recording
+vegetable	en:Vegetables	en:People
+speed
+bats	li:Anatomy
+apple	en:Trees	en:Pome fruits	en:Mythological plants	en:Fruits	en:Baseball
+marbles	en:Motor racing
+uneven	en:Mathematics
+nickel	sv:Chemical elements	fr:Chemical elements	en:Football (American)	en:Coins	en:Chemical elements
+spine	en:Skeleton	en:Books
+lemonade
+seedling	en:Botany
+guitar	en:String instruments	en:Musical instruments	da:Musical instruments
+mosquito	pt:Insects	osp:Insects	osp-noun needing attention	gl:Insects
+landing	en:Aviation	ceb:Aviation
+money	en:Money
+healthy	en:Health
+sandy	en:Browns
+schoolyard
+removal
+step
+mark	sv:Gambling	sv:Currency	is:Sports	is:Currency	fr:Currencies	fo:Bible	fo:Agriculture	en:Ultimate	en:Sports	en:Singing
+base	pt:Chemistry	nn:Military	nn:Chemistry	nl:Chemistry	nb:Military	nb:Chemistry	fr:Chemistry	es:Linear algebra	es:Basketball	enm:Horse tack
+stem	nl:Phonetics
+sunshine	en:Sun	en:Light	en:Happiness
+arctic
+folding	en:Programming	en:Geology	en:Computing
+axes	Middle English noun plural forms	Middle English non-lemma forms
+whole	en:Mining
+peanuts
+gills
+spotted	Entries using missing taxonomic name (species)	Entries missing English vernacular names of taxa
+fern	sga:Trees
+seawater
+photosynthesis	en:Biology
+price	en:Money
+slate	en:Rocks	en:Greys	en:Geology	en:Colors
+calculator	ro:Computing
+still
+magnification	Webster 1913
+worn
+speckled
+worm	pt:Computer security	nl:Worms	enm:Worms	enm:People	enm:Mythology	enm:Emotions	enm:Christianity	enm:Bible	enm:Animals	en:Worms
+seismometer	en:Measuring instruments	en:Geology
+work	en:Physics	en:Mining	en:Mechanics
+cluck	en:Animal sounds
+mate	sw:Liquids	pt:Shrubs	pt:Beverages	es:Chess	en:Nautical	en:Hollies	en:Chess	en:Aerospace	ceb:Chess	arn:Beverages
+tinted
+breakfast	en:Religion	en:Meals
+word	en:Theology	en:Telegraphy	en:Semantics	en:Group theory	en:Computing	en:Computer science	en:Communication	ang:Grammar
+steel
+hillside
+boiled
+hovering
+pictures
+throwing
+geologic	en:Geology
+fall	is:Programming	is:Grammar	is:Computing	fo:Grammar	en:Wrestling	en:Sports	en:Seasons	en:Death	en:Curling	en:Cricket
+writing	en:Writing
+ear	gd-noun 2	en:Organs	en:Architecture	ang:Landforms	ang:Grains
+eat	en:Business
+pewter
+finger	sv:Anatomy	nn:Anatomy	nb:Anatomy	fy:Body parts	en:Zoology	en:Nautical	en:Music	en:Fingers	en:Fashion	en:Cooking
+loud	en:Sound	en:Marijuana
+railroad	en:Role-playing games	en:Rail transportation
+pouch
+downstream	en:Computing	en:Biology
+nucleus	en:Physics	en:Phonology	en:Phonetics	en:Neuroanatomy	en:Cytology	en:Chemistry	Word of the day archive
+groundwater	en:Liquids	en:Geology
+juice	nn:Beverages	nb:Beverages	en:Liquids	en:Beverages
+gathering	en:Medicine	en:Collectives
+grassland
+lots
+liquid	en:Phonology	en:Phonetics	en:Liquids	en:Finance
+cutting
+stir
+span	en:Units of measure	en:Nautical	en:Mathematics	en:Construction	en:Architecture	West Frisian nouns	West Frisian lemmas
+bobcat	en:Felids
+termite	it:Insects	fr:Insects
+float	en:Units of measure	en:Transport	en:Programming	en:Poker	en:Liquids	en:Knitting	en:Insurance	en:Finance	en:Dances	en:Computing
+axis	en:Skeleton	en:Psychiatry	en:Mathematics	en:Geometry	en:Botany	en:Anatomy
+space
+bottom
+cleaner	en:People	en:Occupations
+ill
+capture	en:Computing	en:Chess
+mining	en:Mining	en:Military	en:Computing
+fossil	sv:Paleontology	en:Paleontology	en:Linguistics	da:Paleontology
+sequence	en:Mathematics	en:Card games
+combustion
+covered	en:Poker
+thrust
+squid	en:Squid	en:Motorcycles	en:Military	en:Fishing
+mud	vo:Face
+replacement
+pond	nl:Units of measure	nl:Currency	en:Landforms	af:Units of measure	af:Currency
+repair
+winter	sco:Seasons	nl:Seasons	gsw:Seasons	fy:Seasons	enm:Seasons	en:Winter	en:Seasons	dum:Seasons	ang:Seasons	af:Seasons
+powder	en:Cosmetics
+platform	tr:Travel	tr:Transport	hu:Politics	hu:Computing	en:Travel	en:Rail transportation	en:Politics	en:Nautical	en:Geology	en:Computing
+windy	en:Wind	en:Talking
+rust	nl:Sports	en:Fungi	en:Colors	en:Browns
+holding
+paper	enm:Writing	enm:Paper	enm:Accounting	en:Rock paper scissors
+blubber	en:Fats and oils
+retina	nl:Body parts	la:Horse tack	it:Anatomy	es:Anatomy	en:Eye	en:Anatomy
+walking
+steam	en:Water	en:Matter	en:Gases	en:Fencing	en:Cooking
+camouflage
+zoo	eo:Zoology	en:Military
+track	es:Sports	en:Sports	en:Music	en:Cricket	en:Computing	en:Automotive
+axle	en:Vehicles	en:Geometry	en:Astronomy
+pecan
+opaque
+ink
+spent
+humid
+cloudy	en:Computing	en:Clouds
+shellfish	en:Seafood	en:Mollusks	en:Crustaceans
+round	pt:Martial arts	it:Sports
+dessert	rm:Desserts	nn:Foods	nn:Desserts	nb:Foods	nb:Desserts	fy:Foods	fr:Desserts	et:Desserts	en:Desserts	da:Desserts
+tally	en:Radio	en:Nautical	en:Aviation	Regional English
+sweating	en:Cooking	en:Botany	en:Bodily fluids
+habitat	pt:Biology	en:Biology
+egg	is:Zoology	is:Weapons	is:Poultry	is:Food and drink	is:Eggs	fo:Foods	en:Zoology	en:Poultry	en:LGBT	en:Food and drink
+bicycle
+year	sco:Time	en:Time	en:Sciences	en:Islamic months	en:Hebrew calendar months	en:Gregorian calendar months
+leading	en:Typography
+kangaroo	gv:Marsupials	en:Marsupials
+jackrabbit	en:Hares
+branch	en:Trees	en:Rail transportation	en:Nautical	en:Mormonism	en:Geometry	en:Computing	en:Collectives
+building
+music	en:Music	en:Military
+thermal
+omnivore
+farm	en:Video games	en:Computing	en:Agriculture
+sulfur	ms:Chemical elements	en:Yellows	en:Colors	en:Chemical elements
+moving
+terrain	en:Geology	Vallader Romansch
+pool	nl:Sports	en:Sports	en:Rail transportation	en:Liquids	en:Law	en:Games	en:Computing
+raw	en:Japanese fiction
+community	en:Internet	en:Ecology	en:Collectives	Word of the day archive
+lighting	en:Light sources	Webster 1913
+shaking
+bronze	kl:Metals	kl:Colors	kl:Alloys	fr:Alloys
+stop	pt:Stock market	pt:Games	pl:Chemistry
+warming
+levers
+exhale
+forest	enm:Forests	en:Microsoft	en:Graph theory	en:Forests	en:Computing
+ringing
+scratches	en:Pathology
+measurement
+sleep
+observatory	en:Astronomy
+rolling	en:Drinking
+swimming	en:Swimming	en:Physical fitness
+submarine	en:Watercraft	en:Baseball
+botanist	ro:Scientists	ro:Botany	en:Scientists	en:People	en:Occupations	en:Botany
+particle
+sleet	en:Firearms	en:Atmospheric phenomena	New England English
+close	pt:Photography	en:Weather	en:Surveying	en:Phonetics	en:Music	en:Marketing	en:Linguistics	en:Law	en:Computing	en:Baseball
+descend	en:Music	en:Astronomy
+saint	nrf:Religion
+fast	nn:Colors	en:Sleep	en:Rail transportation	en:Computing	en:Archery
+tearing	en:Medicine	en:Computer graphics	en:Bodily fluids	Quotation templates to be cleaned
+grocery	en:Businesses
+pathway	en:Biochemistry
+shallow
+pulley
+sweet	en:Wine	en:Taste	en:Smell	en:Mineralogy
+communicate	en:Communication	en:Christianity
+evidence
+dustpan	en:Hygiene	en:Cleaning
+farmland	en:Agriculture
+spring	sco:Time	sco:Seasons	enm:Seasons	en:Vehicles	en:Seasons	en:Religion	en:Philosophy	en:Oceanography	en:Nautical	en:Musical instruments
+acid	ro:Chemistry
+duck
+fitness	pt:Artificial intelligence	en:Physical fitness	en:Evolutionary theory
+weeds
+female
+add	pt:Internet	en:Video games	en:Mathematics	en:Computer science
+labrador	en:Dogs
+wrote	Middle English verbs
+siberian
+shade
+wrapping
+seventeenth	en:Music
+article	fro:Religion	fro:Anatomy	fr:Grammar	en:Parts of speech	en:Grammar	ca:Parts of speech	ca:Grammar
+shelf	en:Furniture
+volume	pt:Publishing	pt:Geometry	gl:Publishing	gl:Geometry	fr:Sound	fr:Publishing	fr:Geometry
+fusion	fr:Physics	fr:Nuclear physics	fr:Chemistry	en:Physics	en:Music	en:Genetics	en:Fiction	en:Cytology
+parachute	en:Zoology	en:BDSM	en:Aviation
+shell	en:Weapons	en:Topology	en:Phonology	en:Nautical	en:Music	en:Geology	en:Firearms	en:Entomology	en:Engineering	en:Computing
+carnivore
+panther	en:Panthers
+puddle	en:Liquids	en:Canals
+scoop	en:Music	en:Automotive
+soapy
+ride	en:Surgery	en:Lacrosse	West Frisian verbs	West Frisian transitive verbs
+sleeping
+monarch	nl:Monarchy	nl:Heads of state	en:Occupations	en:Nymphalid butterflies	en:Monarchy	en:Heads of state
+miles	la:Occupations	la:Military	la:Chess
+laser	la:Plants	it:Physics	fr:Physics	en:Sports	en:Scandiceae tribe plants	en:Light sources
+engine	en:Computing	en:Automotive
+mixture	en:Music
+end	en:Mathematics	en:Football (American)	en:Curling	en:Cricket	Vilamovian terms with audio links
+satellite	frm:Military
+lizard	en:Rock paper scissors	en:Reptiles	en:Fear
+nitrogen	ro:Chemical elements	nn:Chemical elements	nb:Chemical elements	ms:Chemical elements	en:Chemical elements	ca:Chemical elements
+rice	en:Weaving	en:Grains	en:Computing
+ivy
+slippery
+noted
+horizon	nl-noun plural matches generated form	en:Geology	en:Archaeology
+environment	en:Systems theory	en:Programming	en:Computing
+airplane	en:Aviation	en:Aircraft
+sweat	fr:Clothing	en:Cooking	en:Bodily fluids
+reservoir
+family	en:Taxonomy	en:Music	en:Linguistics	en:LGBT	en:Family	en:Collectives	Translingual translations
+crab	ro:Crustaceans
+atmosphere
+popcorn	pl:Foods	fi:Snacks	en:Snacks	en:Maize (plant)	en:Knitting	en:Happiness
+release	en:Telephony	en:Software	en:Phonetics	en:Law	en:Football (soccer)	en:Biochemistry
+compost	en:Agriculture
+amphibian
+carbohydrate	en:Organic chemistry	en:Nutrition	en:Carbohydrates
+turns
+number	en:Parts of speech	en:Mathematics	en:Grammar	en:Arithmetic
+shorten	en:Nautical
+tungsten	ms:Chemical elements
+floodplain	en:Geography
+property	en:Theater	en:Computing
+debris
+narrow
+darkness
+shorter
+splitting	en:Psychology	en:Chemistry
+shape
+borax
+testing
+volumes
+whistle	en:Rail transportation
+handle	gsw:Milk	gsw:Cattle	en:Topology	en:Textiles	en:Onomastics	en:Landforms	en:Geography	en:Gambling	en:Computing	en:Algebraic geometry
+weathered	en:Architecture
+yeast	en:Fungi
+masses	en:Collectives
+gravel	nl:Tennis	en:Geology	Webster 1913
+spot	gd-noun 2	fr:Theater	fr:Television	fr:Surfing	fr:Physics	fr:Cinematography
+coyote	nl:Canids	it:Canids	es:Canids	en:People	en:Canids
+silver	sv:Chemical elements
+aid	en:People	en:Law
+roller	en:Television	en:Horse tack	en:Film	en:Disc golf	en:Cycling	en:Cricket	en:Coraciiforms
+city
+air	nrf:Atmosphere	ms:Water	kw:Atmosphere	id:Water	ga:Agriculture	fr:Atmosphere	en:Snowboarding	en:Skateboarding	en:Physics	en:Philosophy
+cell	sv:Computing	sv:Biology	en:Telephony	en:Statistics	en:Rooms	en:Meteorology	en:Geometry	en:Entomology	en:Computing	en:Communication
+local	en:Rail transportation	en:Programming	en:People	en:Medicine	en:Mathematics	en:Mass media	en:Computing
+filings
+crosswalk	en:Roads	en:Databases
+vacuum
+bubble	en:Poker	en:Economics	en:Computing
+vacation	fr:Law
+antarctic
+shark
+polar	gl:Chemistry	en:Mathematics	en:Linguistics	en:Geometry	en:Geography	en:Chemistry
+vapor
+television	sv:Television	en:Television
+boat
+sharp	en:Phonetics	en:Music	en:Medicine	en:Mathematics	en:Chess
+vibrating
+species	la:Vision	la:Law
+anchor
+amoeba
+atom	tr:Physics	sv:Physics	sh:Physics	pl:Physics	nn:Physics	nn:Chemistry	nb:Physics	nb:Chemistry	ms:Physics	hu:Chemistry
+movement	en:Music	en:Engineering	en:Baseball	en:Aviation	Old French words suffixed with -ment
+shed
+shake	en:Scolopacids	en:Nautical	en:Music	Webster 1913
+scaled	en:Zoology
+glove
+screen
+body	sco:People	nl:Clothing	it:Clothing	fi:Clothing	fi-decl with nocheck
+vibration
+insect
+moist	en:Sciences	en:Medicine	en:Liquids
+cable	enm:Nautical	en:Nautical	en:Finance	en:Communication	en:Architecture
+shale	en:Rocks	en:Geology
+read	fy:Colors	en:Telecommunications	en:LGBT	en:Computing	en:Communication	ang:Colors
+below	en:Nautical
+touch
+brass	is:Music	en:Music	en:Military	en:Colors	en:Browns	en:Alloys
+clock	en:Timekeeping	en:Electronics	en:Computing	en:Clocks	en:Cichorieae tribe plants	en:Beetles	Webster 1913
+tool
+sediment	nn:Geology	nb:Geology	en:Geology
+tony
+driving
+unit	en:Sciences	en:Military	en:Mathematics	en:Geology	en:Electricity	en:Collectives	en:Category theory	en:Algebra	Word of the day archive
+larval
+scales	en:Measuring instruments
+monthly	en:Time
+spices	Middle English noun plural forms	Middle English non-lemma forms
+collect
+detector
+gear	en:Finance	en:Engineering	en:Cycling	en:Automotive	West Frisian lemmas	West Frisian adverbs
+boundary	en:Topology	en:Directives	en:Cricket
+magenta	pt:Colors	pl:Colors	pl-adj without corresponding adverb	pl-adj or pl-adv without comparative form	nl:Colors	it:Colors	fr:Colors	fi:Colors
+skateboard
+rod	sh:Botany	pl:Chemical elements	osx:Colors	nds-de:Colors	hrx:Colors	en:Units of measure	en:Ufology	en:Rail transportation	en:Measuring instruments	en:Mathematics
+reaching	en:Nautical
+trick	en:Nautical	en:Heraldry	en:Card games
+running	en:Medicine	en:Botany
+gill
+rot	sv:Mathematics	sv:Computing	pdc:Colors	odt:Colors	nl:Military	nds-de:Colors	gsw:Colors	goh:Colors	enm:Nature	enm:Diseases
+construction	en:Grammar	en:Geometry	en:Construction	en:Art
+snowy	pl-adj without corresponding adverb	enm:Winter
+chemist	en:Scientists	en:People	en:Healthcare occupations	en:Chemistry
+ant	wym:Birds	en:Ornithology	en:Internet	en:Insects	en:Ants	ca:Cervids	Vilamovian terms with audio links	Vilamovian nouns	Vilamovian lemmas	Vilamovian feminine nouns
+seaweed	en:Seafood	en:Plants	en:Algae
+quartz	fr:Gems
+transport
+pencil
+minute	en:Units of measure	en:Time	en:Architecture
+freezing	en:Temperature	en:Physics	en:Medicine	en:Chemistry
+application	fr:Mathematics	en:Law	en:Directives	en:Computing
+estuary
+hummingbird	en:Hummingbirds
+martin	fr:Birds
+ninth	en:Nine
+chore
+rainforest	en:Forests
+needle	en:Sewing	en:Programming	en:Knitting	en:Conifers	Word of the day archive
+territory
+expanding
+droplet	en:Liquids
+octopus	nl:Octopuses	la:Octopuses	en:Octopuses	en:Eight
+ring	sv:Mathematics	sv:Astronomy	hu:Boxing	fy:Jewelry	fr:Sports	es:Boxing	en:Typography	en:Theory of computing	en:Mathematics	en:Jewelry
+taste	en:Taste
+ship	en:Sports	en:Rugby	en:Poker	en:Nautical	en:Fiction	en:Fan fiction	en:Cartomancy
+echo	en:Sound	en:Poetry	en:Medicine	en:Computing	en:Bridge
+acts
+tagged
+cake	enm:Medicine	enm:Foods	enm:Christianity	en:Desserts	Webster 1913
+protein	tr:Biochemistry	sv:Biochemistry	en:Nutrition	en:Biochemistry
+jar	sk:Seasons	pl:Seasons	pl:Landforms	pl:Geography
+cropland
+sweater	en:Clothing
+chemicals
+boil
+shopping
+lightning	en:Atmospheric phenomena	Webster 1913
+broke	en:Nautical
+jay
+nail	en:Tools	en:Sex	en:Construction	en:Anatomy
+investigating
+dune
+runoff	en:Politics	en:Liquids
+mount
+eye	enm:Emotions	en:Typography	en:Go	en:Architecture	en:Anatomy	Visual dictionary
+slow	fr:Dances
+turkey	en:Poultry	en:People	en:Fowls	en:Food and drink	en:Bowling
+pasteurization
+telescope
+rotten
+continent	en:Landforms	ca:Continents
+housing	fr:Computing	en:Nautical	en:Housing	en:Architecture
+northwest	en:Compass points
+woodpecker	en:Woodpeckers
+odor	la:Smell	en:Smell
+otter	nl:Mustelids	en:People	en:Mustelids	dum:Mustelids	da:Card games
+automobile	it:Automobiles	fr:Vehicles	en:Vehicles	en:Automobiles
+gray	sv:SI units	pt:Ufology	pt:Physics	fr:SI units	fi:SI units	en:Ufology	en:Two-up	en:SI units	en:Greys	en:Demography
+itchy
+waterfall
+beverage	enm:Emotions	enm:Communication	enm:Alcoholic beverages	en:Liquids	en:Food and drink
+advertisement
+ingredients
+backbone	en:Skeleton
+arm	sv:Anatomy	odt:Body parts	nn:Anatomy	nl:Body parts	nb:Anatomy	gv:Weapons	goh:Anatomy	gd:Weapons	gd:Military	gd-noun 2
+broken	en:Sports	en:Software	en:Meteorology	en:Gaming
+curly	en:Typography
+poison	en:Toxicology	en:Poisons
+gram	tt:Units of measure	sh:Units of measure	ro:Metrology	pl:Units of measure	nn:SI units	nl:Units of measure	nb:SI units	ga:SI units	en:Units of measure	en:SI units
+nest	nl:Children	en:Military	en:Geology	en:Computing	en:Card games	en:Animal dwellings
+crater	en:Snowboarding	en:Landforms	en:Geology	en:Astronomy
+kick	en:Violence	en:Printing	en:Internet	en:Football (soccer)	en:Cycling	en:Chess	en:Buttons
+metric	en:Physics	en:Music	en:Mathematics
+splashing
+rub
+foam	en:Materials
+sterling	en:Currency	en:Currencies
+drool	en:Talking	en:Bodily fluids
+run	nrf:Nautical	en:Video games	en:Skiing	en:Nautical	en:Music	en:Mining	en:Mathematics	en:Juggling	en:Golf	en:Gaits
+graphite
+cocoon
+repeated
+research
+fossilized
+mother	en:Parents	en:Female	Word of the day archive
+mouse	zh:Computing	ro:Computing	pt:Computer hardware	it:Computing	it:Computer hardware	es:Computing	en:Set theory	en:Rodents	en:Nautical	en:Computing
+view	pt:Databases	en:Programming	en:Internet	en:Databases	en:Computing	en:Communication
+ate	rap:Anatomy	pam:Anatomy	mi:Anatomy	lmy:Anatomy	klw:Anatomy	fj:Anatomy	Wauja terms with usage examples
+white	en:Whites	en:Typography	en:Sports	en:Snooker	en:Recreational drugs	en:Politics	en:Pierid butterflies	en:Entomology	en:Colors	en:Chess
+furniture
+jet
+huge
+dust	gd-noun 2	en:Mathematics	en:Hygiene	Zazaki nouns	Zazaki lemmas	Zazaki common gender nouns	Scottish Gaelic nouns	Scottish Gaelic lemmas
+gourd	en:Gourd family plants
+chameleon
+wounds
+town	en:Law
+mold	fo:Agriculture	en:Fungi	en:Architecture	en:Anatomy
+telephone	en:Telephony
+bluebird	en:Thrushes
+horned	enm:Headwear	enm:Hair	enm:Celestial bodies	enm:Animal body parts
+girl
+name	zza:Grammar	en:Onomastics	en:Finance	en:Dioscoreales order plants	en:Computing	cim:Onomastics	aer:Grasses	Zazaki terms with incomplete gender
+clothing	enm:Fabrics	enm:Clothing	enm:Appearance	en:Clothing
+thunderstorm	en:Atmospheric phenomena
+leaving
+crop
+migrate
+string	sv:Underwear	pt:Computing	nl:Computing	nl:Clothing	fr:Underwear	en:Physics	en:Music	en:Mining	en:Computing	en:Botany
+distance
+book	en:Theater	en:Textual division	en:Sports	en:Poker	en:Law enforcement	en:Law	en:Heraldic charges	en:Gambling	en:Cartomancy
+classes
+show	en:Mining	en:Medicine	en:Communication	en:Baseball
+perfume	pt:Cosmetics	es:Smell	es:Cosmetics	en:Smell	en:Cosmetics
+button
+mammal
+condensation	en:Physics	en:Liquids	en:Chemistry
+mantle
+backyard
+green	sv:Golf	nn:Golf	nl:Golf	nds-de:Colors	nb:Golf	frr:Colors	enm:Directives	en:Wine	en:Snooker	en:Politics
+resting
+substance
+barometer	sv:Meteorology	sv:Measuring instruments	nn:Meteorology	nn:Measuring instruments	nl:Meteorology	nl:Measuring instruments	nb:Meteorology	nb:Measuring instruments	en:Meteorology	en:Measuring instruments
+newborn	en:People	en:Babies	en:Age
+grew
+grey	es:Religion	enm:Colors	en:Ufology	en:Greys	en:Demography	en:Colors
+wax
+mouth	enm:Face	enm:Body parts	enm:Anatomy	en:Anatomy	Visual dictionary
+brightness
+absorbing	en:Statistics
+window	en:Military	en:Medicine	en:Graphical user interface	en:Construction	en:Architecture
+flame
+rise	nb:Norse mythology	en:Printing	Tarantino nouns	Tarantino lemmas	Sussex English
+aquatic	en:Liquids
+cape	nn:Clothing	nb:Clothing	en:Nautical	en:Landforms	en:Geography	en:Clothing
+play
+container	sv:Containers	fr:Containers	en:Transport	en:Object-oriented programming	en:Graphical user interface	en:Containers	en:Computing
+discard	en:Programming	en:Card games
+yard	wikipedia with redundant first parameter	it:Units of measure	fr:Units of measure	en:Units of measure	en:Nautical	en:Medicine	en:Finance	cs:Units of measure
+modeling	en:Systems theory	en:Mathematics
+bounce	en:Internet	en:Electronics	en:E-mail	en:Aviation
+axe	en:Weapons	en:Tools	en:Music	en:Finance
+fan	enm:Grains	enm:Armor	en:Mathematics	en:Fans	cy:Vehicles	bm:Zoology	bm:Eggs
+piano	vep:Musical instruments	sv:Musical instruments	sq:Musical instruments	sk:Musical instruments	pt:Musical instruments	pt:Music	nrf:Musical instruments	nn:Musical instruments	nl:Musical instruments	nb:Musical instruments
+slice
+wildfire	en:Fire
+larva	pt:Entomology	it:Insects	gl:Entomology	es:Entomology	en:Entomology	en:Baby animals	ca:Entomology
+catch	fr:Sports	en:Surfing	en:Rowing	en:Phonetics	en:Music	en:Directives	en:Cricket	en:Computing	en:Baseball	en:Agriculture
+plan	sv:Mathematics	fr:Film	en:Directives
+case	fro:Grammar
+item	it:Linguistics	it:Law	it:Computer science
+gene	pt:Genetics	it:Genetics	es:Genetics	en:Molecular biology	en:Genetics
+violet	wikipedia with redundant first parameter	ro:Colors	rm:Colors	nl:Colors	fr:Colors
+hollow	en:Landforms	en:Gymnastics
+trunk	en:Trees	en:Transport	en:Telecommunications	en:Software engineering	en:Mining	en:Elephants	en:Automotive	en:Auto parts	en:Architecture	en:Animal body parts
+stainless
+hardness	en:Physics	en:Inorganic chemistry
+moon	gv:Bodily fluids	en:Light sources	en:Cartomancy	en:Buttocks	bar:People	bar:Male	bar:Family	Timau Bavarian
+sticks
+slide	pt:Music	en:Sciences	en:Photography	en:Phonetics	en:Music	en:Geology	en:Footwear	en:Dance	en:Computing	en:Baseball
+sticky	en:Manufacturing	en:Internet	en:Computing
+flesh	enm:Theology	enm:Sex	enm:Meats	enm:Christianity	enm:Anatomy	en:Religion	en:Oranges	en:Hides	en:Colors
+southeastern
+card	mul:Mathematics	en:Weaving	en:Textiles	en:Television	en:Spinning	en:People	en:Golf	en:Cricket	en:Computing	en:Card games
+chocolate	pt:Sweets	pt:Foods	pt:Browns	ia:Sweets	ia:Foods	gl:Sweets	gl:Foods
+damage
+study	en:Rooms	en:Music
+pattern
+wetness
+exercise
+algae
+burned
+vehicle
+scrape
+cushion	en:Sports	en:Snooker	en:Billiards	en:Bedding
+web	it:Computing	hu:Computing	es:Computing	en:Television	en:Rail transportation	en:Radio	en:Manufacturing	en:Baseball	West Frisian nouns	West Frisian lemmas
+plateau	fr:Geography	en:Sports	en:Landforms	en:Geography	en:Broadcasting
+older	nn:Trees	nb:Trees
+cooking
+daisy	en:Flowers	en:Composites	en:Astereae tribe plants
+burner	en:Telephony	en:Computing	en:Chemistry
+tornado	pt:Meteorology	nn:Meteorology	nl:Atmospheric phenomena	nb:Meteorology	es:Weather	eo:Meteorology	en:Meteorology
+sifter
+wet	nl:Physics
+born
+display	en:Travel	en:Printing	en:Military	en:Computing	en:Communication	en:Aviation
+strawberry	en:Rose family plants	en:Reds	en:Berries
+electricity	en:Physics	en:Energy	en:Electromagnetism
+climate
+aloe	sm:Plants	ro:Plants	la:Plants	en:Succulents	en:Asparagales order plants
+conductor	la:Physics	en:Technology	en:People	en:Musicians	en:Music	en:Mathematics	en:Architecture	ca:Physics	Uruguayan Spanish
+crust	en:Musical genres	en:Geology
+shirt	en:Clothing
+width	en:Sports	en:Cricket
+eruption
+sides
+hatchling	en:Baby animals
+intestines
+dairy
+board	en:Writing	en:Video games	en:Surfing	en:Nautical	en:Internet	en:Ice hockey	en:Collectives	en:Chess	en:Basketball
+offspring	en:Family	en:Computing
+monkey
+membrane
+fed
+shrubs
+earlobe
+cloud	fr:Computing	es:Computing	en:Computing	en:Atmospheric phenomena
+nighttime	en:Times of day	en:Time
+whale	enm:Meats	enm:Mammals	en:Whales	en:Video games	en:Gambling	en:Finance
+freshwater	en:Nautical	en:Economics	Quotation templates to be cleaned
+wrapped
+vine	en:Plants	en:Grapevines
+rain	en:Atmospheric phenomena
+hunt	odt:Animals	et:Mammals	en:Engineering	cim:Dogs	Timau Bavarian
+visible	gl:Vision
+package
+king	et:Footwear	enm:Nobility	enm:Monarchy	en:People	en:Monarchy	en:Male animals	en:Heads of state	en:Chess	en:Card games	Translingual translations
+moth
+germ
+snowshoe	en:Footwear
+softball	pt:Sports	fi:Sports
+transfer	en:Medicine	en:Law	en:Genetics	en:Bridge
+opener	en:Theater	en:Sports	en:People	en:Fishing	en:Cricket	en:Card games
+cereal	pt:Plants	pt:Grains	pt:Breakfast cereals	es:Foods	en:Foods
+outside	en:Baseball
+daily	en:Video games	en:Periodicals	en:Day	en:Automotive
+nerve	nn:Body parts	nb:Body parts	en:Botany	en:Body parts
+eagle	fr:Golf	en:Heraldic charges	en:Golf	en:Eagles	en:Currency	en:Birds of prey
+producer	nl:Occupations	en:People	en:Occupations	en:Economics	en:Biology
+job	pt:Computing
+eaten
+skate	nn:Fish	nl:Footwear	nb:Fish	en:Skiing	en:Rays and skates	en:Footwear
+inhale
+sugar	en:Sugars	en:Programming	en:Entomology	en:Chemistry
+centimeter	sv:Units of measure	nn:Units of measure	nb:Units of measure	en:SI units
+cloth
+sonar	pt:Nautical
+rotting
+bowl
+microscope
+rocky
+parallel
+sheet
+inventor	en:People
+diet	en:Nutrition	en:Law	en:Government
+rinse
+soccer	en:Football (soccer)
+rest	sv:Mathematics	ro:Money	en:Snooker	en:Sleep	en:Poetry	en:Physics	en:Music	en:Law	en:Finance	Westrobothnian verbs
+move
+butter	en:Fats and oils	en:Condiments	en:Chemistry	West Flemish terms with incomplete gender	West Flemish nouns	West Flemish lemmas	Undetermined terms needing undetermined script	Undetermined language links
+chromium	la:Chemical elements
+assignment
+electric	en:Fencing
+sat	sh:Time	hif:Objects	chk:Landforms
+saw
+nectar	nl:Roman mythology	nl:Greek mythology	nl:Botany	en:Mythology	en:Liquids	en:Botany
+sandwich	nn:Foods	nl:Sandwiches	nb:Foods	en:Sandwiches
+kingdom	enm:Monarchy	enm:Christianity	enm:Astrology	en:Taxonomy	en:Monarchy
+shine	en:Cricket
+spread	en:Trading	en:Geometry	en:Finance	en:Economics	en:Cartomancy	en:Business	en:Bedding
+afternoon	en:Times of day
+tasting
+shiny
+front	sh:Military	nrf:Military	hu:Military	hu:Architecture	fur:Anatomy	fro:Military	fr:Military	fr:Face	en:Weather	en:Phonetics
+user	roa-gal:Cooking
+plane
+parent	nrf:Family	fr:Family	en:People	en:Parents	en:Family	en:Computing	en:Biology	ca:Family
+translucent
+greeting
+bag	ulk:Anatomy	tcs:Anatomy	en:Units of measure	en:Nautical	en:Medicine	en:Mathematics	en:Containers	en:Baseball	da:Anatomy
+mussel	en:Seafood	en:Bivalves	Entries using missing taxonomic name (subclass)	Entries using missing taxonomic name (family)	Entries missing English vernacular names of taxa
+magma	tr:Volcanology	tr:Planetology	tr:Geology	sh:Geology	pt:Volcanology	pt:Geology	pl:Geology	nn:Geology	nb:Geology	hu:Geology
+northeastern
+guinea	fi:Coins	es:Coins	en:Coins
+awake
+robot	pl:Science fiction	pl:Robotics	it:Computing
+bar	sq:Plants	sq:Nature	rom:Nature	pt:Units of measure	pt:Restaurants	pl:Units of measure	pl:Chemical elements	pl:Alkali metals	nl:Units of measure	is:Units of measure
+dipper	en:Perching birds	en:People	en:Christianity
+bat	sh:Tools	sh:Sound	pl:Watercraft	pl:Currencies	fro:Nautical
+humidity
+fluid	en:Medicine	en:Liquids
+bay
+outlet
+rang	ga:Education	ga:Biology	fr:Military	fr:Knitting	fr:Geography
+digs
+grow
+ramp	nl:Skating
+peach
+fold	en:Web design	en:Religion	en:Programming	en:Poker	en:Newspapers	en:Geology	en:Cooking	en:Computing	en:Business
+blowing	Middle English nouns	Middle English lemmas
+plastic	en:People	en:Medicine	en:Materials	en:Biology
+canyon	en:Landforms
+boiling	en:Temperature	en:Liquids
+chemical	en:Sciences	en:Chemistry
+puppy
+turning	en:Field hockey
+plant	nl:Lifeforms	fy:Lifeforms
+formed
+hurt
+sponge	en:Sponges	en:People	en:Metallurgy	en:Hygiene	en:Birth control	en:Baking
+strong	en:Military	en:Mathematics	en:Logic	en:Grammar	en:Chemistry	Tok Pisin usage examples with the translation missing	Tok Pisin terms with quotations
+facing	en:Sewing	en:Rail transportation	en:Military
+buildup
+tomato	tpi:Fruits	ny:Fruits	io:Foods	eo:Vegetables	eo:Fruits	en:Vegetables	en:Nightshades	en:Fruits	en:Cooking	en:Botany
+eyes
+sea	en:Seas	en:Planetology	en:Landforms
+sailor	en:Nymphalid butterflies	en:Nautical occupations
+see	frr:Geography	fi:Latin letter names	enm:Seas	enm:Religion	enm:Landforms	enm:Christianity	enm:Chairs	en:Gambling	dum:Landforms	af:Seas
+search
+coiled
+wheat	en:Hordeeae tribe grasses	en:Grains	en:Colors	en:Browns
+cardboard	Quotation templates to be cleaned
+panel	enm:Law	enm:Horse tack	enm:Falconry	enm:Fabrics	enm:Animal body parts	en:Mining	en:Law	en:Collectives	en:Architecture
+foot	en:Units of measure	en:Sewing	en:Prosody	en:Printing	en:Phonology	en:Nautical	en:Music	en:Molecular biology	en:Military	en:Malacology
+tooth
+set	pl:Sports	id:Sports	fr:Tennis
+medicine	en:Sciences
+breathe
+sample	es:Music	en:Statistics	en:Signal processing	en:Music	en:Cooking	en:Computer graphics	en:Business
+food	en:Food and drink
+sunflower	en:Yellows	en:Organic chemistry	en:Flowers	en:Composites
+tropical	en:Temperature	en:Mathematics
+fly	en:Zoology	en:Weightlifting	en:Weaving	en:Swimming	en:Printing	en:Nautical	en:Fishing	en:Dipterans	en:Dances	en:Baseball
+glowing	en:Appearance
+ultraviolet	en:Light
+river	en:Water	en:Typography	en:Poker	en:Landforms
+windshield	en:Wind	en:Auto parts
+jug	sl:Compass points	sh:Compass points	en:Vessels	en:Dogs	en:Designer dogs
+spider	it:Computing
+kite
+sewage	en:Water
+stopwatch	en:Clocks
+rooms
+bee	vro:Latin letter names	tet:Water	mnk:Anatomy	la:Animal sounds	hu:Animal sounds	fi:Latin letter names
+furnace	en:Temperature
+circulatory
+blacktop
+riverbank	en:Hydrology
+thunder	en:Atmospheric phenomena
+nearest
+doorknob
+baking	en:Temperature	en:Cooking
+shipping
+contact
+chipmunk
+discharge	en:Textiles	en:Military	en:Medicine	en:Medical signs and symptoms	en:Hydrology	en:Energy	en:Electricity
+warning
+heating
+geologist	en:Scientists	en:People
+image	fr:Television	fr:Film	en:Visualization	en:Radio	en:Mathematics	en:Computing
+decaying
+coastline
+topography	Word of the day archive
+garbage
+mainland	en:Geography
+marble	en:Toys	en:Rocks	en:Games	en:Art
+piece
+antennae
+carry	en:Sports	en:Pregnancy	en:Nautical	en:Hunting	en:Golf	en:Finance	en:Computing	en:Arithmetic
+refrigerator	en:Home appliances
+little	en:Size	en:BDSM
+fog	hu:Teeth	hu:Anatomy
+deer	en:Cervids
+deep	en:Tennis	en:Sports	en:Sound	en:Softball	en:Football (soccer)	en:Football (American)	en:Cricket	en:Baseball
+snapping
+goose	en:People	en:Geese
+watching
+fox	enm:Canids	en:People	en:Nautical	en:Mechanics	en:Hides	en:Foxes	en:Cartomancy	en:Canids	en:Appearance
+layered
+plow	en:Sex
+hover	en:Computing	Webster 1913
+lemon	en:Yellows	en:Fruits	en:Fan fiction	en:Colors	en:Citrus subfamily plants	cy:Fruits
+jersey	fr:Clothing	es:Clothing	en:Clothing
+oak	en:Woods	en:Wine	en:Oaks	en:Colors	en:Browns
+plankton	nn:Marine biology	nb:Marine biology	fi:Marine biology	en:Marine biology
+class	en:Taxonomy	en:Sociology	en:Set theory	en:Semantics	en:Object-oriented programming	en:Military	en:Education	en:Collectives
+sir	zza:Spices and herbs	sl:Cheeses	sh:Cheeses	en:Titles
+sit
+living
+oven	sl:Sheep	sl:Male animals	en:Home appliances
+breathing
+pesticide	en:Death
+go	pt:Board games	nl:Board games	it:Board games	id:Board games	hu:Board games	fr:Female	fr:Board games	fi:Board games	eo:Latin letter names	en:Sports
+chlorophyll	en:Biochemistry
+ecologist	en:Scientists	en:People
+syrup
+counter	en:Wrestling	en:Typography	en:Programming	en:People	en:Nautical	en:Music	en:Internet	en:Grammar	en:Curling	en:Boxing
+dinner
+fragrance	en:Smell
+rash
+dime
+fork	nl:Computer science	en:Tools	en:Software	en:Geography	en:Cycling	en:Cutlery	en:Computer science	en:Chess
+form	en:Taxonomy	en:Sports	en:Programming	en:Printing	en:Linguistics	en:Hares	en:Grammar	en:Geometry	en:Education	en:Crystallography
+walrus	nl:Carnivores
+farmer	hu:Occupations	hu:Clothing
+cylinder	sv:Mechanics	sv:Geometry	en:Geometry	en:Computing	en:Automotive
+starch	en:Nutrition	en:Carbohydrates
+tunnel	sv:Transport	nn:Transport	nl:Transport	nb:Transport	it:Transport	fr:Transport	en:Transport	en:Physics	en:Networking	en:Mining
+rubbing
+feather	en:Snooker	en:Rowing	en:Engineering	en:Computer graphics	en:Carpentry	en:Aeronautics
+big	nl:Baby animals
+decade	it:Time	en:Time	en:Ten	en:Roman Catholicism	en:Physics	en:Engineering	en:Electronics	Word of the day archive
+trashcan
+mechanical	en:Science fiction	en:Music	en:Engineering	en:Advertising
+ladybug	en:Beetles
+eyeglass	en:Eyewear
+astronaut	ro:Space	ro:Occupations	nl:Occupations	en:Space	en:People	en:Occupations
+corner	it:Football (soccer)	it:Economics	fr:Football (soccer)	enm:Military	enm:Geometry	en:Football (soccer)	en:Football (American)	en:Finance	en:Business	en:Boxing
+model	nl:Occupations	en:Software engineering	en:Programming	en:People	en:Occupations	en:Medicine	en:Manufacturing	en:Logic
+drag	sv:Chess	en:Snooker	en:Nautical	en:Metallurgy	en:Gaits	en:Football (soccer)	en:Crossdressing	en:Computing	en:Aviation
+zinc	ro:Metals	ro:Chemical elements	fr:Metallurgy	fr:Chemistry	fr:Chemical elements	en:Chemical elements	ca:Chemical elements	Verlan
+sky	sv:Cooking	en:Sports
+sentence	en:Theory of computing	en:Logic	en:Grammar	en:Directives
+large	nrf:Nautical
+surface
+metal	sh:Chemistry	pt:Musical genres	pt:Heraldry	pt:Chemistry	pl:Heraldry	osp:Metals	it:Music	es:Music	es:Metals	es:Heraldry
+filament	en:Textiles	en:Physics	en:Botany	en:Astronomy
+drink	sv:Alcoholic beverages
+lung	en:Anatomy
+germination
+operate	en:Medicine
+malleable
+john	en:WC	en:Prostitution	en:Male animals	Ripuarian Central Franconian
+flipping
+bacterium	la:Microbiology
+works
+turned
+alive	Webster 1913
+crystal
+plate	lv:Music	lv:Computing	fr:Watercraft	en:Weightlifting	en:Publishing	en:Printing	en:Photography	en:Music	en:Herpetology	en:Heraldic charges
+flowering	en:Horticulture
+cycle	fr:Schools	en:Topology	en:Music	en:Ice hockey	en:Graph theory	en:Electronics	en:Botany	en:Baseball
+ethanol	nl:Organic compounds
+world	enm:Time	enm:Space	enm:Government	enm:Earth	enm:Collectives	en:Video games	en:Fiction	en:Computing	en:Collectives	en:Cartomancy
+windowsill	en:Architecture
+dissolve	en:Liquids	en:Law	en:Cinematography	en:Chemistry
+digest
+december	sv:Months	sl:Gregorian calendar months	sk:Months	rm:Months	nl:Months	li:Months	la:Months	hu:Months	da:Months	Vallader Romansch
+angle	ht:Languages	fr:Geometry	eo:Languages	eo:England	en:Media	en:Geometry	en:Entomology	en:Astrology	ca:Geometry
+camera	nl:Photography	nl:Film	en:Video games	en:Computer graphics
+table	ro:Board games	fr:Music	fr:Furniture
+side	gv:Archery	fi:Anatomy	en:Sports	en:Snooker	en:Music	en:Cooking	en:Collectives	en:Billiards	en:Baseball	en:Acoustics
+bread
+thorn
+break	fr:Tennis	fr:Automotive	es:Tennis	en:Weather	en:Ultimate	en:Tennis	en:Surfing	en:Sports	en:Snooker	en:Programming
+draw	en:Tea	en:Sports	en:Poker	en:Medicine	en:Landforms	en:Hunting	en:Golf	en:Geography	en:Curling	en:Cricket
+wooded
+revolving
+clearing	fi:Finance	fi:Banking	es:Finance	en:Telecommunications	en:Football (soccer)	en:Finance	en:Education	en:Banking
+forecaster	en:People
+knee	en:Anatomy
+hide	sq:Botany
+smoothness
+reflector
+wooden
+candle	en:Light sources	en:Forestry	en:Embryology	en:Ceramics
+scavenging
+report
+fur	la:People
+pants
+sign
+several
+toothbrush	en:Toiletries	en:Dental hygiene
+northern	en:Wind	en:Pikes (fish)	en:Fishing
+second	en:Two	en:Time	en:Scouting	en:SI units	en:Music	en:Climbing	en:Baseball
+panting
+high	en:Recreational drugs	en:Poker	en:Phonetics	en:Nautical	en:Card games	en:Baseball	en:Acoustics
+platinum	ms:Chemical elements	li:Chemical elements	la:Chemical elements	en:Video games	en:Music	en:Metals	en:Greys	en:Colors	en:Chemical elements	af:Chemical elements
+edge	en:Graph theory	en:Geometry	en:Cricket
+split	en:Video games	en:Sports	en:Music	en:Gymnastics	en:Gambling	en:Dance	en:Construction	en:Cheerleading	en:Bowling	en:Baseball
+electromagnet
+toxic	en:Toxicology	en:Medicine
+meter	tt:Units of measure	sv:Units of measure	sv:Music	nl:Measuring instruments	en:SI units	en:Prosody	en:Music
+windmill
+dirt
+thrown
+greenhouse	nrf:Horticulture	nrf:Agriculture	en:Military	en:Horticulture
+lever	sv:Anatomy	nn:Meats	nn:Anatomy	nl:Organs	nb:Meats	nb:Anatomy	en:Simple machines	en:Mechanics	en:Finance
+colder	comparative of/without nocat	Middle English non-lemma forms	Middle English comparative adjectives
+coat	en:Nautical	en:Hair	en:Clothing
+expand
+dish	en:Telecommunications	en:Mining	Webster 1913
+attached	en:Mycology	en:Botany
+coal	en:Rocks	en:Natural resources	en:Mining
+retrieve
+survey
+plug	sl:Tools	en:Horticulture	en:Headwear	en:Geology	en:Fishing	en:Electricity	en:Construction
+thermometer	nl:Temperature	nl:Measuring instruments	en:Temperature	en:Measuring instruments
+morocco	en:Hides	en:Goats
+heat	sv:Sports
+hammer	nb:Tools	fy:Tools	en:Ultimate	en:Tools	en:Sports	en:Music	en:Firearms	en:Cycling	en:Curling	en:Computing
+fanning
+student	tt:People	tt:Education	ro:People	pl:Male people	pl:Education	nl:Education	en:People	en:Education	dsb:Education	cs:Education
+candy
+recipe	en:Medicine	en:Food and drink	en:Directives
+seal
+box	ro:Sports	pt:Bathing	la:Fish	it:Motor racing	is:Sports	is:Boxing
+mixed
+storage	en:Computing
+boy	srn:People	srn:Male	srn:Children	gmq-bot:Anatomy
+switch	pt:Programming	pt:Networking	pt:Computing	fr:Snowboarding	fr:Skiing	fi:BDSM
+head	en:Nautical	en:Music	en:Medicine	en:Linguistics	en:Lacrosse	en:Jazz	en:Geology	en:Fluid dynamics	en:Fishing	en:Engineering
+oil	fro:Anatomy	en:Liquids	en:Fats and oils
+mimicry
+heal	en:Role-playing games
+playground
+brick	fr:Nautical	en:Ultimate	en:Technology	en:Poker	en:Firearms	en:Computing	en:Building materials	en:Basketball
+hear	en:Hearing	West Frisian nouns	West Frisian lemmas
+consumer	en:People	en:Economics	en:Ecology
+icehouse
+wheel	en:Torture	en:Simple machines	en:Pyrotechnics	en:Poker	en:Nautical	en:Heraldic charges	en:Computing	en:Automotive
+cross	fr:Sports	enm:Heraldry	enm:Christianity	enm:Bible	en:Symbols	en:Surveying	en:Sports	en:Rugby	en:Rubik's Cube	en:Law
+recycling
+friction
+drew
+pinhole
+shaded
+radiation	en:Energy
+painting	en:Art
+earth
+maple	en:Maples
+pulse
+communicating
+sitting
+salad	en:Foods	ceb:Foods
+rocket
+delta	sv:Greek letter names	sv:Geography	sh:Greek letter names	pt:Greek letter names	pt:Geography	pl:Mathematics	pl:Greek letter names	pl:Geography	nn:Landforms	nn:Greek letter names
+county	en:Political subdivisions	en:Administrative divisions
+fighting
+homeowner	en:People
+freeze	en:Temperature	en:Finance	en:Curling	en:Computing
+speaking	en:Talking
+province	fr:Political subdivisions
+friend
+scent	en:Smell
+ripping	en:Woodworking
+injury
+blending
+exhibit
+mushroom	en:People	en:Mushrooms	en:Architecture	Visual dictionary
+doghouse	en:Nautical	en:Housing	en:Dogs
+suspension	en:Vehicles	en:Topology	en:Music	en:Law	en:Education	Word of the day archive	Scottish English
+breaking	en:Music	en:Linguistics	Quotation templates to be cleaned
+redwood	en:Woods	en:Pines	en:Cypress family plants
+dent	rm:Anatomy	nrf:Anatomy	fro:Anatomy	frm:Anatomy	fr:Dentistry	fr:Anatomy
+hurricane	en:Wind	en:Sports	en:Meteorology
+morning
+horse	en:Zoology	en:Recreational drugs	en:People	en:Nautical	en:Mining	en:Military	en:Horses	en:Horse racing	en:Equids	en:Chess
+seat	en:Engineering	Sutsilvan Romansch
+squirrel
+underwater	en:Nautical	en:Horticulture	en:Fishing	en:Finance	en:Agriculture
+bridge	sv:Card games	pt:Card games	nn:Card games	nl:Card games	nb:Card games	it:Card games	fr:Dentistry	fr:Card games	fi:Card games	fi:Bridge
+autumn
+evaporation
+daytime	en:Times of day	en:Time
+device
+motor	pl:Vehicles	nl:Auto parts	en:Vehicles	en:Christianity	en:Biology	ceb:Vehicles	ceb:Motorcycles
+sue
+seed	en:Sports	en:Internet	en:Gaming	en:Botany
+skeletal
+seashell	en:Whites	en:Pinks	en:Mollusks
+jogging	en:Physical fitness	en:Exercise
+sun	en:Light sources	en:Cartomancy	en:Astronomy	en:Alternative medicine	cim:People	cim:Male	cim:Family	bar:People	bar:Male	bar:Family members
+serving	en:Food and drink
+current	en:Time	en:Physics	en:Oceanography	en:Liquids	en:Electricity
+iguana	pt:Lizards	it:Reptiles	gl:Reptiles
+poisoning	en:Toxicology
+cactus	nl:Plants	la:Vegetables	la:Plants	it:Plants	fr:Plants	en:Cacti	en:Botany	ast:Botany
+disturb
+copper	en:People	en:Metals	en:Law enforcement	en:Entomology	en:Colors	en:Coins	en:Chemical elements	en:Browns
+toaster	en:Cookware and bakeware
+key	gv:Nautical	gv:Dairy products	en:Television	en:Taxonomy	en:Rail transportation	en:Radio	en:Music	en:Internet	en:Databases	en:Cryptography
+apart	Webster 1913
+storm	nl:Atmospheric phenomena	enm:Weather	enm:War	enm:Violence	en:Military	en:Meteorology	en:Atmospheric phenomena	dum:Atmospheric phenomena	af:Meteorology
+stormy
+texture	en:Computer graphics	en:Biology	en:Art
+closet
+lighter	en:Watercraft	en:Tools	en:Smoking
+store	lv:Fish	enm:Trading	enm:Size	enm:Rooms	enm:Livestock	enm:Buildings	en:Computing
+asphalt
+flower	en:Printing	en:Chemistry	en:Botany	ceb:Mahjong	ceb:Games	Visual dictionary
+closer	en:People	en:Baseball
+single	pt:Music	nn:Sports	nn:Music	nb:Sports	nb:Music	en:Tennis	en:People	en:One	en:Dominoes	en:Cricket
+pull	fr:Clothing	et:Cattle	en:Video games	en:Ultimate	en:Sports	en:Rowing	en:Printing	en:Internet	en:Gun sports	en:Golf
+hill	en:Landforms	en:Baseball	Westrobothnian nouns	Westrobothnian lemmas
+cement	sv:Building materials	en:Building materials	en:Anatomy	cs:Building materials	Word of the day archive
+gallon	tt:Units of measure	nrf:Units of measure
+bug	pt:Computing	es:Computing	en:Poker	en:Paleontology	en:LGBT	en:Entomology	en:Computing	en:Broadcasting	en:Aviation
+cricket	sv:Sports	nl:Sports	it:Sports	fr:Sports
+shanghai
+closed	en:Topology	en:Phonology	en:Mathematics	en:Logic	en:Graph theory
+fourth	en:Music	en:Four
+commercial	en:Finance
+separate
+buy
+trout	en:Salmonids	en:Internet
+ruler	wikipedia with redundant first parameter	en:Stationery	en:People	en:Measuring instruments	en:Government	ceb:Stationery	ceb:Measuring instruments
+brushing
+landform	en:Geology	en:Geography
+horizontal	en:Oxalidales order plants	en:Marketing	en:Geology
+aids	nn:Sexually transmitted diseases	nl:Sexually transmitted diseases	nb:Sexually transmitted diseases
+up
+written
+us	tzj:Dipterans
+organism
+dumping	pt:Economics
+sink	nn:Chemical elements	nb:Chemical elements	fo:Chemical elements	et:Meats	en:Theater	en:Snooker	en:Programming	en:Mining	en:Graph theory	en:Golf
+windstorm	en:Wind
+waxing	en:Hair
+rainstorm	en:Wind	en:Rain
+astronomy
+thin
+flavor	en:Physics
+brake	wikipedia with redundant first parameter
+tube	fr:Music	en:Surfing	en:Medicine	attention lacking explanation
+ocean	pl:Water	pl:Oceans	en:Oceans	en:Landforms
+desk
+carpet
+region	en:Political subdivisions	en:Anatomy	en:Administrative divisions
+yearly	en:Time
+coin	en:Money
+drop	pl:Birds	fr:Rugby	en:Video games	en:Television	en:Sports	en:Recreational drugs	en:Nautical	en:Music	en:Liquids	en:Linguistics
+brazil
+snack	nl:Food and drink
+apron	en:Pinball	en:Clothing	en:Aviation
+cold	enm:Weather	enm:Temperature	enm:Medicine	enm:Emotions	enm:Alchemy	en:Temperature	en:Painting	en:Medicine	en:Databases
+learning
+vertical	en:Marketing
+damp	en:Mining	en:Liquids	en:Emotions
+quail	en:Fowls	Word of the day archive	Webster 1913	Vilamovian terms with incomplete gender
+gal	zh:Video games	ro:Physics	rgn:Birds	pl:Units of measure	pl:Chemical elements	gd-noun 2	ga:Water	en:People	ca:Languages	ca:Demonyms
+honey	en:Yellows	en:Condiments	en:Colors
+kit	sh:Cetaceans	nzd:Furniture	en:Video games	en:Sports	en:Music	en:Mammals	en:Computing	en:Baby animals
+gas	nrf:People	nn:Fabrics	nb:Fabrics	la:Physics	gl:Chemistry
+figure	en:Music	en:Logic	en:Astrology
+ore	gml:Anatomy	gmh:Anatomy	fro:Time
+wide
+reading	wikipedia with redundant first parameter
+technology
+stone	enm:Units of measure	enm:Rocks	enm:Geology	enm:Buildings and structures	enm:Architecture	en:Printing	en:Medicine	en:LGBT	en:Greys	en:Geology
+flute
+vaccine
+drought	en:Climatology
+bladder	en:Zoology	en:Botany	en:Anatomy
+planting
+migration	sv:Computing	sv:Biology	en:Human migration	en:Computing	en:Biochemistry
+location	en:Law
+ecosystem	en:Systems theory	en:Sciences	en:Nature	en:Marketing	en:Geography	en:Ecology	en:Business
+tested
+reach	en:Nautical	en:Boxing	West Frisian nouns	West Frisian lemmas	Webster 1913	Singapore English
+competition	en:Collectives
+respiration
+type	fr:Typography	fr:Statistics	en:Theory of computing	en:Theology	en:Taxonomy	en:Semantics	en:Printing	en:Medicine	en:Mathematics	en:Computing
+pupil	nl:Sports	ms:Anatomy	en:Zoology	en:People	en:Law	en:Education	en:Anatomy
+shrinking
+road	en:Sports	en:Roads	en:Rail transportation	en:Nautical	en:Horses
+children
+weather	en:Sailing	en:Nautical	en:Geology	en:Falconry	en:Atmosphere
+sight	en:Vision
+teeth
+timber	en:Woods	en:Timber industry	en:Firearms	en:Falconry	Word of the day archive
+surrounding
+overhead	en:Transport	en:Tennis	en:Nautical	en:Juggling	en:Football (soccer)	en:Computing	en:Business	en:Accounting
+contract	en:Law	en:Grammar	en:Directives	en:Bridge
+goat	en:Goats	West Frisian nouns	West Frisian lemmas	West Frisian entries needing inflection
+pollinator	en:Biology
+lettuce	en:Vegetables	en:Cichorieae tribe plants
+leather	en:Leatherworking	en:Hides	en:Baseball
+push
+fabric	en:Petrology	en:Computing
+cooling
+lift	it:Tennis	hu:Transport
+logging
+force
+alligator	sv:Reptiles	nn:Reptiles	nl:Reptiles	nb:Reptiles	fy:Reptiles	fr:Reptiles	en:Printing	en:Mining	en:Crocodilians	da:Reptiles
+flag	pt:Programming	nl:Computing	en:Sports	en:Nautical	en:Music	en:Mathematics	en:Linear algebra	en:Iris family plants	en:Geometry	en:Geology
+intestine
+south	enm:Compass points	en:Meteorology	en:Compass points	en:Astronomy
+north	enm:Compass points	en:Physics	en:Meteorology	en:Compass points
+wear
+range
+topsoil
+rock	sv:Music	fr:Musical genres	fi:Musical genres
+leak	wikipedia with redundant first parameter	en:Liquids	en:Computing
+blocked
+flat	nl:Buildings	gd-noun 2	en:Wine	en:Rail transportation	en:Poker	en:Phonetics	en:Painting	en:Music	en:Mining	en:Juggling
+dark
+sewing	en:Sewing	en:Crafts
+place	en:WC	en:Sports	en:Rooms	en:Rhetoric	en:Chess
+sprinkler	nb:Firefighting	en:Firefighting
+cook
+cool	en:Temperature	en:Emotions
+digging
+leaf	en:Trees	en:Plants	en:Mathematics	en:Computing	en:Botany
+brain	en:Violence	en:Organs	en:Brain
+lead
+fraction	fr:Mathematics	en:Numbers	en:Chemistry
+filter	en:Technology	en:Mathematics
+sunlight	en:Sun	en:Light	en:Emotions
+site	tr:Internet	fr:Internet
+depth
+drying
+polluted	en:Hygiene
+prong
+edible
+chorus	en:Theater	en:Musicians	en:Jazz	en:Collectives
+snail	en:Military	en:Gastropods	en:Engineering
+data	mga:Male	mga:Family	it:Calendar terms	en:Mobile phones	en:Computing
+owl	en:Politics	en:Owls	en:Entomology
+corn	ro:Plants	ga:Sports	ga:Musical instruments	fro:Military	fro:Anatomy	enm:Units of measure	enm:Plants	enm:People	enm:Grains	enm:Agriculture
+onion	en:Vegetables	en:Spices and herbs	en:Baseball	en:Alliums
+sound	it:Music
+drum	nl:Musical instruments	en:Musical instruments	en:Croakers	en:Containers	en:Architecture
+vibrate
+condense	en:Chemistry
+barrier	en:Physiology	en:Grammar
+flipper	en:Pinball	en:Footwear	en:Dentistry	en:Cricket
+tag	nl-noun plural matches generated form	hu:Computing	gmh:Politics	en:Television	en:Music	en:Games	en:Computing	en:Biochemistry	en:Baseball	cim:Time
+sunny	en:Sunfish	en:Light
+campfire	en:Fire
+climbing	en:Climbing	en:Botany
+notebook
+mileage
+individual	en:Statistics	en:People	en:Law
+salmon
+snowstorm	en:Wind	en:Snow
+earthquake	en:Seismology	en:Geology
+insulation	en:Engineering
+cord	ro:Anatomy	en:Units of measure	en:Anatomy
+core	en:Medicine	en:Game theory	en:Engineering	en:Computing	en:Computer hardware	en:Biochemistry	en:Aviation	en:Automotive
+wiper	en:People	en:Nautical	en:Auto parts
+person	sco:Law	en:Science fiction	en:People	en:Law	en:Grammar	en:Christianity	en:Biology
+safe	en:Baseball
+ground	enm:Earth	en:Music	en:Electricity	en:Cricket	en:Baseball	en:Architecture
+concrete	en:Logic	en:Building materials
+tuna	sm:Fish	qu:Plants	pt:Music
+week	nl:Time
+covering
+recyclable
+line	es:Rugby	en:Music	en:Military	en:Medicine	en:Ice hockey	en:Graph theory	en:Geometry	en:Geography	en:Genetics	en:Football (soccer)
+stout
+snake	enm:Snakes	en:Snakes	en:Nautical	en:Mathematics	en:Cartomancy
+scale
+vegetation
+riding
+skidding	en:Forestry
+dragonfly	en:Dragonflies and damselflies
+quart	nrf:Time	fr:Units of measure
+robin	en:Thrushes	en:Perching birds	en:Muscicapids
+can	vi:Alternative medicine	vec:Mammals	oc:Male animals	oc:Dogs	ia:Mammals	gl:Mammals	gl:Dogs	ga:Singing	en:WC	en:Nautical
+goldfish	en:Carps
+hair	en:Zoology	en:Hair	en:Firearms	en:Fibers	en:Engineering	en:Botany	en:Anatomy
+car	vo:Weapons	sh:Monarchy	ro:Vehicles	ro:Beetles	pl:Monarchy	gd-noun 2	fr:Vehicles
+floating	en:Linguistics
+stove
+cat	nrf:Flatfish	nrf:Felids	nrf:Cats	ms:Liquids	id:Liquids	gd:Male animals	gd:Cats	gd-noun 2	ga:Felids	ga:Cats
+glacier	en:Landforms	en:Geology
+herb	pl:Heraldry
+player	pt:Video games	pt:Electronics	en:Video games	en:Theater	en:People	en:Musicians	en:Music	en:Gaming	en:Gambling	en:Electronics
+smooth	en:Touch	en:Statistics	en:People	en:Medicine	en:Mathematics	en:Linguistics	en:Classical studies	West Country English
+nose	enm:Smell	enm:Face	enm:Body parts	enm:Anatomy	en:Horse racing	en:Face	en:Architecture	Visual dictionary
+limb
+rainfall	en:Meteorology
+balloon
+motion	sv:Government	en:Physics	en:Philosophy	en:Music	en:Mechanics	en:Law
+earthworm	en:Annelids
+fishing	en:Fishing
+smoke
+match	fr:Sports
+hail	sco:Weather	sco:Sports	en:Weather	en:Atmospheric phenomena	Westrobothnian verbs	Westrobothnian transitive verbs
+follow	en:Internet
+clothes	en:Clothing
+fertilizer	en:Agriculture
+balancing	Translation table header lacks gloss
+washing	en:Ceramics	New Zealand English
+response
+granite	en:Rocks
+treaty	en:International law	en:Directives
+lily	en:Lily family plants	en:Heraldic charges	en:Flowers	en:Cartomancy	en:Card games
+skies
+ounce	enm:Units of measure	enm:Time	en:Units of measure	en:Felids
+emit
+minerals
+yumiko
+slowed
+belarus
+functions
+wastes
+interacting
+nayarit
+explanation
+rides
+earthworms
+convection
+protected	en:Programming
+slows	en:Medicine
+legs	en:Bingo
+calculate	en:Mathematics
+somerset
+pavlov
+devices
+constellations
+switzerland
+neutral	sv:Grammar	en:Physics	en:Grammar	en:Chemistry	en:Biology
+require
+analysis	la:Mathematics	en:Psychology	en:Music	en:Mathematics	en:Mathematical analysis	en:Logic	en:Chemistry
+apparent
+standards
+skates
+protective	en:Birth control
+bubbles
+densities
+much
+squirrels
+reused
+mined
+role
+independent	en:Sports	en:Politics
+appalachian
+tosses
+remora	it:Fish	en:Surgery	en:Percoid fish	en:Heraldic charges	ceb:Percoid fish	Word of the day archive
+result
+bugs
+excreting
+stirring
+craters
+quiet	en:Sound	en:Software	en:Silence
+sedimentary	en:Rocks	en:Geology
+c	sv:Politics	mul:Physics	mul:Mathematics	mul:Hundred	head tracking/no lang category	en:Music	attention lacking explanation
+sets
+d	mul:Mathematics	head tracking/no lang category	en:Dice games	en:Death	en:Cricket	attention lacking explanation
+cows
+f	mul:Physics	mul:Optics	mul:Music	mul:Linguistics	head tracking/no lang category	en:Printing	en:Paper sizes	en:Music
+g	nl:Physics	mul:Subatomic particles	head tracking/no lang category	fr:Physics	en:Physics
+pluto
+k	zh:Computing	mul:Physics	head tracking/no lang category	en:Computing
+forests	Old French noun forms	Old French non-lemma forms
+m	ǃKung verbs	ǃKung lemmas	sv:Politics	sh:Units of measure	sh:Grammar	mul:Thousand	mul:Roman numerals	mul:Phonetics	mul:Music	head tracking/no lang category
+echoes
+n	mul:Statistics	mul:Physics	mul:Mathematics	head tracking/no lang category	en:Organic chemistry	en:Grammar	en:Compass points
+o	vi:Latin letter names	vi:Female	vi:Family	tr:Latin letter names	la:Letter names of the Roman alphabet	it:Latin letter names	head tracking/no lang category	fr:Computing
+straight	pt:Poker
+veins
+destroyed
+speaks
+norway
+y	mul:Metrology	la:Letter names of the Roman alphabet	head tracking/no lang category	en:Television	en:Computing
+information	en:Law	en:Information theory	en:Computing	en:Christianity	attention lacking explanation
+combined	en:Skiing
+prehistoric
+standard	en:Sociolinguistics	en:Linguistics	en:Botany
+reports
+wheels	en:Bodybuilding
+correct
+converting
+decimeters
+bahrain
+kerry
+good
+decomposing
+infers
+ghana	en:Music
+wish	en:Thinking	en:Emotions
+somalia
+wise
+amounts
+liechtenstein
+serious
+tim	vi:Cardiology	vi:Anatomy
+others
+delivering
+making
+recycles
+puddles
+owen	Middle English verbs
+recyclability
+fuels
+senegal
+gamete	it:Cytology
+guanajuato
+lack
+comoros
+walked
+authority	en:Collectives
+claims
+lisa	ilo:Animals
+potholders
+chile	es:Vegetables	es:Peppers
+tectonic	en:Geology	en:Biology
+sinaloa
+concentrations
+harm
+applied
+provided
+germany
+sara	qu:Foods	fi:Plants	bm:Occult
+earthquakes
+starvation
+society	en:Sociology	en:Law	en:Collectives
+peas
+producing
+arranged
+denmark
+inexhaustible
+landfills
+flows
+behavioral
+gavin
+trinidad
+peat
+ayrshire
+spoil
+nauru	fi:Languages
+shaanxi
+blocks
+alberta
+colorado	pt:Football (soccer)	en:Smoking
+leonardo
+better	en:Betting	comparative of/without nocat	West Frisian non-lemma forms	West Frisian adjective forms
+brunei
+pembrokeshire
+cumbria
+taking
+thunderstorms
+albania	fi:Languages
+grenadines
+invisible	gl:Vision	en:Vision	en:Psychology	en:Internet	en:Fictional abilities
+entire	en:Philately	en:Complex analysis	en:Botany
+changing
+snapdragons
+gains	en:Bodybuilding
+mixtures
+decomposers
+cores
+russia
+braking
+hunan
+order
+protecting
+carrion
+oscar	ga:Swimming	en:Cichlids
+pollutions
+passengers
+altering
+pey	South Scots
+acorns
+distant
+rains
+indonesia	fi:Languages
+coyotes
+falkland
+bringing	Quotation templates to be cleaned
+schools
+renewable
+spots
+shadows
+appearing	Quotation templates to be cleaned
+larger
+ponds
+goslarite	en:Minerals
+egyptian
+save	pt:Video games	pt:Gaming	en:Theology	en:Sports	en:Role-playing games	en:Computing	en:Baseball	Tok Pisin verbs	Tok Pisin usage examples with the translation missing	Tok Pisin transitive verbs
+sutherland
+kinds
+protection	en:Insurance	en:Economics	en:Computing	en:Birth control
+irregular	pt:Grammar	en:People	en:Grammar	en:Geometry
+soybeans
+walls
+mongolia	fi:Languages
+luxembourg
+owls
+coolest
+kentucky
+monday
+succession
+swamps
+dominant	en:Music	en:Medicine	en:Genetics	en:BDSM
+walter	Webster 1913	Scottish English
+automobiles
+chores
+ceases
+walks
+carnivores
+chainsaws
+communities
+almost
+environments
+millimeters
+findings
+fossils
+kyrgyzstan
+celestial	pt:Religion	en:Mormonism	en:Astronomy
+lets
+prevents
+harmful
+platforms
+microscopes
+function
+members
+burundi
+xylem
+camouflaging
+including
+comparison	en:Rhetoric	en:Phrenology	en:Grammar
+electromagnets
+everyone
+moths
+wales	fi:Languages
+less	lmo:Meats
+kettles
+andy	en:Science fiction
+landforms
+condition	en:Law	en:Directives
+inventions
+improve
+toasting
+durham
+try	pt:Programming
+virginia
+basic	it:Computing	en:Military	en:Chemistry
+vanes
+arizona
+huntingdonshire
+cause	nrf:Law	en:Philanthropy	en:Law
+verde	roa-opt:Colors	ro:Colors	pt:Colors	it:Heraldry	it:Colors	ia:Colors	gl:Colors	es:Colors	eo:Greens	eo:Colors
+units
+romania	fi:Languages
+dioxide	en:Chemistry
+kittens
+alligators
+represents
+effective	en:Military	en:Geometry
+times	en:Mathematics	en:Arithmetic	Tea room
+transpiration	en:Physiology	en:Liquids	en:Botany
+dryness
+extra	pt:Film	en:People	en:Cricket	en:Acting
+explanations
+veracruz
+direction	en:Directives
+measurable
+performing
+annette
+slowest
+qatar
+conduct	en:Music
+jessica
+alicia
+livelihood
+lengths
+activities
+quantitative	en:Chemistry
+directing
+machines
+burt
+interested
+respond	en:Architecture
+geese	Fula noun plural forms	Fula non-lemma forms
+centimeters
+rabbits
+unidentified
+led	sv:Mathematics	da:Mathematics
+concern	en:Programming
+leo	la:Panthers	la:Crustaceans	la:Constellations
+recycle
+arrangements
+philippines
+events
+environmental
+genes
+abundant	en:Mathematics	Old French verb forms	Old French non-lemma forms
+want	nl:Clothing	en:Mining	en:Emotions
+paco	es:Reds	es:Recreational drugs	es:Law enforcement	Uruguayan Spanish
+picks
+forecast	en:Betting
+opposite
+laos
+kong	en:Mahjong
+deserts
+hidalgo
+curing	Quotation templates to be cleaned
+winters	West Frisian noun forms	West Frisian non-lemma forms
+difference	en:Logic	en:Heraldry
+morelos
+populations
+items
+actions
+dries
+marino
+trevorite	en:Minerals	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+probably
+panels
+crops
+availability
+hitting
+giving
+hungary
+instinctive
+defense	en:Sports	en:Military	en:Government
+orkney
+kilograms	lv:Units of measure	lv:SI units
+situation
+colombia
+tobago
+receive	en:Tennis	en:Telecommunications	en:Squash	en:Sports	en:Football (American)	en:Badminton
+think
+shells
+phloem
+inhibit	Philippine English
+weathering	en:Geology	en:Architecture
+libya
+producers
+reflective	en:Programming	en:Grammar	en:Computing
+slides
+navassa
+echolocation
+freda
+juan	Mandarin pinyin	Mandarin nonstandard forms	Mandarin non-lemma forms	Classical Nahuatl proper nouns
+needing
+reflecting
+source
+anna	tk:Days of the week
+placing
+wiltshire
+digested
+unable
+late	en:Time	en:Death
+continue	en:Video games	en:Programming	en:Poker	en:Law
+feathers
+preserved
+things
+infertile
+homes	Middle English noun plural forms	Middle English non-lemma forms
+attracts
+given
+definite	en:Linguistics	en:Grammar
+weighs
+adapt
+develop	en:Snooker	en:Mathematics	en:Chess
+nurses
+disappears
+namibia
+hunts
+odors
+warn
+suited	en:Poker
+converted
+easiest
+surrey	en:Vehicles	en:Road transport	Word of the day archive	Reference templates lacking the author or editor parameters
+honduras
+shops
+playing	enm:Theater	enm:Games	enm:Entertainment	Middle English words suffixed with -ing	Middle English terms with rare senses
+erin	yo:Animals
+tantalite	it:Minerals	en:Minerals
+toads
+sinks
+mica	pt:Minerals	la:Minerals	it:Minerals	gl:Minerals	fr:Minerals	es:Minerals	en:Minerals
+resistant	en:Statistics
+farmers
+beijing
+peru	pt:Birds
+vegetables
+submarines
+exercising	Quotation templates to be cleaned
+newton	it:SI units	gl:Physics	fr:SI units	fi:SI units	es:SI units	en:SI units	cs:Units of measure
+puerto	es:Computing
+dunes
+stronger	en:Logic
+ends	Multicultural London English
+feeders
+early	en:Time
+pipes
+enhance
+slovenia	fi:Languages
+hours
+zimbabwe
+start	pl:Sports	pl:Aviation	en:Sports	en:Nautical	en:Horticulture	en:Buttons	Webster 1913
+cooled
+stars
+windows
+raccoons
+manage
+equal	en:Music	en:Mathematics
+alike	en:Appearance
+separating
+gravity	en:Music
+conducts
+reducing	en:Chemistry
+carpooling
+pratt
+forming
+nocturnal	en:Night
+guizhou
+axles
+put	sh:Travel	sh:Time	sh:Roads	sh:Body	gd:People	gd:Nautical	gd:Medicine	gd:Birds	gd-noun 2
+required
+eagles
+washes
+zacatecas
+measures
+sweden
+grows	kw:Fruits
+flowers
+sugars
+banffshire
+meets
+cameron
+caves
+players
+iran
+iraq
+kansas
+dependencies
+pennsylvania
+starling	en:Starlings	en:Scorpaeniform fish
+shetland	fr:Horses	en:Fabrics
+chris
+provide
+ethiopia
+renfrewshire
+telescopes
+niche	nl:Ecology	nl:Business	nl-noun plural matches generated form
+conductors
+primary
+paula	fi:Hunting
+mauritania
+pans	Mauritian Creole verb forms	Mauritian Creole non-lemma forms
+angela
+methods
+denbighshire
+angelo
+equatorial	pt:Geography	en:Organic chemistry	en:Astronomy
+unknown
+beaches
+tomatoes
+ways
+planets
+inherits
+phases
+barite	it:Minerals
+predators
+organs
+survive	en:Sports
+chad	en:Paper	en:Internet	Word of the day archive	West Country English
+miranda
+liberia
+chongqing
+organized
+choice
+lays
+incidence	en:Physics	en:Geometry	en:Epidemiology	cs:Epidemiology
+franklinite	en:Minerals
+quick	fr:Dances	en:Mining	en:Cricket
+friendly	en:Sports	en:Number theory	en:Military
+campers
+pakistan
+experience
+flames
+hailing
+anglesey
+shows
+shown
+major	sv:Occupations	sv:Military	sh:Military ranks	sh:Military	pl:Military ranks	et:Military ranks	en:Zoology	en:Music	en:Military ranks	en:Logic
+answering	Quotation templates to be cleaned	Middle English nouns	Middle English lemmas
+brunswick
+jordan
+disappeared
+checked	en:Phonology
+speeds
+consider
+potential	en:Physics	en:Grammar	en:Energy
+combination	en:Mathematics	en:Combinatorics	en:Collectives	en:Billiards
+punnett
+curiosity
+moons
+minutes
+created
+resist
+particular	en:Philosophy	en:Logic	en:Law
+hematite
+history	en:Time	en:Medicine	en:Computing
+done
+stays	en:Underwear
+creates
+halibut	pl:Flatfish	es:Fish	en:Flatfish
+managing	ceb:Parrots	Entries missing English vernacular names of taxa
+raisins
+apples	Middle English noun plural forms	Middle English non-lemma forms
+classify
+altitude	en:Geometry	en:Astronomy
+reptiles
+values
+refracted	en:Biology
+kidneys
+percent	en:Hundred
+pesticides
+saskatchewan
+latvia	fi:Languages
+anya	hu:Family
+process	en:Systems theory	en:Manufacturing	en:Law	en:Computing	en:Biology	en:Anatomy
+restore	en:Music	en:Computing
+alternative
+concentration	en:Liquids	en:Chemistry
+seeking
+tides
+ears	ang:Anatomy
+mean	en:Statistics	en:Music	en:Mathematics
+determining
+tonga	mi:Compass points
+barbados
+ladybugs
+berkshire
+mixing
+barry	en:Heraldry
+reservoirs
+archie
+areas
+liquids
+conducting
+attaching
+viewing	en:Funeral
+advance	en:Gaits
+jacobsite	it:Mineralogy	en:Minerals	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+finds
+darwin	en:Units of measure	Quotation templates to be cleaned
+transmitting
+beads
+reflects
+mauritius
+knowledge	en:Law
+cuba	pt:Containers	ki:Containers	gl:Containers	es:Containers
+preventing
+going
+pass	sv:Travel	nn:Travel	nb:Travel	en:Sports	en:Sociology	en:Rail transportation	en:Nautical	en:Medicine	en:Law	en:Landforms
+past	sl:Hunting
+stacks
+impact
+preference
+easy
+adulthood
+anemones
+islands
+flexible	en:Manufacturing	en:Engineering
+oceans
+relative	en:Music	en:Linguistics	en:Grammar	en:Computing
+stems
+average
+treatment	en:Film
+compare
+coahuila
+gardens
+bodies
+comes	en:Music	Webster 1913
+cambodia
+unsafe
+pollinators
+characteristic	en:Nautical	en:Mathematics	en:Algebra
+adaptive	en:Psychology
+hibernating
+conduction	en:Physics
+dumfriesshire
+term	sv:Mathematics	nl:Mathematics	en:Time	en:Semantics	en:Nautical	en:Medicine	en:Mathematics	en:Logic	en:Insurance	en:Geometry
+caledonia
+ferberite	en:Minerals
+spreads
+drains
+lattitude
+possible
+foxes	nov:Animals
+shoes
+touches
+answer	en:Law	en:Communication
+sandra
+series	en:Zoology	en:Television	en:Phonology	en:Media	en:Mathematics	en:Electronics	en:Cricket	en:Broadcasting	en:Botany	en:Baseball
+returning
+afghanistan
+sichuan
+thrive
+paul	pt:Geography	ms:Colors	ms:Blues
+compete
+sometimes	en:Time
+arkansas
+bulgaria	fi:Languages
+questions
+inclined
+marshmallows
+aguascalientes
+scotland
+shifting
+later
+habit	pl:Clothing	en:Mineralogy	en:Clothing	en:Botany
+brings
+seals
+trait	fr:Religion	fr:Geology	fr:Chess	en:Psychology	en:Object-oriented programming	en:Biology
+satellites
+seasons
+commonly
+learns
+remained
+planes
+undergoes
+louisiana
+beneficial
+pasteur	nrf:Christianity
+acres
+freezes
+hampshire
+radnorshire
+beginning
+rather
+importance
+henderson
+dominic
+berries
+malaysia
+papers
+petals
+atoms	lv:Physics	lv:Chemistry
+states	Ladin noun plural forms	Ladin non-lemma forms
+wetlands
+plucking
+passes
+tennessee
+exposed
+robins
+nuclear	pt:Physics	pt:Biology	en:Biology
+kuwait
+stirs
+highlands
+graders
+tommy	Webster 1913
+affects
+expands
+grand	en:Thousand	en:Musical instruments	en:Music
+morayshire
+fife	fi:Musical instruments
+tracks
+wallis
+travels
+michael
+henry	pt:SI units	hu:SI units	fr:Sciences	fr:SI units	fi:SI units	en:Units of measure	en:SI units	en:Recreational drugs
+approximately	en:Mathematics
+tubes
+inherit
+blossoms
+stacey
+decades
+explain
+paleontologists
+reaches
+devon	en:Sausages
+helping
+answers
+digestive
+convert	en:People	en:Marketing	en:Logic	en:Law	en:Football (soccer)	en:Cricket	en:Canadian football
+soon	wo:Colors
+charisma
+bulbs
+navigation
+braunite	en:Minerals
+balance	fr:Politics	fr:Physics	fr:Fishing	fr:Electricity	fr:Economics	fr:Chemistry
+randall
+supplies
+dna	cs:Pathology
+action
+guidelines
+usually
+grams
+letters
+turkmenistan
+beverages	Middle English noun plural forms	Middle English non-lemma forms
+researchers
+liters
+barks
+sense	en:Senses	en:Semantics	en:Pragmatics	en:Mathematics	en:Biochemistry
+classified
+classification
+hong
+asks
+insulators
+opens
+interval
+joyce
+evaluate	en:Mathematics	en:Computing
+acting	en:Law	en:Drama
+longest
+ellie
+inference
+miquelon
+bags
+chunks
+portugal
+condensed
+snakes
+phenomenon
+products
+nerves
+ferns
+condenses
+hawks
+gathers
+nigeria
+forward	en:Rugby	en:Nautical	en:Internet	en:Ice hockey	en:Football (soccer)	en:Finance	en:Directions	en:Basketball	cs:Ice hockey	cs:Football (soccer)
+pyrrhotite	en:Minerals	Translation table header lacks gloss	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+milliliters
+health
+discarding
+lacks
+specimens
+positive
+heats
+quebec
+fiji	sv:Languages
+singapore
+microorganisms
+strumming
+bhutan
+kinetic	en:Energy
+return
+feet	en:Units of measure
+use	gv:Finance	en:Religion
+feel	sei:Birds
+inspections
+edward
+main	nrf:Anatomy	fro:Anatomy	frm:Anatomy	fr:Poker	fr:Football (soccer)	fr:Anatomy	en:Video games	en:Sports	en:Nautical	en:Gaming
+guangdong
+solution
+find	en:Law	en:Hunting
+continuous	en:Time	en:Mathematics	en:Mathematical analysis	en:Grammar	en:Botany
+delaware
+shanxi
+baja	pl:Rooms	pl:Fiction	pl:Fabrics
+lungs
+hardens
+logs
+selected
+intensive	en:Medicine	en:Linguistics	en:Grammar
+carolina
+cities
+solids
+derbyshire
+difficult
+includes
+picking
+hears
+tamaulipas
+friends
+deposits
+predicts
+literacy	en:Education
+bobcats
+task	en:Directives	en:Computing
+fences
+directions	en:Directives
+marni	gni:Family
+scientists
+lists
+true	en:Logic
+position
+belong
+salvador
+abundance
+dangerous
+dispersal
+phones
+best	superlative of/without nocat	Word of the day archive
+appears
+movements
+angola
+cementing
+transform	en:Mathematics	en:Genetics	en:Electricity
+repeat	en:Music	en:Law	en:Genetics	en:Biochemistry
+inventing
+beth
+louis	nrf:Currency	fr:Currency	en:Currency	Norman terms with audio links	Norman nouns	Norman lemmas	Jersey Norman
+magnitude	pt:Seismology	pt:Mathematics	pt:Astronomy
+cups
+make	sv:Family	en:Physics	en:Military	en:Computing	en:Bridge	en:Basketball
+heard
+beta	sv:Vegetables	sv:Greek letter names	sv:Computing	sk:Greek letter names	sh:Greek letter names	pt:Plants	pt:Greek letter names	ms:Greek letter names	la:Vegetables	la:Plants
+nitratine	en:Minerals
+rubs
+processes
+proxima
+absorbs
+fins
+galon	tr:Units of measure	tl:Units of measure	sh:Units of measure	fr:Military	cs:Units of measure	ceb:Units of measure	ceb:Containers
+scotia	la:Architecture
+compacts
+intensity	en:Physics	en:Optics	en:Geology	en:Astronomy
+attraction
+adaptations
+pulling
+rainforests
+threat
+writes
+viewpoints
+properties
+coming
+berwickshire
+depend
+enters
+snowing
+cure	fr:Religion	fr:Medicine	en:Engineering
+danger	en:Rail transportation
+trees
+observed
+stripes
+hiding
+reflect
+meaning
+cambridgeshire
+particles
+released
+disappearing	Quotation templates to be cleaned
+czech
+boxes
+mali	fi:Plants	en:People	en:Occupations	en:Money	en:Horticulture	Woiwurrung nouns	Woiwurrung lemmas
+richmond
+invent
+dissolves
+benefit	en:Insurance
+quality
+wires
+highest
+programs
+shared
+fact
+mia	ro:Sheep
+clackmannanshire
+examine
+experiments
+latitude	pt:Geography	pt:Astronomy	fr:Geography	fr:Astronomy	en:Photography	en:Geography	en:Astronomy
+illinois
+wiping
+global	pt:Computing
+believe
+fujian
+collecting
+pieces
+greece	Webster 1913	Middle English nouns	Middle English lemmas
+metamorphose	en:Fictional abilities
+bonaire
+plants
+excess
+supports
+perspective
+relationship	en:Music	en:Mathematics
+free	en:Software	en:Programming	en:Mycology	en:Money	en:Mathematics	en:Logic	en:Linguistics	en:Law	en:Hurling	en:Gaelic football
+holes
+measurements
+cuts	Quotation templates to be cleaned
+variables
+reaction
+wears
+many
+gordon	hu:Musical instruments	Northern Sami verb forms
+designing
+humus	pl:Organic compounds
+chesapeake
+stay
+airplanes
+everyday
+releases
+extensive	en:Physics
+beryl	pl:Chemical elements	pl:Alkali metals	en:Minerals	en:Gems	en:Blues	da:Minerals
+increasing	en:Knitting
+holds
+reactions
+protects
+lasts
+kiribati
+instinct
+approximate
+numbers
+nicole
+descriptions
+electrons
+galilei
+galileo
+infections
+adjusting
+california
+gloucestershire
+studying
+repels
+seashells
+seeds
+solutions
+cooked	en:Espionage	en:Computing	en:Accounting
+bears	fy:Fish
+finding	en:Law
+look	nl:Spices and herbs	en:Communication	en:Baseball
+monkeys
+korea	fi:Languages	fi:Diseases	eo:Languages	eo:Korea
+buckinghamshire
+ferromagnetic	en:Physics
+forces	en:Music	en:Military
+maldives
+cartier
+barbuda
+reasons
+refractions
+guyana
+knocks
+detect
+rule	en:Printing	en:Mathematics	en:Law	en:Directives
+proper	en:Physics	en:Mathematics	en:Heraldry	en:Grammar
+poisonous
+refrigerators
+common
+surfaces
+wants
+wonder
+lakes
+tectonics	en:Geology	en:Architecture
+immature
+organic	enm:Anatomy	en:Sociology	en:Science fiction	en:Physiology	en:Military	en:Medicine	en:Internet	en:Chemistry	en:Biology	en:Agriculture
+characteristics
+answered
+recently	en:Time
+spines
+separated
+calculating
+stirlingshire
+scrapes
+mara	wyb:Body parts	vma:Body parts	pnw:Body parts	pl:Sleep	pl:Slavic mythology	pl:Mythological creatures	nys:Body parts	kld:Body parts	fi:Mammals	fi:Folklore
+artificial
+cells
+humps
+dents
+ireland
+indiana	es:Textiles
+inheritence
+claimed
+brakes
+radiates
+sharks
+fair	ga:Vision	en:Rugby	en:Nautical	en:Cricket	en:Baseball	en:Appearance	de:Sports
+botswana
+revolution
+degrees
+consist
+venezuela
+reliable	en:Signal processing
+loss	en:Engineering
+pedalling
+otto	it:Card games
+antigua
+lost
+safety
+enable	en:Electronics	en:Computing
+bodily
+sharpness
+controlling
+dependent
+blends
+attempts
+isaac
+nests
+spoiling
+reduced	en:Cooking
+agree	en:Law	en:Grammar
+filaments
+resistance
+solomon
+mammals
+knowing
+favorite	Norman non-lemma forms	Norman adjective forms
+theory	en:Sciences	en:Mathematics	en:Logic
+rutland
+continental
+spain
+internal
+regions
+algeria
+healthier
+mozambique
+cameroon
+birds
+variability
+puppies
+naturally
+flexibility
+identity
+causes
+beans
+chipmunks
+federal
+believed
+event	en:Probability theory	en:Physics	en:Medicine	en:Computing
+explains
+explosions
+durango
+europe
+undergo
+include	en:Programming
+sudan
+benin
+tianjin
+hiking
+djibouti
+converts
+destructive	en:Computing
+appearance	en:Theology	en:Philosophy	en:Medicine	en:Law	en:Appearance
+alexander	en:Cocktails	Reference templates lacking the author or editor parameters
+wings
+damaged
+cubes
+bahamas
+exists
+fake
+runs
+first
+hebei
+desserts	West Frisian noun forms	West Frisian non-lemma forms
+prefer
+injuries
+prepared
+fewer
+pole	pl:Physics	pl:Geometry	gsw:Sound	gl:Motor racing
+reference	en:Semantics	en:Programming
+powering
+octopuses
+conductivity	en:Physics
+omnivores
+anguilla	la:Fish	it:Fish
+rosebushes
+discover	en:Chess
+viruses
+pebbles
+demonstrates
+thinner	en:Liquids
+caicos
+accidents
+lizards
+croatia
+gasses
+tossed
+scientific	oc:Sciences
+manuel
+interact	en:Social sciences
+statements
+factories
+clouds
+vincent
+wildfires
+bends	en:Underwater diving	en:Nautical
+guangxi
+christina
+atmospheric	en:Painting
+winds
+extinct	en:Volcanology	en:Death
+idaho
+value	en:Thinking	en:Physics	en:Music	en:Mathematics	en:Directives	en:Art
+maine	fi:Linguistics	Middle English nouns	Middle English lemmas
+distances
+summers
+quantity	en:Metrology	en:Mathematics
+nevada	pt:Weather	es:Weather	ca:Weather	ast:Weather
+advantage	en:Tennis	en:Football (soccer)
+connecticut
+resources
+hertfordshire
+guerrero
+command	en:Military	en:Directives	en:Computing	en:Baseball
+openings
+fans
+frederick
+transports
+beaks
+stages
+variable
+growth	en:Pathology	en:Biology
+sophie	enm:Religion	Middle English uncountable nouns
+canyons
+effervescent
+flavors
+prevailing
+floods
+hands
+flammability
+saved	en:Christianity
+allowed
+objects
+ounces	Middle English noun plural forms	Middle English non-lemma forms
+shakes
+texas
+geological
+setting
+pierre
+saves
+refraction	en:Physics	en:Metallurgy
+poor
+alaska
+gallons
+harms
+visual	en:Visualization	en:Advertising
+understanding
+near
+sorts
+shortest
+carbohydrates
+navigate	en:Computing
+lenses
+asteroids
+excellent
+younger
+anhui
+monoxide	nl:Chemistry	en:Chemistry
+bedfordshire
+vietnam	fi:Languages
+inspired	IPA for English using .ˈ or .ˌ
+insects
+adapted
+reproductive	en:Biology
+aruba
+planning	nl-noun plural matches generated form
+contains
+charges
+selection
+warms
+minnesota
+guess
+science	enm:Thinking	enm:Science	en:Thinking	en:Theology	en:Sciences
+happening
+returns
+charged
+boston	Zazaki terms with incomplete gender	Zazaki nouns	Zazaki lemmas	Chinook Jargon nouns
+appropriate	en:Law	en:Christianity
+southern
+siderite	it:Minerals
+weeks	Westrobothnian verbs	Westrobothnian lemmas
+molecules
+least	en:Philosophy
+jupiter
+evaporates
+grasses	Norman non-lemma forms	Norman adjective forms	Middle English noun plural forms	Middle English non-lemma forms
+babingtonite	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+staffordshire
+behavior	en:Psychology	en:Biology
+morris	en:Weapons	en:Eels	Webster 1913
+amphibians
+preferences	en:Computing
+density	en:Physics
+nottinghamshire
+learn
+michigan
+tyrone
+sharpening
+mosquitos
+wyoming
+trials
+decreases
+faso	Old High German terms with incomplete gender	Old High German nouns
+crashing
+rounds
+howie
+instructions
+controls
+astronauts
+senses
+republic	en:Forms of government
+moved
+pots
+lincolnshire
+ohio
+pushes
+multicellular	en:Biology
+pints
+act
+norfolk
+leicestershire
+togo
+leave	en:Law	en:Cricket	en:Billiards
+layers
+helped
+finish
+vibrations
+looseness
+need
+constructive
+often	en:Time
+remedy
+gather	en:Sewing	en:Nautical	en:Medicine	en:Knitting	en:Glassblowing	en:Architecture
+newspapers
+zambia
+suffolk
+coldest
+salamanders	West Frisian noun forms	West Frisian non-lemma forms
+melinda
+tests
+alters
+canada
+shandong
+materials
+buildings
+exchange
+washington
+useful
+rises
+turtles
+tadpoles
+sparrows
+vaccines
+united
+production	en:Computing
+worcestershire
+smallest
+roles
+searching	wikipedia with redundant first parameter
+houseplants
+choose
+monmouthshire
+overnight
+prevent
+benjamin	fr:Sports	fr:Family	en:Laurel family plants	en:Gums and resins	en:Fig trees	en:Ericales order plants
+rico
+responsible	Translation table header lacks gloss
+strikes
+belize
+democratic
+packed
+lines	en:Theater	en:Film	en:Education	Webster 1913
+liaoning
+selecting
+jake	en:Male animals	New York English
+hares
+rica	attention lacking explanation
+haiti
+dakota
+identify
+females
+carmarthenshire
+rich
+recorded
+special	en:Video games	en:Military	en:Broadcasting
+floodplains
+moves
+kicks
+tlaxcala
+age	sco:Time	enm:Time	enm:People	enm:Age	en:Time	en:Poker	en:Geology	en:Accounting	arn:Anatomy
+reproduction	en:Biology
+smaller
+wanting
+colima
+polynesia
+told
+manitoba
+loosening
+ago	vro:Time	sm:Polynesian canoe plants	sm:Plants	en:Time
+rid
+years
+heilongjiang
+responding
+malawi	Chichewa noun plural forms
+connects
+muscles
+altitudes
+decline	en:Grammar	en:Football (American)	en:Canadian football
+centers
+jane
+columbite	en:Minerals
+marigolds
+eggs
+similar	en:Mathematics	en:Homeopathy
+ecological
+oxygenated	en:Chemistry
+luster
+montgomeryshire
+excretory
+impacts
+thousands
+nicaragua
+classifying
+system	en:Systems theory	en:Systems	en:Psychiatry	en:Physiology	en:Music	en:Mathematics	en:Computing	Word of the day archive
+likelihood	en:Statistics
+hatched
+nunavut	Yup'ik nouns	Yup'ik lemmas
+valid	en:Logic
+bouvet
+asked
+glows
+share	es:Television	en:Internet	en:Finance	en:Computing	en:Agriculture	comparative of/without nocat
+belts
+stores
+pumps	sv:Footwear	en:Footwear
+tajikistan
+oxfordshire
+stalactites
+nacl
+hatches
+removed	en:Family
+future	fro:Grammar	enm:Time	enm:Grammar	en:Time	en:Sports	en:Programming	en:Grammar	en:Finance	en:Computing
+removes
+mississippi
+melts
+uruguay
+refracts
+flies
+middlesex
+cocoons
+tucker
+municipality	en:Government	en:Collectives
+catches
+metals	en:Rail transportation
+sarah
+autonomous
+missouri
+points	en:Rail transportation	en:Automotive
+prongs
+indigenous	Word of the day archive
+unhealthy
+jenny	fi:Sailing	fi:Nautical	en:Female animals	en:Equids
+fahrenheit
+belgium
+intense
+always	en:Time
+turks	lv:Turkey	lv:Nationalities
+new
+conducted
+real	pt:Monarchy	pt:Mathematics	pt:Currency	nn:Currencies	nb:Currencies	gl:Currency
+maintaining	Translation table header lacks gloss
+eritrea
+breathes
+careers
+intervals
+alan	head tracking/unrecognized pos
+tons
+organisms
+niue
+heated
+amina	pt:Organic chemistry	pl:Organic chemistry	es:Organic chemistry	es:Inorganic chemistry	ca:Organic chemistry	ca:Inorganic chemistry
+franklin
+piedmont
+kitts
+shropshire
+jumping	fr:Sports	en:Physical fitness
+cornwall
+rusting
+chloroplasts
+raining
+around
+lanarkshire
+crickets	en:Silence	Word of the day archive
+meters
+pollute
+floors
+roo
+today	en:Time	en:Meteorology
+influences
+digests
+predict	en:Military
+boils
+egypt
+poles
+quarts
+rates
+specific
+rolls
+trilobites
+futuna	fi:Languages
+kilometers
+consists
+remoras
+hypothesis	en:Sciences	en:Grammar
+forms
+reason	en:Mathematics	en:Logic
+developments
+foods
+accurate
+maintain
+shift	en:Underwear	en:Mining	en:Genetics	en:Computing	en:Buttons	en:Baseball
+gibbous	en:Astronomy
+skills
+companies
+differently
+pounds
+english	Reference templates lacking the author or editor parameters
+builds
+annual	en:Time	en:Entomology	en:Botany
+zealand
+byproducts
+claudia	es:Fruits
+hummingbirds
+waves
+expected
+completed
+monitoring	en:Radiation
+alex
+wanted	en:Law	ceb:People	ceb:Law
+rings	en:Gymnastics
+territories
+northumberland
+graduated	en:Ornithology	en:Law
+mixes
+choices
+shines
+feels
+iowa
+brackish
+increased
+tallest
+frequently	en:Time	en:Mathematics
+appliances
+automatically
+students	lv:Education
+miguel
+acquire
+damming
+increases
+fertile
+fruits
+vanuatu
+cyprus	ar:Pigments	ar:Myrtales order plants
+cavities
+genetic	en:Theology	en:Linguistics	en:Genetics
+substances
+heals	ang:Anatomy
+structures
+gravitational
+notices
+calm	en:Emotions
+voles
+shatters
+rachel
+ask	sv:Olive family plants	osx:Olive family plants	nn:Olive family plants	nb:Olive family plants	fo:Olive family plants	en:Newts	en:Lizards	en:Communication	da:Olive family plants
+describe	en:Taxonomy	en:Mathematics
+climates
+sonora
+textures
+strength
+florida
+flippers
+developing
+individuals
+cans	en:Headwear
+guatemala
+features
+sussex
+incomplete	en:Internet	en:Botany
+droughts
+either
+zhejiang
+neighbors
+thailand
+houses
+helpful
+carbonated
+results
+jays
+travelling	fr:Cinematography
+watches	Webster 1913
+parked
+boats
+engineering	en:Engineering
+sharing	Translation table header lacks gloss
+decrease	en:Knitting
+yards	en:Nautical
+lanka
+difficulty
+improving	Translation table header lacks gloss
+signals
+hurricanes
+wonders
+orbits
+detecting	Quotation templates to be cleaned
+spaces
+selling
+fields
+oman	tcs:People	tcs:Family	pl:Composites
+next	en:Time	en:Law
+benefits
+grooves
+flaky
+michelle
+nearly
+attract
+description
+generating
+disappear
+conclusion
+canopies
+negative
+drops
+acids
+gloves
+central	en:Anatomy	ca:Electricity
+defend
+plains
+statement	en:Finance	en:Computing
+supporting
+tanisha
+factor	nl:Mathematics
+wisconsin
+sensing
+breaks
+learned
+spraying
+suddenly
+way	tzj:Foods	tzj:Breads	ljp:Water
+sensation
+bolivia	en:Card games
+detailed
+nervous	en:Emotions	Word of the day archive
+northamptonshire
+dangers
+butterflies
+janet
+quickly	en:Time
+usage	fr:Lexicography
+charles
+collected
+decide	en:Thinking
+jonathan
+transmitted
+nearby
+issues
+synonymous	en:Genetics
+instruments
+temperatures
+henan
+frying
+electron	vi:Leptons	ro:Leptons	ia:Leptons	en:Subatomic particles	en:Leptons	en:Chemistry
+chromite	fr:Minerals	en:Minerals	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+greater	Quotation templates to be cleaned
+metre	en:SI units	en:Poetry	en:Music
+generation
+oaxaca
+images
+lives
+depends
+scraps
+stations
+davis
+lowest
+pollutants
+tunnels
+chickens
+cars	lv:Occupations	lv:Monarchy
+saving	en:Theology
+chiapas
+rely
+farms
+determined
+hoods
+glaciers
+caithness
+alps
+sentences
+cures
+differences
+testable	en:Law
+direct	en:Travel	en:Political science	en:Aviation	en:Astronomy
+settle
+cardiganshire
+babies
+martina
+enabled	en:Computing
+gain	fr:Finance
+arabia	fi:Languages
+leaks
+receiving
+appalachians
+transfers
+decomposer	en:Ecology
+lebanon
+jeannie
+protect
+conserving
+pulleys
+picometer	en:SI units	en:Metrology
+ducks	en:Poker	en:Nautical	Northern England English
+great	en:Music
+rags	lv:Geography	lv:Anatomy
+mexico
+cats
+himalayas
+uganda
+organizing
+certain
+levels
+diamonds	en:Card games	Translingual translations
+habits	nrf:Clothing
+mature	en:Television	en:Medicine	en:Finance	en:Film	en:Biology
+simple	fr:Baseball	es:Pharmacology	es:Grammar	en:Zoology	en:Weaving	en:Roman Catholicism	en:One	en:Mineralogy	en:Medicine	en:Mathematics
+cycles
+hainan
+constantly
+influence
+looks
+georgia	fi:Languages
+swaziland
+tornadoes
+hangs
+quintana
+survival	en:Sports	en:Anthropology
+inner	en:Politics	en:Military	en:Firearms	en:Cricket	South African English
+produced
+important
+effects
+nutrition	en:Nutrition	en:Biology
+phrase
+campeche	pt:Caesalpinia subfamily plants
+effect	nl:Finance	fro:Law	en:Sound engineering	en:Psychology	en:Physics	en:Cinematography
+produces
+forgets
+sheds
+largest
+limitation	en:Law	en:Directives
+popping
+drinks	en:Cricket
+contribute
+telephones
+diatom	en:Algae	Entries using missing taxonomic name (class)
+maghemite	en:Minerals	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+alone
+rocks
+hottest
+jiangsu
+discards
+kazakhstan
+david
+dies	rm:Anatomy	la:Time	la:Latin common nouns in the fifth declension
+designed
+sam	sga:Seasons	pl-adj without corresponding adverb	ja:Arthropods
+adds
+depiction
+san	sjt:Vehicles	sce:Toiletries	it:Greek letter names	fr:Greek letter names	es:Greek letter names	en:Greek letter names	ca:Greek letter names
+amount
+volcanoes
+malta	fi:Languages
+replanting
+harming
+iceland
+also	tl:Fish
+forecasters
+frood
+approaches
+increase	en:Knitting	en:Astronomy
+gets
+ovens
+heights
+administrative
+investigation
+uses	en:Law
+reduction	en:Philosophy	en:Music	en:Medicine	en:Mathematics	en:Cooking	en:Chemistry
+treating
+recessive	en:Genetics
+projects
+bad	gd-noun 2
+camels
+bring	en:Baseball
+arteries
+reflected
+gambia
+completing
+kincardineshire
+emirates
+losing
+fit	vo:Fish	vo:Animals	is:Zoology	is:Knitting
+grasshoppers
+estonia
+qinghai
+colonial	pt:Art	en:People
+complex	en:Systems theory	en:Psychology	en:Mathematics	en:Geometry	en:Chemistry
+oklahoma
+investigated
+addition	sv:Mathematics	en:Music	en:Law	en:Heraldry	en:Arithmetic
+sure	tr:Qur'an	tr:Islam
+amanda
+disasters
+exhaling
+armenia	fi:Languages
+personal
+trilobite	it:Arthropods	fr:Arthropods	en:Arthropods
+ao	mi:Weather	mi:Time	haw:Weather	haw:Time	gn:Clothing	aud:Time
+saudi	fi:Nationalities
+lancashire
+extend	en:Object-oriented programming	en:Law
+yukon
+carbonic
+plans	kw:Plants
+inspectors
+ukraine
+luis	es:Currency
+traits
+affect	sco:Law	fr:Psychology	fr:Philosophy
+sec	mul:Trigonometry	Transylvanian Romanian	Translingual symbols	Translingual nonstandard terms	Translingual lemmas	Sursilvan Romansch
+claws
+panes
+systems	en:Systems theory	en:Systems
+sudden
+experimentation	en:Sciences
+paraguay	es:Birds
+jalisco
+clipperton
+montana
+develops
+crystals
+azerbaijan
+charge	fr:Military	fr:Law	en:Weapons	en:Physics	en:People	en:Military	en:Law	en:Heraldry	en:Cricket	en:Christianity
+onions
+roofs
+keeping
+fastest
+jobs
+quicker	comparative of/without nocat
+jiangxi
+words
+barney	Reference templates lacking the author or editor parameters
+cm	mul:Metrology	Translingual terms with quotations	Translingual symbols	Translingual numeral symbols	Translingual lemmas	Symbols for SI units
+procedure	en:Medicine	en:Directives	en:Computing
+rwanda
+practices
+kits	et:Mammals
+ella
+joann
+opacity
+da	vi:Hides	vi:Anatomy	vam:Pigs	sv:Time	mul:Metrology	gmq-bot:Mint family plants	en:Hair	bm:Mallow subfamily plants	bm:Anatomy	ang:Mammals
+tigers
+carlos
+performs
+dominica	ia:Days of the week
+starlings
+lightness
+dm	mul:Metrology	bsa:Anatomy	Translingual symbols	Translingual lemmas	Symbols for SI units	Egyptian verbs	Egyptian transitive verbs
+developed
+observe
+shouts
+meteoroids
+kent
+rare	nl-noun plural matches generated form	enm:Size	en:Cooking
+france	eo:Languages	eo:France
+gases
+tires
+needs
+patterns
+jewelers	Middle English noun plural forms	Middle English non-lemma forms
+el	sv:Energy	nl:Units of measure	la:Letter names of the Roman alphabet	gmq-bot:Birds	en:Latin letter names	cs:Latin letter names	ang:Letter names
+polaris
+pulls
+never	rm:Weather	en:Time	Sutsilvan Romansch	Romansch verbs
+susan
+adjust
+parts
+vines
+containers
+lucia
+western	en:Genres	ceb:Film
+helps
+however
+mountains
+identifying
+limbs
+sources
+trained
+maryland
+fl	mul:Metrology	Translingual symbols	Translingual lemmas
+fm	mul:Metrology	Translingual symbols	Translingual lemmas	Symbols for SI units
+exhibits
+explained
+india
+ft
+precaution
+kelvin	hu:SI units	fi:Units of measure	en:SI units	cs:Units of measure
+brightest
+rate	nrf:Anatomy	fr:Rodents	fr:Organs	fr:Female animals	en:Nautical
+skill
+captured
+guiana
+conversion	en:Rugby	en:Mathematics	en:Marketing	en:Logic	en:Linguistics	en:Law	en:Football (American)	en:Computing	en:Chemistry
+covers	en:Cricket	en:Bedding
+deposition	en:Religion	en:Physics	en:Meteorology	en:Law	en:Chemistry
+conserve
+avoid
+fresh
+anemometer	nn:Meteorology	nl:Meteorology	nl:Measuring instruments	nb:Meteorology	en:Meteorology	en:Measuring instruments
+humans
+worms
+practice	en:Medicine	en:Mathematics	en:Law	en:Directives	en:Art
+transmits
+select
+fibers
+poland
+improved
+crows
+william
+advances
+easily
+animals
+clams
+influencing
+tasks
+french
+burns
+reduce	en:Military	en:Metallurgy	en:Medicine	en:Mathematics	en:Logic	en:Law	en:Cooking	en:Computer science	en:Chemistry
+likely
+alloys
+corals
+plates
+lower	en:Geology
+seychelles
+traditional
+conservation	en:Physics	en:Biology
+celsius
+acted
+nevis
+orbiting
+condensing
+cheshire
+valleys
+essex
+ferrous
+escaping
+wider
+jennifer
+lithuania
+occurrence
+thinking
+dorset
+disposal	en:Australian rules football
+nutrients
+pathogens
+ability
+soils
+everything
+jonny
+predicting
+italy
+finland
+bladders
+change	nrf:Money
+drips
+comfort
+generally
+places
+century
+discovery	en:Law
+lb	mul:Mathematics	en:Cricket	Translingual symbols	Translingual lemmas
+tunisia
+landslides
+complete	en:Theory of computing	en:Mathematics	en:Mathematical analysis	en:Logic	en:Functional analysis	en:Algebra
+improvements
+perthshire
+reflectors
+constant
+pools
+coloration
+roger	en:Sex
+ly
+stands
+yemen
+falls	en:Waterfalls	en:Water
+limit
+claim	en:Law
+noah
+different
+mussels
+communication	en:Rhetoric	en:Communication	en:Anatomy
+mi	vi:Music	vi:Hair	vi:Face	vi:Eye	vi:Anatomy	roa-brg:Times of day	nl:Music	ms:Food and drink	it:Music	it:Greek letter names
+ml	mul:Units of measure	mul:Metrology	Translingual symbols	Translingual lemmas
+tanzania
+mm	mul:Metrology	Translingual symbols	Translingual lemmas	Symbols for SI units
+months
+westmoreland
+descends
+level	en:Video games	en:Sports	en:Role-playing games	en:Physics	en:Phonetics	en:Education	en:Computer science
+fertilizers
+alabama
+grenada
+hubei
+roots
+preserve
+feeling	en:Emotions
+throws
+antarctica
+flowing
+chosen
+epidote	en:Minerals
+belongs
+prediction	en:Divination
+warwickshire
+oregon
+rays
+parents
+nm	mul:Metrology	en:Internet	Translingual symbols	Translingual lemmas	Symbols for SI units	Language code missing/rfc-header	Entries with non-standard headers
+kendall
+tastes
+keys
+suriname
+investigate
+ripped	en:Bodybuilding
+total	en:Mathematics
+exothermic
+loses	de-form-adj/nocat
+consumers
+cumberland
+cayman	Quotation templates to be cleaned
+bricks
+plays
+chance	Translation table header lacks gloss
+determine
+nature	fr:Grammar
+batteries
+yorkshire	pt:Dogs
+metamorphic	en:Zoology	en:Mineralogy	en:Geology
+westerlies
+carla
+osprey	en:Birds of prey
+control	en:Statistics	en:Linguistics	en:Graphical user interface	en:Climatology
+decreasing
+sri
+oz	rm:Time
+montenegro	fi:Languages
+gansu	ast:Birds
+dormant	en:Sleep	en:Heraldry	en:Architecture
+zach
+ecosystems
+lands
+ph	Language code missing/rfc-header	Entries with non-standard headers
+vermont
+hereditary
+pm	mul:Metrology	it:Law	Translingual symbols	Translingual lemmas	Symbols for SI units
+backs
+dominican
+handles
+pt	ro:Internet	Translingual symbols	Translingual lemmas
+vary	en:Music
+baltimore
+ningxia
+pitcairn
+adaptation
+somewhere
+extremely
+tongues
+yunnan
+estimate
+draws
+drawn
+recent	en:Time	en:Sciences	en:Geology	en:Astronomy
+qt
+tissues
+old
+australia
+jeremiah
+ancient	en:Time	en:People	en:Law	en:Heraldry
+yellowstone
+glory	en:Theology
+seas
+stops	lv:Weapons	lv:Units of measure	lv:Containers	lv:Archery
+austria
+conditions
+starting
+centauri
+checking	en:Ice hockey
+discovered
+access
+activity
+expels
+pyramids
+jarvis
+seek	en:Computing
+toasted	Translation table header lacks gloss
+kenya
+mcdonald
+sur	ro:Colors	mt:Architecture	gl:Compass points	es:Compass points	da:Chemistry	ast:Compass points
+variety
+aberdeenshire
+george
+samuel
+liam
+argyllshire
+necessary	en:WC	en:Rooms
+decision
+jose
+makes
+nanometers
+syria
+enemies
+started
+threatened	en:Ecology
+connected	en:Topology	en:Mathematics	en:Graph theory
+kate	nov:Animals	lt:Entries with Pronunciation n headers	fi:Finance
+assist	sv:Sports	it:Sports
+stones
+storms
+contacts
+pupa	pl:Buttocks	pl:Anatomy	lv:Vegetables	lv:Legumes	ga:Zoology	Vulgar Latin
+reasonable
+felicia	en:Botany
+generations
+endangered
+available	en:Law
+nebraska
+frequency
+regularly
+jamaica
+keeling	en:Gadiforms	Webster 1913	Scottish English
+capturing
+bluebirds
+serbia	fi:Languages
+generate
+fills
+extreme	en:Mathematics
+thawing
+treated
+uv	sv:Birds
+ensure
+usual
+phyllis
+montserrat
+births
+spiders
+formations
+sees	Southern US English
+solve
+towns
+laboratories
+know	kw:Nuts
+support	fr:Heraldry	en:Mathematics	en:Gymnastics	en:Computing
+changed
+higher	en:Education	Scottish English
+locating
+emits
+medicines
+lesotho
+adults
+shaped
+changes
+vehicles
+epsomite	en:Minerals	Reference templates lacking the title parameter	Reference templates lacking the date or year parameters	Reference templates lacking the author or editor parameters
+pure	en:Phonetics	en:Golf
+life	en:Video games	en:Softball	en:Insurance	en:Biology	en:Baseball
+kim	vi:Sewing	White Hmong verbs
+drawings
+shapes
+missing	en:Statistics
+bounces
+riverbeds
+collects
+normal	sv:Geometry	ga:Statistics	ga:Geometry	ga:Chemistry	es:Geometry	es:Education	en:Topology	en:Statistics	en:Set theory	en:Rail transportation
+types
+gradual	en:Christianity
+slight	en:Size	en:Military	Webster 1913
+hawaii
+pedals
+almonds
+calories
+filters
+timor	la:Emotions
+scavengers
+jilin
+glamorgan
+cindy
+ones	en:Sports
+deeper
+passing
+anthony
+flintshire
+bangladesh
+skyler
+xinjiang
+react	en:Physics	en:Chemistry
+none	no:Music	nl:Music	fur:Family
+yd
+inches
+seconds
+moldova
+problem
+ontario
+massachusetts
+depressed	en:Emotions
+madagascar
+presence
+roam	en:Telecommunications	en:Gaits	en:Computing
+sprouts
+phase
+researches
+teaspoons
+natural	es:Music	enm:Family	enm:Biology	en:Whites	en:Music	en:Mathematics	en:Dice games	en:Colors	en:Bridge	en:Algebra
+method	en:Systems theory	en:Snowboarding	en:Skateboarding	en:Object-oriented programming	en:Marijuana	en:Directives	en:Acting
+magnets
+nails
+streams
+come	en:Typography	en:Sex	en:Punctuation marks
+apollo	it:Insects	en:People	en:Entomology	en:Butterflies
+tonnes
+samples
+exist
+utah
+examples
+columbia
+saba	sc:Wine	ilo:Fruits
+ecuador	gl:Geography	es:Geography
+habitats
+seasonal
+james	Old French lemmas
+clucks
+magnetism	en:Physics	en:Electromagnetism	Webster 1913
+tools
+climbs
+noon
+feature	en:Music	en:Media	en:Engineering	en:Computing	en:Archaeology
+get
+power	en:Statistics	en:Set theory	en:Physics	en:Mathematics	en:Bible
+regular	es:Grammar	en:Zoology	en:Snowboarding	en:Military	en:Mathematical analysis	en:Grammar	en:Geometry	en:Crystallography	en:Christianity	en:Botany
+spills
+rivers
+magnetite
+observation
+sally
+della
+puts
+hits
+help
+vinci
+expect
+cease	en:Time
+elements	lv:Chemistry
+located
+roses
+delilah
+gabon	ceb:Composites	Entries using missing taxonomic name (species)	Entries missing English vernacular names of taxa
+gloucester
+byron
+cooks
+growing
+routes
+parks
+healing
+costa	pt:Geography	la:Anatomy	it:Skeleton	it:Botany	gl:Skeleton	en:Skeleton	en:Entomology	en:Biology	en:Anatomy	Tenharim term requests
+inhibitor	pl:Chemistry	en:Chemistry	en:Biology
+argentina
+plain
+create
+slovakia	fi:Languages
+centuries
+development	en:Real estate	en:Music	en:Mathematics	en:Chess	en:Biology
+curious
+resource
+goes	kw:Anatomy	fy:Anatids	Westrobothnian words suffixed with -es	Westrobothnian verbs
+behaviors
+netherlands
+wraps
+branches
+sent	et:Currency	en:Currency
+ashmore
+reusable	en:Computing
+herbivores
+purposes
+igneous
+hills
+rods
+tokelau
+send
+signatories
+bermuda	tr:Clothing
+purpose
+graham
+emily
+geology
+renews
+researched
+tums
+organize	en:Music
+observations
+studies
+said
+greatest
+absorbance	en:Physics
+stories	Middle English noun plural forms	Middle English non-lemma forms
+manufacturers
+limited	en:Rail transportation
+skids
+edges
+reads
+groups
+fault	en:Tennis	en:Seismology	en:Mining	en:Hunting	en:Geology	en:Computing
+puebla
+cools
+played
+factors
+tuvalu
+tilted
+carries
+york	en:Cricket
+locations
+panthers
+wild	nl:Foods	en:Nautical	en:Mathematics	en:Crime
+mostly
+safer	tr:Islamic months	sh:Islamic months
+staying
+resemble
+shaken
+slower
+investigates
+shouted
+begins
+analyzing
+properly
+sprouting
+crack	en:Computing	en:Chemistry
+termites
+depending
+virgin	en:People	en:Gossamer-winged butterflies
+rhodeisland
+thermometers
+magnifying
+invented
+safely
+gaining
+happen
+maarten
+polluting	Webster 1913
+successfully
+manganbabingtonite	en:Minerals
+carefully
+accurately
+refracting
+rounder	en:People
+trying	en:Philosophy
+looking
+recognizes
+emergest
+exerts
+adult	ro:People	ro:Age
+cocos
+folded
+wisely
+arab	hu:Languages	Tbot entries April 2008	Tbot entries (Albanian)
+hang	it:Musical instruments	hu:Sound	en:Law	en:Computing	en:Chess	en:Baseball
+providing
+touched
+dead	vo:Death	en:Sports	en:Law	en:Golf	en:Engineering	en:Death	en:Cricket	en:Baseball	ang:Death
+slowing
+immediately	en:Time
+congo
+example
+greenland
+arrived
+occurence
+useable
+stretched
+national
+certified
+identically	en:Mathematics
+lights
+easilty
+compared
+contain	en:Mathematics
+nonrenewable	Translation table header lacks gloss
+incorrect
+e	vi:Latin letter names	vi:Internet	tr:Latin letter names	pt:Logic	mul:Subatomic particles	mul:Sciences	mul:Mathematics	mul:Group theory	mul:Algebra	la:Letter names of the Roman alphabet
+decreased
+pulled
+unlimited
+glaicial
+transported
+partly
+pushing
+scratched
+evaporated
+chromferide	en:Minerals
+die	mwl:Time	ia:Time	en:Video games	en:Sciences	en:Medicine	en:Electronics	en:Dice games	en:Death	en:Architecture
+transferred
+generates
+putting	en:Golf
+powered	Translation table header lacks gloss
+added
+rubbed	en:Cooking
+deposited
+got
+selkirkshire
+red	vo:Colors	sh:Mathematics	sh:Chess	it:Grains	es:Transport	es:Tools	es:Sports	es:Hunting	es:Fishing	es:Computing
+correctly
+experimetnation
+offit
+eustatius
+adding
+theorized
+replacements
+frogs
+coyoteite	en:Minerals
+beavers
+ashore	en:Nautical	Middle English words prefixed with a-
+european
+frictional
+thickest
+obtaining
+contributes
+regarding
+gone	pdt:Baking	fj:People
+take
+cleared
+lasting
+sank
+disturbed
+outermost
+depositing
+compacted
+getting	Translation table header lacks gloss
+transferring
+burkina
+shivering
+wegener
+reproducing
+provides
+lemy
+thomas
+passed
+softer
+spans
+echolocate
+wearing
+rotated
+peeblesshire
+watered
+chewing
+kept
+killed	en:Metallurgy
+occurring
+hole	nn:Landforms	nn:Anatomy
+explosion
+existing
+beardfish	en:Fish
+rotates
+visited
+cromartyshire
+counted
+theorize
+pushed
+happens
+referred
+unattended
+named
+placed
+compacting
+called
+advanced	en:Timekeeping	en:Phonetics	Reference templates lacking the author or editor parameters
+considered
+dissolving
+dropped
+american	ro:Nationalities
+rolled
+sick	en:Agriculture
+occurs
+vibrates
+america
+andorra
+newly
+gradually
+glued
+deepest
+else	en:Computing
+germinating
+reproduces
+aristotle
+revolves
+period	sv:Ice hockey
+africa
+made	fi:Fish
+smoothed
+understand	en:Thinking
+peck	en:Units of measure
+assembling	Quotation templates to be cleaned
+removing
+buteshire
+smoother
+ludlamite	en:Minerals
+physically
+even
+explored
+attracted
+reached
+gave
+inflates
+fewest
+begin
+vibrated
+become
+breeding
+diffusion	fr:Physics	en:Weather	en:Physics	en:Liquids
+assumes
+brought
+retain
+narrower
+pours
+eventually	en:Time	en:Mathematics
+inflated	en:Economics
+pouring
+banging	Webster 1913
+notify
+withstand
+composed
+known	en:Algebra
+denser
+indicates
+acquiring
+earlobes
+viewed
+sending	is:Sports	fo:Transport	fo:Sports	fo:Media	fo:Communication
+climbed
+activating
+kg	mul:Metrology	Translingual symbols	Translingual lemmas	Symbols for SI units
+manufactured
+together
+plugged
+knows
+km	mul:Metrology	egy:Colors	Translingual lemmas	Translingual abbreviations
+laid
+roaming	en:Telecommunications	en:Computing
+knew	Middle English nouns	Middle English lemmas
+filled
+gathered	en:Quakerism
+weighing
+competes
+electrocuted
+requiring
+stored
+able
+bushes
+efficiently
+warmed
+scientifically
+specialize	en:Biology
+copied
+niger	la:Colors
+larvae
+british
+plugging	Webster 1913
+absorbed
+suggests
+faster	sv:Female	sv:Family members	da:Family
+picked	en:Zoology	Webster 1913
+west	nl:Compass points	enm:Compass points	en:Meteorology	en:Compass points	ang:Compass points
+dramatically
+expressed
+directly
+uzbekistan
+took
+catching
+erodes
+floats
+already
+obejcts
+occur	en:Sciences	Word of the day archive
+tying	en:Mining
+surviving
+follows
+affected	en:Algebra
+chick	en:Chickens	en:Birds	en:Baby animals	Yola nouns	Yola lemmas
+becomes	en:Computing
+coded
+emitted
+nepal
+errors
+specialized
+became
+locate
+bush	sq:Botany	en:Hunting	en:Horticulture	en:Hair	en:Baseball	bsk:Animals
+guadeloupe
+burma	sh:Marriage	sh:Jewelry
+communicates
+farthest
+contracts
+seeping
+accidentally
+ball	gd:Anatomy	gd-noun 2	ga:Anatomy	en:Toys	en:Sports	en:Sex	en:Printing	en:Pinball	en:Mathematics	en:Football (soccer)
+grasslands
+attracting
+negatively
+palms
+harder
+included
+says
+occupied
+highly
+allows
+burn
+looked
+decides
+kicked	en:Smoking
+exactly
+followed
+rapidly
+inherited
+newfoundland
+manipulating
+easier
+appetite	Webster 1913
+traveled
+credited
+extending
+caernarfonshire
+splashed
+closest
+activated
+sized
+farther
+impacting
+buried
+stood
+pupae
+crash	fr:Economics	fr:Computing	es:Economics	es:Computing	en:Sound	en:Software	en:Medicine	en:Management	en:Computing
+observes
+backbones
+merioneth
+fire	en:Sports	en:Physiology	en:Philosophy	en:Fire	en:Buttons	en:Alchemy
+destroys
+represented
+mimicking
+hundreds
+dissolved
+thinks
+mosquitoes
+based
+using	Limos Kalinga nouns	Limos Kalinga lemmas
+closely
+began	Old English words prefixed with be-	Old English verbs
+containing
+remain
+shallower
+diseases
+received
+countries
+labybug
+exerted
+decayed
+camouflaged
+stopping	en:Mining
+caverns
+creating
+fertilizing
+supplying
+completes
+receives
+components
+discarded
+evaporating
+expiriments
+killing
+association	fr:Object-oriented programming	fr:Economics	en:Statistics	en:Object-oriented programming	en:Collectives
+poisons
+unusually
+enemy
+eliminate
+undisturbed
+examines
+seen	en:Arabic letter names
+monaco	fr:Cocktails
+seem
+burried
+erupts
+blew	kw:Hair	enm:Colors
+galapagos
+found
+releasing
+pot	tt:Units of measure	sl:Roads	sl:Bodily fluids	pl:Bodily fluids	nrf:Containers	fr:Oenology	fr:Cooking	fr:Card games
+disperses
+taken
+analyzes
+replanted
+came
+deflected	en:Botany
+examined
+takes
+froze
+stirred
+workers
+gives
+preferred	en:Finance
+slipping
+stopped	en:Phonetics	en:Mechanics
+discovering	Quotation templates to be cleaned
+occurred
+laying
+noticed
+black	en:Typography	en:Snooker	en:Politics	en:Colors	en:Chess	en:Card games	en:Board games	en:Blacks	en:Billiards	en:Baseball
+organims
+replaced
+entirely
+describes
+actually
+showers
+subtracting
+flowed
+threatens
+partially
+supported
+country	sv:Musical genres	it:Music	fr:Musical genres	en:Mining
+transmitance
+becoming	en:Philosophy
+urine	en:Urology	en:Physiology	en:Bodily fluids
+remains	en:Death
+mainly
+regionial
+erupting
+uk	nl:Children	nl-noun plural matches generated form
+wood	en:Woods	en:Music	en:Golf	en:Chess
+cracks
+details
+leaking
+beaver	en:Rodents	en:Headwear	en:Hair	en:Browns
+migrating
+acquired	en:Medicine
+strengthens
+beforehand
+offers
+involves
+labeled	en:Chemistry
+preserves
+sint
+brecknockshire
+replacing
+destroying
+enhanced
+multiplying
+longer
+temperate	en:Geology
+taiwan
+palestine
+especially
+purchased
+nuts	en:Poker
+leads
+nonrecyclable	Translation table header lacks gloss
+alfred
+allow
+kills
+away	en:Sports	en:Baseball	ceb:Violence	ceb:Talking	ceb:Sports	ceb:Boxing	Waray-Waray nouns	Waray-Waray lemmas
+color	roa-opt:Colors
+ranges
+planted
+needed
+eroding
+thicker
+dried
+nairnshire
+anything
+overpopulated	Reference templates lacking the author or editor parameters
+screw
+lived
+successful
+emitting
+disease	en:Pathology	en:Diseases
+race	fr:Zoology	en:Taxonomy	en:Racism	en:Gaits	en:Computing	en:Collectives
+brighter
+waning	North Frisian nouns	North Frisian lemmas	Mooring North Frisian
+dramatic
+macedonia	it:Salads	it:Cooking
+bone	en:Whites	en:Surveying	en:Skeleton	en:Football (American)	en:Dominoes	en:Colors	en:Carpentry
+bounced
+storing	nl:Radio
+renewed
+sprayed
+african
+israel
+nonliving
+spins
+observing
+magnetoplumbite	en:Minerals
+surrounds
+clearest
+atmoshere
+sturdy
+wheeled
+crumples
+poured
+loosen
+continually	en:Time
+bosnia	fi:Languages
+femtometers
+monitored
+burckhardtite	en:Minerals
+seeps
+positively
+travelled
+shirts
+far	vo:Light sources	tr:Light sources	tr:Cosmetics	sv:Parents	sv:Male	sv:Family members	sq:Light sources	ro:Light sources	oc:Nautical	nn:Family
+review	en:Law
+fat	vo:Family	tbl:Four	kwh:Four	jmd:Four	en:Printing	en:Obesity	en:Golf	en:Fats and oils	bzq:Four
+herzegovina
+pecking
+lakeisha
+give
+identifies
+rained
+weater
+plucked
+lose
+conclude	en:Logic
+destroy	en:Computing
+slope	en:Military	en:Mathematics
+limiting
+matches
+collapsing
+following	en:Collectives
+smooths
+completely
+nymph
+chicks
+sediments
+sexual	en:Sexuality	en:LGBT	en:Biology
+requires
+dividing
+songbirds
+tongue	en:Religion	en:Nautical	en:Music	en:Footwear	en:Anatomy
+vatican
+consume	en:Economics
+seeing	fi:Astronomy	en:Astronomy
+decomposes
+nonmetallic	en:Chemistry
+reduces
+inheriting
+enables
+pollinating
+wedging	en:Construction
+droplets
+caused
+bigger
+safest
+suggest
+pressured
+kill	gmq-bot:Goats	gmq-bot:Baby animals
+reflectiveness
+performed	IPA for English using .ˈ or .ˌ
+happened
+sends
+tibet
+samoa	fi:Languages
+deforested
+crumple
+ended
+screws
+hanging	en:Violence	en:Death	en:Chess	en:Baseball
+hotter	en:People	Quotation templates to be cleaned	Northern England English
+indian
+infrequently
+resembles
+illnesses
+tell
+used
+metamorphosed
+martinique
+mayotte
+frog	vo:Animals	vo:Amphibians	ga:Horses	ga:Amphibians
+describing
+harmed
+avoiding
+keeps
+described
+england
+repeatedly	en:Time
+edison
+adapting
+webs
+exceptionally
+comparing
+finished
+winslow
+squeezed
+twice
+wigtownshire
+preparing
+bones	en:Musical instruments	Middle English noun plural forms	Middle English non-lemma forms	Ladin non-lemma forms	Ladin adjective forms
+keep	yua:Anatomy	en:Engineering	en:Cricket
+fission	fr:Physics	en:Physics	en:Biology
+environmentally
+chemically
+clawing	Middle English nouns	Middle English lemmas
+contacted
+alternately	en:Mathematics
+death	en:Death
+balls
+determines
+according	IPA for English using .ˈ or .ˌ
+boards	en:Publishing
+investigations
+affecting
+died
+causing
+relies
+fungus	en:Mycology	Visual dictionary
+kirkcudbrightshire
+otters
+excretes
+wells
+correcting
+colored	South African English
+weed
+carried
+applying
+original	enm:Religion	enm:Nature	enm:Literature	enm:Law	enm:Family	Translation table header lacks gloss
+studied
+unchanged
+heaviest
+heavily
+enough
+allowing
+instead
+distracted
+differ
+macau
+contained
+cemented	Translation table header lacks gloss
+listed
+various
+uproot
+dickson
+anemone	it:Flowers	en:Flowers	en:Cnidarians	en:Buttercup family plants
+wedge	en:Typography	en:Simple machines	en:Phonetics	en:Meteorology	en:Mathematics	en:Golf	en:Geometry	en:Computing	Word of the day archive
+accuracy	Webster 1913
+buds
+cafeteria	en:Rooms	en:Restaurants
+laptop	sv:Computing	sv:Computer hardware	pt:Computing	pl:Computing	nb:Computing	en:Computing	en:Computer hardware
+fir
+harvested
+blacksmith	en:People	en:Occupations	en:Labroid fish	en:Fish
+bicyclist	en:People	en:Cycling
+antonia
+wasted	en:Recreational drugs	en:Medicine	en:Drinking	en:Alcoholism
+manufacturing
+raj	sh:Afterlife	pl:Afterlife	hu:Military
+exhaled
+sister	sco:Female	sco:Family	en:Theory of computing	en:Nymphalid butterflies	en:Female family members	en:Construction
+geranium	nn:Plants	nb:Plants	en:Reds	en:Oranges	en:Geraniales order plants	en:Flowers
+afterwards
+molly	en:Toothcarps	en:Female animals
+banks
+fairly
+bakes
+july	fy:Months
+engineers
+baker	sl:Chemical elements	nb:Occupations	en:People	en:Occupations
+ray	ie:Fish
+sorted	Translation table header lacks gloss
+au	mi:Liquids	ksx:Mammals	ksx:Dogs	haw:Liquids	cim:Directions	cia:Mammals	cia:Dogs	ca:Birds	an:Birds
+advancement
+applies
+restaurants	Norman noun forms	Norman non-lemma forms
+dolphins
+drums
+detail
+drive	pt:Computer hardware	en:Typography	en:Tennis	en:Psychology	en:Philanthropy	en:Mining	en:Military	en:Golf	en:Football (soccer)	en:Football (American)
+greatly
+stow
+kira
+fillings
+prove	en:Printing	en:Baking
+sunglass
+sights
+insulate
+concluded	IPA for English using .ˈ or .ˌ
+birdseed	en:Animal foods
+accelerating
+ptarmigan	en:Grouse
+existed
+drain	en:Pinball	en:Liquids	en:Electronics
+currents
+procedures
+scott
+hiker	en:People
+computers
+pollinated
+salty	en:Taste	en:Linguistics	en:Emotions
+b	sl:Latin letter names	mul:Subatomic particles	head tracking/no lang category	en:Physics	en:Cricket	en:Computing	en:Astronomy	attention lacking explanation
+sheri
+litter	nrf:Sports
+oval	en:Shapes	en:Mathematics	ca:Shapes
+benefited
+medically
+combines
+helium	sv:Noble gases	se:Chemical elements	nl:Noble gases	nl:Chemical elements	ms:Noble gases	ms:Chemical elements	li:Noble gases	li:Chemical elements	la:Noble gases	la:Chemistry
+entered
+noticeable
+compares
+predictions
+tells
+advantages	IPA for English using .ˈ or .ˌ
+planters
+balsam	pl:Pharmacology	pl:Medicine	pl:Cosmetics	ga:Plants	ga:Medicine	ga:Materials	en:Gums and resins	en:Ericales order plants	en:Conifers
+severe
+burrowing
+emerge
+publications
+represent
+bed	rop:Animals	nn:Horticulture	nl:Agriculture	nb:Horticulture	en:Sleep	en:Sex	en:Printing	en:Geology	en:Furniture	en:Darts
+thorns
+notes
+faraday	en:Units of measure	en:Physics	en:Chemistry
+joey	en:Theater	en:People	en:Military	en:Marsupials	en:Circus	en:Baby animals
+ben	tr:Psychology	sv:Skeleton	sv:Clothing	sv:Anatomy	sga:Male	sga:Human	sga:Female	sga:Family	rmt:Family	odt:Body parts
+girls
+thinnest
+fernandez
+scars
+generated
+clue
+brianna
+beakers
+whales	Middle English noun plural forms	Middle English non-lemma forms
+predicted
+contributed
+possibly
+disadvantage
+pat	xkl:Four	slp:Four	sk:Chess	ree:Four	reb:Four	pyu:Four	pl:Chess	nl:Chess	mrw:Four	mqy:Four
+static	en:Programming
+monarchs
+originally
+varied
+borer
+strange	en:Physics
+respect
+evan
+neptune
+leeuwenhoek
+varies
+compounds
+cardinals
+allergies
+growling	en:Jazz
+preyed
+visiting
+loggerhead	en:Zoology	en:Tyrant flycatchers	en:Turtles	en:Tools	en:Shrikes	en:Nautical	en:Ducks	en:Botany	en:Asterales order plants	Word of the day archive
+houseplant
+mistakes
+heavier
+sunflowers
+primarily
+jefferson
+expanded
+sheets
+swallowed
+bacterial	en:Microbiology
+venus
+desktop	pt:Computing	nl:Graphical user interface	nl:Computer hardware	it:Computing	en:Graphical user interface	en:Computing
+related	en:Music	en:Mathematics
+divides
+patrick
+divide
+maria	Woi nouns	Woi lemmas	Wandamen nouns	Wandamen lemmas
+fluffy
+ricardo
+trenches
+notice
+hardwood	en:Sports	en:Forestry
+effectiveness
+owner	en:People
+sold	Webster 1913
+roof	en:Roofing	en:Mining
+clara
+midnight	en:Times of day
+lumber	en:Gaits	en:Building materials	en:Baseball
+captures
+cheek	en:Face	en:Biology	en:Anatomy
+lawnmower	en:People
+label	fr:Music	en:Music	en:Heraldic charges	en:Graphical user interface	en:Computing	en:Biochemistry	en:Architecture
+message	en:Communication
+aquarium
+breed	Yola nouns	Yola lemmas
+potted
+tame	en:Mathematics
+interpret	en:Talking	dsb:People	dsb:Music	cs:Programming
+arises
+tanya
+classmates
+handling
+renew	en:Theology
+tries
+biodegradable
+camping
+illustrates
+hypothesized
+movie	en:Cinematography
+feeder	gv:Arachnids	en:Video games	en:People	en:Navigation	en:Law	en:Education	en:Baseball
+pea	wa:Anatomy	mi:Mammals
+approach	en:Tennis	en:Military	en:Golf	en:Bowling
+variation
+hypothesizes
+tried	en:Law
+tables	en:Backgammon	Middle English noun plural forms	Middle English non-lemma forms
+experiencing
+inactive	en:Physics	en:Chemistry
+orion
+loved	en:Love
+convinced
+stalk
+ruben
+ravi
+struck
+join	en:Databases	en:Computing	en:Algebra
+businesses
+extinguisher
+kurt	tr:Canids	lv:Fire
+pet	rm:Anatomy	pl:Smoking	nl:Headwear	gmq-bot:People	fur:Anatomy
+fear	gd-noun 2	ga:People	ga:Male	ga:Family members	fy:Plants	fy:Body parts	en:Fear	en:Emotions	West Frisian nouns	West Frisian lemmas
+roadside
+went
+considering
+eduardo
+traveling	en:Basketball
+sydney
+jesus
+fires
+contents
+hairs
+hardest
+coach	nl:Occupations	es:Sports	en:Vehicles	en:Sports	en:Rail transportation	en:People	en:Occupations	en:Nautical
+riders
+leaked
+spilled
+conserves
+crew
+bandage	nrf:Medicine	fr:Medical equipment	en:Medical equipment
+robert
+scrap
+strings	en:Music
+listens
+encourage
+bobby	Scottish English	Multicultural London English
+joshua
+russell
+laundry	en:Laundry
+nurse	en:People	en:Nautical	en:Horticulture	en:Healthcare occupations	en:Breastfeeding	en:Babies
+jonathon
+smelling
+stand	en:Sports	en:Nautical	en:Military	en:Forestry	en:Cricket	en:Card games	Webster 1913
+squirts
+woodpeckers
+outcome	en:Sports	en:Probability theory	en:Education
+jagged	en:Computing
+honeybees
+may	wa:Months	uz:Months	tt:Months	ie:Months	en:Pome fruits	az:Months
+supplied
+strike	pt:Bowling	pt:Baseball	fr:Bowling	es:Bowling	es:Baseball	en:Violence	en:Sports	en:Nautical	en:Geology	en:Finance
+drained
+grasshopper	en:Crickets and grasshoppers	en:Cocktails
+katie
+pacific
+grains
+driveway	en:Roads
+powerful	en:Mining
+diatoms
+industries
+skateboarding	en:Sports
+strongest
+louisa
+naomi
+exhibiting
+equally
+tops	en:Darts
+jars	fr:Male animals	fr:Birds
+cotton	en:Textiles	en:Mallow subfamily plants	en:Horticulture	en:Fibers
+viceroy	en:People	en:Nymphalid butterflies	en:Heads of state
+bumped
+ned	en:People
+disorders
+maturation
+son	vo:Family	vi:Cosmetics	sv:Male family members	sco:Family	es:Music	en:People	en:Family	dsb:Freshwater birds	dsb:Anatids
+plover
+earlier	en:Time
+fluorescence	fr:Physics	en:Physics	en:Light sources
+brian	Northern England English
+petroleum	en:Petrochemistry	en:Organic chemistry	en:Liquids
+calculated
+fasten
+tumbleweed	en:Plants
+likes
+spawning
+magnetizing
+settings
+incoming	en:Military
+stadiums
+author	en:People	en:Occupations	en:Authors
+illustrate
+adjusted
+woods	en:Military	Entries with deprecated labels
+pitched
+hose	enm:Clothing	enm:Armor	en:Sports	en:Computing	en:Clothing
+positions
+sort	nb:Colors	hu:Clothing	en:Typography	en:Mathematics	en:Computing	da:Colors	da:Botany
+weights	en:Weightlifting
+experiences
+vertebrates
+pedaling	en:Music
+uranus
+cleanup	en:Baseball
+arenal
+october	rm:Months	la:Months
+dispose
+trevor
+rarely
+cantaloupe	en:Oranges	en:Gourd family plants	en:Fruits
+behind	en:Buttocks	en:Baseball	en:Australian rules football
+tori	en:Martial arts	en:Judo	ca:Chemical elements
+derek
+sledge	en:Vehicles	en:Cricket
+perkins
+petri
+teaches
+beetle
+ana	tr:Law	tr:Family	sv:Genealogy	lmy:Family	it:Medicine	ga:Weather	en:Internet	az:Family	Zazaki palindromes	Zazaki nouns
+lamar
+intended
+invertebrate	en:Fear
+row	wym:Corvids	wym:Birds	hsb:Death	en:Weightlifting	en:Nautical	dsb:Burial	Vilamovian terms with audio links	Vilamovian nouns	Vilamovian lemmas	Vilamovian feminine nouns
+roy	Webster 1913	Old French nouns	Old French masculine nouns	Old French lemmas
+louder	comparative of/without nocat	Middle English non-lemma forms	Middle English comparative adjectives	Middle English adverb comparative forms
+attempting
+nonvascular
+sports	lv:Sports	en:Sports
+mills
+anderson
+disposing
+boulders
+families	Ladin noun plural forms	Ladin non-lemma forms
+teaspoon	en:Units of measure	en:Tea	en:Cutlery
+intelligent	fr:Thinking
+probe	en:Surgery	en:Sciences	en:Go	en:Biochemistry	en:Astronautics	en:Aeronautics
+doctor	ro:Occupations
+suggested
+lining
+inland	Webster 1913	Translation table header lacks gloss
+dull
+meteorologists
+saturn	en:Nymphalid butterflies
+digesting
+thought
+counts
+paint	en:Poker	en:Paintball	en:Military	en:Liquids	en:Computing	en:Basketball
+barking	Translation table header lacks gloss
+cheese
+leg	tcs:Anatomy	enm:Limbs	enm:Cuts of meat	enm:Anatomy	en:Telephony	en:Sports	en:People	en:Nautical	en:Military	en:Limbs
+quickgrow
+decided
+observer	en:People	en:Military
+beautiful	en:Appearance
+worked	Reference templates lacking the author or editor parameters
+identification
+liberty
+let	fr:Tennis	en:Tennis	Westrobothnian verb forms
+brand	oc:Nautical	en:Marketing
+manipulated
+defined	en:Bodybuilding
+buntings
+windmills
+models
+reef
+spray	en:Zoology	en:Medicine	en:Liquids	en:Computing	en:Computer security
+trench	it:Clothing	fr:Clothing
+eyewear	en:Headwear
+mall	Westrobothnian nouns	Westrobothnian lemmas
+sampling	en:Statistics	en:Signal processing	en:Music
+erlenmeyer
+mitchell
+scorpio	la:Weapons	la:Military	la:Arthropods
+pointed
+mission	en:Directives
+bulldozer	fr:Vehicles
+doctors
+gently
+must	vro:Colors	vep:Colors	hu:Beverages	en:Elephants
+wetted
+calculations
+flask
+nearsighted
+photography
+supergrow
+sunrise	en:Time
+grazing
+thistle	en:Thistles	en:Heraldic charges
+jacksonville
+patricia
+hibernate
+facts
+skunks	pl:Mephitids
+hooke
+remember
+voyager	en:People
+pencils
+spoonful
+amoebas
+mechanism
+saltwater	en:Liquids	Entries using missing taxonomic name (species)	Entries missing English vernacular names of taxa
+mix	fr:Music
+demonstrating
+campsites
+latest
+validate
+maintains
+stiff	en:People	en:Nautical	en:Mathematics	en:Death	en:Cooking
+sill	en:Military	en:Geology	en:Construction	en:Architecture	en:Anatomy
+weathers
+sprinklers
+marta	pt:Mustelids	pt:Mammals
+plastics
+one	nfl:Hunting	en:Set theory	en:One	en:Number theory	en:Mathematics	en:Cricket
+norma	cs:Sociology
+bauxite	it:Minerals
+cardiovascular	pt:Anatomy
+drumstick	en:Cuts of meat	en:Brassicales order plants
+dye	ht:Religion
+stayed
+trips	en:Poker
+ash	en:Olive family plants	en:Latin letter names	en:Greys	en:Chemistry
+showed
+technological
+perry	en:Pome fruits	en:Alcoholic beverages
+bison	nrf:Bovines	la:Mammals	en:Bovines
+understood
+potting
+resulted
+makeup	en:Manufacturing	en:Education	en:Cosmetics
+bus	vls:Vehicles	pl:Vehicles	nl:Vehicles	nl:Transport	gd-noun 2	ga:Vehicles	ga:Computing	en:Vehicles	en:Transport	en:Automotive
+charts
+lid	nl:Grammar	enm:Eye	enm:Cooking	enm:Containers	en:Surfing	en:Microelectronics
+cleanly
+solved
+anne	tr:Female	tr:Family
+embryo	sv:Embryology	sv:Developmental biology	nn:Botany	nn:Biology	nb:Botany	nb:Biology	en:Embryology	en:Developmental biology	en:Botany
+presentation
+blows
+lit	pl:Currencies	pl:Chemical elements	pl:Alkali metals	Zay nouns	Zay lemmas	Westrobothnian verbs	Westrobothnian transitive verbs	Westrobothnian lemmas	Westrobothnian intransitive verbs
+bernice
+hat	enm:Headwear	enm:Forests	enm:Armor	en:Video games	en:Typography	en:Programming	en:Headwear	ang:Temperature
+hides
+starts
+pendulum
+wrinkled
+waters
+birdhouse	en:Animal dwellings
+trapped
+felt	enm:Headwear	enm:Fabrics	en:Fabrics
+reefs
+dysentery
+camp	en:Video games	en:Collectives	en:Agriculture	ca:Physics	ang:Military
+chameleons
+feathered	en:Rowing	en:Manufacturing	en:Engineering
+technologies
+checks
+involved
+cooker	en:Home appliances
+failure
+architects
+chalk	enm:Rocks	en:Writing instruments	en:Sports	en:Rocks	en:Military	en:Climbing	en:Basketball
+roadway	en:Roads
+designs
+neighborhood	en:Topology	en:Graph theory	en:Collectives
+moyers
+bolt	hu:Buildings	en:Tools	en:Politics	en:Nautical	en:Locks	en:Law	en:Gaits	en:Fasteners	en:Construction	en:Botany
+demonstrate
+involving
+crocodile	nrf:Reptiles	fr:Reptiles
+jamal
+hidden
+records
+garry
+idea
+truck	sv:Vehicles	en:Vehicles	en:Theater	en:Sailing	en:Rail transportation	en:Nautical	en:Military
+father	en:Parents	en:Male
+shelves
+usable
+caterpillars
+street	en:Sports	en:Roads	en:Poker	en:Mormonism
+scatterplot
+scraped
+harvest
+cases
+calcium	nl:Chemical elements	la:Chemical elements	fr:Chemical elements	en:Chemical elements	en:Alkaline earth metals
+cubic
+previous
+apply
+mars	sv:Months	sq:Months	shi:Months	rm:Months	no:Months	nl:Nautical	is:Gregorian calendar months	fro:Months	fr:Months	fo:Months
+growls
+transmit
+mary	en:People	en:LGBT
+yet	West Country English	Tok Pisin usage examples with the translation missing	Tok Pisin terms with quotations
+newborns
+irene	en:Organic compounds
+pumping
+screech
+penny	fr:Currencies
+streets
+skeletons
+chains
+held
+strummed
+ammonia
+classmate	en:People
+program	tr:Programming	sv:Computing	sh:Computing	nn:Computing	nb:Computing	hu:Politics	hu:Computing	en:Directives	en:Computing	en:Broadcasting
+hydrogen	nn:Chemical elements	nb:Chemical elements	en:Chemical elements	da:Chemical elements
+carpenter	en:Zoology	en:People	en:Occupations	en:Nautical	en:Isopods
+lowers
+tips	sv:Sports	lv:Zoology
+peroxide	en:Organic chemistry	en:Inorganic chemistry
+cast	en:Wicca	en:Printing	en:Nautical	en:Medicine	en:Hunting	en:Computing	en:Collectives	en:Astrology
+identified
+coats
+elevator	en:Anatomy	en:Aeronautics
+terms
+disadvantages
+tighter	Webster 1913
+trap	sq:Nautical	pl:Nautical
+guide	sv:Occupations	sv:Computing	en:Printing	en:People	en:Occult	en:Military
+competing
+evenly	en:Mathematics
+van	vi:Dances	roa-gal:Agriculture	ht:Weather	gv:Vehicles	en:Vehicles	en:Mining	en:Aerospace	da:Vehicles
+betsy
+russian
+wife	sco:People	sco:Female	en:People	en:Marriage	en:Female	en:Family
+conclusions
+matt	sv:Chess	nn:Chess	nb:Chess	et:Chess	Westrobothnian lemmas	Westrobothnian adverbs
+roads	en:Nautical
+hammers	West Frisian noun forms	West Frisian non-lemma forms
+carmine
+ships
+phone	fr:Linguistics	en:Phonetics
+comfortable
+style	fr:Botany	fr:Art	en:Zoology	en:Surgery	en:Entomology	en:Computing	en:Botany	Word of the day archive
+classrooms
+stated
+care
+apartments
+hive	en:Microsoft	en:Entomology	en:Computing	en:Bees
+damages	en:Money	en:Law
+bottles
+seesaw
+confirmed	en:Christianity
+punch	en:Violence	en:Entomology	en:Cocktails	en:Buttons	en:Butterflies	en:Beverages
+nick	en:Tennis	en:Printing	en:Mining	en:Law enforcement	en:Internet	en:Genetics	en:Gaming	en:Cricket	Word of the day archive
+modern	en:Time
+indoors
+feeds
+categories
+demonstrated
+glacial	en:Temperature
+sits	eu:Insects
+darryl
+dimples
+explore
+decomposed
+sell	en:Money	en:Business
+muddy
+blown	en:Automotive
+sting
+transformation	en:Politics	en:Mathematics	en:Linguistics	en:Genetics
+drummer	nl:Music	fr:Musicians	en:People	en:Musicians	en:Music
+rusts
+seaside	en:Water	en:Landforms
+vitamins
+glassware
+discoveries
+seismometers
+accounts
+clues
+date	en:Palm trees	en:Fruits	en:Calendar terms
+ariana
+sandbars
+astronomical
+existence
+begun	vo:Plants
+insecticide	en:Death
+cork	fr:Snowboarding	fr:Skiing	fr:Skateboarding	en:Snowboarding	en:Skiing	en:Skateboarding	en:Oaks	en:Fishing	en:Botany
+clearly
+anton
+launched
+dan	sl:Time	sl:Days of the week	sh:Time	gcf:Anatomy	fr:Martial arts	en:People	en:Mining	en:Martial arts	cs:Martial arts	cs:Geology
+basketball	nn:Sports	nb:Sports	en:Sports	en:Basketball
+fertilized
+snooze	en:Sleep
+unlabeled
+enrich	en:Physics	en:Chemistry
+grandfather	en:Male family members	en:Law	Word of the day archive
+trucks
+robots	lv:Science fiction	lv:Robotics
+drake	nn:Mythology	nb:Mythology	en:Mayflies	en:Male animals	en:Ducks	en:Dragons	dum:Mythological creatures
+alley	en:Tennis	en:Roads	en:Bowling	en:Baseball
+blow	en:Wind	en:Singing	en:Scientology	en:Recreational drugs	en:Marijuana	en:Colors
+obtain
+rosebush	en:Shrubs	en:Roses
+cave
+smells
+marshall	Middle English nouns	Middle English lemmas
+creatures
+hector	en:People	Word of the day archive	Reference templates lacking the author or editor parameters
+accepted	IPA for English using .ˈ or .ˌ
+opened
+monica
+migrates
+disappearance
+gemini
+manufacture
+moss	en:Mosses	en:Bryology	Regional English
+efforts
+jonas
+shoreline
+residents
+jamil
+indigo	nl:Colors	fi:Colors	en:Purples	en:Legumes	en:Colors of the rainbow	en:Colors
+andre
+game	pt:Video games
+tilts	lv:Sports	lv:Nautical	lv:Medicine	lv:Martial arts	lv:Electronics	lv:Bridges
+jog	en:Gaits	en:Exercise
+solving
+critical
+balloons
+mercury	en:Sumac family plants	en:Spurges	en:Sciences	en:Liquids	en:Chemical elements	en:Amaranths and goosefoots
+unexpected
+behaves
+conversations
+swings
+understands
+polished
+dinosaurs
+cap	sk:Male animals	sk:Goats	ro:Nautical	ro:Body parts	pl:Male animals	pl:Goats	fr:Nautical	fr:Geography	en:Zoology	en:Sports
+sounds
+dora	ang:Insects
+structural
+patient	fro:Medicine	en:People	en:Linguistics	en:Grammar
+ready
+spend
+basketballs
+bandages
+fronts
+ospreys
+clean	en:Weightlifting	en:Japanese fiction	en:Hygiene	en:Curling	en:Computing	en:Climbing
+piping	en:Sewing	en:Cooking	en:Botany
+watering
+theaters
+flashlights
+fasteners
+prepares
+interaction
+ernie
+challenge	en:Sports	en:Military	en:Law	en:Hunting	en:Directives
+earl	en:Nymphalid butterflies	en:Nobility	en:Entomology
+lightbulb
+francis	lt:Chemical elements
+visit
+landscape

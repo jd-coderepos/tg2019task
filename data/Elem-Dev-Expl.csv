@@ -1,0 +1,1379 @@
+VASoL_2008_3_26	98b6-2bc9-0f82-84f9	flexible means high flexibility	CENTRAL
+VASoL_2008_3_26	ac40-d9c4-86a2-f4bb	flexibility means the shape of a material or of an object can be easily changed	CENTRAL
+VASoL_2008_3_26	4bc1-99e4-3bcc-aac0	a drinking straw is flexible	CENTRAL
+VASoL_2008_3_26	9349-71b6-e9b8-fd21	a drinking straw is a kind of object	GROUNDING
+Mercury_SC_415491	1a29-2268-eeb7-edba	the moon orbiting the Earth approximately occurs 13 times per year	CENTRAL
+Mercury_SC_415491	1a4b-82df-0613-5268	approximately means about	LEXGLUE
+VASoL_2007_3_33	cb74-f946-eef2-3ca5	as the temperature of a liquid increases , the rate of evaporation of that liquid will increase	CENTRAL
+VASoL_2007_3_33	a0b2-a45f-01e1-4bf4	boiling or evaporation means change from a liquid into a gas by adding heat energy	CENTRAL
+VASoL_2007_3_33	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+VASoL_2007_3_33	d247-b029-3aab-0950	the sun is a source of radiation or heat called sunlight	CENTRAL
+VASoL_2007_3_33	5d6a-544c-b296-832e	a lake is a kind of body of water	GROUNDING
+VASoL_2007_3_33	7afc-2bcd-13a5-2d35	heat means temperature increases	LEXGLUE
+Mercury_SC_415772	9773-5df7-84db-74b3	gravity or gravitational force causes objects that have mass or substances to be pulled down or to fall on a planet	CENTRAL
+Mercury_SC_415772	5650-b213-46ea-d9dd	a ball is a kind of object	GROUNDING
+Mercury_SC_415772	fe06-26b1-978b-9642	come down is similar to falling	LEXGLUE
+Mercury_SC_415366	eccc-ccef-2b84-af94	earthworms create tunnels in soil	CENTRAL
+Mercury_SC_415366	dd64-2412-f733-7659	to create means to make	LEXGLUE
+Mercury_SC_415366	0456-0148-2518-a48e	a tunnel is a kind of hole	LEXGLUE
+Mercury_SC_415366	004d-1843-0f4a-8ad4	soil is a part of the ground outside	LEXGLUE
+Mercury_SC_415366	b964-cdbd-a226-4027	tunnels in soil loosen that soil	CENTRAL
+Mercury_SC_415366	1ab8-7900-02c0-a2d6	the looseness of soil increases the amount of oxygen in that soil	CENTRAL
+Mercury_SC_415366	d7c1-cdfd-2de5-6b7d	plants absorb nutrients or water or oxygen from soil into themselves through their roots	CENTRAL
+Mercury_SC_415366	1015-4572-2293-d185	taking in something means receiving or absorbing or getting something	LEXGLUE
+Mercury_SC_415366	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_415366	f6bf-c88d-502b-826b	an earthworm is a kind of animal	CENTRAL
+Mercury_SC_415366	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+Mercury_SC_415366	ff68-4699-0671-f8b7	to make something easier means to help	LEXGLUE
+Mercury_SC_415366	7a74-426d-ec77-f296	getting something increases the amount of that something	LEXGLUE
+Mercury_SC_416133	Good	a food contains nutrients for living things	CENTRAL
+Mercury_SC_416133	31c6-d095-6939-21a9	nutrients are a source of energy for living things	CENTRAL
+Mercury_SC_416133	063d-b437-ec5f-4fbf	if something is a source of something else then that something usually contains that something else	LEXGLUE
+Mercury_SC_416133	49fd-6aeb-83eb-c25c	contain is similar to store	LEXGLUE
+Mercury_SC_415026	842e-1407-d27c-3e94	greatest means largest or highest or most	ROLE
+Mercury_SC_415026	5086-b21f-9f0a-e67d	an alligator is a kind of aquatic animal	CENTRAL
+Mercury_SC_415026	335b-df55-9aa4-74ac	an aquatic animal or aquatic plant requires great amounts of water to survive or thrive	CENTRAL
+Mercury_SC_415026	6bf3-1b34-7a15-0fe9	as water increases in an environment , the population of aquatic animals will increase	CENTRAL
+Mercury_SC_415026	6a1a-d4cc-de02-eac6	when a body of water receives more water than it can hold , a flood occurs	CENTRAL
+Mercury_SC_415026	19f5-4162-4c01-59aa	increase means more	LEXGLUE
+Mercury_SC_415026	6661-099d-ac05-1f21	population increase means more survive	LEXGLUE
+Mercury_SC_415026	bf2f-e380-be4e-ca06	requiring is similar to needing help	LEXGLUE
+Mercury_SC_415026	1065-849d-5c96-0863	a coastal area is a kind of environment	GROUNDING
+Mercury_SC_416526	ecf3-617e-32df-416b	a leaf is a part of a green plant	CENTRAL
+Mercury_SC_416526	8958-fc28-d9ce-a1d6	a leaf performs photosynthesis or gas exchange	CENTRAL
+Mercury_SC_416526	8754-eb6c-1c85-c80a	to do a job means to perform a job	LEXGLUE
+Mercury_SC_416526	0514-7919-c1bf-6188	a leaf absorbs sunlight to perform photosynthesis	CENTRAL
+Mercury_SC_416526	93b8-fdb5-f003-dedb	In the photosynthesis process carbon dioxide or water or sunlight has the role of raw material	CENTRAL
+Mercury_SC_416526	2851-a2b0-f5df-dae7	if something is a raw material in a process then that something is required for that process	CENTRAL
+Mercury_SC_416526	e9f8-f0c7-07ec-99de	to depend on or to rely on or to need means to require	LEXGLUE
+Mercury_SC_415541	5650-b213-46ea-d9dd	a ball is a kind of object	CENTRAL
+Mercury_SC_415541	a34e-4c17-742b-c689	an tennis ball contains air	CENTRAL
+Mercury_SC_415541	7855-8a61-a859-05ab	something that contains air is usually buoyant	CENTRAL
+Mercury_SC_415541	1603-cc51-e120-065e	buoyant means able to float in a liquid or gas	CENTRAL
+Mercury_SC_415541	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+Mercury_SC_416172	66b1-8f1d-a430-34b4	skin is used for protecting the body from harmful substances	CENTRAL
+Mercury_SC_416172	142e-2fac-bb31-2e5d	to protect means to defend	LEXGLUE
+Mercury_SC_416172	61e4-bb67-a031-8154	a germ is a kind of harmful substance	GROUNDING
+Mercury_SC_416172	87f9-3bab-fa6f-f24c	skin is the first or outermost layer around the body of some animals	CENTRAL
+Mercury_SC_416516	44cb-f847-aac2-4fc0	a pond is smaller or shallower than a lake	CENTRAL
+Mercury_SC_415764	782a-53e7-c1c7-aae0	an increase is a kind of change	GROUNDING
+Mercury_SC_415764	d10e-17d2-b2db-e326	force causes the speed of an object to increase or to decrease	ROLE
+Mercury_SC_416137	b03f-5050-0795-6e43	a flower is a source of nectar	CENTRAL
+Mercury_SC_416137	2ead-14dd-aede-6d07	if an object or a substance makes something then that object or that substance is a source of that thing	LEXGLUE
+Mercury_SC_416137	d42a-e547-fdf9-9c35	a flower is a part of a plant for attracting pollinators or producing seeds	CENTRAL
+Mercury_SC_416137	e470-cbe8-086a-5af9	nectar is used for attracting pollinators by plants	CENTRAL
+Mercury_SC_416137	2e89-d8e8-a8fb-9acc	a plant is a kind of living thing	GROUNDING
+Mercury_SC_416137	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+Mercury_SC_415348	1d43-ce6e-b5c5-c568	the thickness of the parts of an organism is an inherited characteristic	CENTRAL
+Mercury_SC_415348	cd12-aac7-4181-607b	thickness is a measure of how thick an object is	LEXGLUE
+Mercury_SC_415348	a036-70b7-7cb6-d950	a trunk is a part of a tree for supporting the tree	GROUNDING
+Mercury_SC_415348	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_415348	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_415348	87a0-dd02-dd6d-ee60	an organism is a living thing	LEXGLUE
+Mercury_SC_415348	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+Mercury_SC_415348	a51c-ef9e-4258-374f	a pecan tree is a kind of tree	GROUNDING
+Mercury_SC_415396	97d0-5256-918b-cee7	mountains are formed by earthquakes or volcanoes or plate tectonics	CENTRAL
+Mercury_SC_415396	8129-78ea-abe4-f382	an earthquake is a kind of natural event	CENTRAL
+Mercury_SC_415396	ba5a-219b-b187-3b98	a volcanic eruption is a kind of quick process	CENTRAL
+Mercury_SC_415396	3b7f-815d-511b-c7bb	a process is a kind of event	LEXGLUE
+Mercury_SC_415354	c2b0-bd30-2dc8-376e	balancing a ball on one's nose is a kind of trick	GROUNDING
+Mercury_SC_415354	5bbc-9036-eb08-38e4	a trick is a learned behavior	CENTRAL
+Mercury_SC_415696	e9ed-3032-6736-3077	friction occurs when two object's surfaces move against each other	CENTRAL
+Mercury_SC_415696	dc6a-e211-23ac-d827	friction is a kind of force	CENTRAL
+Mercury_SC_415696	26cb-7582-a17c-a0d6	friction causes the temperature of an object to increase	CENTRAL
+Mercury_SC_415696	f0a6-ff41-4499-55a5	warm up means increase temperature	LEXGLUE
+Mercury_SC_415696	7afc-2bcd-13a5-2d35	heat means temperature increases	LEXGLUE
+Mercury_SC_415696	9469-8559-7f35-1bbd	heating means adding heat	LEXGLUE
+Mercury_SC_415696	7ef3-7d2a-dd0a-7953	to add means to increase	LEXGLUE
+Mercury_SC_415696	0db5-f9d6-7b0f-b515	if something causes an increase in something else then that something produces that something else	LEXGLUE
+Mercury_SC_415696	0c4f-43da-c106-3620	a stick is a kind of object	GROUNDING
+Mercury_SC_415696	eb92-b0cd-c257-9bcf	a surface is a part of an object	GROUNDING
+Mercury_SC_415696	c4a5-564d-59d0-1074	to rub or to rub together means to move against	LEXGLUE
+VASoL_2010_3_5	522b-1df0-7e74-363f	folding an object causes that object to change shape	CENTRAL
+VASoL_2010_3_5	9098-c80a-ed21-5447	a paper is a kind of object	GROUNDING
+VASoL_2010_3_5	095a-404f-6149-222c	shape is a kind of physical property	CENTRAL
+Mercury_SC_415397	5cf8-8920-4274-dde5	new land can be formed by volcanoes erupting by lava cooling	ROLE
+Mercury_SC_415397	bed3-1cec-6cf8-d027	to make means to form	LEXGLUE
+Mercury_SC_415397	b5e9-24c9-bf9a-095f	a volcanic eruption is a kind of change	CENTRAL
+Mercury_SC_415397	d495-e54a-9fd2-0acc	land is a kind of landform	GROUNDING
+Mercury_SC_415397	ecdd-241e-c5c7-d03b	landform means surface feature or physical feature or land feature	LEXGLUE
+Mercury_SC_415397	7dea-62b3-c169-a6bf	a structure is a kind of feature	GROUNDING
+VASoL_2007_3_32	57e4-c7f7-0031-fb0a	herbivores only eat plants	CENTRAL
+VASoL_2007_3_32	dfcb-6cbb-85ac-9195	a cow is a kind of herbivore	CENTRAL
+VASoL_2007_3_32	8280-558f-d30b-c051	cows only eat plants	CENTRAL
+VASoL_2007_3_32	c709-83dd-975c-b05d	carnivores or omnivores or herbivores are a kind of animal	GROUNDING
+VASoL_2007_3_32	7579-be94-da2b-b793	a cow is a kind of animal	GROUNDING
+VASoL_2007_3_32	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+Mercury_SC_416156	1868-9bad-b9cc-1302	skeletal system is made of bones	CENTRAL
+Mercury_SC_416156	290b-dd26-b289-0cff	the skeleton is a part of the skeletal system	CENTRAL
+Mercury_SC_417580	bb11-420c-4bb5-d176	a scar is an acquired characteristic	CENTRAL
+Mercury_SC_417580	298a-b710-adc5-7d76	an organism's environment affects that organism's acquired characteristics	CENTRAL
+Mercury_SC_417580	1700-a363-df25-ad34	a cat is a kind of animal	GROUNDING
+Mercury_SC_417580	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+Mercury_SC_417580	e688-0a78-f99a-7687	if something is made by something else then that something is affected by that something else	LEXGLUE
+Mercury_SC_417580	1112-d2ae-a1f5-ffb6	trait is synonymous with characteristic	LEXGLUE
+Mercury_SC_413081	cc01-9fbb-f4cc-3fb0	a plain is made of a flat land surface	CENTRAL
+Mercury_SC_413081	1d4f-7b26-a32f-d1df	flat means level	LEXGLUE
+Mercury_SC_413081	73e8-63d3-28a9-7f8e	a property of something is a feature of that something	LEXGLUE
+Mercury_SC_413081	3e18-eada-4a5f-aeef	composed of means made of	LEXGLUE
+Mercury_SC_413081	1d88-121f-5fd2-6ed8	composition is a property of an object or matter	GROUNDING
+Mercury_SC_413081	089e-dcd5-b124-189c	a plain is a kind of landform	GROUNDING
+Mercury_SC_413081	197a-5152-85d4-6ed5	a landform is a kind of object	GROUNDING
+Mercury_SC_407784	ed5f-9928-2947-21bc	a backbone is a part of a vertebrate animal	CENTRAL
+Mercury_SC_LBS10920	d247-b029-3aab-0950	the sun is a source of radiation or heat called sunlight	CENTRAL
+Mercury_SC_LBS10920	1d10-2a0a-bf2e-7622	radiation is when heat is transferred through waves or particles	CENTRAL
+Mercury_SC_LBS10920	9e7d-986e-6af1-5ac1	heat is a kind of energy	GROUNDING
+NYSEDREGENTS_2014_4_20	a036-70b7-7cb6-d950	a trunk is a part of a tree for supporting the tree	CENTRAL
+NYSEDREGENTS_2014_4_20	9633-63de-89db-ce0e	a trunk is a source of support for a tree	CENTRAL
+NYSEDREGENTS_2014_4_20	acf6-d100-2553-e4ac	to provide something means to be the source of that something	LEXGLUE
+NYSEDREGENTS_2014_4_20	aefd-91ae-8cfa-8c9e	providing support is a kind of function	CENTRAL
+NYSEDREGENTS_2014_4_19	36ae-d6e7-a33f-027a	a kitten is a young or baby cat	ROLE
+NYSEDREGENTS_2014_4_19	b676-c9b3-bff8-a5c3	as the mass of an object increases , the weight of that object will increase	CENTRAL
+NYSEDREGENTS_2014_4_19	3c39-efea-ce7b-afa8	growing is when an animal's height or mass or size increase	CENTRAL
+NYSEDREGENTS_2014_4_19	866e-9867-c534-141c	all living things grow	CENTRAL
+NYSEDREGENTS_2014_4_19	0cfa-af72-38ef-3394	baby animals become adult animals	CENTRAL
+NYSEDREGENTS_2014_4_19	1700-a363-df25-ad34	a cat is a kind of animal	GROUNDING
+NYSEDREGENTS_2014_4_19	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+NYSEDREGENTS_2014_4_8	936a-31ea-b049-fee7	texture is a property of surfaces or materials or objects and includes ordered values of smooth or rough	CENTRAL
+NYSEDREGENTS_2014_4_8	e0fe-14d9-9d28-87bb	touch is a kind of sense	GROUNDING
+NYSEDREGENTS_2014_4_8	df67-2c42-2ea5-500d	touch can be used for detecting texture	CENTRAL
+NYSEDREGENTS_2014_4_8	d314-35e4-3e7a-1c39	an object has properties	CENTRAL
+NYSEDREGENTS_2014_4_8	0e17-84f1-a9f9-f27f	detecting is similar to observing	LEXGLUE
+NYSEDREGENTS_2014_4_8	eb92-b0cd-c257-9bcf	a surface is a part of an object	GROUNDING
+NYSEDREGENTS_2014_4_18	74e3-5983-4e66-f53f	bark is a kind of sound	GROUNDING
+NYSEDREGENTS_2014_4_18	9f4e-2412-59cc-3383	loud means high in sound energy or sound intensity	CENTRAL
+NYSEDREGENTS_2014_4_18	372c-c52a-b8f0-bc43	hearing is used for sensing sound by animals	CENTRAL
+NYSEDREGENTS_2014_4_18	a948-3b4d-ac8c-27e6	sound can be used for communication by animals	CENTRAL
+NYSEDREGENTS_2014_4_18	8130-7bd7-79e3-67cf	a prairie dog is a kind of animal	GROUNDING
+Mercury_SC_405952	d7c1-cdfd-2de5-6b7d	plants absorb nutrients or water or oxygen from soil into themselves through their roots	CENTRAL
+Mercury_SC_405952	ca61-050e-2c77-6cda	some minerals are sometimes nutrients	CENTRAL
+Mercury_SC_405952	6cdd-9626-9859-7279	roots are a part of a plant or tree	CENTRAL
+Mercury_SC_LBS10785	50a8-996b-b8bf-e107	a toaster is a kind of electrical device	GROUNDING
+Mercury_SC_LBS10785	5e4d-6ae2-e556-9200	electrical devices convert electricity into other forms of energy	CENTRAL
+Mercury_SC_LBS10785	72a6-1822-575b-e849	to convert means to change	LEXGLUE
+Mercury_SC_LBS10785	5657-c6bc-e6cd-ae38	electricity means electrical energy	LEXGLUE
+Mercury_SC_LBS10785	a4f3-2cdc-e2e8-292d	a toaster converts electrical energy into heat energy for toasting	CENTRAL
+Mercury_SC_LBS10785	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+Mercury_SC_LBS10785	3d03-670e-3580-8f82	cooking food requires adding heat energy	CENTRAL
+Mercury_SC_LBS10785	4fbb-49e2-aba5-690d	toasting is a kind of cooking	GROUNDING
+Mercury_SC_LBS10785	08c1-496e-6ad5-5c13	bread is a kind of food	GROUNDING
+NAEP_2000_4_S21+2	434b-e8da-e5c7-d52e	rock is made of minerals	CENTRAL
+NAEP_2000_4_S21+2	418b-50f9-2389-1806	knowing the properties of something means knowing information about that something	LEXGLUE
+NAEP_2000_4_S21+2	8661-5700-67ef-4ac8	the properties of something can be used to identify or used to describe that something	CENTRAL
+NAEP_2000_4_S21+2	f245-df47-6b3e-b4f6	the composition of something can be used to identify that something	CENTRAL
+NAEP_2000_4_S21+2	b31b-67cf-066a-859c	a property is a kind of information	CENTRAL
+NAEP_2000_4_S21+2	fec7-efec-ee12-537e	if something is made of something or a material then that something contains that something or that material	LEXGLUE
+NAEP_2000_4_S21+2	3e18-eada-4a5f-aeef	composed of means made of	LEXGLUE
+NAEP_2000_4_S21+2	1d88-121f-5fd2-6ed8	composition is a property of an object or matter	CENTRAL
+NAEP_2000_4_S21+2	7c8b-3728-1d36-f922	a rock is a kind of object	GROUNDING
+NYSEDREGENTS_2014_4_21	e76c-d8bc-9c51-ca6b	an egg is a stage in the life cycle process of some animals	ROLE
+NYSEDREGENTS_2014_4_21	c284-c764-7abd-4e68	eggs become baby animals	CENTRAL
+NYSEDREGENTS_2014_4_21	be4f-b918-8f3b-6a59	a larva is a kind of young or baby insect	CENTRAL
+NYSEDREGENTS_2014_4_21	0cfa-af72-38ef-3394	baby animals become adult animals	CENTRAL
+NYSEDREGENTS_2014_4_21	56bd-8c40-3dae-d3e9	an insect is a kind of animal	GROUNDING
+NYSEDREGENTS_2014_4_21	f12e-5766-27fb-ebf8	a butterfly is a kind of animal	GROUNDING
+NYSEDREGENTS_2014_4_21	2a41-18d2-9149-55f5	organisms move through the stages of the life cycle	CENTRAL
+NYSEDREGENTS_2014_4_21	e9d9-325b-c54c-5f88	movement is a kind of change	GROUNDING
+NYSEDREGENTS_2014_4_21	6b27-6dff-3eef-6ffc	if an animal hatches from an egg then that animal is born	CENTRAL
+NYSEDREGENTS_2014_4_21	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+MDSA_2011_4_36	95c4-ec5e-bce9-afd8	metal is a kind of material	GROUNDING
+MDSA_2011_4_36	1e4c-46e8-996c-f2f7	if an object is made of a material then that object has the properties of that material	CENTRAL
+MDSA_2011_4_36	d681-3158-6a99-253a	conductivity is a property of a material or substance	CENTRAL
+MDSA_2011_4_36	0439-8c06-da63-6721	metal is a thermal or thermal energy conductor	CENTRAL
+MDSA_2011_4_36	fb45-a64a-13f3-241c	a spoon is a kind of object	GROUNDING
+MDSA_2011_4_36	c9e0-141e-88fa-2c43	if a thermal conductor or an object is exposed to a source of heat then that conductor or that object may become hot or warm	CENTRAL
+MDSA_2011_4_36	55b7-97a0-0554-156d	a hot or warm something is a source of heat	CENTRAL
+MDSA_2011_4_36	d326-a597-1e70-347e	an object is an item	LEXGLUE
+Mercury_SC_405302	f704-bbf0-c1f5-b8ba	sleet is a kind of precipitation	CENTRAL
+Mercury_SC_405302	db0b-31a1-91ab-6996	a type is synonymous with a kind	LEXGLUE
+Mercury_SC_405302	2dfb-6788-d488-9db9	sleet is made of ice	CENTRAL
+Mercury_SC_405302	c583-9b78-1eab-ae77	to be made of means to consist of	LEXGLUE
+Mercury_SC_405302	4a5a-9115-28a9-b97b	water is in the solid state , called ice , for temperatures between 0 or -459 or -273 and 273 or 32 or 0 K or F or C	CENTRAL
+Mercury_SC_405302	214a-9ca3-2983-aa79	rain is a kind of water	GROUNDING
+Mercury_SC_405302	8f51-a7cd-6829-c91f	frozen means solid	LEXGLUE
+TIMSS_2011_4_pg72	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+TIMSS_2011_4_pg72	694b-d9ec-8c65-5a6a	green plants provide food for themselves or animals or consumers by performing photosynthesis	CENTRAL
+TIMSS_2011_4_pg72	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+TIMSS_2011_4_pg72	4849-d977-c75a-e8fb	solar energy is a kind of energy	LEXGLUE
+TIMSS_2011_4_pg72	1ed3-919d-4a4c-1be7	the sun is the source of solar energy called sunlight	CENTRAL
+TIMSS_2011_4_pg72	6759-5ee2-140f-df48	sunlight means solar energy	LEXGLUE
+TIMSS_2011_4_pg72	59d6-9954-ef5e-12b2	sunlight is a kind of solar energy	LEXGLUE
+Mercury_SC_LBS10666	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+Mercury_SC_LBS10666	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+Mercury_SC_LBS10666	f812-4338-e44b-e685	green plants are a kind of producer	CENTRAL
+Mercury_SC_LBS10666	520b-e7fa-600c-d598	to turn means to convert	LEXGLUE
+Mercury_SC_LBS10666	9828-4356-ffa4-f544	if an organism makes food for itself then that organism does not need to eat other organisms	CENTRAL
+Mercury_SC_LBS10666	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+LEAP_2001_4_10239	1271-8178-87cf-045c	gravity is a kind of force	CENTRAL
+LEAP_2001_4_10239	9773-5df7-84db-74b3	gravity or gravitational force causes objects that have mass or substances to be pulled down or to fall on a planet	CENTRAL
+LEAP_2001_4_10239	5650-b213-46ea-d9dd	a ball is a kind of object	GROUNDING
+LEAP_2001_4_10239	d24e-3153-b652-ccfa	to cause means to make	LEXGLUE
+LEAP_2001_4_10239	1632-346e-67a5-b1b8	downward means down	LEXGLUE
+LEAP_2001_4_10239	cffc-a299-4321-b49d	pulling is a kind of motion	CENTRAL
+LEAP_2001_4_10239	2522-2f06-9dd6-6bf1	falling means moving downward	CENTRAL
+LEAP_2001_4_10239	b545-b586-fd95-b2af	rolling is a kind of motion	GROUNDING
+LEAP_2001_4_10239	1632-346e-67a5-b1b8	downward means down	LEXGLUE
+NYSEDREGENTS_2014_4_11	d681-3158-6a99-253a	conductivity is a property of a material or substance	CENTRAL
+NYSEDREGENTS_2014_4_11	22ce-038b-ff4f-c5ba	electrical conduction is when metals or electrical conductors conduct electricity through a wire or electrical conductor or metal	CENTRAL
+NYSEDREGENTS_2014_4_11	1e4c-46e8-996c-f2f7	if an object is made of a material then that object has the properties of that material	CENTRAL
+Mercury_SC_405304	6abc-4443-f672-9a97	melting means changing from a solid into a liquid by adding heat energy	CENTRAL
+Mercury_SC_405304	a1a9-97db-a771-1c2b	an ice cube is a kind of solid	GROUNDING
+Mercury_SC_405304	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+Mercury_SC_405304	4a5a-9115-28a9-b97b	water is in the solid state , called ice , for temperatures between 0 or -459 or -273 and 273 or 32 or 0 K or F or C	CENTRAL
+Mercury_SC_405304	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+Mercury_SC_405304	7d37-b81d-0cf3-9ae0	adding heat means increasing temperature	LEXGLUE
+Mercury_SC_405304	9554-47d7-c095-1df7	if an object or a substance absorbs solar energy then that object or that substance will increase in temperature	CENTRAL
+Mercury_SC_405304	e00a-03fe-d978-1a27	if an object or something is in the sunlight then that object or that something will absorb solar energy	CENTRAL
+Mercury_SC_405304	a538-175f-9223-d117	the sun is a source of light or light energy called sunlight	CENTRAL
+Mercury_SC_405304	8939-25ca-fb9c-d790	to be in the sun means to be in the sunlight	LEXGLUE
+Mercury_SC_405304	36f6-e94f-8780-1897	melting is a kind of process	CENTRAL
+MDSA_2010_4_24	c734-55b0-6cf4-c9d9	nearly all fossils are found in sedimentary rock	BACKGROUND
+MDSA_2010_4_24	68cb-62b0-32a3-30e2	sedimentary is a kind of rock	BACKGROUND
+MDSA_2010_4_24	8867-690e-1dfa-c7b4	An example of a fossil is a paw print in rock	CENTRAL
+NYSEDREGENTS_2014_4_2	e682-f47d-cc9c-a67c	a complete revolution of the Earth around the sun takes 1 or one year or solar year or Earth year	CENTRAL
+MDSA_2010_4_13	d723-5450-7a62-d57c	metal is usually flexible	CENTRAL
+MDSA_2010_4_13	ac40-d9c4-86a2-f4bb	flexibility means the shape of a material or of an object can be easily changed	CENTRAL
+MDSA_2010_4_13	1e4c-46e8-996c-f2f7	if an object is made of a material then that object has the properties of that material	CENTRAL
+MDSA_2010_4_13	5109-65f3-6c0b-cecf	flexibility is a property of a material	CENTRAL
+MDSA_2010_4_13	d576-0ead-0543-9136	a wire is a kind of object	GROUNDING
+MDSA_2010_4_13	98b6-2bc9-0f82-84f9	flexible means high flexibility	LEXGLUE
+NYSEDREGENTS_2014_4_1	794f-a751-b0d2-097f	a sunny day has lots of sunlight	ROLE
+NYSEDREGENTS_2014_4_1	49dc-4526-46f9-5b32	sunlight is a kind of light	ROLE
+AKDE&ED_2012_4_35	5b69-37eb-8085-8e85	a food web is made of organisms that consume other organisms or that produce their own food	CENTRAL
+AKDE&ED_2012_4_35	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+AKDE&ED_2012_4_35	28d3-fb60-bdd3-d10c	an algae is a kind of organism	GROUNDING
+Mercury_SC_LBS10783	512a-c5ef-bcba-905d	friction acts to counter the motion of two objects when their surfaces are touching	CENTRAL
+Mercury_SC_LBS10783	6650-9806-5c50-ff4e	counter means reduce or stop or resist	LEXGLUE
+Mercury_SC_LBS10783	c3ed-2a60-a3c3-a504	slipping is a kind of motion	GROUNDING
+Mercury_SC_LBS10783	61f9-cfd2-20f5-992d	a child is a kind of young human	GROUNDING
+Mercury_SC_LBS10783	4253-4b9e-1e5f-1742	a human is a kind of animal	GROUNDING
+Mercury_SC_LBS10783	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+Mercury_SC_LBS10783	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+Mercury_SC_LBS10783	2959-08e0-430c-0f87	ice is a kind of object	GROUNDING
+Mercury_SC_LBS10783	eb92-b0cd-c257-9bcf	a surface is a part of an object	GROUNDING
+Mercury_SC_LBS10783	30eb-7982-028c-4f0f	slipping on ice requires walking on that ice	CENTRAL
+Mercury_SC_LBS10783	fb78-e6bd-2768-ddb3	if someone walks on a surface then that someone touches that surface	LEXGLUE
+Mercury_SC_LBS10783	dc6a-e211-23ac-d827	friction is a kind of force	CENTRAL
+Mercury_SC_LBS10472	e1d3-5fb3-b1c4-5332	specialized tissues at the ends of plant stems are used for growing taller by plants	CENTRAL
+Mercury_SC_LBS10472	a8e1-376d-a65c-d56c	to help or to benefit means to be of use	LEXGLUE
+AIMS_2009_4_29	89d4-504e-26ea-25da	refrigerators contain harmful chemicals	BACKGROUND
+AIMS_2009_4_29	fb43-38c7-f8b9-ee5d	a refrigerator is a kind of appliance	GROUNDING
+AIMS_2009_4_29	af78-4cfe-072e-5e89	often humans discard appliances after using those appliances	GROUNDING
+AIMS_2009_4_29	6ca2-a861-50cb-b02f	if a human discards an object then that object will become waste	CENTRAL
+AIMS_2009_4_29	27ab-3140-60ab-8b03	humans move waste to a landfill for disposal or storage	CENTRAL
+AIMS_2009_4_29	fbcb-2151-6afa-c1c5	landfills have a negative impact on the environment or communities	CENTRAL
+Mercury_SC_405487	0ddf-dd31-cd78-80b4	if an organism eats something then that something is a source of frood to that organism	CENTRAL
+Mercury_SC_405487	5295-dcae-6915-29d4	a chipmunk is a kind of mammal	GROUNDING
+Mercury_SC_405487	2a1f-7883-c269-3736	a mammal is a kind of animal	GROUNDING
+Mercury_SC_405487	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+Mercury_SC_405487	ac29-64bc-8dfb-4080	a chipmunk eats acorns	CENTRAL
+Mercury_SC_405487	19f5-4162-4c01-59aa	increase means more	LEXGLUE
+Mercury_SC_405487	bc70-82f8-3ab8-89f4	as the number of sources of food increase in an environment , the population of the organisms will increase in that environment	CENTRAL
+Mercury_SC_405487	32c3-1671-f654-dcb7	a park is a kind of environment	GROUNDING
+Mercury_SC_405487	0db5-f9d6-7b0f-b515	if something causes an increase in something else then that something produces that something else	LEXGLUE
+MCAS_1999_4_3	5900-59b1-bb87-4115	pollination is when pollinating animals or wind or water carry pollen from one flower to another flower	CENTRAL
+MCAS_1999_4_3	d57d-4cbb-11ee-2f47	An insect is a pollinating animal	GROUNDING
+MCAS_1999_4_3	7b88-0a72-7d90-ea1d	plant reproduction or seed production requires pollination	CENTRAL
+MCAS_1999_4_3	3976-3829-4098-1312	if something is required for a process then that something positively impacts that process	LEXGLUE
+MCAS_1999_4_3	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+AKDE&ED_2008_4_12	80e7-ecfd-5d68-a0d3	a ruler is used for measuring the length of an object	CENTRAL
+AKDE&ED_2008_4_12	02eb-d26b-a00c-c559	size is a property of objects and includes ordered values of microscopic or tiny or small or medium or large	CENTRAL
+AKDE&ED_2008_4_12	6656-785f-dbd2-4c9b	a bubble is a kind of object	GROUNDING
+AKDE&ED_2008_4_12	a183-80da-46fa-bfa6	largest means greatest in size	LEXGLUE
+AKDE&ED_2008_4_12	21f2-7587-e5e3-e55c	length is a part of size	LEXGLUE
+Mercury_SC_LBS10170	ad64-e231-181e-0684	an anemometer is a kind of instrument for measuring wind speed	CENTRAL
+Mercury_SC_LBS10170	7a68-d438-ce92-5fb1	an anemometer is used to measure wind speed	CENTRAL
+Mercury_SC_LBS10170	a0d5-68ec-fccc-fd82	instrument means tool	LEXGLUE
+Mercury_SC_LBS10612	8129-78ea-abe4-f382	an earthquake is a kind of natural event	CENTRAL
+Mercury_SC_LBS10612	d08c-6817-560e-4660	an earthquake changes Earth's surface quickly	CENTRAL
+Mercury_SC_LBS10612	abd9-cbba-5137-2c93	rapidly means quickly	LEXGLUE
+NYSEDREGENTS_2014_4_10	512a-c5ef-bcba-905d	friction acts to counter the motion of two objects when their surfaces are touching	CENTRAL
+NYSEDREGENTS_2014_4_10	e9ed-3032-6736-3077	friction occurs when two object's surfaces move against each other	CENTRAL
+NYSEDREGENTS_2014_4_10	6650-9806-5c50-ff4e	counter means reduce or stop or resist	LEXGLUE
+NYSEDREGENTS_2014_4_10	ee86-88ae-2535-1a42	stop or stopped means zero or 0 or no speed	BACKGROUND
+NYSEDREGENTS_2014_4_10	5c38-cb22-09a4-2287	a roll is a kind of movement	GROUNDING
+NYSEDREGENTS_2014_4_10	5650-b213-46ea-d9dd	a ball is a kind of object	GROUNDING
+NYSEDREGENTS_2014_4_10	eb92-b0cd-c257-9bcf	a surface is a part of an object	GROUNDING
+AKDE&ED_2008_4_22	28d0-868d-1eee-0150	a microscope is a kind of tool for observing small things	CENTRAL
+AKDE&ED_2008_4_22	e15b-3e85-4d7a-42ea	microscope is used to see small things or microscopic things or specimens by making them appear bigger	CENTRAL
+AKDE&ED_2008_4_22	a8e1-376d-a65c-d56c	to help or to benefit means to be of use	LEXGLUE
+AKDE&ED_2008_4_22	ae0b-1df7-6167-ecc5	to get a better look at means to see better	LEXGLUE
+AKDE&ED_2008_4_22	6a75-83b3-d985-4a70	look at means observe	LEXGLUE
+AIMS_2008_4_17	562c-c77b-8ec7-4ab5	wind causes erosion	CENTRAL
+AIMS_2008_4_17	5e75-4bbb-dae0-311f	soil erosion means soil loss through wind or water or animals	CENTRAL
+AIMS_2008_4_17	11c8-fdbb-e0de-c7b7	soil erosion is a kind of slow or natural process	CENTRAL
+AIMS_2008_4_17	f303-c24f-1db0-7fba	soil is found on the surface of the Earth	CENTRAL
+AIMS_2008_4_17	4ed7-fd33-f63a-573f	loss is a kind of change	GROUNDING
+NYSEDREGENTS_2014_4_17	102a-fa79-43cd-e9a4	the colors of the parts of an organism are inherited characteristics	CENTRAL
+NYSEDREGENTS_2014_4_17	1700-a363-df25-ad34	a cat is a kind of animal	GROUNDING
+NYSEDREGENTS_2014_4_17	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+NYSEDREGENTS_2014_4_17	12c9-e2b2-25cd-65c6	white is a kind of color	GROUNDING
+NYSEDREGENTS_2014_4_17	0e13-f49d-f3ee-6cd6	fur is a covering around the body of an animal	BACKGROUND
+NYSEDREGENTS_2014_4_17	ee78-0795-be47-6ad8	inheriting is when a inherited characteristic is copied or is passed from parent to offspring by genetics or DNA	CENTRAL
+NYSEDREGENTS_2014_4_17	2f86-693e-7175-9932	fur is often part of an animal	GROUNDING
+NYSEDREGENTS_2014_4_17	1112-d2ae-a1f5-ffb6	trait is synonymous with characteristic	LEXGLUE
+NYSEDREGENTS_2014_4_9	b870-3f32-ad2b-c308	moving an object from a cool place to a warm place causes the object's temperature to increase	CENTRAL
+NYSEDREGENTS_2014_4_9	7afc-2bcd-13a5-2d35	heat means temperature increases	LEXGLUE
+NYSEDREGENTS_2014_4_9	4ef7-13ee-3d35-8a37	a freezer is used for cooling things	CENTRAL
+NYSEDREGENTS_2014_4_9	a1a9-97db-a771-1c2b	an ice cube is a kind of solid	GROUNDING
+NYSEDREGENTS_2014_4_9	6abc-4443-f672-9a97	melting means changing from a solid into a liquid by adding heat energy	CENTRAL
+NYSEDREGENTS_2014_4_9	7d37-b81d-0cf3-9ae0	adding heat means increasing temperature	LEXGLUE
+NYSEDREGENTS_2014_4_9	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+NYSEDREGENTS_2014_4_9	a7e7-4c34-fac1-a502	a freezer is cool or cold in temperature	CENTRAL
+MDSA_2010_4_7	f3ed-dedc-2aad-109c	a plants or living things require water for survival or to grow	CENTRAL
+MDSA_2010_4_7	281b-9541-e1c7-6c92	crops are a kind of edible plant for eating	GROUNDING
+MDSA_2010_4_7	da1e-dca3-f46a-5189	rain is a kind of precipitation	LEXGLUE
+MDSA_2010_4_7	86b0-5c6f-cd54-4d52	precipitation is a kind of weather	GROUNDING
+MDSA_2010_4_7	e9e1-2164-9acf-637a	farming is when a human plants crops for food	CENTRAL
+MDSA_2010_4_7	2298-6f12-b46e-4f4e	drought is when amount of precipitation decreases	CENTRAL
+MDSA_2010_4_7	e73f-198c-a896-b428	rain is a source of water	CENTRAL
+MDSA_2010_4_7	3492-2519-a7cc-d552	drought means available water decreases in an environment	CENTRAL
+MDSA_2010_4_7	9b1c-6275-14cd-43e5	loss of resources has a negative impact on the organisms in an area	CENTRAL
+MDSA_2010_4_7	7dc9-24ac-4c93-866e	to impact means to affect	LEXGLUE
+MDSA_2010_4_7	462d-e871-6c8b-dd48	if there is a loss of something then that something decreases	LEXGLUE
+MDSA_2010_4_7	1c04-5228-7c5d-ab8a	water is a kind of natural resource	GROUNDING
+MDSA_2010_4_7	281b-9541-e1c7-6c92	crops are a kind of edible plant for eating	GROUNDING
+MDSA_2010_4_7	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+MDSA_2010_4_7	beca-88a5-c80c-50bd	planting crops is synonymous with growing crops	LEXGLUE
+MDSA_2010_4_7	281b-9541-e1c7-6c92	crops are a kind of edible plant for eating	LEXGLUE
+Mercury_SC_408374	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+Mercury_SC_408374	93b8-fdb5-f003-dedb	In the photosynthesis process carbon dioxide or water or sunlight has the role of raw material	CENTRAL
+Mercury_SC_408374	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+Mercury_SC_408374	2851-a2b0-f5df-dae7	if something is a raw material in a process then that something is required for that process	CENTRAL
+Mercury_SC_408374	7309-3070-fa70-cad9	photosynthesis is a kind of process	CENTRAL
+Mercury_SC_408374	e9f8-f0c7-07ec-99de	to depend on or to rely on or to need means to require	LEXGLUE
+Mercury_SC_408374	96ff-31bb-ea13-9aff	carbon dioxide is a kind of gas	CENTRAL
+TIMSS_2007_4_pg90	842e-1407-d27c-3e94	greatest means largest or highest or most	ROLE
+TIMSS_2007_4_pg90	4084-f2bc-52cf-0f74	temperature or heat energy is a property of objects or weather and includes ordered values of cold or cool or warm or hot	CENTRAL
+TIMSS_2007_4_pg90	9ff8-543c-2f35-5d3f	hot means high in heat energy or temperature	LEXGLUE
+TIMSS_2007_4_pg90	1857-eaa2-79ea-ce00	as temperature increases , the ability of that liquid to dissolve solids will increase	CENTRAL
+TIMSS_2007_4_pg90	53d0-8110-c683-52da	high is similar to increase	LEXGLUE
+TIMSS_2007_4_pg90	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+TIMSS_2007_4_pg90	d061-b761-db46-512d	sugar is a kind of solid	GROUNDING
+TIMSS_2003_4_pg85	b210-62f3-af10-197e	magnetism can cause objects to repel each other	CENTRAL
+NYSEDREGENTS_2014_4_14	f2f7-cd7a-78d2-7f0b	if an object is black then that object absorbs all visible light or heat	CENTRAL
+NYSEDREGENTS_2014_4_14	49dc-4526-46f9-5b32	sunlight is a kind of light	GROUNDING
+NYSEDREGENTS_2014_4_14	1258-c7db-9d8e-88f3	a panel is a kind of object	GROUNDING
+NYSEDREGENTS_2014_4_14	624a-c1ec-8c85-45ce	amount is a property of something and includes ordered values of none or least or little or some or half or much or many or most or all	GROUNDING
+NYSEDREGENTS_2014_4_14	7892-f43a-8f12-2a8d	black is a kind of color	CENTRAL
+TIMSS_2007_4_pg110	72b4-027a-430e-ee18	if fossils of a water animal or plant are found in a place then that animal or plant used to live in that place	CENTRAL
+TIMSS_2007_4_pg110	965d-4d8b-7777-6434	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	CENTRAL
+TIMSS_2007_4_pg110	466a-2c15-ac54-8361	an ocean is a kind of body of water	GROUNDING
+TIMSS_2007_4_pg110	6e0c-4bc9-7e10-351a	a fish lives in water	CENTRAL
+Mercury_SC_LBS10789	c527-3fa0-13ee-6b34	fossil means preserved remains of organisms	CENTRAL
+Mercury_SC_LBS10789	1868-9bad-b9cc-1302	skeletal system is made of bones	NE
+Mercury_SC_LBS10789	af66-465f-0191-efbd	a skeletal system is a part of an animal	NE
+Mercury_SC_LBS10789	10ce-c060-90b9-b748	an animal is a kind of organism	CENTRAL
+Mercury_SC_LBS10789	499d-e50e-b35d-35c2	a shell is a part of some animals	NE
+Mercury_SC_LBS10789	dd90-d920-81f6-416c	a tooth is a kind of bone	NE
+Mercury_SC_LBS10789	af33-4409-5f16-cd4c	rock is a kind of nonliving thing	CENTRAL
+Mercury_SC_LBS10789	3650-2d8d-42b9-299b	nonliving or non-living or die is the opposite of living or alive or live	LEXGLUE
+Mercury_SC_LBS10789	87a0-dd02-dd6d-ee60	an organism is a living thing	CENTRAL
+TIMSS_2003_4_pg29	2401-2216-1d73-27d3	running requires a lot of energy	CENTRAL
+TIMSS_2003_4_pg29	740e-55ec-8b5a-8ade	as energy required for an activity increases , pulse or breathing rate will increase	CENTRAL
+TIMSS_2003_4_pg29	782a-53e7-c1c7-aae0	an increase is a kind of change	LEXGLUE
+MCAS_1998_4_25	824e-1bf6-29b5-9624	the sun causes water to evaporate more quickly by adding heat	CENTRAL
+MCAS_1998_4_25	8fca-6905-ae31-51ce	if a liquid disappears then that liquid probably evaporated	CENTRAL
+MCAS_1998_4_25	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+MCAS_1998_4_25	65d3-05bf-28db-3f1a	a puddle is a kind of body of water	GROUNDING
+MCAS_1998_4_25	5951-c5bc-d3b9-c818	if a body of water loses all water then that body of water does not exist any more	CENTRAL
+MCAS_1998_4_25	462d-e871-6c8b-dd48	if there is a loss of something then that something decreases	LEXGLUE
+MCAS_1998_4_25	cdb8-46e7-0df7-0a20	evaporation causes amount of water to decrease	CENTRAL
+NYSEDREGENTS_2014_4_22	0e13-f49d-f3ee-6cd6	fur is a covering around the body of an animal	BACKGROUND
+NYSEDREGENTS_2014_4_22	84a3-fb47-5416-db66	some animals' fur grows thicker for staying warm in the winter	CENTRAL
+NYSEDREGENTS_2014_4_22	7adb-e986-7c30-64d9	An example of a seasonal change is an animal growing thick fur for keeping warm in the winter	CENTRAL
+NYSEDREGENTS_2014_4_22	7345-c073-962f-2597	shedding is when an animal loses hair or fur or skin	BACKGROUND
+NYSEDREGENTS_2014_4_22	756b-72db-cc1e-b66e	when an animal sheds its fur , its fur becomes less dense	BACKGROUND
+NYSEDREGENTS_2014_4_22	f1a3-386d-38d5-de6d	some animals shed fur in warm weather	CENTRAL
+NYSEDREGENTS_2014_4_22	633c-3fd4-7320-00cf	winter is a kind of season	GROUNDING
+NYSEDREGENTS_2014_4_22	c340-79fe-20a6-026a	spring has warm temperatures or weather	CENTRAL
+NYSEDREGENTS_2014_4_22	f5ca-b95b-fd83-47d8	seasons cause change to the environment	CENTRAL
+NYSEDREGENTS_2014_4_22	af84-b2e1-3d77-58f9	spring is a kind of season	GROUNDING
+NYSEDREGENTS_2014_4_22	724f-c315-2d06-364b	changes in an environment cause animals or plants to adapt to survive	CENTRAL
+NYSEDREGENTS_2014_4_22	4c74-590e-8dfe-012b	seasonal changes are made in response to changes in the environment	CENTRAL
+TIMSS_2011_4_pg76	2c44-c2fa-bff1-5946	condensation is when change from a gas into a liquid by reducing heat energy	CENTRAL
+Mercury_SC_407391	2e89-d8e8-a8fb-9acc	a plant is a kind of living thing	ROLE
+Mercury_SC_407391	866e-9867-c534-141c	all living things grow	CENTRAL
+Mercury_SC_407391	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+Mercury_SC_407391	7579-be94-da2b-b793	a cow is a kind of animal	GROUNDING
+Mercury_SC_407391	9d2f-b39b-3921-a54c	grass is a kind of green plant	GROUNDING
+Mercury_SC_407391	0d2a-34ad-e231-a167	the ability to grow is a kind of trait	CENTRAL
+NYSEDREGENTS_2014_4_28	d9e0-5f0a-e26c-d0e8	some birds are	ROLE
+NYSEDREGENTS_2014_4_28	20a3-dcb5-8ce4-ae5c	predators or carnivores or omnivores eat other animals	CENTRAL
+NYSEDREGENTS_2014_4_28	458c-0ba5-e5dd-00b8	harming an animal species causes that animal's population to decrease	CENTRAL
+NYSEDREGENTS_2014_4_28	f3f5-fefd-3507-4a59	death means to die	LEXGLUE
+NYSEDREGENTS_2014_4_28	6a6c-3183-436e-898b	killing means harming something causing death	LEXGLUE
+NYSEDREGENTS_2014_4_28	9e69-e4c7-1f9e-a37e	as population of predators decreases , the population of prey will increase in an environment	CENTRAL
+NYSEDREGENTS_2014_4_28	8ece-a376-c847-9127	a predator is a kind of animal	GROUNDING
+NYSEDREGENTS_2014_4_28	1240-2639-9a5f-96cd	an environment means an area	LEXGLUE
+Mercury_SC_405526	33fe-9382-75a8-9316	if a tree is located near a sidewalk then the roots of that tree might crack the sidewalk	CENTRAL
+Mercury_SC_405526	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_405526	105a-5720-e63b-0413	if a plant is planted or growing somewhere then that plant is located there	LEXGLUE
+Mercury_SC_405526	2fb5-7bf0-d5d7-3224	near is the opposite of far or away	LEXGLUE
+Mercury_SC_405526	331a-fc1c-2a90-be69	cracking something usually has a negative impact on that something	CENTRAL
+Mercury_SC_405526	ed09-025e-89b8-d48f	negative impact is the opposite of positive impact	LEXGLUE
+Mercury_SC_405526	20e2-689d-b7c6-528a	best means most positive	LEXGLUE
+MCAS_2000_4_6	7d89-3509-8e8b-f868	the invention of the airplane occurred in 1903	ROLE
+MCAS_2000_4_6	bb06-72d6-bb30-97d8	the invention of the refrigerator occurred in 1923	ROLE
+MCAS_2000_4_6	5deb-bf64-c55b-92ee	the cellular telephone was invented in 1973	CENTRAL
+MCAS_2000_4_6	d02c-a651-7238-c2f5	the television was invented in 1927	NEG
+MCAS_2000_4_6	450b-d1e6-d7b9-2e6b	developing means creating or inventing	LEXGLUE
+MCAS_2000_4_6	cdfd-1234-1b8c-b945	a telephone is a kind of technology	BACKGROUND
+MCAS_2000_4_6	5af8-ed0d-690a-97dd	recent means close to present time	LEXGLUE
+Mercury_SC_408040	a0de-6074-3154-0632	summer has the most sunlight	CENTRAL
+Mercury_SC_408040	3f3f-f2cb-ae3d-f238	summer is a kind of season	CENTRAL
+AKDE&ED_2012_4_4	59db-5841-efaf-6ac5	curiosity is a kind of human quality	BACKGROUND
+AKDE&ED_2012_4_4	b28b-5ea8-bdf1-0faf	curiosity means the need to know new information	CENTRAL
+AKDE&ED_2012_4_4	0f69-e684-8421-00ae	a human requires new information to invent things	CENTRAL
+TIMSS_2011_4_pg90	a67b-a673-e85b-6310	the ocean contains large amounts of salt water	CENTRAL
+TIMSS_2011_4_pg90	eea5-0a22-fd84-0a3b	sea means ocean	LEXGLUE
+TIMSS_2011_4_pg90	d3bf-8edc-c2a9-df49	animals usually require removing salt from water for drinking	BACKGROUND
+TIMSS_2007_4_pg81	dda3-c20d-4cc2-2323	a desert environment has low rainfall	ROLE
+NYSEDREGENTS_2014_4_24	ad2f-c1c6-5368-4fcd	coloration is a kind of adaptation for hiding or camouflage	CENTRAL
+NYSEDREGENTS_2014_4_24	c6ad-76f9-7f5c-33e0	camouflage is a kind of adaptation for hiding in an environment	CENTRAL
+NYSEDREGENTS_2014_4_24	d861-52a2-6067-0722	blending in is synonymous with hiding	LEXGLUE
+NYSEDREGENTS_2014_4_24	b756-83bc-074d-62a2	coloration means a thing's color	LEXGLUE
+NYSEDREGENTS_2014_4_24	ece8-8e35-fc83-f487	An example of camouflage is when something is or has the same color as its environment	CENTRAL
+NYSEDREGENTS_2014_4_24	39b9-9637-538d-0d33	camouflage is a kind of protection against predators or from predators or against consumers	CENTRAL
+NYSEDREGENTS_2014_4_24	ac8a-77b3-7190-7751	camouflage is used for protection or hiding by prey or animals against predators or from predators	CENTRAL
+NYSEDREGENTS_2014_4_24	60e9-1f2b-145c-00bd	hiding means visibility or ability to be seen decreases for camouflage	LEXGLUE
+MDSA_2007_4_52	9f6b-7d55-4edf-3f0b	usually plants store the food they produce for future use	CENTRAL
+NYSEDREGENTS_2014_4_3	3f81-09e1-5ec1-00e5	weather means condition of the air outdoors at a certain time	CENTRAL
+NYSEDREGENTS_2014_4_27	9a8e-ea9a-3158-05d6	most animals avoid bad odors	CENTRAL
+NYSEDREGENTS_2014_4_27	8ece-a376-c847-9127	a predator is a kind of animal	GROUNDING
+NYSEDREGENTS_2014_4_27	8ec7-a491-c4e5-aeec	a skunk produces a bad odor	CENTRAL
+NYSEDREGENTS_2014_4_27	9a54-14e7-f8f4-6375	avoiding predators or escaping predators or avoiding consumers is a kind of protection Move to PREDATOR-PREY.	CENTRAL
+NYSEDREGENTS_2014_4_27	1992-cbd3-6534-a7f7	protecting a living thing has a positive impact on that living thing's survival or health	CENTRAL
+NYSEDREGENTS_2014_4_27	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+Mercury_SC_LBS10689	3fd7-d689-6b35-21ac	natural magnetism is used for pointing north by a compass	CENTRAL
+Mercury_SC_LBS10689	a19f-27a1-7743-9769	a compass is a kind of tool for determining direction by pointing north	CENTRAL
+Mercury_SC_LBS10689	9ca1-8cf1-b7b6-526c	an invention is a kind of tool	GROUNDING
+Mercury_SC_LBS10598	6abc-4443-f672-9a97	melting means changing from a solid into a liquid by adding heat energy	CENTRAL
+Mercury_SC_LBS10598	a0b2-a45f-01e1-4bf4	boiling or evaporation means change from a liquid into a gas by adding heat energy	CENTRAL
+Mercury_SC_LBS10598	4a5a-9115-28a9-b97b	water is in the solid state , called ice , for temperatures between 0 or -459 or -273 and 273 or 32 or 0 K or F or C	CENTRAL
+Mercury_SC_LBS10598	4a5d-ae1d-5ba6-8f8d	water is in the liquid state , called liquid water , for temperatures between 273 or 32 or 0 and 373 or 212 or 100 K or F or C	CENTRAL
+Mercury_SC_LBS10598	e474-2a11-6e7b-ae8b	water is in the gas state , called water vapor , for temperatures between 373 or 212 or 100 and 100000000000 K or F or C	CENTRAL
+Mercury_SC_LBS10598	cf49-1b7a-89f0-41f5	solid is a kind of state of matter	GROUNDING
+Mercury_SC_LBS10598	aa73-331e-e970-c934	gas is a kind of state of matter	GROUNDING
+Mercury_SC_LBS10598	8bd9-8220-2cc9-9876	as state of matter changes , mass will not change	CENTRAL
+Mercury_SC_LBS10598	e2f0-90c4-cd00-c5a7	stay the same means not changing	LEXGLUE
+Mercury_SC_408700	04a3-0791-9bd3-602d	thermal conduction is when materials conduct heat through those materials	CENTRAL
+Mercury_SC_408700	ac2a-9f55-aeab-2917	to conduct is similar to to transfer	LEXGLUE
+Mercury_SC_408700	c9e0-141e-88fa-2c43	if a thermal conductor or an object is exposed to a source of heat then that conductor or that object may become hot or warm	CENTRAL
+Mercury_SC_408700	010a-f960-ad4b-537c	if one surface or one substance or one object touches something then one is exposed to that something	LEXGLUE
+Mercury_SC_408700	e9db-4122-22ea-1d50	if a spoon or an object is used to stir a liquid or mixture then that spoon or that object is touching that liquid or that mixture	CENTRAL
+Mercury_SC_408700	fb45-a64a-13f3-241c	a spoon is a kind of object	GROUNDING
+Mercury_SC_408700	55b7-97a0-0554-156d	a hot or warm something is a source of heat	CENTRAL
+Mercury_SC_408700	2bf5-43b2-828d-7991	tea is usually hot or warm	CENTRAL
+TIMSS_2007_4_pg26	dad4-aeac-6f8a-c42b	a fly is a kind of insect	GROUNDING
+TIMSS_2007_4_pg26	4664-31ab-6299-53d0	an insect has six legs	CENTRAL
+TIMSS_2007_4_pg26	56bd-8c40-3dae-d3e9	an insect is a kind of animal	GROUNDING
+MDSA_2011_4_8	8c01-39ba-c26c-f060	acid rain has a negative impact on water quality	CENTRAL
+MDSA_2011_4_8	f306-b3dc-08d5-67b6	having an impact on something means altering that something	LEXGLUE
+MDSA_2011_4_8	4253-4b9e-1e5f-1742	a human is a kind of animal	GROUNDING
+MDSA_2011_4_8	732f-cb0b-50b4-ad0d	animals or living things require water for survival	CENTRAL
+MDSA_2011_4_8	8b85-9aff-8362-b0d3	impact means effect	LEXGLUE
+MCAS_1998_4_8	4a43-1f50-d613-de3e	a swimming pool contains water	CENTRAL
+MCAS_1998_4_8	86c1-8ea4-6a5c-6283	water is an electrical or electric energy or thermal or thermal energy conductor	CENTRAL
+MCAS_1998_4_8	d12e-268f-1b21-6879	sending electricity through a conductor causes electricity or electric current to flow through that conductor	CENTRAL
+MCAS_1998_4_8	f64e-1b60-6e48-9b5a	nervous system is an electrical or electric conductor	CENTRAL
+MCAS_1998_4_8	959a-ab9a-2217-9fac	if one electrical conductor contacts another electrical conductor then electricity will flow through both conductors	CENTRAL
+MCAS_1998_4_8	356b-17e1-59ba-230b	the nervous system is a part of the body of an animal	CENTRAL
+MCAS_1998_4_8	cf3b-d6fc-6b3d-87d4	if electricity flows through or is transferred through the body of an animal then that animal is electrocuted	CENTRAL
+MCAS_1998_4_8	7409-4a52-a23a-0c5c	electrocution causes harm to an organism	CENTRAL
+MCAS_1998_4_8	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+MCAS_1998_4_8	da8e-d915-e5af-ae29	harm means danger	LEXGLUE
+MCAS_1998_4_8	0584-393a-7b86-9c70	electric devices require electrical energy to function	CENTRAL
+MCAS_1998_4_8	de25-e9d6-aced-d88e	device means tool	LEXGLUE
+TIMSS_2007_4_pg35	d259-7bf2-a54b-5195	an electric fan is a kind of electrical device for cooling or ventilation	GROUNDING
+TIMSS_2007_4_pg35	b8fe-4fe5-0eae-a038	electricity is used as an energy source by electrical devices	CENTRAL
+TIMSS_2007_4_pg35	6637-e41b-2d15-bfdc	a ceiling fan is a kind of fan	GROUNDING
+TIMSS_2007_4_pg35	b320-8125-95c4-8c27	to run on means to use as an energy source	LEXGLUE
+NYSEDREGENTS_2014_4_4	42dd-0aaa-7736-eea9	Matter in the gas phase has variable volume	CENTRAL
+NYSEDREGENTS_2014_4_4	77a9-72bb-f1d8-77ff	Matter in the gas phase has variable shape	CENTRAL
+NYSEDREGENTS_2014_4_4	b3e1-3703-6490-1530	definite is the opposite of variable	LEXGLUE
+NYSEDREGENTS_2014_4_4	aa73-331e-e970-c934	gas is a kind of state of matter	CENTRAL
+NYSEDREGENTS_2014_4_25	e5c6-c007-ec45-6843	all animals breathe	CENTRAL
+NYSEDREGENTS_2014_4_25	1ef5-5d4e-fdf8-9d2a	living things can all reproduce	CENTRAL
+NYSEDREGENTS_2014_4_25	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+NYSEDREGENTS_2014_4_25	daf3-3001-4bea-9034	breathing is a kind of process	CENTRAL
+NYSEDREGENTS_2014_4_25	1076-5022-7c68-9365	reproduction is a kind of process	CENTRAL
+NYSEDREGENTS_2014_4_25	3f4c-c241-6217-60ff	an animal is a member of an animal species	LEXGLUE
+Mercury_SC_415425	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+Mercury_SC_415425	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+Mercury_SC_415425	93b8-fdb5-f003-dedb	In the photosynthesis process carbon dioxide or water or sunlight has the role of raw material	CENTRAL
+Mercury_SC_415425	2851-a2b0-f5df-dae7	if something is a raw material in a process then that something is required for that process	CENTRAL
+Mercury_SC_415425	1b31-08ba-2a30-8dd0	to be used for something means to be required by that something	LEXGLUE
+Mercury_SC_415425	96ff-31bb-ea13-9aff	carbon dioxide is a kind of gas	CENTRAL
+Mercury_SC_LBS10040	fa62-7076-3a48-59e3	sugar is a kind of simple carbohydrate	CENTRAL
+Mercury_SC_LBS10040	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+Mercury_SC_LBS10040	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+Mercury_SC_LBS10040	80f0-202c-0427-9ddc	make means produce	LEXGLUE
+Mercury_SC_LBS10040	fe74-c2b4-98c2-9496	a plant requires photosynthesis to grow or survive	CENTRAL
+Mercury_SC_LBS10040	3976-3829-4098-1312	if something is required for a process then that something positively impacts that process	CENTRAL
+Mercury_SC_LBS10040	f116-778d-7f8a-6ec6	growing is a kind of process	GROUNDING
+Mercury_SC_LBS10040	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+Mercury_SC_LBS10682	a908-944e-04aa-71bc	plants are a source of oxygen through photosynthesis	CENTRAL
+Mercury_SC_LBS10682	84e6-3d26-d645-4729	as the amount of a source of something decreases , the amount of that something will decrease	CENTRAL
+Mercury_SC_LBS10682	1a70-2ddd-7f85-17ae	to reduce means to decrease	LEXGLUE
+Mercury_SC_LBS10682	26bf-d2db-4fdc-53f6	less means a reduced amount	LEXGLUE
+Mercury_SC_LBS10682	624a-c1ec-8c85-45ce	amount is a property of something and includes ordered values of none or least or little or some or half or much or many or most or all	CENTRAL
+Mercury_SC_402239	e288-5cf7-f60d-4e8d	shortest means least or smallest in length	ROLE
+Mercury_SC_402239	6932-1188-6eee-7b18	as time spent taking a shower decreases , water used will decrease	CENTRAL
+Mercury_SC_402239	9130-a03b-85d4-9a10	using less of a resource means conserving that resource	CENTRAL
+Mercury_SC_402239	1c04-5228-7c5d-ab8a	water is a kind of natural resource	GROUNDING
+Mercury_SC_402239	d082-bdb2-b20a-30de	to shorten means to make shorter	LEXGLUE
+Mercury_SC_400515	cab1-f3c3-59de-b682	coal is a kind of fossil fuel	GROUNDING
+Mercury_SC_400515	3092-233a-f999-2512	oil is a kind of fossil fuel	GROUNDING
+Mercury_SC_400515	8507-acd7-51e8-31a1	oil is a source of gasoline	GROUNDING
+Mercury_SC_400515	18f3-bb02-623d-b420	fossil fuels or fossils are formed by dead organisms over time	CENTRAL
+Mercury_SC_400515	69e3-9034-d59c-1674	forming coal or fossil fuels requires decaying vegetation	CENTRAL
+Mercury_SC_400515	a3a9-88b4-59db-d0b9	fossil fuels or fossils forming occurs over a period of 300000000 years which is considered a very long time to a human	CENTRAL
+Mercury_SC_400515	bb85-0f6e-6d4c-f342	prehistoric means before 300000000 years ago	LEXGLUE
+Mercury_SC_400515	b5f5-69f4-c4e2-6552	vegetation means plants	LEXGLUE
+Mercury_SC_400515	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_400515	2e43-6a8c-1231-65f1	dead organisms decay	CENTRAL
+Mercury_SC_400515	bf2f-e380-be4e-ca06	requiring is similar to needing help	LEXGLUE
+Mercury_SC_401367	828a-1af1-a7bd-61e8	gravity causes orbits	CENTRAL
+Mercury_SC_401367	e35c-e251-2993-ac25	planets orbit stars	CENTRAL
+Mercury_SC_401367	af26-8083-b908-7d3b	the Sun is a kind of star	GROUNDING
+Mercury_SC_401367	5830-0226-d5ec-1248	to be required means to be necessary	LEXGLUE
+Mercury_SC_401367	3d02-90e0-df5d-dd0c	if something causes a process then that something is required for that process	LEXGLUE
+Mercury_SC_401367	1271-8178-87cf-045c	gravity is a kind of force	CENTRAL
+VASoL_2010_5_39	76d6-aa20-ec92-1c4a	kilometers ( km ) are a unit used for measuring length or distance generally used for values between 1 and 50000000	CENTRAL
+VASoL_2010_5_39	3e49-ad6a-5665-0cd5	Richmond is a kind of town	CENTRAL
+VASoL_2010_5_39	aa31-b3ca-a8ab-afbd	Norfolk is a kind of town	CENTRAL
+VASoL_2010_5_39	940b-c972-2fd2-af0e	towns are usually located kilometers from each other	CENTRAL
+Mercury_SC_400171	0197-4516-5bc8-bc8f	the internet is used for communicating faster	CENTRAL
+Mercury_SC_400171	663d-a91d-53d8-5625	to be used for is similar to allowing	LEXGLUE
+Mercury_SC_400171	dcd4-5303-c509-88ec	faster means an increase or higher in speed	LEXGLUE
+Mercury_SC_400171	782a-53e7-c1c7-aae0	an increase is a kind of change	GROUNDING
+Mercury_SC_400201	73e5-00b0-22fd-e34e	boiling point means temperature at which a liquid boils or above which a liquid boils	CENTRAL
+Mercury_SC_400201	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+Mercury_SC_400201	a0b2-a45f-01e1-4bf4	boiling or evaporation means change from a liquid into a gas by adding heat energy	CENTRAL
+Mercury_SC_400201	e715-7f30-5489-dad1	becoming is similar to changing	LEXGLUE
+WASL_2005_5_11	66b1-8f1d-a430-34b4	skin is used for protecting the body from harmful substances	CENTRAL
+WASL_2005_5_11	401b-d6f7-6bc5-3718	protecting is a kind of function	CENTRAL
+NCEOGA_2013_5_51	d583-32a9-3187-f189	a unicellular organism has one cell	CENTRAL
+NCEOGA_2013_5_51	0f8a-4ede-42d6-258e	a multicellular organism has more than one cell	CENTRAL
+NCEOGA_2013_5_51	b4d5-fb67-e195-7606	how many means what number	LEXGLUE
+NCEOGA_2013_5_51	9294-541c-2211-ce63	one is a kind of number	GROUNDING
+Mercury_SC_407720	679c-fab2-a001-db1e	to be used for something means to help to do that something	ROLE
+Mercury_SC_407720	577f-1491-e68d-776d	webbed feet are used for moving faster through water by aquatic animals	CENTRAL
+Mercury_SC_407720	2125-ab14-605b-2b8c	aquatic animals or plants live in bodies of water	CENTRAL
+Mercury_SC_407720	59c6-0fc8-f645-a67b	a frog is a kind of aquatic animal	GROUNDING
+Mercury_SC_407720	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	CENTRAL
+Mercury_SC_407720	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+Mercury_SC_407720	e6ee-3492-89ae-73d8	a part of something means a characteristic of something	GROUNDING
+Mercury_SC_407720	25f9-09c2-3469-a2f8	a foot is a part of some animals for walking	GROUNDING
+Mercury_SC_407720	9ee9-6353-1bca-2fa5	An example of an adaptation is moving fast	CENTRAL
+NCEOGA_2013_5_43	3c3a-0eac-88e6-b000	clouds are formed by water vapor rising and condensing	CENTRAL
+NCEOGA_2013_5_43	3a9b-81b5-1a3a-40a0	cooling or colder means removing or reducing or decreasing heat or temperature	LEXGLUE
+NCEOGA_2013_5_43	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+NCEOGA_2013_5_43	bbaf-fd47-e244-3163	losing something decreases the amount of that something	LEXGLUE
+NCEOGA_2013_5_43	f461-ef68-36cf-0f91	water vapor cooling causes that water vapor to condense	CENTRAL
+NCEOGA_2013_5_43	e474-2a11-6e7b-ae8b	water is in the gas state , called water vapor , for temperatures between 373 or 212 or 100 and 100000000000 K or F or C	CENTRAL
+NCEOGA_2013_5_43	2aba-39fa-3a07-5ee4	condensing means changing from a gas into a liquid by reducing heat energy	CENTRAL
+NCEOGA_2013_5_43	1a70-2ddd-7f85-17ae	to reduce means to decrease	LEXGLUE
+Mercury_SC_402101	d9ac-bf1e-2efc-8abb	the surface of the Earth contains mountains	CENTRAL
+Mercury_SC_402101	d0ac-a3a5-dadc-df10	the surface of the Moon contains mountains	CENTRAL
+Mercury_SC_402101	0e02-5e2b-3793-96d3	a mountain is a kind of landform	CENTRAL
+Mercury_SC_402101	ecdd-241e-c5c7-d03b	landform means surface feature or physical feature or land feature	LEXGLUE
+Mercury_SC_402101	e57b-18c2-73ff-869b	to be found in means to be contained in	LEXGLUE
+Mercury_SC_402104	a94e-e849-c066-fecd	a fish is a kind of aquatic animal	GROUNDING
+Mercury_SC_402104	2125-ab14-605b-2b8c	aquatic animals or plants live in bodies of water	CENTRAL
+Mercury_SC_402104	2a41-7224-fbc2-ba94	a pond is a kind of body of water	GROUNDING
+Mercury_SC_402104	d1ac-a510-1958-0100	polluting means something harmful or something poisonous is added to an environment causing harm to the environment	CENTRAL
+Mercury_SC_402104	d213-eeb4-7ba2-40ca	toxic means poisonous	LEXGLUE
+Mercury_SC_402104	e4d1-f502-402f-4ce9	dumping something in an environment means adding that something to that environment	LEXGLUE
+Mercury_SC_402104	d116-6f25-b3ac-7d88	pollution has a negative impact on the environment or air quality	CENTRAL
+Mercury_SC_402104	57d4-79ba-a97d-0f9a	harming something has a negative impact on or effect on that something	CENTRAL
+Mercury_SC_402104	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+Mercury_SC_402104	f7a7-6ffc-be3e-d21d	organisms are a part of an environment	CENTRAL
+Mercury_SC_402104	f4d3-fd82-31d1-855c	to cause means to result in	LEXGLUE
+Mercury_SC_402104	ebf1-9fe9-324d-b205	harming an organism can cause that organism to die	CENTRAL
+VASoL_2009_5_25	d9aa-4785-cdb4-ac25	igneous rocks or minerals are formed from magma or lava cooling	CENTRAL
+VASoL_2009_5_25	075f-d7cb-993c-ade1	igneous is a kind of rock	CENTRAL
+VASoL_2009_5_25	db0b-31a1-91ab-6996	a type is synonymous with a kind	LEXGLUE
+MDSA_2011_5_6	e682-f47d-cc9c-a67c	a complete revolution of the Earth around the sun takes 1 or one year or solar year or Earth year	CENTRAL
+MDSA_2011_5_6	3678-1c03-c983-ba31	a revolution is when something revolves around something else	LEXGLUE
+Mercury_SC_401158	a1a9-97db-a771-1c2b	an ice cube is a kind of solid	CENTRAL
+Mercury_SC_401158	cf49-1b7a-89f0-41f5	solid is a kind of state of matter	CENTRAL
+Mercury_SC_401158	fb57-e33b-b44f-8545	physical state means state of matter	LEXGLUE
+Mercury_SC_408859	10c2-8847-99e1-057b	consumers eat other organisms	CENTRAL
+Mercury_SC_408859	9e89-73fd-66d5-18e2	a frog is a kind of animal	GROUNDING
+Mercury_SC_408859	964f-3c67-13dd-a443	a turtle is a kind of animal	GROUNDING
+Mercury_SC_408859	9526-aecc-22b2-4b6a	a fish is a kind of animal	GROUNDING
+Mercury_SC_408859	782f-7770-b8be-f40e	a mouse is a kind of animal	GROUNDING
+Mercury_SC_408859	e26b-b21d-d4a3-25fc	a bird is a kind of animal	GROUNDING
+Mercury_SC_408859	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+Mercury_SC_408859	aa17-e87c-2259-5f04	alligators eat frogs or turtles or fish or mice or birds	CENTRAL
+Mercury_SC_408859	a4f8-5748-0846-cb45	In the food chain process an animal has the role of consumer which eats producers or other animals for food	CENTRAL
+Mercury_SC_408859	25c2-cd2a-8053-4695	a role in the ecosystem is a role in the food chain process	CENTRAL
+MCAS_2011_5_17673	6c20-4dbe-71da-0428	a magnet contains a north pole or south pole	CENTRAL
+MCAS_2011_5_17673	ad97-1b6b-97d3-ea4e	if a pole is facing a pole of the same direction then those two poles will repel each other	CENTRAL
+MCAS_2011_5_17673	e74b-895a-5181-6133	repel means move away	LEXGLUE
+MCAS_2011_5_17673	6e81-2024-ba28-312f	apart means away	LEXGLUE
+MCAS_2011_5_17673	ed71-4003-23bd-6b98	north is a kind of direction	GROUNDING
+VASoL_2008_5_28	d9fd-c8f3-a4aa-801e	as an object descends into water , the pressure on that object will increase	CENTRAL
+VASoL_2008_5_28	466a-2c15-ac54-8361	an ocean is a kind of body of water	GROUNDING
+VASoL_2008_5_28	6759-1566-8f4d-4da2	a submarine is a kind of object	GROUNDING
+Mercury_SC_400924	682c-7e2c-8f66-0543	a polar bear requires a cold environment	CENTRAL
+Mercury_SC_400924	7ebb-7a94-af1e-9fa9	a pool is a kind of body of water	GROUNDING
+Mercury_SC_400924	3f9d-8b3a-54b5-6a3c	a body of water is a kind of environment	GROUNDING
+Mercury_SC_400924	adb3-8ad7-befa-74c9	zoo exhibits should contain all things required by the animals living in those exhibits	CENTRAL
+Mercury_SC_400924	5639-8136-4788-3ee6	a bear is a kind of animal	GROUNDING
+Mercury_SC_400924	c18e-f16d-3f5a-07a8	including means containing	LEXGLUE
+Mercury_SC_400924	a2d0-fb25-9c0c-89c4	some animals live in zoo exhibits	CENTRAL
+Mercury_SC_400924	4084-f2bc-52cf-0f74	temperature or heat energy is a property of objects or weather and includes ordered values of cold or cool or warm or hot	CENTRAL
+Mercury_SC_400924	91cc-2488-b3f3-beac	a region is similar to an environment	LEXGLUE
+Mercury_SC_401652	c59e-0070-96f7-48b8	soil is formed by rocks eroding	CENTRAL
+Mercury_SC_401652	5ebe-099f-fd30-b713	a plant requires soil for survival or to grow	CENTRAL
+Mercury_SC_401652	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_403016	828a-1af1-a7bd-61e8	gravity causes orbits	CENTRAL
+Mercury_SC_403016	a6a9-3e1b-7e02-ce06	the moon orbits the Earth	CENTRAL
+CSZ_2007_5_CSZ10148	f992-5698-76aa-c6de	a warm front is when warm air mass rises and passes over a cold air mass	CENTRAL
+CSZ_2007_5_CSZ10148	9436-c8e4-c0e1-914f	a warm front causes cloudy and rainy weather	CENTRAL
+CSZ_2007_5_CSZ10148	0d83-db1e-d92b-0bf0	cloudy means the presence of clouds in the sky	BACKGROUND
+CSZ_2007_5_CSZ10148	3c3a-0eac-88e6-b000	clouds are formed by water vapor rising and condensing	CENTRAL
+CSZ_2007_5_CSZ10148	f461-ef68-36cf-0f91	water vapor cooling causes that water vapor to condense	CENTRAL
+CSZ_2007_5_CSZ10148	4347-84dc-10ce-8007	precipitation is when rain or snow or hail fall from clouds to the Earth or ground	GROUNDING
+VASoL_2009_5_14	085c-28bf-bb51-79e6	a plant or living thing requires nutrients to grow	CENTRAL
+VASoL_2009_5_14	0738-f2c4-03a7-3a8b	the top layer of soil contains the most nutrients	CENTRAL
+VASoL_2009_5_14	ddcc-3b71-b14e-97d1	soil contains nutrients for plants	CENTRAL
+VASoL_2009_5_14	9b37-65c8-ea17-fdb3	if something requires something else then that something else is important to that something	LEXGLUE
+Mercury_SC_413544	62ff-bf8f-6b81-d3f1	as air pressure surrounding a flexible container decreases , that flexible container will expand	CENTRAL
+Mercury_SC_413544	762f-5f24-90ad-ff00	a balloon is highly flexible	CENTRAL
+Mercury_SC_413544	b859-0a35-7eea-8222	a balloon contains gas	CENTRAL
+Mercury_SC_413544	490c-5be7-2ff7-4bf2	a container contains objects or material or substances	LEXGLUE
+Mercury_SC_413544	1fc6-7784-ccd9-4fd5	expand means increase in size	CENTRAL
+Mercury_SC_413544	ba20-8706-42c6-1f9b	width is a property of size or shape and includes ordered values of narrow or wide	CENTRAL
+Mercury_SC_413544	8031-0a5c-74bc-85e8	as altitude increases , air pressure will decrease	CENTRAL
+Mercury_SC_413544	a81f-882c-3627-408d	a decrease is a kind of change	CENTRAL
+MDSA_2010_5_18	d68e-b9c5-62d5-f63e	a windmill converts wind energy into electricity	CENTRAL
+MDSA_2010_5_18	5657-c6bc-e6cd-ae38	electricity means electrical energy	LEXGLUE
+MDSA_2010_5_18	b8fe-4fe5-0eae-a038	electricity is used as an energy source by electrical devices	CENTRAL
+MDSA_2010_5_18	0a68-679d-5a83-b70b	electrical devices are used for industrial purposes or household purposes by humans	CENTRAL
+MDSA_2010_5_18	a8e1-376d-a65c-d56c	to help or to benefit means to be of use	LEXGLUE
+Mercury_SC_400047	5458-220e-3046-62d2	Matter in the liquid phase has variable shape	CENTRAL
+Mercury_SC_400047	6abc-4443-f672-9a97	melting means changing from a solid into a liquid by adding heat energy	CENTRAL
+Mercury_SC_400047	858d-7f12-bc99-2177	chocolate is a kind of solid usually	GROUNDING
+Mercury_SC_400047	e827-2672-6e8f-f977	variable means able to change	LEXGLUE
+Mercury_SC_400047	e9d2-21ea-0bdc-f4ca	a bar is a kind of object	GROUNDING
+Mercury_SC_400047	93fd-6a6f-7782-77d1	shape is a property of an object	CENTRAL
+Mercury_SC_405973	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+Mercury_SC_405973	e26b-b21d-d4a3-25fc	a bird is a kind of animal	GROUNDING
+Mercury_SC_400303	1296-2edb-a443-10d1	a thermometer is a kind of instrument for measuring temperature	CENTRAL
+Mercury_SC_400303	a0d5-68ec-fccc-fd82	instrument means tool	LEXGLUE
+Mercury_SC_400303	8346-8315-1f24-a5be	a thermometer is used to measure temperature	CENTRAL
+Mercury_SC_400303	fa8f-6c8e-1364-1b72	melting point means temperature at which a solid melts or above which a solid melts	CENTRAL
+Mercury_SC_400303	7ef1-c28b-22e3-3edc	ice is a kind of solid	GROUNDING
+Mercury_SC_400840	a429-ec06-2e2a-f6f9	a ruler is a kind of tool for measuring length	CENTRAL
+Mercury_SC_400840	80e7-ecfd-5d68-a0d3	a ruler is used for measuring the length of an object	CENTRAL
+Mercury_SC_400840	fad5-a6d6-cfd6-b9ed	a balance is a kind of instrument for measuring mass or measuring weight	CENTRAL
+Mercury_SC_400840	5c76-a005-e9c2-354a	a balance is used for measuring mass or weight of an object or of a substance	CENTRAL
+Mercury_SC_400840	8f4d-39c0-8ee7-35e4	a seashell is a kind of object	GROUNDING
+Mercury_SC_400840	e9f8-f0c7-07ec-99de	to depend on or to rely on or to need means to require	LEXGLUE
+Mercury_SC_400840	1b31-08ba-2a30-8dd0	to be used for something means to be required by that something	LEXGLUE
+Mercury_SC_400840	a0d5-68ec-fccc-fd82	instrument means tool	LEXGLUE
+Mercury_SC_400002	4dcf-7536-2995-3a73	pollen is part of a flower for reproduction	CENTRAL
+Mercury_SC_400002	5900-59b1-bb87-4115	pollination is when pollinating animals or wind or water carry pollen from one flower to another flower	CENTRAL
+Mercury_SC_400002	2d4d-44be-d6a6-655f	A bee is a pollinating animal	GROUNDING
+Mercury_SC_400002	2c1d-72c3-3a94-c25b	pollination requires pollinators or pollinating animals	CENTRAL
+Mercury_SC_400002	e9f8-f0c7-07ec-99de	to depend on or to rely on or to need means to require	LEXGLUE
+Mercury_SC_400002	7b88-0a72-7d90-ea1d	plant reproduction or seed production requires pollination	CENTRAL
+Mercury_SC_400862	efca-82f8-2845-8de5	an electromagnet is a kind of electric magnet	GROUNDING
+Mercury_SC_400862	cb9d-9db9-4d61-d79f	a electromagnet is formed by attaching an iron nail wrapped in a copper wire to a circuit	CENTRAL
+Mercury_SC_400862	de4c-ca36-c336-540f	iron is a kind of metal	GROUNDING
+Mercury_SC_400862	963a-dc3b-646b-8187	creating a simple circuit requires a wire or battery	CENTRAL
+Mercury_SC_400862	3c44-d616-941a-c427	if battery in an electromagnet is active then the nail in the electromagnet will become magnetic	CENTRAL
+Mercury_SC_401598	dc9f-1fff-15e4-352a	hunting or scavenging is a kind of skill	GROUNDING
+Mercury_SC_401598	856a-1ef6-dd1f-154b	skills are learned characteristics	CENTRAL
+Mercury_SC_401598	317f-06e6-5e83-8d81	hunting is a kind of action	CENTRAL
+MCAS_2005_5_21	24ac-6c7a-db37-64ad	seals every year return to the same beaches to give birth	BACKGROUND
+MCAS_2005_5_21	de1f-14bd-20e6-5573	if humans disturb animals in a location then those animals will move to a different location	CENTRAL
+MCAS_2005_5_21	999d-78fd-e16b-a8b6	a seal is a kind of animal	GROUNDING
+MCAS_2005_5_21	7a02-3c43-f89e-8b50	a beach is a kind of location	GROUNDING
+Mercury_SC_400058	968b-298f-e403-e5a6	looking like is similar to camouflaging as	LEXGLUE
+Mercury_SC_400058	c6ad-76f9-7f5c-33e0	camouflage is a kind of adaptation for hiding in an environment	CENTRAL
+Mercury_SC_400058	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+Mercury_SC_400058	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+Mercury_SC_400058	39b9-9637-538d-0d33	camouflage is a kind of protection against predators or from predators or against consumers	CENTRAL
+Mercury_SC_400058	10c2-8847-99e1-057b	consumers eat other organisms	CENTRAL
+Mercury_SC_400058	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_400058	a4f8-5748-0846-cb45	In the food chain process an animal has the role of consumer which eats producers or other animals for food	CENTRAL
+Mercury_SC_400058	9a54-14e7-f8f4-6375	avoiding predators or escaping predators or avoiding consumers is a kind of protection Move to PREDATOR-PREY.	CENTRAL
+Mercury_SC_400058	da2b-fb92-41aa-b359	an adaptation is a kind of characteristic	GROUNDING
+Mercury_SC_400058	3a90-a5a3-dc27-ca09	An example of camouflage is when an organism looks like its environment	CENTRAL
+Mercury_SC_400058	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_400058	b968-ddd7-0e2c-e2b1	rock means stone	LEXGLUE
+Mercury_SC_400058	9815-d368-af06-bf1c	a pebble is a kind of small rock	GROUNDING
+Mercury_SC_400058	8635-6b8d-0003-dc16	an ecosystem contains nonliving things	CENTRAL
+Mercury_SC_400058	af33-4409-5f16-cd4c	rock is a kind of nonliving thing	GROUNDING
+CSZ_2008_5_CSZ50776	ec9d-6fc5-9cb0-28db	decomposer is a kind of role in the food chain process or in an ecosystem	CENTRAL
+CSZ_2008_5_CSZ50776	12d9-60df-23de-f00f	decomposition is when a decomposer recycles or returns nutrients from dead organisms to the soil by eating those dead organisms	CENTRAL
+CSZ_2008_5_CSZ50776	80de-489f-48b2-16f4	an animal or living thing requires nutrients for survival	BACKGROUND
+CSZ_2008_5_CSZ50776	5d1e-750b-db59-6c30	if some nutrients are in the soil then those nutrients are in the food chain	CENTRAL
+CSZ_2008_5_CSZ50776	f0e5-d444-871d-9ea3	decomposition is when a decomposer breaks down dead organisms	CENTRAL
+CSZ_2008_5_CSZ50776	400d-d80d-09a3-3206	break down means change from a whole into pieces	BACKGROUND
+LEAP__5_10316	842b-2665-a2a2-db2a	mineral graphite is used for making pencil lead	CENTRAL
+LEAP__5_10316	73ef-3026-389a-20a2	pencil lead contains mineral graphite	CENTRAL
+OHAT_2011_5_20	e9ed-3032-6736-3077	friction occurs when two object's surfaces move against each other	CENTRAL
+OHAT_2011_5_20	26cb-7582-a17c-a0d6	friction causes the temperature of an object to increase	CENTRAL
+OHAT_2011_5_20	d753-423d-5ce7-53ce	temperature is a measure of heat energy	LEXGLUE
+OHAT_2011_5_20	ae86-c631-e4ad-1669	heat energy is synonymous with thermal energy	LEXGLUE
+OHAT_2011_5_20	eb92-b0cd-c257-9bcf	a surface is a part of an object	CENTRAL
+OHAT_2011_5_20	c4a5-564d-59d0-1074	to rub or to rub together means to move against	LEXGLUE
+OHAT_2011_5_20	63df-d3d9-56dc-161a	warm means medium heat energy or temperature	LEXGLUE
+OHAT_2011_5_20	4867-4ad0-0164-d368	temperature rise means become warmer	LEXGLUE
+OHAT_2011_5_20	17ff-5bac-df42-a1b4	temperature rise means temperature increase	LEXGLUE
+OHAT_2011_5_20	d691-82fb-2145-80e4	a hand is a kind of object	GROUNDING
+OHAT_2011_5_20	db49-234a-263a-3d1c	producing is similar to causing	LEXGLUE
+MCAS_2005_5_27	9084-fc84-0b6a-a720	clouds are made of water vapor	CENTRAL
+MCAS_2005_5_27	e474-2a11-6e7b-ae8b	water is in the gas state , called water vapor , for temperatures between 373 or 212 or 100 and 100000000000 K or F or C	LEXGLUE
+MCAS_2005_5_27	5212-c2af-5c9e-8173	fog is formed by water vapor condensing in the air	CENTRAL
+Mercury_SC_400206	ece8-8e35-fc83-f487	An example of camouflage is when something is or has the same color as its environment	CENTRAL
+Mercury_SC_400206	8f8e-37fa-0093-b7ef	green is a kind of color	GROUNDING
+Mercury_SC_400206	7f97-3a19-456e-8fdc	a leaf is a part of a tree	GROUNDING
+Mercury_SC_400206	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_400206	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_400206	f7a7-6ffc-be3e-d21d	organisms are a part of an environment	GROUNDING
+Mercury_SC_401294	1dab-d0e6-0b3a-1f75	as the size of a leaf increases , the amount of sunlight absorbed by that leaf will increase	CENTRAL
+Mercury_SC_401294	ba20-8706-42c6-1f9b	width is a property of size or shape and includes ordered values of narrow or wide	CENTRAL
+Mercury_SC_401294	4b24-4db5-ec89-d94c	as flatness of a leaf increases , the amount of sunlight that leaf can absorb will increase	CENTRAL
+Mercury_SC_401294	046d-7605-f4cd-1f97	flatness is a property of a surface or the shape of an object and includes ordered values of uneven or flat	CENTRAL
+Mercury_SC_401294	08e0-810a-daa2-5a48	a leaf is a kind of object	GROUNDING
+Mercury_SC_401294	eb92-b0cd-c257-9bcf	a surface is a part of an object	GROUNDING
+Mercury_SC_401294	0514-7919-c1bf-6188	a leaf absorbs sunlight to perform photosynthesis	CENTRAL
+Mercury_SC_401294	ecf3-617e-32df-416b	a leaf is a part of a green plant	GROUNDING
+Mercury_SC_401294	fe74-c2b4-98c2-9496	a plant requires photosynthesis to grow or survive	CENTRAL
+Mercury_SC_401294	db16-ef7b-0d18-2435	rainy means often raining	LEXGLUE
+Mercury_SC_401294	617e-4655-cd23-1bc6	as the amount of rain increases in an environment , available sunlight will decrease in that environment	CENTRAL
+Mercury_SC_401294	0696-4d28-5530-2f95	a climate is synonymous with an environment	LEXGLUE
+Mercury_SC_401294	f346-e8eb-6338-4e34	the decrease of something required by an organism has a negative impact on that organism's survival	CENTRAL
+Mercury_SC_401294	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_401294	0fef-e04d-dcf6-d43a	large leaves are a kind of adaptation for absorbing sunlight	CENTRAL
+Mercury_SC_401294	8b56-35cc-d534-8cad	larger means greater or higher or more in size	LEXGLUE
+Mercury_SC_401294	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+Mercury_SC_401294	ed09-025e-89b8-d48f	negative impact is the opposite of positive impact	LEXGLUE
+MCAS_2016_5_7	73df-7e6e-db00-ae55	some adult animals lay eggs	CENTRAL
+MCAS_2016_5_7	9e89-73fd-66d5-18e2	a frog is a kind of animal	GROUNDING
+MCAS_2016_5_7	ff6d-7abf-97c5-a9c3	An example of reproduction is laying eggs	CENTRAL
+MCAS_2016_5_7	bb00-a468-9749-1825	reproduction occurs during adulthood	CENTRAL
+MCAS_2016_5_7	1323-e32a-5c92-8dbb	adulthood is a stage in the life cycle process	CENTRAL
+Mercury_SC_405721	dae9-2ad1-04de-57b4	to slow or to slow down decreases speed	ROLE
+Mercury_SC_405721	05fc-1029-d104-3be1	grass is a rough surface	CENTRAL
+Mercury_SC_405721	2bcd-053b-16f1-66e2	concrete is usually a smooth surface	CENTRAL
+Mercury_SC_405721	f5db-3d81-10c5-e292	as roughness of a surface increases , friction will increase	CENTRAL
+Mercury_SC_405721	512a-c5ef-bcba-905d	friction acts to counter the motion of two objects when their surfaces are touching	CENTRAL
+Mercury_SC_405721	ce7e-f24a-8088-35e6	the sidewalk is a kind of object	GROUNDING
+Mercury_SC_405721	5650-b213-46ea-d9dd	a ball is a kind of object	GROUNDING
+Mercury_SC_405721	eb92-b0cd-c257-9bcf	a surface is a part of an object	CENTRAL
+Mercury_SC_405721	967c-c4d5-4455-0e4b	an object being pushed across another object causes their surfaces to move against each other	LEXGLUE
+Mercury_SC_405721	ce72-7053-8df0-6419	if one surface is moved against or moved over or moved down another surface then those surfaces are touching	LEXGLUE
+Mercury_SC_405721	2c22-fd47-fae8-9fec	a kick is a kind of push	GROUNDING
+Mercury_SC_405721	6650-9806-5c50-ff4e	counter means reduce or stop or resist	LEXGLUE
+Mercury_SC_405721	1a70-2ddd-7f85-17ae	to reduce means to decrease	LEXGLUE
+Mercury_SC_405721	bfdf-b468-ee22-1b60	an increase is the opposite of a decrease	LEXGLUE
+Mercury_SC_405721	dcd4-5303-c509-88ec	faster means an increase or higher in speed	LEXGLUE
+Mercury_SC_405721	87c6-f5c1-2d8f-e14a	speed is a measure of how fast an object is moving	CENTRAL
+Mercury_SC_405721	19f5-4162-4c01-59aa	increase means more	LEXGLUE
+Mercury_SC_405721	f5f4-d4dd-cf26-09d5	travel means to move	LEXGLUE
+Mercury_SC_413454	b97b-83c9-4e07-41af	pine needle is similar to a leaf	CENTRAL
+Mercury_SC_413454	8958-fc28-d9ce-a1d6	a leaf performs photosynthesis or gas exchange	CENTRAL
+Mercury_SC_413454	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+Mercury_SC_413454	fa62-7076-3a48-59e3	sugar is a kind of simple carbohydrate	GROUNDING
+Mercury_SC_413454	ca98-bf5f-0d40-00ce	sugars are transported from the leaves to the roots of a plant	CENTRAL
+Mercury_SC_413454	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_400037	4a5a-9115-28a9-b97b	water is in the solid state , called ice , for temperatures between 0 or -459 or -273 and 273 or 32 or 0 K or F or C	ROLE
+Mercury_SC_400037	ddd5-9774-f7cb-82f6	being exposed to wind or water or animals or heat can cause erosion of soil or of rocks	CENTRAL
+Mercury_SC_400037	214a-9ca3-2983-aa79	rain is a kind of water	GROUNDING
+Mercury_SC_400037	fb40-15de-e88b-9743	waves are made of moving water	GROUNDING
+Mercury_SC_415735	6abc-4443-f672-9a97	melting means changing from a solid into a liquid by adding heat energy	CENTRAL
+Mercury_SC_415735	a1a9-97db-a771-1c2b	an ice cube is a kind of solid	GROUNDING
+Mercury_SC_415735	65d3-05bf-28db-3f1a	a puddle is a kind of body of water	GROUNDING
+Mercury_SC_415735	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+Mercury_SC_415735	d56e-bff7-b1f5-a8f4	transferring is similar to adding	LEXGLUE
+Mercury_SC_415735	04a3-0791-9bd3-602d	thermal conduction is when materials conduct heat through those materials	CENTRAL
+Mercury_SC_415735	ac2a-9f55-aeab-2917	to conduct is similar to to transfer	LEXGLUE
+Mercury_SC_415735	c12d-b29a-5073-54ab	if something is outside during the day then that something will receive sunlight	CENTRAL
+Mercury_SC_415735	5e35-243f-81ab-5eef	to receive sunlight means to absorb sunlight	LEXGLUE
+Mercury_SC_415735	dcbe-9523-4529-c54e	absorbing sunlight causes objects to heat	CENTRAL
+Mercury_SC_415735	9469-8559-7f35-1bbd	heating means adding heat	LEXGLUE
+Mercury_SC_415735	d5e1-2384-26cc-edb9	an ice cube is a kind of object	GROUNDING
+Mercury_SC_415735	ce7e-f24a-8088-35e6	the sidewalk is a kind of object	GROUNDING
+Mercury_SC_415735	e6ce-9a90-4900-9861	a sidewalk is located outside	CENTRAL
+Mercury_SC_415735	738a-36ed-7284-dfa2	sidewalk means pavement	LEXGLUE
+Mercury_SC_415735	7b18-e422-e212-d376	transfer is a kind of process	CENTRAL
+Mercury_SC_415735	80a3-454d-e8e0-3de2	objects are made of materials or substances or matter	CENTRAL
+MCAS_2002_5_12	875c-ebc8-05a0-0a18	An example of an adaptation is camel humps	CENTRAL
+MCAS_2002_5_12	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+MCAS_2002_5_12	c21a-180f-0328-7e72	well-suited is similar to adapted	LEXGLUE
+MCAS_2002_5_12	7d29-0a2c-6959-b1dd	an animal needs to eat food for nutrients	CENTRAL
+MCAS_2002_5_12	7db0-1827-aaaa-cc30	an animal requires enough nutrients to maintain good health or survive	CENTRAL
+MCAS_2002_5_12	9bf8-7511-a722-e068	a desert environment contains very little food	CENTRAL
+MCAS_2002_5_12	affa-2d72-5000-4e10	an animal can survive in an environment with little food by storing fat	CENTRAL
+MCAS_2002_5_12	7c5c-d0bf-98c2-aab9	a camel is a kind of animal	GROUNDING
+MCAS_2002_5_12	328a-8d46-1485-c3c3	a desert is a kind of environment	GROUNDING
+MCAS_2002_5_12	9714-8e2a-f6fb-91e4	animals adapt to their environment	CENTRAL
+VASoL_2007_5_26	27e0-dacf-5177-e23c	the crust is a layer of the Earth	CENTRAL
+VASoL_2007_5_26	d7f8-a2da-a673-23e2	the mantle is a layer of the Earth	CENTRAL
+VASoL_2007_5_26	6520-839d-9b7c-bf0a	the mantle is located just below Earth's crust	CENTRAL
+MEAP_2005_5_1	e474-2a11-6e7b-ae8b	water is in the gas state , called water vapor , for temperatures between 373 or 212 or 100 and 100000000000 K or F or C	CENTRAL
+MEAP_2005_5_1	60af-59d3-7477-0429	water vapor is invisible	CENTRAL
+MEAP_2005_5_1	c02e-466c-fe51-440c	found in means existing in	LEXGLUE
+MEAP_2005_5_1	7896-0ee6-9c3c-f3c1	water vapor is found in the atmosphere	CENTRAL
+Mercury_SC_416126	ea27-c3fc-7c64-eeb2	the circulatory system absorbs or carries food or substances or oxygen from the digestive and respiratory systems to the rest of the body	CENTRAL
+Mercury_SC_416126	c154-aa1a-96fe-291c	the digestive system breaks food into nutrients for the body	CENTRAL
+Mercury_SC_416126	Good	a food contains nutrients for living things	CENTRAL
+Mercury_SC_416126	c049-ad89-f8b6-65d5	bone cells are a part of the body	GROUNDING
+ACTAAP_2011_5_7	9218-9ed1-8bb7-6d03	a prism is used for refracting light	CENTRAL
+ACTAAP_2011_5_7	237d-6b78-ad88-e3b4	a prism is a kind of tool for refracting light	CENTRAL
+ACTAAP_2011_5_7	592f-eeca-3145-0e73	a prism refracts light	CENTRAL
+ACTAAP_2011_5_7	bfe1-0c07-3b4a-cfc2	refraction is when a wave goes through or transmits through or passes through a surface or a material or an object and travels in a different direction relative to the angle of incidence	BACKGROUND
+ACTAAP_2011_5_7	7830-1dcb-42c6-d8dc	light is a kind of wave	GROUNDING
+ACTAAP_2011_5_7	49dc-4526-46f9-5b32	sunlight is a kind of light	GROUNDING
+ACTAAP_2011_5_7	b743-7732-00bc-dc06	refracting sunlight or light causes sunlight or light to split into different colors	CENTRAL
+ACTAAP_2011_5_7	d021-8931-f6a6-1ede	sunlight is made of all colors in the rainbow	CENTRAL
+NCEOGA_2013_5_15	904b-3cbd-8469-b307	the nervous system sends observations in the form of electrical signals to the rest of the body	CENTRAL
+Mercury_SC_407574	16b7-673f-bc0d-ed99	oxygen is a kind of gas	CENTRAL
+Mercury_SC_407574	a908-944e-04aa-71bc	plants are a source of oxygen through photosynthesis	CENTRAL
+Mercury_SC_407574	f812-4338-e44b-e685	green plants are a kind of producer	GROUNDING
+Mercury_SC_407574	f8b7-590f-a416-818a	if something releases something else then that something is the source of that something else	LEXGLUE
+Mercury_SC_407574	f59c-9a1b-f57b-d689	an animal requires oxygen for survival or to breathe	CENTRAL
+Mercury_SC_407574	a4f8-5748-0846-cb45	In the food chain process an animal has the role of consumer which eats producers or other animals for food	GROUNDING
+Mercury_SC_407574	f99f-c36a-d00d-742d	breathing is when a lung converts from oxygen in air into oxygen in blood	CENTRAL
+Mercury_SC_407574	d1c9-6993-fd7a-b8e9	the lungs are a part of the body of an animal used for breathing air	CENTRAL
+Mercury_SC_407574	2047-3ee7-a047-0dd9	to breathe in means to absorb air	LEXGLUE
+Mercury_SC_407574	160e-6da0-3cc4-1b3d	take in means absorb	LEXGLUE
+Mercury_SC_401286	ce71-9833-2959-cb9d	a tag is a kind of tool for monitoring an object's location	CENTRAL
+Mercury_SC_401286	09b3-241c-6fef-fc12	a tag is used for monitoring an object's location	CENTRAL
+Mercury_SC_401286	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+Mercury_SC_401286	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+Mercury_SC_401286	3347-b1a5-6757-f53d	to roam means to move to various locations	CENTRAL
+Mercury_SC_401286	d5a9-c02e-a6e4-392f	studying moving habits requires knowing location	CENTRAL
+Mercury_SC_401286	bc99-3dfb-5779-7a60	monitoring something is used for knowing information about that something	CENTRAL
+MCAS_2010_5_11998	8e4b-7a86-b2a2-8e1c	a morning glory is a kind of vine	GROUNDING
+MCAS_2010_5_11998	a41a-a127-f2d9-ec5e	a vine climbs objects	BACKGROUND
+MCAS_2010_5_11998	7623-6dd6-7402-2c35	a curling stem is used for climbing objects by vines	CENTRAL
+MCAS_2010_5_11998	b241-1f01-1b84-2601	a fence is a kind of object	GROUNDING
+MCAS_2010_5_11998	41e5-6655-f98c-8696	curling is a kind of behavior	GROUNDING
+MCAS_2013_5_29401	791e-1c71-7a1d-d10a	weathering means breaking down rocks or surface materials from larger whole into smaller pieces by weather	LEXGLUE
+MCAS_2013_5_29401	0671-af0e-d6f3-eacf	when something breaks , a crack may form in that something	GROUNDING
+MCAS_2013_5_29401	93f5-d52b-1446-d912	a boulder is a kind of large rock	GROUNDING
+MCAS_2013_5_29401	4730-e0f3-6d20-0e0e	cycles of freezing and thawing water cause ice wedging	CENTRAL
+MCAS_2013_5_29401	a7ea-1134-ae5c-b085	ice wedging is when ice causes rocks to crack by expanding in openings	CENTRAL
+MCAS_2013_5_29401	9939-7d13-b72f-2674	winter has cold temperatures or weather	CENTRAL
+MCAS_2013_5_29401	c340-79fe-20a6-026a	spring has warm temperatures or weather	CENTRAL
+MCAS_2013_5_29401	cf2a-6257-0c5c-7445	cold means low in temperature	LEXGLUE
+MCAS_2013_5_29401	63df-d3d9-56dc-161a	warm means medium heat energy or temperature	LEXGLUE
+MCAS_2013_5_29401	7b3b-3c56-8e8b-ab1c	to lower means to decrease	LEXGLUE
+MCAS_2013_5_29401	d753-423d-5ce7-53ce	temperature is a measure of heat energy	LEXGLUE
+MCAS_2013_5_29401	f03c-decc-030f-b860	freezing means changing from a liquid into a solid by reducing heat energy	CENTRAL
+MCAS_2013_5_29401	1a70-2ddd-7f85-17ae	to reduce means to decrease	LEXGLUE
+MCAS_2013_5_29401	3cb0-21ad-9635-ef5c	thawing is similar to melting	LEXGLUE
+MCAS_2013_5_29401	6abc-4443-f672-9a97	melting means changing from a solid into a liquid by adding heat energy	CENTRAL
+MCAS_2013_5_29401	05d2-d1e3-489a-8716	warm is similar to hot	LEXGLUE
+MCAS_2013_5_29401	9ff8-543c-2f35-5d3f	hot means high in heat energy or temperature	LEXGLUE
+MCAS_2013_5_29401	53d0-8110-c683-52da	high is similar to increase	LEXGLUE
+MCAS_2013_5_29401	633c-3fd4-7320-00cf	winter is a kind of season	GROUNDING
+MCAS_2013_5_29401	af84-b2e1-3d77-58f9	spring is a kind of season	GROUNDING
+MCAS_2013_5_29401	e172-fe13-821d-196c	each season occurs once per year	CENTRAL
+MCAS_2013_5_29401	fae5-1f95-1138-9bc4	due to means caused by	LEXGLUE
+Mercury_SC_401663	2e89-d8e8-a8fb-9acc	a plant is a kind of living thing	ROLE
+Mercury_SC_401663	7740-696e-1fd8-35b8	a compost pile is used for recycling plants	CENTRAL
+Mercury_SC_401663	813f-2778-ed53-0c9f	recycling resources or nonrenewable resources has a positive impact on the environment or conservation of those resources	CENTRAL
+Mercury_SC_401663	091e-de33-5241-07bb	plants are a kind of resource	GROUNDING
+Mercury_SC_401663	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+MCAS_2003_5_35	29be-69ad-17f4-11f0	the color of or coloration of fur is an inherited characteristic	CENTRAL
+MCAS_2003_5_35	102a-fa79-43cd-e9a4	the colors of the parts of an organism are inherited characteristics	CENTRAL
+MCAS_2003_5_35	1112-d2ae-a1f5-ffb6	trait is synonymous with characteristic	LEXGLUE
+MCAS_2003_5_35	2f86-693e-7175-9932	fur is often part of an animal	GROUNDING
+MCAS_2003_5_35	c963-24b2-f50d-a21d	a dog is a kind of animal	GROUNDING
+MCAS_2003_5_35	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+MCAS_2003_5_35	ee78-0795-be47-6ad8	inheriting is when a inherited characteristic is copied or is passed from parent to offspring by genetics or DNA	CENTRAL
+Mercury_SC_400050	c69d-96c7-e62a-386e	when the temperature in a building is cooler than the temperature selected on the thermostat , the furnace will turn on automatically	CENTRAL
+Mercury_SC_400050	4d1f-ad79-3299-bfb4	a home is a kind of building	GROUNDING
+Mercury_SC_400050	8b98-86c4-6f2f-94ad	a house is a kind of home	GROUNDING
+MEA_2013_5_3	9bc8-f1da-ee78-f8e5	nuclear reactions in stars causes stars to produce light or energy or nuclear energy	CENTRAL
+MEA_2013_5_3	d567-d49e-293e-95bf	a star is a source of light or light energy through nuclear reactions	CENTRAL
+MEA_2013_5_3	af26-8083-b908-7d3b	the Sun is a kind of star	CENTRAL
+MEA_2013_5_3	b877-a58b-f75a-3998	a source of something emits or produces or generates that something	LEXGLUE
+Mercury_SC_405442	8958-fc28-d9ce-a1d6	a leaf performs photosynthesis or gas exchange	CENTRAL
+Mercury_SC_405442	ecf3-617e-32df-416b	a leaf is a part of a green plant	CENTRAL
+Mercury_SC_405442	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+MCAS_2013_5_17	3740-c11d-832c-96f2	an amphibian is a kind of animal	CENTRAL
+MCAS_2013_5_17	37af-5fb1-9a80-3548	amphibians hatch from eggs	CENTRAL
+MCAS_2013_5_17	359d-9e24-9685-50ca	young amphibians breathe through gills	CENTRAL
+MCAS_2013_5_17	4e5c-f633-ddba-96d9	adult amphibians live on land	CENTRAL
+MCAS_2013_5_17	0d00-93f4-5616-0efc	classifying is when one sorts something by kind or type	LEXGLUE
+MCAS_2013_5_17	c354-c737-b73a-6024	to belong to a group means to be classified in that group	LEXGLUE
+ACTAAP_2011_5_2	7309-3070-fa70-cad9	photosynthesis is a kind of process	CENTRAL
+ACTAAP_2011_5_2	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+ACTAAP_2011_5_2	3cff-4d77-9e27-7dc5	carbon dioxide can be found in the air	CENTRAL
+ACTAAP_2011_5_2	694b-d9ec-8c65-5a6a	green plants provide food for themselves or animals or consumers by performing photosynthesis	CENTRAL
+ACTAAP_2011_5_12	849d-06ff-794e-6880	all cells perform cellular respiration	BACKGROUND
+ACTAAP_2011_5_12	7272-bf77-2331-1b55	cellular respiration is when a cell converts from oxygen and carbohydrates into carbon dioxide, water, and energy	CENTRAL
+ACTAAP_2011_5_12	d11d-a195-7042-efcc	food contains carbohydrates	CENTRAL
+ACTAAP_2011_5_12	3d01-b0f9-5de8-8952	converting is similar to releasing	LEXGLUE
+ACTAAP_2011_5_12	1e59-1be2-a1fb-758e	releasing energy is a kind of function	CENTRAL
+ACTAAP_2011_5_12	213d-225f-ebb9-d228	function is similar to purpose	LEXGLUE
+Mercury_SC_409254	4517-3252-bc68-8040	as ability to transport food increases around the world , the available types of food in distant locations will increase	CENTRAL
+Mercury_SC_409254	bfb3-7ce9-4ba1-f302	as ability to preserve food increases , the ability to transport food increases	CENTRAL
+Mercury_SC_409254	59a4-b2fa-5937-4f14	to preserve food means to keep fresh food from spoiling	LEXGLUE
+Mercury_SC_409254	7f82-8a0b-a3e0-26c5	having a variety of foods available has a positive impact on people's lives	CENTRAL
+Mercury_SC_409254	0bbd-c06e-f04f-4a91	variety means different kinds or different types	LEXGLUE
+Mercury_SC_409254	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	CENTRAL
+Mercury_SC_409254	d6fc-5f39-b200-7600	Hawaii is located far from the United States mainland	CENTRAL
+Mercury_SC_409254	94b7-fbe6-74cf-eba2	far means great in distance	LEXGLUE
+Mercury_SC_409254	e3f2-57ec-2aec-341a	distant means great in distance	LEXGLUE
+Mercury_SC_409254	664b-4f0e-914c-f410	the United States of America is a kind of location	GROUNDING
+MDSA_2007_5_39	1c04-5228-7c5d-ab8a	water is a kind of natural resource	GROUNDING
+MDSA_2007_5_39	5d6a-544c-b296-832e	a lake is a kind of body of water	GROUNDING
+MDSA_2007_5_39	6029-2646-fb11-8753	runoff contains chemicals or fertilizer or pollutants or pesticides from cropland	CENTRAL
+MDSA_2007_5_39	7dc9-24ac-4c93-866e	to impact means to affect	LEXGLUE
+MDSA_2007_5_39	ff67-56ea-3f47-20c2	cropland is used for farming by humans	BACKGROUND
+MDSA_2007_5_39	3547-7689-fb87-ee96	pollution is when humans pollute the environment with pollutants	CENTRAL
+MDSA_2007_5_39	d116-6f25-b3ac-7d88	pollution has a negative impact on the environment or air quality	CENTRAL
+MDSA_2007_5_39	3f9d-8b3a-54b5-6a3c	a body of water is a kind of environment	GROUNDING
+MDSA_2011_5_20	7345-c073-962f-2597	shedding is when an animal loses hair or fur or skin	CENTRAL
+MDSA_2011_5_20	de78-b97b-5963-fb87	a hare is similar to a rabbit	LEXGLUE
+MDSA_2011_5_20	22a5-e62f-1151-60f2	some rabbits live in forests	CENTRAL
+MDSA_2011_5_20	44d7-fef6-90ef-75aa	a rabbit is a kind of animal	GROUNDING
+MDSA_2011_5_20	a54a-a04c-71eb-ba0a	a forest contains plants or trees	GROUNDING
+MDSA_2011_5_20	4bbd-68e4-692b-c8db	bark is a protective covering around the trunk of or branches of a tree	GROUNDING
+MDSA_2011_5_20	8bb3-c62b-91dc-4004	bark is usually brown in color	GROUNDING
+MDSA_2011_5_20	4a3e-9dc2-ab24-8562	snow is white in color	GROUNDING
+MDSA_2011_5_20	0a51-236d-27b4-abc4	An example of camouflage is when something changes color in order to have the same color as its environment	CENTRAL
+MDSA_2011_5_20	ad2f-c1c6-5368-4fcd	coloration is a kind of adaptation for hiding or camouflage	CENTRAL
+MDSA_2011_5_20	b756-83bc-074d-62a2	coloration means a thing's color	LEXGLUE
+MDSA_2011_5_20	56cd-812e-1e24-c47a	help means advantage	LEXGLUE
+MDSA_2011_5_20	d861-52a2-6067-0722	blending in is synonymous with hiding	LEXGLUE
+MDSA_2011_5_20	1800-f69c-1283-7d49	habitat is similar to environment	LEXGLUE
+MDSA_2011_5_20	1240-2639-9a5f-96cd	an environment means an area	LEXGLUE
+MDSA_2011_5_20	d38a-c7d6-bb88-dd4d	the color of an environment means the color of the things that environment contains	LEXGLUE
+Mercury_SC_412337	42a9-2b43-9373-6876	as heat is transferred from something to something else , the temperature of that something will decrease	CENTRAL
+Mercury_SC_412337	f03c-decc-030f-b860	freezing means changing from a liquid into a solid by reducing heat energy	CENTRAL
+Mercury_SC_412337	1a70-2ddd-7f85-17ae	to reduce means to decrease	LEXGLUE
+Mercury_SC_412337	e715-7f30-5489-dad1	becoming is similar to changing	LEXGLUE
+Mercury_SC_412337	d753-423d-5ce7-53ce	temperature is a measure of heat energy	LEXGLUE
+MCAS_2012_5_23632	4d68-51e5-594f-3689	sedimentary rocks often have different colored layers	CENTRAL
+MCAS_2012_5_23632	8069-7f81-d181-7a04	sedimentary rocks are formed from sediment compacting or cementing together	CENTRAL
+MCAS_2012_5_23632	07cd-40e2-cfed-90ab	sedimentary rocks are made of small particles	CENTRAL
+Mercury_SC_401256	b3d3-c3da-3c51-659e	a nail is a kind of object	CENTRAL
+Mercury_SC_401256	b9dd-961e-269e-aa5d	iron nails are made of iron	CENTRAL
+Mercury_SC_401256	1e4c-46e8-996c-f2f7	if an object is made of a material then that object has the properties of that material	CENTRAL
+Mercury_SC_401256	a6d3-031b-6398-c30e	iron is always magnetic	CENTRAL
+Mercury_SC_401256	4a27-3046-0e5d-9891	magnetism is a property of materials or objects and includes ordered values of nonmagnetic or magnetic	CENTRAL
+MCAS_2003_5_31	daaf-468d-1f9b-0fac	doing chores is a learned characteristic	CENTRAL
+MCAS_2003_5_31	6bf2-704e-e347-88d8	pulling a plow is a kind of chore	GROUNDING
+MCAS_2003_5_31	1ad3-28d4-f347-46a4	inherited characteristics are the opposite of learned characteristics or acquired characteristics	CENTRAL
+MCAS_2003_5_31	fdb9-edf0-6759-5f09	an instinctive behavior is a kind of inherited characteristic or behavioral adaptation	GROUNDING
+Mercury_SC_408452	1296-2edb-a443-10d1	a thermometer is a kind of instrument for measuring temperature	CENTRAL
+Mercury_SC_408452	8346-8315-1f24-a5be	a thermometer is used to measure temperature	CENTRAL
+Mercury_SC_408452	a0d5-68ec-fccc-fd82	instrument means tool	LEXGLUE
+MEA_2014_5_4	bb11-420c-4bb5-d176	a scar is an acquired characteristic	CENTRAL
+MEA_2014_5_4	1ad3-28d4-f347-46a4	inherited characteristics are the opposite of learned characteristics or acquired characteristics	CENTRAL
+MEA_2014_5_4	ee78-0795-be47-6ad8	inheriting is when a inherited characteristic is copied or is passed from parent to offspring by genetics or DNA	CENTRAL
+MEA_2014_5_4	00fd-04c0-5805-8b81	children or young is synonymous with offspring	LEXGLUE
+VASoL_2011_5_3	f2e1-4ca1-4bfd-cbce	an electromagnet contains a wire or cylindrical ferrous metal	ROLE
+VASoL_2011_5_3	7114-deda-e0a0-d3e9	ferrous metals contain iron	ROLE
+Mercury_SC_400370	dbc7-1c37-35fd-e1f8	seed dispersal is when the seeds of a plant are moved or are carried or are spread or are dropped or from the parent plant to another area	CENTRAL
+Mercury_SC_400370	311e-8d88-cde2-860d	a bush is a kind of plant	GROUNDING
+Mercury_SC_400370	419c-cd03-a464-39af	birds or some animals are a vehicle for spreading the seeds of a plant	CENTRAL
+Mercury_SC_400370	5639-8136-4788-3ee6	a bear is a kind of animal	GROUNDING
+Mercury_SC_400370	2337-f998-9a82-5444	seed dispersal has a positive impact on a plant or a plant's reproduction	CENTRAL
+Mercury_SC_400370	d0e2-806e-adad-7e98	a positive impact is a benefit	LEXGLUE
+Mercury_SC_400370	3e4c-9c36-623e-f00e	An example of seed dispersal is animals eating or excreting seeds	CENTRAL
+Mercury_SC_400370	7f04-fd94-0d22-9ee4	a berry contains seeds	CENTRAL
+MDSA_2008_5_24	0629-5e75-b18c-0675	paper is recyclable	CENTRAL
+MDSA_2008_5_24	da14-61d8-ad00-8a01	recycling has a positive impact on the environment	CENTRAL
+MDSA_2008_5_24	bbe2-8087-7d0d-2480	recycling reduces the resources needed to make something	CENTRAL
+MDSA_2008_5_24	6b51-f1bc-8a3b-f29a	creating paper requires cutting down trees	CENTRAL
+MDSA_2008_5_24	f178-8a67-81c1-e3fb	cutting down trees has a negative impact on an ecosystem or organisms living in an ecosystem	CENTRAL
+MDSA_2008_5_24	c1d3-4ab4-b443-aac3	an environment is similar to an ecosystem	LEXGLUE
+MDSA_2008_5_24	4b08-9460-5cec-02ba	making something requires resources	CENTRAL
+MDSA_2008_5_24	aa59-adf0-0e19-8b9e	creating means making	LEXGLUE
+MDSA_2008_5_24	f4dc-5030-6255-a1f8	humans changing ecosystems or environments usually has a negative impact on an ecosystem or organisms living in an ecosystem	BACKGROUND
+MDSA_2008_5_24	e818-cf4a-2d3a-c8c6	trees are a kind of resource	CENTRAL
+MDSA_2008_5_24	f450-c52a-cebe-ac01	recyclable means a material can be recycled	LEXGLUE
+Mercury_SC_400589	4cb2-9f64-ed27-e619	hypothesis means scientific guess about the cause and effect of an event	CENTRAL
+Mercury_SC_400150	b3d3-c3da-3c51-659e	a nail is a kind of object	CENTRAL
+Mercury_SC_400150	b9dd-961e-269e-aa5d	iron nails are made of iron	CENTRAL
+Mercury_SC_400150	1e4c-46e8-996c-f2f7	if an object is made of a material then that object has the properties of that material	CENTRAL
+Mercury_SC_400150	bb4d-ea33-08e1-7106	iron is a kind of element	GROUNDING
+Mercury_SC_400150	e384-486e-8a78-a853	an element is a kind of material	GROUNDING
+Mercury_SC_400150	de4c-ca36-c336-540f	iron is a kind of metal	GROUNDING
+Mercury_SC_400150	23bf-e586-9387-c883	metal is an electrical or electrical energy conductor	CENTRAL
+Mercury_SC_400150	0439-8c06-da63-6721	metal is a thermal or thermal energy conductor	CENTRAL
+Mercury_SC_400150	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+Mercury_SC_400150	ae86-c631-e4ad-1669	heat energy is synonymous with thermal energy	LEXGLUE
+Mercury_SC_400150	d681-3158-6a99-253a	conductivity is a property of a material or substance	GROUNDING
+Mercury_SC_400150	a6d3-031b-6398-c30e	iron is always magnetic	CENTRAL
+Mercury_SC_400150	178a-9dd1-8569-86f1	a magnet attracts magnetic metals or ferromagnetic metals through magnetism	CENTRAL
+Mercury_SC_400150	4a27-3046-0e5d-9891	magnetism is a property of materials or objects and includes ordered values of nonmagnetic or magnetic	GROUNDING
+MCAS_2002_5_6	e4af-0fe7-8fbf-a009	some animals move quickly to escape predators	NEG
+MCAS_2002_5_6	464c-d7c3-7c7d-8ae7	flying is a kind of motion air	GROUNDING
+MCAS_2002_5_6	d8a3-10bb-9aea-178a	motion or movement means moving or to move	LEXGLUE
+MCAS_2002_5_6	9a54-14e7-f8f4-6375	avoiding predators or escaping predators or avoiding consumers is a kind of protection Move to PREDATOR-PREY.	LEXGLUE
+MCAS_2002_5_6	360a-b24c-3306-9b73	protecting something means preventing harm to that something	LEXGLUE
+MCAS_2002_5_6	57d4-79ba-a97d-0f9a	harming something has a negative impact on or effect on that something	LEXGLUE
+MCAS_2002_5_6	ed09-025e-89b8-d48f	negative impact is the opposite of positive impact	LEXGLUE
+MCAS_2002_5_6	d0e2-806e-adad-7e98	a positive impact is a benefit	LEXGLUE
+MCAS_2002_5_6	984e-bccb-a608-55b8	a hummingbird can reach flowers by hovering in the air	NEG
+MCAS_2002_5_6	edcd-ed33-4439-04cb	hummingbirds eat nectar	CENTRAL
+MCAS_2002_5_6	b03f-5050-0795-6e43	a flower is a source of nectar	CENTRAL
+MCAS_2002_5_6	7d29-0a2c-6959-b1dd	an animal needs to eat food for nutrients	CENTRAL
+MCAS_2002_5_6	80de-489f-48b2-16f4	an animal or living thing requires nutrients for survival	CENTRAL
+MCAS_2002_5_6	bf2f-e380-be4e-ca06	requiring is similar to needing help	LEXGLUE
+MCAS_2002_5_6	a8e1-376d-a65c-d56c	to help or to benefit means to be of use	LEXGLUE
+MCAS_2002_5_6	1eef-7771-64a6-1d93	to hover means to stay in place in the air	NEG
+Mercury_SC_400989	55a5-70f3-961c-a142	a telescope is a kind of instrument for observing celestial objects or observing the sky	CENTRAL
+Mercury_SC_400989	4383-694e-b4d4-cd5d	a telescope is used for observing stars or planets or moons or distant objects or the sky or celestial objects	CENTRAL
+Mercury_SC_400989	de5c-79d3-c81b-31e5	useful means good to use	LEXGLUE
+Mercury_SC_400989	e2ec-1655-c1fd-cb58	a moon is a kind of celestial object or body	GROUNDING
+Mercury_SC_400989	eb92-b0cd-c257-9bcf	a surface is a part of an object	GROUNDING
+Mercury_SC_400989	13d5-3248-93e0-97df	to observe means to gather information	LEXGLUE
+Mercury_SC_400989	7717-15e3-f50d-464a	answering questions requires information	CENTRAL
+Mercury_SC_400989	1b31-08ba-2a30-8dd0	to be used for something means to be required by that something	LEXGLUE
+Mercury_SC_400054	19da-4665-c208-b9ae	hiding is a kind of protection against predators or from predators	CENTRAL
+Mercury_SC_400054	1992-cbd3-6534-a7f7	protecting a living thing has a positive impact on that living thing's survival or health	LEXGLUE
+Mercury_SC_400054	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+Mercury_SC_400054	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+Mercury_SC_400054	0d35-1653-d1f5-29f2	a predator is a kind of enemy to its prey	CENTRAL
+Mercury_SC_400054	6f73-8241-0aaf-24ef	a hare is a kind of animal	GROUNDING
+Mercury_SC_400054	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+Mercury_SC_400054	0cea-081d-192a-85fe	a hare is a kind of prey	GROUNDING
+Mercury_SC_400054	ae70-e79a-1335-ece4	disguise means change appearance to hide	LEXGLUE
+Mercury_SC_400054	dfa9-fbe6-0fdf-502c	to turn means to change	LEXGLUE
+Mercury_SC_400054	225b-9d13-f6b0-4da1	Camouflage is synonymous with visual disguise	LEXGLUE
+Mercury_SC_400054	0a51-236d-27b4-abc4	An example of camouflage is when something changes color in order to have the same color as its environment	CENTRAL
+Mercury_SC_400054	e864-93bd-18ea-8a13	brown is a kind of color	GROUNDING
+Mercury_SC_400054	12c9-e2b2-25cd-65c6	white is a kind of color	GROUNDING
+Mercury_SC_400054	3313-e8a9-cf21-6a33	if an animal's fur is a color then that animal is that color	CENTRAL
+Mercury_SC_400054	5deb-66f8-1413-678d	snow falls during the winter in the arctic environment	CENTRAL
+Mercury_SC_400054	4a3e-9dc2-ab24-8562	snow is white in color	CENTRAL
+MDSA_2009_5_16	73fa-1e22-26a8-1a7c	the Earth rotating on its axis causes the sun to appear to move across the sky during the day	CENTRAL
+MDSA_2009_5_16	5be6-58b4-ec52-40b2	the sun rises in the east	BACKGROUND
+MDSA_2009_5_16	e565-87e6-6f00-1598	the sun sets in the west	BACKGROUND
+ACTAAP_2011_5_3	dae9-2ad1-04de-57b4	to slow or to slow down decreases speed	ROLE
+ACTAAP_2011_5_3	cd52-a711-b031-51a8	pushing an object requires force	CENTRAL
+ACTAAP_2011_5_3	313c-4c5c-0e2c-e2b6	as the speed of an object increases , the force that object exerts will increase	CENTRAL
+ACTAAP_2011_5_3	614f-48c8-755b-db8d	as the mass of an object increases , the force required to push that object will increase	CENTRAL
+ACTAAP_2011_5_3	108e-8a75-dafd-6b0e	flowing liquid can push objects	CENTRAL
+ACTAAP_2011_5_3	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+ACTAAP_2011_5_3	dcd4-5303-c509-88ec	faster means an increase or higher in speed	LEXGLUE
+ACTAAP_2011_5_3	8b56-35cc-d534-8cad	larger means greater or higher or more in size	LEXGLUE
+ACTAAP_2011_5_3	19f5-4162-4c01-59aa	increase means more	LEXGLUE
+ACTAAP_2011_5_3	fce7-68b6-85e3-5884	mass is similar to size	LEXGLUE
+ACTAAP_2011_5_3	9885-6337-f26c-cfbd	a river is a kind of flowing body of water	GROUNDING
+ACTAAP_2011_5_3	c71c-f0da-3930-67f0	a stream is a kind of body of water	GROUNDING
+ACTAAP_2011_5_3	bfdf-b468-ee22-1b60	an increase is the opposite of a decrease	LEXGLUE
+ACTAAP_2011_5_3	d4a7-ea98-8609-0e2d	a particle is a kind of object	GROUNDING
+ACTAAP_2011_5_3	2634-87a7-680f-783f	liquid carrying an object means liquid pushing an object	LEXGLUE
+VASoL_2011_5_14	5c76-a005-e9c2-354a	a balance is used for measuring mass or weight of an object or of a substance	CENTRAL
+VASoL_2011_5_14	eefd-f260-5dc6-2267	a graduated cylinder is used to measure volume of a liquid or of an object	CENTRAL
+VASoL_2011_5_14	fad5-a6d6-cfd6-b9ed	a balance is a kind of instrument for measuring mass or measuring weight	CENTRAL
+VASoL_2011_5_14	8fee-0f80-9fbf-df1d	a graduated cylinder is a kind of instrument for measuring volume of liquids or objects	CENTRAL
+VASoL_2011_5_14	5a5b-62f9-095f-8447	comparing requires measuring	LEXGLUE
+VASoL_2011_5_14	1d1c-a940-405e-dd50	marble is a kind of object or material	GROUNDING
+Mercury_SC_405887	a199-9882-c322-d4d8	taking samples of water is used for studying the quality of water	CENTRAL
+Mercury_SC_406939	4dc5-13bf-3c46-af74	fire causes burning	CENTRAL
+Mercury_SC_406939	6cf1-9d92-5a26-93fd	fire is a kind of chemical reaction	GROUNDING
+Mercury_SC_406939	0f0d-2cc5-fcc1-3c1f	chemical reactions cause chemical change	CENTRAL
+MCAS_2011_5_17662	5212-c2af-5c9e-8173	fog is formed by water vapor condensing in the air	CENTRAL
+MCAS_2011_5_17662	e474-2a11-6e7b-ae8b	water is in the gas state , called water vapor , for temperatures between 373 or 212 or 100 and 100000000000 K or F or C	GROUNDING
+MCAS_2011_5_17662	a0b2-a45f-01e1-4bf4	boiling or evaporation means change from a liquid into a gas by adding heat energy	CENTRAL
+MCAS_2011_5_17662	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+MCAS_2011_5_17662	466a-2c15-ac54-8361	an ocean is a kind of body of water	GROUNDING
+MCAS_2011_5_17662	2aba-39fa-3a07-5ee4	condensing means changing from a gas into a liquid by reducing heat energy	CENTRAL
+Mercury_SC_401188	3168-bafc-668a-35fc	a laser is a kind of device for producing light	CENTRAL
+Mercury_SC_401188	d822-a791-3a67-8bb7	a laser is used for producing light	CENTRAL
+Mercury_SC_401188	4201-f5ef-6bd3-f5b4	light means light energy	LEXGLUE
+Mercury_SC_401245	6745-a12f-f936-8192	the formation of rock is a kind of process	GROUNDING
+Mercury_SC_401245	7e9a-fec3-cac8-51bb	diamond is a kind of mineral	GROUNDING
+Mercury_SC_401245	434b-e8da-e5c7-d52e	rock is made of minerals	GROUNDING
+Mercury_SC_401245	016e-d9e2-b804-44d7	the formation of diamonds occurs beneath the surface of the Earth by carbon being heated and pressured	CENTRAL
+Mercury_SC_400061	cab1-f3c3-59de-b682	coal is a kind of fossil fuel	GROUNDING
+Mercury_SC_400061	18f3-bb02-623d-b420	fossil fuels or fossils are formed by dead organisms over time	CENTRAL
+Mercury_SC_400061	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_400061	69e3-9034-d59c-1674	forming coal or fossil fuels requires decaying vegetation	CENTRAL
+Mercury_SC_400061	b5f5-69f4-c4e2-6552	vegetation means plants	LEXGLUE
+Mercury_SC_400061	2e43-6a8c-1231-65f1	dead organisms decay	CENTRAL
+MEA_2016_5_6	bb18-f19f-69ba-8bc6	freezing point means temperature at which a liquid freezes or below which a liquid freezes	CENTRAL
+MEA_2016_5_6	f03c-decc-030f-b860	freezing means changing from a liquid into a solid by reducing heat energy	CENTRAL
+MEA_2016_5_6	d753-423d-5ce7-53ce	temperature is a measure of heat energy	LEXGLUE
+MEA_2016_5_6	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+MEA_2016_5_6	4ef7-13ee-3d35-8a37	a freezer is used for cooling things	CENTRAL
+MEA_2016_5_6	3a9b-81b5-1a3a-40a0	cooling or colder means removing or reducing or decreasing heat or temperature	CENTRAL
+MEA_2016_5_6	f7e9-c6f8-892b-3496	liquid is a kind of state of matter	CENTRAL
+MEA_2016_5_6	cf49-1b7a-89f0-41f5	solid is a kind of state of matter	CENTRAL
+MEA_2016_5_6	7532-01eb-475e-acbd	state of matter is a kind of property	GROUNDING
+Mercury_SC_400004	b29b-6e23-97f8-0be7	a caterpillar is the immature form of a butterfly	CENTRAL
+Mercury_SC_400004	457a-8660-d1f5-e6ae	a butterfly is the mature form of a or adult form of a caterpillar	CENTRAL
+Mercury_SC_400004	fc9b-e584-5d83-bb7a	metamorphosis is when an animal changes from an immature form to an adult form	CENTRAL
+Mercury_SC_400004	1310-8acf-1fa5-d8db	a butterfly is a kind of insect	GROUNDING
+Mercury_SC_400004	56bd-8c40-3dae-d3e9	an insect is a kind of animal	GROUNDING
+Mercury_SC_415418	a0b2-a45f-01e1-4bf4	boiling or evaporation means change from a liquid into a gas by adding heat energy	CENTRAL
+Mercury_SC_415418	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+Mercury_SC_415418	39ec-9974-829d-ba5e	warm or becoming warm means heat is added	LEXGLUE
+Mercury_SC_415418	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+Mercury_SC_415418	9e7d-986e-6af1-5ac1	heat is a kind of energy	LEXGLUE
+Mercury_SC_415418	a3c3-47f1-32ba-5c7f	the sun transfers solar energy or light energy or heat energy from itself to the planets or Earth through sunlight	CENTRAL
+MDSA_2008_5_39	55b1-a769-b2b4-d023	wood is a renewable resource	ROLE
+MDSA_2008_5_39	462f-0e75-97ec-060c	a renewable resource is a natural resource	CENTRAL
+NCEOGA_2013_5_48	9436-c8e4-c0e1-914f	a warm front causes cloudy and rainy weather	CENTRAL
+NCEOGA_2013_5_48	0d83-db1e-d92b-0bf0	cloudy means the presence of clouds in the sky	BACKGROUND
+NCEOGA_2013_5_48	213b-79e4-47ec-0581	a cloud is a kind of weather	GROUNDING
+NCEOGA_2013_5_48	86b0-5c6f-cd54-4d52	precipitation is a kind of weather	GROUNDING
+NCEOGA_2013_5_48	da1e-dca3-f46a-5189	rain is a kind of precipitation	GROUNDING
+NCEOGA_2013_5_48	3c3a-0eac-88e6-b000	clouds are formed by water vapor rising and condensing	BACKGROUND
+NCEOGA_2013_5_48	f992-5698-76aa-c6de	a warm front is when warm air mass rises and passes over a cold air mass	BACKGROUND
+NCEOGA_2013_5_48	f4d3-fd82-31d1-855c	to cause means to result in	LEXGLUE
+OHAT_2008_5_13	6350-c3b8-88a9-6c60	a blue jay is a kind of bird	GROUNDING
+OHAT_2008_5_13	2b90-a4f5-326a-d34f	seed dispersal is when the seeds of a plant are moved from the plant to a new environment	CENTRAL
+OHAT_2008_5_13	7119-02f2-0acf-3280	An example of seed dispersal is is an animal hiding or gathering or burying seeds	CENTRAL
+OHAT_2008_5_13	02a0-8f5c-4e3a-a064	an oak is a kind of tree	GROUNDING
+OHAT_2008_5_13	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+OHAT_2008_5_13	e26b-b21d-d4a3-25fc	a bird is a kind of animal	GROUNDING
+OHAT_2008_5_13	c814-78ab-6951-9f93	plant requires seed dispersal for reproduction	CENTRAL
+OHAT_2008_5_13	bf2f-e380-be4e-ca06	requiring is similar to needing help	LEXGLUE
+OHAT_2008_5_13	a8e1-376d-a65c-d56c	to help or to benefit means to be of use	LEXGLUE
+Mercury_SC_407169	335b-df55-9aa4-74ac	an aquatic animal or aquatic plant requires great amounts of water to survive or thrive	CENTRAL
+Mercury_SC_407169	a94e-e849-c066-fecd	a fish is a kind of aquatic animal	GROUNDING
+Mercury_SC_407169	2125-ab14-605b-2b8c	aquatic animals or plants live in bodies of water	CENTRAL
+Mercury_SC_407169	2a41-7224-fbc2-ba94	a pond is a kind of body of water	GROUNDING
+Mercury_SC_407169	3492-2519-a7cc-d552	drought means available water decreases in an environment	CENTRAL
+Mercury_SC_407169	f346-e8eb-6338-4e34	the decrease of something required by an organism has a negative impact on that organism's survival	CENTRAL
+Mercury_SC_407169	1800-f69c-1283-7d49	habitat is similar to environment	LEXGLUE
+Mercury_SC_407169	10ce-c060-90b9-b748	an animal is a kind of organism	GROUNDING
+Mercury_SC_407169	af4e-1838-d667-16e7	if something has a negative impact on the survival of an organism then that organism may be unable to survive	CENTRAL
+Mercury_SC_400391	5b67-9424-b9f5-a268	waxy leaves are used for storing water by some plants	CENTRAL
+Mercury_SC_400391	4ef5-2024-bd2f-74e2	keeping is similar to storing	LEXGLUE
+Mercury_SC_400391	c412-a85a-5de1-771a	storing water is a kind of adaptation	GROUNDING
+Mercury_SC_400391	da2b-fb92-41aa-b359	an adaptation is a kind of characteristic	CENTRAL
+Mercury_SC_400391	b48d-28f4-b020-de9f	an adaptation or an ability has a positive impact on an animal's or living thing's survival or health or ability to reproduce	CENTRAL
+Mercury_SC_400391	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	LEXGLUE
+Mercury_SC_400391	7626-ebfe-aa54-61db	storing water increases the water available to organisms in a dry environment	CENTRAL
+Mercury_SC_400391	0696-4d28-5530-2f95	a climate is synonymous with an environment	LEXGLUE
+Mercury_SC_400391	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_400391	87a0-dd02-dd6d-ee60	an organism is a living thing	LEXGLUE
+Mercury_SC_400391	732f-cb0b-50b4-ad0d	animals or living things require water for survival	CENTRAL
+Mercury_SC_406029	6f48-4e3d-21dc-e605	the first quarter phase of the moon occurs after the new moon	CENTRAL
+Mercury_SC_406029	d1de-2ec6-5323-1c1d	a different moon phase occurs once per week	CENTRAL
+Mercury_SC_406029	a62b-415d-357f-995a	a first quarter is a kind of phase of the moon	GROUNDING
+Mercury_SC_406029	cb3b-8b0b-8cfe-a3e2	a new moon is a kind of phase of the moon	GROUNDING
+Mercury_SC_406029	f706-d251-d2c7-c788	type of moon or kind of moon means moon phase	LEXGLUE
+Mercury_SC_401178	0962-4a47-4e17-ce97	photosynthesis means producers or green plants convert from carbon dioxide, water, and solar energy into carbohydrates or food or oxygen for themselves	CENTRAL
+Mercury_SC_401178	93b8-fdb5-f003-dedb	In the photosynthesis process carbon dioxide or water or sunlight has the role of raw material	CENTRAL
+Mercury_SC_401178	2851-a2b0-f5df-dae7	if something is a raw material in a process then that something is required for that process	CENTRAL
+Mercury_SC_401178	7b20-0992-8ec1-c73c	a plant absorbs carbon dioxide from the air for photosynthesis	CENTRAL
+Mercury_SC_401178	160e-6da0-3cc4-1b3d	take in means absorb	LEXGLUE
+Mercury_SC_401178	7309-3070-fa70-cad9	photosynthesis is a kind of process	CENTRAL
+Mercury_SC_401178	fba1-b7e2-ae8b-6182	if something is required in a process then obtaining that something is a step in that process	CENTRAL
+Mercury_SC_401178	b743-7f87-6ef1-0c33	absorbing is similar to obtaining	LEXGLUE
+ACTAAP_2013_5_16	816a-0510-1046-441e	a plant cell is a kind of cell	CENTRAL
+ACTAAP_2013_5_16	f1b0-1ed6-289e-c065	chloroplast is a part of a plant cell	CENTRAL
+ACTAAP_2013_5_16	4e64-cd5b-9e82-e218	a plant cell contains chloroplasts	CENTRAL
+MCAS_2003_5_26	1127-1d6b-54d0-d6ec	a complex machine is made of more than one simple machine	CENTRAL
+MCAS_2003_5_26	f684-f2bb-f419-a1f1	a bicycle contains levers or wheels and axles or pulleys or screws	CENTRAL
+MCAS_2003_5_26	9d48-4f8c-09fc-ea0d	a lever is a kind of simple machine	GROUNDING
+MCAS_2003_5_26	bb60-4e0b-60fd-ba84	a pulley is a kind of simple machine	GROUNDING
+MCAS_2003_5_26	a6c8-8725-3c2d-60a7	a wheel and axle is a kind of simple machine	GROUNDING
+MCAS_2003_5_26	1b74-b53a-b4ec-5b5f	a screw is a kind of simple machine	GROUNDING
+Mercury_SC_409390	4181-3ee0-c35b-5e30	the mass of a planet causes the pull of gravity on that planet	CENTRAL
+Mercury_SC_409390	e473-7297-61c1-56fa	Earth is a kind of planet	GROUNDING
+Mercury_SC_409390	bdbf-34c0-8ec2-7e7a	the ground is at the bottom of an area	LEXGLUE
+Mercury_SC_409390	55a5-73d4-c1b1-e55b	the bottom is the lowest part of something	LEXGLUE
+Mercury_SC_409390	bb86-d5e0-0c1d-3fba	low means down	LEXGLUE
+Mercury_SC_409390	9773-5df7-84db-74b3	gravity or gravitational force causes objects that have mass or substances to be pulled down or to fall on a planet	CENTRAL
+Mercury_SC_409390	5650-b213-46ea-d9dd	a ball is a kind of object	GROUNDING
+Mercury_SC_409390	a2c1-212a-a4bc-11d8	creating is similar to causing	LEXGLUE
+Mercury_SC_402253	f742-384b-744c-10a9	light is a kind of energy	ROLE
+Mercury_SC_402253	fa62-7076-3a48-59e3	sugar is a kind of simple carbohydrate	GROUNDING
+Mercury_SC_402253	a9fc-ec58-9496-d635	photosynthesis is a source of or makes food or energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates	CENTRAL
+Mercury_SC_402253	80f0-202c-0427-9ddc	make means produce	LEXGLUE
+Mercury_SC_402253	26fe-ab70-b4a4-fe79	chlorophyll is used for absorbing light energy by plants	CENTRAL
+Mercury_SC_402253	4201-f5ef-6bd3-f5b4	light means light energy	LEXGLUE
+Mercury_SC_402253	93b8-fdb5-f003-dedb	In the photosynthesis process carbon dioxide or water or sunlight has the role of raw material	CENTRAL
+Mercury_SC_402253	2851-a2b0-f5df-dae7	if something is a raw material in a process then that something is required for that process	LEXGLUE
+Mercury_SC_402253	1b31-08ba-2a30-8dd0	to be used for something means to be required by that something	LEXGLUE
+Mercury_SC_402253	49dc-4526-46f9-5b32	sunlight is a kind of light	GROUNDING
+Mercury_SC_402253	bef0-f566-d2cd-a523	using a raw material sometimes requires absorbing that raw material	CENTRAL
+Mercury_SC_401111	4e11-ed6b-eba8-a1e4	a camera is used for recording images	CENTRAL
+Mercury_SC_401111	3d59-043d-faf2-a90e	a camera is a kind of tool for recording images	CENTRAL
+Mercury_SC_401111	004b-3c8c-0f5d-2873	image means visual depiction of an object	LEXGLUE
+Mercury_SC_401111	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_401111	26c3-eec4-e1d0-fac5	a plant is a kind of organism	GROUNDING
+Mercury_SC_401111	87a0-dd02-dd6d-ee60	an organism is a living thing	LEXGLUE
+Mercury_SC_401111	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+Mercury_SC_401111	a7a2-bae8-2f22-634d	determining the type of an organism requires having information about that organism	CENTRAL
+Mercury_SC_401111	88cf-d036-3079-3423	an image transmits visual information	CENTRAL
+Mercury_SC_401244	f5b2-aca4-88b1-e3a4	limestone is a kind of sedimentary rock	GROUNDING
+Mercury_SC_401244	c734-55b0-6cf4-c9d9	nearly all fossils are found in sedimentary rock	CENTRAL
+Mercury_SC_401244	b0d4-928e-e799-54a6	fossils are formed when layers of sediment cover the remains of organisms over time	CENTRAL
+Mercury_SC_401244	8069-7f81-d181-7a04	sedimentary rocks are formed from sediment compacting or cementing together	CENTRAL
+Mercury_SC_401244	d839-570a-60f4-5bc9	history occurred a long time ago	CENTRAL
+Mercury_SC_401244	db0b-31a1-91ab-6996	a type is synonymous with a kind	LEXGLUE
+Mercury_SC_401244	e62c-4993-16db-bb58	something from long ago can be used for studying history	CENTRAL
+Mercury_SC_401244	de5c-79d3-c81b-31e5	useful means good to use	LEXGLUE
+ACTAAP_2009_5_5	2db1-ab10-ff6c-cc17	sulfur is yellow in color	CENTRAL
+ACTAAP_2009_5_5	8de7-2eab-c43a-5f70	sulfur is a kind of mineral	BACKGROUND
+ACTAAP_2010_5_10	e25c-9d2e-a369-8e52	no light shines through an opaque object	ROLE
+ACTAAP_2010_5_10	6ed2-789b-e3f7-91fa	opacity is a property of an object and includes ordered values of opaque or translucent or transparent	CENTRAL
+Mercury_SC_410870	791e-1c71-7a1d-d10a	weathering means breaking down rocks or surface materials from larger whole into smaller pieces by weather	CENTRAL
+Mercury_SC_410870	7007-3239-2cab-e863	cracking something may cause that something to break apart	CENTRAL
+Mercury_SC_410870	9066-bf57-f1ce-0134	An example of weathering is when a plant root grows into a crack in rock	CENTRAL
+Mercury_SC_410870	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_410870	b9ee-1aa0-8736-13c8	weathering is a kind of process	GROUNDING
+Mercury_SC_410870	3b7f-815d-511b-c7bb	a process is a kind of event	CENTRAL
+MCAS_2013_5_29396	4ca4-9068-7f5a-d63a	electromagnets can be powered by electricity	CENTRAL
+MCAS_2013_5_29396	5657-c6bc-e6cd-ae38	electricity means electrical energy	LEXGLUE
+MCAS_2013_5_29396	7114-deda-e0a0-d3e9	ferrous metals contain iron	GROUNDING
+MCAS_2013_5_29396	f2e1-4ca1-4bfd-cbce	an electromagnet contains a wire or cylindrical ferrous metal	CENTRAL
+MCAS_2013_5_29396	ad2f-42da-43e2-dbf3	batteries convert chemical energy to electrical energy	CENTRAL
+MCAS_2013_5_29396	926d-653a-d7c0-f415	rod is cylindrical in shape	GROUNDING
+MCAS_2013_5_29396	787c-b7eb-9067-f7f1	made up of means contains or made of	LEXGLUE
+MCAS_2013_5_29396	97b0-e2cc-4f43-104c	made of is similar to is built from	LEXGLUE
+MCAS_2013_5_29396	c6c3-2053-aaf7-86fe	a battery is a source of electrical energy	CENTRAL
+MCAS_2013_5_29396	c80b-ccc9-30c6-8280	if something is powered by something else then that something requires a source of that something else	LEXGLUE
+Mercury_SC_400194	a6a9-3e1b-7e02-ce06	the moon orbits the Earth	CENTRAL
+Mercury_SC_400194	3dd5-2225-75cc-e350	revolving around something means orbiting that something	LEXGLUE
+Mercury_SC_400194	e473-7297-61c1-56fa	Earth is a kind of planet	GROUNDING
+Mercury_SC_400194	5471-05b0-00bd-1669	the Earth revolves around the sun	CENTRAL
+Mercury_SC_400194	af26-8083-b908-7d3b	the Sun is a kind of star	GROUNDING
+Mercury_SC_401340	27d4-eb24-0630-19ed	trees are a renewable resource	ROLE
+Mercury_SC_401146	7762-fb32-6a1f-62ec	the kidney removes or filters cell waste or byproducts from the blood	CENTRAL
+Mercury_SC_401146	de82-6668-2baf-1817	removing waste is a kind of function	CENTRAL
+Mercury_SC_400612	982f-f6c0-b9e8-e203	the moon does not contain air or water	CENTRAL
+Mercury_SC_400612	1f45-a351-2610-20e8	if something does not contain something else then that something lacks that something else	LEXGLUE
+Mercury_SC_400612	02f0-b4ba-41d8-0483	rocks or soil or materials interacting with wind or moving water over long periods of time causes weathering	CENTRAL
+Mercury_SC_400612	33f1-c7fb-094b-0129	wind means moving air	LEXGLUE
+Mercury_SC_400612	5e75-4bbb-dae0-311f	soil erosion means soil loss through wind or water or animals	CENTRAL
+Mercury_SC_400612	c477-accc-502e-618d	lack is similar to low or little	LEXGLUE
+Mercury_SC_400185	c73c-b25a-5409-a480	sound is a kind of air vibration	CENTRAL
+Mercury_SC_400185	372c-c52a-b8f0-bc43	hearing is used for sensing sound by animals	CENTRAL
+Mercury_SC_400185	3ed8-5fde-3b7b-6513	a student is a kind of human	GROUNDING
+Mercury_SC_400185	4253-4b9e-1e5f-1742	a human is a kind of animal	GROUNDING
+Mercury_SC_400185	b7ef-37ee-c098-3cab	talking is when a human produces sound to communicate	CENTRAL
+Mercury_SC_400185	f672-4bbb-6fff-373c	sound can travel through air	CENTRAL
+Mercury_SC_400185	0f01-9270-d298-1254	if two objects are apart from each other then matter is between those two objects	CENTRAL
+Mercury_SC_400185	0b2c-f8af-7823-d253	air is a kind of matter	GROUNDING
+Mercury_SC_400185	bb63-bcc5-0cd8-72db	an animal is a kind of living thing	GROUNDING
+Mercury_SC_400185	4eac-892f-ecd2-6e0d	a living thing is a kind of object	GROUNDING
+Mercury_SC_400185	8f50-0cc2-61eb-9e7f	air is a vehicle for sound	CENTRAL
+Mercury_SC_400185	bb32-0bc0-3629-6bca	a vehicle for something allows or enables that something to occur	CENTRAL
+Mercury_SC_400179	bb8f-9e8f-0b8b-d4c1	a sifter is a kind of tool for separating mixtures	CENTRAL
+Mercury_SC_400179	6c0c-f513-3f7d-0aba	a sifter is used for separating mixtures	CENTRAL
+Mercury_SC_400179	90f7-2aac-1033-925c	An example of a mixture is sand or clay or soil mixed together	CENTRAL
+Mercury_SC_410965	3547-7689-fb87-ee96	pollution is when humans pollute the environment with pollutants	CENTRAL
+Mercury_SC_410965	e809-4443-23c0-ee01	chemicals can be pollutants	CENTRAL
+Mercury_SC_410965	86ae-9fcc-40d0-77ab	burning gasoline or oil is a source of pollution	CENTRAL
+Mercury_SC_410965	17e7-deeb-44f0-1758	fewer means lower or less in number	LEXGLUE
+Mercury_SC_410965	7b3b-3c56-8e8b-ab1c	to lower means to decrease	LEXGLUE
+Mercury_SC_410965	1a70-2ddd-7f85-17ae	to reduce means to decrease	LEXGLUE
+Mercury_SC_410965	d116-6f25-b3ac-7d88	pollution has a negative impact on the environment or air quality	CENTRAL
+Mercury_SC_410965	d390-3d50-786d-4e9f	decreasing something negative has a positive impact on a thing	CENTRAL
+Mercury_SC_410965	b5b8-ce64-6568-4a6c	helping something has a positive impact on that something	CENTRAL
+Mercury_SC_411306	1e1d-6ed6-25e3-5f30	a plant is made of plant cells	CENTRAL
+Mercury_SC_411306	aab8-00f7-ef3f-7b5d	a plant cell is box-like in shape	CENTRAL
+Mercury_SC_411306	0337-38c2-e9b5-2f97	structure is similar to shape	LEXGLUE
+Mercury_SC_411306	409a-a89f-e238-2bac	shape is a kind of characteristic	CENTRAL
+Mercury_SC_401208	c760-71d8-d5c0-0ffb	a line graph is used for showing change or data over time	CENTRAL
+Mercury_SC_401208	2597-f6ee-6a92-2ec6	to show means to display	LEXGLUE
+Mercury_SC_401208	122e-b36b-0183-80c7	hours are a kind of unit for measuring time	GROUNDING
+Mercury_SC_401208	5cf5-79ec-c7f8-440d	a line graph is a kind of graph	GROUNDING
+Mercury_SC_401208	db0b-31a1-91ab-6996	a type is synonymous with a kind	LEXGLUE
+Mercury_SC_401208	d753-423d-5ce7-53ce	temperature is a measure of heat energy	CENTRAL
+Mercury_SC_401208	6fc4-8091-f720-3e33	a measurement is a kind of data	GROUNDING
+Mercury_SC_402278	d54f-e502-fa51-788d	In the erosion process roots of plants are an inhibitor	CENTRAL
+Mercury_SC_402278	6cdd-9626-9859-7279	roots are a part of a plant or tree	GROUNDING
+Mercury_SC_402278	0d3a-8739-9f42-5e1c	a tree is a kind of plant	GROUNDING
+Mercury_SC_402278	dc7e-8241-c2cf-b10a	clearing a forest means humans cutting down the trees	LEXGLUE
+Mercury_SC_402278	298b-ca93-e80a-a32d	removing a forest means cutting down the trees in that forest	LEXGLUE
+Mercury_SC_402278	edb7-8723-f5ce-c5d8	removing an inhibitor of a process causes that process	CENTRAL
+Mercury_SC_402278	11c8-fdbb-e0de-c7b7	soil erosion is a kind of slow or natural process	GROUNDING
+OHAT_2007_5_24	10ce-c060-90b9-b748	an animal is a kind of organism	CENTRAL
+OHAT_2007_5_24	26c3-eec4-e1d0-fac5	a plant is a kind of organism	CENTRAL
+OHAT_2007_5_24	87a0-dd02-dd6d-ee60	an organism is a living thing	LEXGLUE
+OHAT_2007_5_24	80de-489f-48b2-16f4	an animal or living thing requires nutrients for survival	CENTRAL
+OHAT_2007_5_24	12d9-60df-23de-f00f	decomposition is when a decomposer recycles or returns nutrients from dead organisms to the soil by eating those dead organisms	CENTRAL
+OHAT_2007_5_24	4189-af64-dc68-aab7	a decomposer is usually a bacterium or fungus	BACKGROUND
+OHAT_2007_5_24	694b-d9ec-8c65-5a6a	green plants provide food for themselves or animals or consumers by performing photosynthesis	CENTRAL
+OHAT_2007_5_24	085c-28bf-bb51-79e6	a plant or living thing requires nutrients to grow	CENTRAL
+OHAT_2007_5_24	7d29-0a2c-6959-b1dd	an animal needs to eat food for nutrients	BACKGROUND
+OHAT_2007_5_24	9842-70ea-d82e-01bf	many animals are herbivores	BACKGROUND
+OHAT_2007_5_24	57e4-c7f7-0031-fb0a	herbivores only eat plants	BACKGROUND
+OHAT_2007_5_24	0ddf-dd31-cd78-80b4	if an organism eats something then that something is a source of frood to that organism	LEXGLUE
+Mercury_SC_400175	d013-ec1c-88f4-fae9	evaporation is a stage in the water cycle process	ROLE
+Mercury_SC_400175	bfeb-fb56-8937-91c9	evaporation is a kind of process	CENTRAL
+Mercury_SC_400175	68ad-c11b-2981-9be0	evaporation is when water is drawn back up into the air in the water cycle	CENTRAL
+Mercury_SC_405215	965d-4d8b-7777-6434	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	CENTRAL
+Mercury_SC_405215	2ac7-87be-4297-8014	a trilobite is a kind of water animal	GROUNDING
+Mercury_SC_405215	75ad-f2bb-fa6b-12cc	Ohio is a state located in the United States of America	GROUNDING
+Mercury_SC_405215	034e-5eb5-eaf7-aab7	a state is a kind of place	GROUNDING
+Mercury_SC_400049	6241-2463-513a-73d8	glass or objects made of glass cause refraction of light	CENTRAL
+Mercury_SC_400049	7747-2a9d-897d-f11c	a window is a kind of object	CENTRAL
+Mercury_SC_414364	9dd0-2043-666a-aa5f	a cactus spine is a part of a cactus for protecting the cactus from animals	CENTRAL
+Mercury_SC_414364	3d76-6d66-4a17-7ae2	a structure of something is synonymous with a part of that something	LEXGLUE
+Mercury_SC_414364	360a-b24c-3306-9b73	protecting something means preventing harm to that something	LEXGLUE
+Mercury_SC_414364	785b-6d16-8fc8-ee28	eating an animal or a plant means killing that animal or that plant	CENTRAL
+Mercury_SC_414364	aadb-cb93-3373-eefa	a cactus is a kind of plant	GROUNDING
+Mercury_SC_414364	6a6c-3183-436e-898b	killing means harming something causing death	CENTRAL
+Mercury_SC_414364	bc7a-22e8-2ef0-acba	a sharp object can be used for protection	CENTRAL
+Mercury_SC_414364	4760-f7f8-5130-db3c	a spine is a kind of object	GROUNDING
+Mercury_SC_401592	6241-2463-513a-73d8	glass or objects made of glass cause refraction of light	CENTRAL
+Mercury_SC_401592	d298-28e7-40fc-3b25	an eyeglass lens is often made of glass	GROUNDING
+Mercury_SC_401592	93f3-4dd8-30f7-de3f	an eyeglass lens is a kind of object	GROUNDING
+Mercury_SC_406155	e900-125c-4981-68a5	non-contact forces can affect objects that are not touching	ROLE
+Mercury_SC_406155	178a-9dd1-8569-86f1	a magnet attracts magnetic metals or ferromagnetic metals through magnetism	CENTRAL
+Mercury_SC_406155	ffdf-9b51-2f63-0791	magnetism does not require contact between objects to act	CENTRAL
+Mercury_SC_406155	a5e7-8257-cf9d-c8ef	a paper clip is a kind of object	GROUNDING
+Mercury_SC_406155	fe8e-2342-2aef-4d7b	a magnet is a kind of object	GROUNDING
+Mercury_SC_406155	9381-2aee-2b0c-d21c	magnetism is a kind of force	GROUNDING
+Mercury_SC_406155	1b3f-b617-d7ef-1815	a kind of something is an example of that something	LEXGLUE
+NCEOGA_2013_5_45	a0b2-a45f-01e1-4bf4	boiling or evaporation means change from a liquid into a gas by adding heat energy	CENTRAL
+NCEOGA_2013_5_45	3961-d09c-4b9a-a6f7	water is a kind of liquid	GROUNDING
+NCEOGA_2013_5_45	c12d-b29a-5073-54ab	if something is outside during the day then that something will receive sunlight	CENTRAL
+NCEOGA_2013_5_45	d247-b029-3aab-0950	the sun is a source of radiation or heat called sunlight	CENTRAL
+NCEOGA_2013_5_45	9554-47d7-c095-1df7	if an object or a substance absorbs solar energy then that object or that substance will increase in temperature	CENTRAL
+NCEOGA_2013_5_45	7d37-b81d-0cf3-9ae0	adding heat means increasing temperature	LEXGLUE
+NCEOGA_2013_5_45	1383-98fd-54fa-3ce4	a drop is a small amount of liquid	GROUNDING
+NCEOGA_2013_5_45	6759-5ee2-140f-df48	sunlight means solar energy	LEXGLUE
+NCEOGA_2013_5_45	8fca-6905-ae31-51ce	if a liquid disappears then that liquid probably evaporated	CENTRAL
+NCEOGA_2013_5_45	141a-5c36-0fac-52ac	receiving sunlight is synonymous with absorbing sunlight	LEXGLUE
+NCEOGA_2013_5_45	4710-c993-7a19-bef2	heat means heat energy	LEXGLUE
+NCEOGA_2013_5_45	1ed3-919d-4a4c-1be7	the sun is the source of solar energy called sunlight	CENTRAL
+NCEOGA_2013_5_45	81b7-0a58-5b0b-0bbf	water is a kind of substance	GROUNDING
+VASoL_2011_5_19	2ab2-9c07-636c-eaca	sonar is used to find the location of an object	CENTRAL
+VASoL_2011_5_19	d725-e207-be31-4742	the location of an object can be used to describe that object	GROUNDING
+VASoL_2011_5_19	3375-b363-3db7-2e3f	information is used to describe something	GROUNDING
+Mercury_SC_402287	ddca-37d6-9e7b-d216	the gravitational pull of the Moon on Earth's oceans causes the tides	CENTRAL
+Mercury_SC_402287	7217-ca8f-51fc-7263	to cause means to have an effect	LEXGLUE
+Mercury_SC_402287	4b4a-63a2-a913-8b18	tidal range is a measure of the vertical distance from high tide to low tide	CENTRAL
+Mercury_SC_400655	3d48-ef4c-bf06-a0c5	the amount of daylight is greatest in the summer	CENTRAL
+Mercury_SC_400655	b695-f668-1dec-659c	the amount of daylight is least in the winter	CENTRAL
+Mercury_SC_400655	624a-c1ec-8c85-45ce	amount is a property of something and includes ordered values of none or least or little or some or half or much or many or most or all	CENTRAL
+Mercury_SC_400655	19f5-4162-4c01-59aa	increase means more	LEXGLUE
+Mercury_SC_400655	782a-53e7-c1c7-aae0	an increase is a kind of change	GROUNDING
+Mercury_SC_402280	eea5-0a22-fd84-0a3b	sea means ocean	LEXGLUE
+Mercury_SC_402280	466a-2c15-ac54-8361	an ocean is a kind of body of water	GROUNDING
+Mercury_SC_402280	2125-ab14-605b-2b8c	aquatic animals or plants live in bodies of water	CENTRAL
+Mercury_SC_402280	a94e-e849-c066-fecd	a fish is a kind of aquatic animal	GROUNDING
+Mercury_SC_402280	737d-9e1b-683f-862c	a shark is a kind of fish	GROUNDING
+Mercury_SC_402280	965d-4d8b-7777-6434	if fossils of a water animal or plant are found in a place then that place used to be covered by water in the past	CENTRAL
+Mercury_SC_402280	72b4-027a-430e-ee18	if fossils of a water animal or plant are found in a place then that animal or plant used to live in that place	CENTRAL
+Mercury_SC_402280	c4f5-f802-6c1a-1448	place means area	LEXGLUE
+Mercury_SC_402280	ac4f-0a94-0c33-2df4	to discover means to find	LEXGLUE
+Mercury_SC_402280	4e56-9d2d-b627-f9b1	history means the past	LEXGLUE
+VASoL_2009_5_10	f178-8a67-81c1-e3fb	cutting down trees has a negative impact on an ecosystem or organisms living in an ecosystem	CENTRAL
+VASoL_2009_5_10	dc7e-8241-c2cf-b10a	clearing a forest means humans cutting down the trees	CENTRAL
+VASoL_2009_5_10	0fb6-467a-43af-1af8	building usually requires cutting down trees	BACKGROUND
+VASoL_2009_5_10	49a0-acc7-6fce-867f	the Earth contains many ecosystems	CENTRAL
+ACTAAP_2011_5_10	07cd-40e2-cfed-90ab	sedimentary rocks are made of small particles	CENTRAL
+ACTAAP_2011_5_10	2651-d09d-1434-a5a6	sand is made of small particles	LEXGLUE
+ACTAAP_2011_5_10	02eb-d26b-a00c-c559	size is a property of objects and includes ordered values of microscopic or tiny or small or medium or large	CENTRAL
+ACTAAP_2011_5_10	d7a7-05d2-6fba-4853	sedimentary rocks are often light brown in color	CENTRAL
+ACTAAP_2011_5_10	b605-9c58-598d-817e	characteristic means property	LEXGLUE
+ACTAAP_2011_5_10	5c52-4f26-3883-a4ef	color is a property of an object or a material	CENTRAL
+ACTAAP_2011_5_10	7c8b-3728-1d36-f922	a rock is a kind of object	GROUNDING

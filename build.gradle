@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    // https://mvnrepository.com/artifact/com.opencsv/opencsv
+    compile group: 'com.opencsv', name: 'opencsv', version: '4.6'
+
+    // https://mvnrepository.com/artifact/net.sf.extjwnl/extjwnl
+    compile group: 'net.sf.extjwnl', name: 'extjwnl', version: '2.0.2'
+
+    // https://mvnrepository.com/artifact/net.sf.extjwnl/extjwnl-data-wn31
+    compile group: 'net.sf.extjwnl', name: 'extjwnl-data-wn31', version: '1.2'
+}

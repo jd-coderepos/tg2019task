@@ -1,0 +1,1190 @@
+Mercury_SC_401371||occur.01	cycle.01||A1	AM-MNR||event-A1	on-AM-MNR	daily-A1
+TIMSS_2003_4_pg58||consist.01	live.01||A1	A0	AM-ADV	A2||group-A1	group-A0	only-AM-ADV	of-A2	things-A1
+MDSA_2007_5_9||boil.01	gram.01	form.01	vapor.01	method.01	use.01	determine.01	mass.02||A0	A1||student-A0	grams-A1	of-A1	water-A1	vapor-A1	What-A1	method-A0	to-A1	that-A1
+Mercury_SC_401133||do.02	result.01	support.01||R-A1	AM-MOD	R-AM-TMP	A2	A0	A1	AM-TMP	AM-NEG||What-R-A1	should-AM-MOD	when-R-AM-TMP	results-A2	results-A0	of-A1	do-AM-TMP	not-AM-NEG	hypothesis-A1
+Mercury_SC_400043||stage.01	cycle.01	compare.01	seed.01	grow.01||A1	A3	AM-MOD	A2||stage-A1	of-A1	frog-A3	life-A1	can-AM-MOD	to-A2	plant-A1	seed-A2	seed-A1	into-A2
+NAEP_2009_4_S7+14||develop.02	mother.01	bear.02||A1	AM-LOC	A0	AM-TMP	AM-MNR||animal-A1	inside-AM-LOC	its-A1	mother-A0	before-AM-TMP	it-A1	alive-AM-MNR
+Mercury_SC_415536||reach.01	pot.01||A0	R-A1	AM-MOD	AM-LOC	A1||temperature-A0	that-R-A1	water-A0	can-AM-MOD	in-AM-LOC	on-A1
+MCAS_1999_4_29||following.01	provide.01	way.01	identify.01||R-A0	A1||Which-R-A0	properties-A1	way-A1	to-A1	mineral-A1
+Mercury_SC_415533||boil.01||A1||water-A1
+MCAS_2000_4_8||live.01	part.01	go.12||A0	A1	AM-LOC	A2||animals-A0	animals-A1	part-A1	of-A1	their-A0	in-AM-LOC	on-A1	through-A2
+TAKS_2009_5_23||use.03	following.01	cause.01	become.01||R-A0	R-A1	A1	AM-ADV	C-A1	A2	AM-TMP||Which-R-A0	Which-R-A1	conditions-A1	likely-AM-ADV	mountains-A1	to-C-A1	shorter-A2	over-AM-TMP
+NYSEDREGENTS_2016_4_2||example.01	learn.01	behavior.01||A1	A2||example-A1	of-A2	learned-A1	behavior-A1
+NYSEDREGENTS_2016_4_1||list.01	contain.01	nonlive.01||A2	A0	AM-ADV	A1||Which-A2	list-A0	only-AM-ADV	nonliving-A1	things-A1
+MDSA_2007_5_38||learn.01	resource.01	group.01	research.01	information.01	investigate.01	include.01	method.01	disposal.01||A0	A1	A2	AM-LOC||Students-A0	about-A1	natural-A1	in-A2	group-A0	of-A1	information-A1	in-AM-LOC	resources-A2	students-A0	plants-A1	aluminum-A1
+NYSEDREGENTS_2016_4_3||build.01	nest.01	adaptation.01	occur.01	help.01||A0	A1	AM-LOC	R-A1	R-A0	AM-PNC||birds-A0	nests-A1	nests-A0	in-AM-LOC	in-A1	seasonal-AM-LOC	adaptation-A1	adaptation-A0	that-R-A1	that-R-A0	to-AM-PNC	birds-A1
+Mercury_SC_415542||have.03	mass.02||R-A0	A1||Which-R-A0	mass-A1
+OHAT_2009_5_3||type.01	fly.01	lay.01	pool.01	develop.01	come.01	get.01	become.01	turn.02	affect.01	population.01||A2	A0	A1	R-A0	R-AM-TMP	AM-TMP	A4	R-AM-MNR	A3||type-A2	type-A0	of-A1	insect-A1	that-R-A0	eggs-A1	in-A2	When-R-AM-TMP	larvae-A1	develop-AM-TMP	from-A2	to-A4	air-A1	through-A2	After-AM-TMP	pupae-A2	then-AM-TMP	into-A2	How-R-AM-MNR	summer-A0	mosquito-A3	population-A1	population-A2
+Mercury_SC_415540||take.01	turn.12	push.02	parking.01	way.01	determine.01	use.01	force.01||A0	A1	C-A1	A2	AM-MNR||students-A0	turns-A1	turns-A0	pushing-C-A1	ball-A1	on-A2	lot-A2	way-AM-MNR	to-A1	student-A0	used-A1	force-A1	force-A0	to-A2
+MDSA_2007_5_32||fill.01	milliliter.01	mass.02||A1	A2||container-A1	with-A2	of-A1
+Mercury_SC_401368||set.01	use.01	investigate.01	find.01	sample.01||A1	AM-ADV	R-A1	AM-LOC||of-A1	best-AM-ADV	what-R-A1	is-A1	in-AM-LOC
+OHAT_2009_5_9||live.01	move.01	create.01	help.01	improve.01	grow.01	have.03	statement.01	explain.01||A0	AM-MNR	AM-LOC	AM-ADV	A1	AM-DIR	A2	R-A0	R-AM-MNR||Earthworms-A0	underground-AM-MNR	in-AM-LOC	As-AM-ADV	they-A1	through-AM-DIR	they-A0	tunnels-A1	tunnels-A0	improve-A1	soil-A1	Plants-A1	better-A2	soil-A0	that-R-A0	earthworms-A1	Which-AM-MNR	statement-A0	explains-A1	how-R-AM-MNR	help-A1	plants-A1
+NYSEDREGENTS_2016_4_9||fur.01	turn.01	brown.01	approach.01	example.01||A1	AM-DIR	A2||fur-A1	of-A1	from-AM-DIR	to-AM-DIR	as-AM-DIR	winter-A2	example-A1	of-A2
+Mercury_SC_405725||use.01	conserve.01||A1	R-A0	A2||Which-A1	Which-R-A0	to-A2	water-A1
+Mercury_SC_405728||use.01	paper.02	help.01	find.01	problem.01||A0	A1	A2	AM-MOD	C-A1	AM-LOC||Using-A0	Internet-A1	for-A2	research-A1	can-AM-MOD	student-A1	student-A0	find-C-A1	resources-A1	with-A2	information-A1	on-AM-LOC
+NYSEDREGENTS_2016_4_8||||||
+Mercury_SC_405724||conserve.01	supply.01	resource.01	recycle.01||A1	A2||supply-A1	of-A1	nonrenewable-A2	resources-A1
+Mercury_SC_400039||attraction.01	cause.02	effect.01||A2	A1	R-A1	AM-LOC||attraction-A2	of-A1	NNP-A2	causes-A1	which-R-A1	on-AM-LOC
+Mercury_SC_401369||member.01	planning.01	team.01	build.01	model.01	block.01	show.01	form.01	limitation.01||A0	A1	A2	AM-TMP	R-AM-MNR	AM-MOD||Members-A0	of-A1	planning-A1	model-A1	model-A2	then-AM-TMP	stream-A1	how-R-AM-MNR	it-A0	can-A1	can-AM-MOD	lake-A1
+Mercury_SC_401364||drop.01	coloring.01	add.02	bowl.01	describe.01	change.01	take.14	place.03||A1	A2	R-A0	R-A1||drop-A1	of-A1	food-A1	to-A2	Which-R-A0	change-A1	that-R-A1	place-A2
+NAEP_2005_4_S14+10||make.01	suggest.01||A1	A2	A0||Rocks-A1	of-A2	What-A0	observation-A1
+Mercury_SC_401362||describe.01	survival.01||R-A0	A1	A2	A0||Which-R-A0	necessary-A1	for-A2	in-A0
+TAKS_2009_5_39||find.01	part.01	hearing.01	live.01	hard-shel.01	drop.05	front.02	move.01	learn.01	behavior.01||A1	AM-LOC	AM-MNR	A0	AM-TMP	A2||Crows-A1	throughout-AM-LOC	of-A1	excellent-AM-MNR	In-AM-LOC	they-A0	for-AM-TMP	crows-A0	nuts-A1	by-AM-MNR	them-A1	them-A2	in-AM-LOC	cars-A1	behavior-A1
+ACTAAP_2010_5_16||collect.01	attempt.01	classify.01	put.01	pile.01||A0	A1	AM-ADV	A2||NNP-A0	rocks-A1	while-AM-ADV	As-AM-ADV	she-A0	to-A1	in-A2	of-A1
+NCEOGA_2013_5_8||describe.01	wind.02	change.01	direction.01||R-A0	A0	A1	AM-TMP||Which-R-A0	best-A0	winds-A1	at-A1	beach-A1	direction-A1	between-AM-TMP
+NCEOGA_2013_5_7||heat.02	cause.01	handle.01	become.01||A1	AM-TMP	A0	C-A1	AM-DIS	A2||pot-A1	on-AM-TMP	process-A0	metal-A1	handle-A1	to-C-A1	also-AM-DIS	hot-A2
+TAKS_2009_5_38||easy.01	separate.01||R-A1	AM-MOD	AM-PNC||Which-R-A1	would-AM-MOD	to-AM-PNC
+NCEOGA_2013_5_5||example.01	form.01||A1	A2||example-A1	of-A2	substance-A1
+TAKS_2009_5_33||follow.01	feature.01	help.01	move.01	habitat.01||R-A0	A1	A2	AM-ADV	AM-LOC||Which-R-A0	animal-A1	features-A2	most-AM-ADV	move-A1	in-AM-LOC	its-A1
+NCEOGA_2013_5_4||way.01||A1||are-A1
+NCEOGA_2013_5_3||walk.01	notice.01	travel.01	minute.01	conclude.02||A0	AM-TMP	A1	AM-MNR	R-A1	AM-MOD	AM-LOC||girl-A0	for-AM-TMP	She-A0	that-A1	she-A0	farther-AM-MNR	in-AM-TMP	of-A1	her-A0	What-R-A1	can-AM-MOD	about-A1	about-AM-LOC
+MCAS_1999_4_31||supply.01	decrease.01	population.01||A2	A1	AM-LOC	A3||its-A2	food-A1	supply-A1	in-AM-LOC	mouse-A1	population-A2	in-A3
+Mercury_SC_413130||make.01||A0	A1||material-A0	table-A1
+MCAS_1999_4_30||like.01	use.01	reason.01||A0	A1||people-A0	to-A1	ovens-A1	for-A1
+NCEOGA_2013_5_1||mass.02	move.01	require.01	force.01	stop.01||A1	AM-TMP	A0	AM-MOD	A2||balls-A1	at-AM-TMP	ball-A0	would-AM-MOD	force-A2	force-A0	to-A1	motion-A1
+MCAS_1999_4_35||become.01	get.01||A1	A2	AM-TMP	A0||Reptiles-A1	active-A2	as-AM-TMP	day-A0	warmer-A1
+MDSA_2011_4_12||endanger.01	addition.01	loss.01	cause.01	population.01	decline.01||A1	AM-DIS	A2	R-A0	AM-ADV	A3	C-A1||species-A1	In-AM-DIS	to-A2	of-A1	what-R-A0	likely-AM-ADV	caused-A1	frog-A3	population-A1	population-A2	to-C-A1
+MCAS_1999_4_34||half.01	allow.01	work.01	live.01||AM-TMP	A1	A0	C-A1	AM-LOC||In-AM-TMP	of-A1	technology-A0	people-A1	people-A0	for-AM-TMP	to-C-A1	IN-AM-LOC	NNP-A1
+MCAS_1999_4_36||base.05	level.01	come.03||A1	A2||of-A1	water-A1	higher-A2	level-A1	from-A2
+ACTAAP_2010_5_14||part.01	cycle.01||A1||of-A1	dioxide-oxygen-A1
+Mercury_SC_401599||study.01	change.01	shape.01	need.01	collect.01	information.01	period.01	gather.01||A0	R-AM-MNR	A1	AM-MOD	A2	AM-TMP	AM-PNC	AM-ADV||scientist-A0	how-R-AM-MNR	weathering-A0	can-A1	can-AM-MOD	shape-A1	shape-A2	of-A1	to-A1	information-A1	over-A1	of-AM-TMP	to-AM-PNC	accurate-AM-ADV
+MDSA_2007_5_40||learn.01	resource.01	group.01	research.01	information.01	investigate.01	include.01	heat.02||A0	A1	A2	AM-LOC||Students-A0	about-A1	natural-A1	in-A2	group-A0	of-A1	information-A1	in-AM-LOC	resources-A2	students-A0	plants-A1	resource-A0	homes-A1
+Mercury_SC_405714||have.03	cup.01	work.01	melt.01	emit.01	form.01||A0	A1	AM-TMP	AM-LOC	AM-CAU	A2||student-A0	cup-A1	of-A1	while-AM-TMP	outside-AM-LOC	After-AM-TMP	ice-A1	because-AM-CAU	NNP-A0	energy-A1	in-AM-LOC	form-A2
+Mercury_SC_401356||produce.01	seed.01	fall.01	grow.01	begin.01	process.01||A0	A1	A2	R-A1	A4	R-A0	C-A1||flower-A0	seeds-A1	seeds-A2	that-R-A1	to-A4	into-A2	plants-A0	that-R-A0	flowers-A1	to-C-A1	by-A2	of-A1
+Mercury_SC_400024||way.01	determine.01	piece.01	float.01||AM-MNR	A1	AM-MOD||way-AM-MNR	to-A1	if-A1	egg-A1	of-A1	would-AM-MOD	on-AM-MNR
+Mercury_SC_401596||survive.01||A0||frog-A0
+Mercury_SC_400023||drop.05	object.01	size.01	record.01	take.02	hit.01	question.01	try.01	answer.01||A0	A1	A2	AM-MNR	AM-ADV||student-A0	objects-A1	of-A1	sizes-A2	time-A1	it-A0	for-A0	object-A0	ground-A1	Which-AM-MNR	student-A1	likely-AM-ADV	to-A1
+Mercury_SC_401354||drop.01	break.01	hit.02	way.01	retrieve.01||A0	AM-MNR	A1	R-A1	R-AM-TMP	AM-TMP||student-A0	accidentally-AM-MNR	tube-A1	that-R-A1	when-R-AM-TMP	it-A0	hits-AM-TMP	floor-A1	way-A0	to-A1	glass-A1
+Mercury_SC_400029||want.01	figure.05	need.01	perform.01	activity.01	list.01	make.03	number.01	burn.01	record.01	way.01	display.01	evaluate.01||A0	A1	AM-PNC	A2	AM-TMP||student-A0	to-A1	calories-A1	calories-A0	are-A1	to-AM-PNC	activities-A1	list-A1	of-A2	everyday-A1	number-A1	of-A1	during-AM-TMP	for-A1	information-A1
+Mercury_SC_401359||consist.01	seed.01	statement.01	describe.01||A1	A2	AM-MNR	A0||snack-A1	of-A2	sunflower-A1	seeds-A2	Which-AM-MNR	statement-A1	statement-A0	is-A1
+Mercury_SC_401591||absorb.01	order.06	use.01	convert.01||A0	A1	AM-PNC	A2	AM-MOD||cells-A0	energy-A1	In-AM-PNC	to-A1	to-A2	must-A2	must-AM-MOD
+TIMSS_2003_4_pg37||give.01	reason.02	pan.01	make.01	reason.01	correct.01||A0	A1	R-AM-CAU	AM-TMP	A2||NNP-A0	reasons-A1	why-A1	why-R-AM-CAU	kettles-A1	kitchen-A1	often-AM-TMP	of-A2	Which-A1	reason-A1
+TIMSS_2003_4_pg36||amount.01	find.01||A1	AM-LOC||amounts-A1	of-A1	in-AM-LOC
+Mercury_SC_400022||happen.01	place.01||R-A1	R-AM-TMP	A1	AM-TMP	A2||What-R-A1	when-R-AM-TMP	oil-A1	is-AM-TMP	in-A2
+Mercury_SC_401594||help.01	survive.01||R-A0	A0	AM-ADV	A1	C-A1||Which-R-A0	feature-A0	most-AM-ADV	jaguar-A1	jaguar-A0	survive-C-A1
+TIMSS_2003_4_pg33||eat.01||A0	A1||animal-A0	plants-A1
+MDSA_2007_5_15||compare.01	source.01||R-AM-MNR	A1	A2||How-R-AM-MNR	coal-A1	as-A2	sources-A2	of-A1
+Mercury_SC_413141||represent.01	mass.02||A0	A1||measurement-A0	mass-A1	of-A1
+Mercury_SC_416654||comparison.01||A1||of-A1
+MDSA_2007_5_14||come.01	affect.01	coastline.01||AM-TMP	A1	AM-MNR	AM-LOC	A0||In-AM-TMP	hurricane-A1	ashore-AM-MNR	at-AM-LOC	hurricane-A0	negatively-AM-MNR	coastline-A1	by-A1
+Mercury_SC_401588||give.01	sized.01	make.01	characteristic.01	examine.01	find.01||A2	AM-MNR	A1	A0	AM-MOD	AM-PNC||student-A2	identically-AM-MNR	blocks-A1	block-A1	of-A2	What-A2	characteristic-A1	characteristic-A0	of-A1	should-AM-MOD	to-AM-PNC	is-A1
+Mercury_SC_400013||feature.01	help.01	avoid.01	become.01	learn.01	fly.01||A1	A0	A2	C-A1||Which-A1	feature-A0	of-A2	them-A1	them-A0	avoid-C-A1	becoming-A1	prey-A2	they-A0	they-A1	to-A1
+CSZ_2006_5_CSZ10256||have.03	temperature.01	forecaster.01	predict.01	pressure.01	drop.01	type.01||A0	A1	AM-MOD	AM-TMP	A2||city-A0	temperature-A1	of-A1	Weather-A1	forecasters-A0	that-A1	air-A1	pressure-A1	will-AM-MOD	during-AM-TMP	type-A2
+Mercury_SC_401589||contain.01	separate.01||A0	A1	R-A1	AM-MOD	AM-MNR||mixture-A0	ingredients-A1	that-R-A1	can-AM-MOD	easily-AM-MNR
+CSZ_2004_5_CSZ10300||need.01	take.01	picture.01	well-ordered.01	following.01	use.01||A0	A1||scientist-A0	to-A1	picture-A1	of-A1	arrangements-A1	instruments-A1
+Mercury_SC_400011||stem.02	covering.01	needle-shaped.01	improve.01	ability.01	survive.01||R-AM-MNR	A0	A1	AM-LOC||How-R-AM-MNR	waxy-A0	covering-A1	leaves-A1	leaves-A0	ability-A1	of-A0	to-A1	in-AM-LOC
+Mercury_SC_400010||cycle.01	come.01	stage.01||AM-LOC	A1	AM-TMP||In-AM-LOC	life-A1	of-A1	stage-A1	after-AM-TMP	larval-A1
+AKDE&ED_2008_4_45||appear.02||AM-ADV	A1	C-A1||From-AM-ADV	NNP-A1	brighter-C-A1
+ACTAAP_2013_5_2||serve.01	evidence.01	theory.01||R-A0	A1	A2||Which-R-A0	as-A1	evidence-A2	for-A1	scientific-A1
+ACTAAP_2013_5_7||build.01	let.01	roll.04	describe.01	energy.01	roll.01||A0	A1	C-A1	R-A0	A2||NNP-A0	ramp-A1	car-A1	roll-A1	down-C-A1	Which-R-A0	energy-A1	of-A1	as-A2	it-A0
+Mercury_SC_414245||way.01	body.01||A2	A1||what-A2	can-A1	human-A1
+MDSA_2011_4_33||conduct.01	conductor.01||A0	A1||objects-A0	electricity-A1	of-A1
+MDSA_2007_5_23||recycle.01	%.01	produce.01	provide.01||AM-TMP	A0	A1	R-A0	A2||In-AM-TMP	NNP-A0	%-A1	of-A1	waste-A1	state-A0	Which-R-A0	to-A2
+VASoL_2009_5_4||leave.01	change.01||R-AM-TMP	A0	A2	A1	A3||When-R-AM-TMP	cream-A0	out-A2	cream-A1	changes-A1	from-A3
+MDSA_2007_5_20||follow.01	cause.01	revolve.01||R-A1	A2	A0||Which-R-A1	events-A2	by-A0	around-A2
+MDSA_2007_5_21||estimate.01	contain.01	ton.01	use.01	produce.01||A0	A1	AM-ADV	A2||Scientists-A0	that-A1	NNP-A0	tons-A1	of-A1	Coal-A1	Coal-A0	commonly-AM-ADV	to-A2	NNP-A1
+NYSEDREGENTS_2009_4_9||take.02	rotate.02	time.03||A0	A1	A2||it-A0	for-A1	NNP-A0	on-A1	its-A2
+Mercury_SC_401332||transfer.01	object.01||AM-TMP	A1	A3	A2||are-AM-TMP	heat-A1	from-A3	warmer-A1	to-A2
+Mercury_SC_401336||feature.01	help.01	defend.01||R-A0	A0	A1	AM-MNR||Which-R-A0	best-A0	helps-A1	animal-A0	defend-A1	itself-A1	from-AM-MNR
+NYSEDREGENTS_2011_4_22||activity.01	carry.03	species.01||A1	A0||activities-A1	by-A0	of-A1
+NYSEDREGENTS_2009_4_3||drop.05	force.01	cause.01	fall.01||A0	A1	C-A1	A4||student-A0	ball-A1	Which-A1	force-A0	to-C-A1	to-A4
+NYSEDREGENTS_2011_4_23||grow.01	fur.01	change.01	help.01||A0	AM-MNR	A1||fox-A0	thicker-AM-MNR	fur-A1	season-A1	adaptation-A0	fox-A1
+NYSEDREGENTS_2009_4_4||cube.01	melt.01	state.01	change.01||R-AM-TMP	A1	A3	A0||When-R-AM-TMP	ice-A1	cube-A1	its-A3	its-A0	of-A1	matter-A1	from-A3
+NYSEDREGENTS_2009_4_1||help.01	describe.01||A0	R-A0	A1||words-A0	that-R-A0	describe-A1
+Mercury_SC_401171||tap.03	fork.01	produce.01	sound.01||A1	A2||fork-A1	against-A1	sound-A1	sound-A2
+NYSEDREGENTS_2009_4_2||sense.01	use.01	determine.01	ability.01	reflect.01||A1	A0	AM-MOD	A2||sense-A1	sense-A0	can-AM-MOD	to-A2	object-A0	object-A1	ability-A1	to-A1	light-A2
+Mercury_SC_402266||drop.01	molecule.01	begin.01	vibrate.01	force.01	produce.01||R-AM-TMP	A1	AM-TMP	A4	C-A1	R-A1	A0||When-R-AM-TMP	book-A1	is-AM-TMP	onto-A4	molecules-A1	in-A1	to-C-A1	from-A1	of-A1	Which-R-A1	by-A0
+AKDE&ED_2008_4_36||catch.03	measure.01	call.01	think.01	size.01	help.01	support.01	thinking.01||A0	A1	A2||person-A0	fish-A1	halibut-A2	She-A0	that-A1	halibut-A1	size-A2	support-A1	her-A0
+NYSEDREGENTS_2011_4_26||source.01	cycle.01||A2	A1	A3||source-A2	of-A1	for-A3	water-A1
+Mercury_SC_401177||collect.01	speed.01||A1	A2||data-A1	on-A2	of-A1
+AKDE&ED_2008_4_37||effect.01	invention.01	use.01||AM-MNR	A1	A0||negative-AM-MNR	effect-A1	of-A0	of-A1
+NYSEDREGENTS_2011_4_27||activity.01||A0||human-A0
+NYSEDREGENTS_2011_4_24||example.01	habit.01||A1	A2||example-A1	of-A2	health-A1
+NYSEDREGENTS_2009_4_5||use.01	describe.01	length.01||A1	A0	AM-MOD	A2||unit-A1	unit-A0	can-AM-MOD	to-A2	object-A1	length-A1	length-A2
+NYSEDREGENTS_2011_4_25||||||
+Mercury_SC_402262||type.01	travel.01	body.03	allow.01	see.01||A2	A0	A1	R-A0	C-A1||type-A2	type-A0	of-A1	through-A1	microscope-A0	that-R-A0	specimen-A1	to-C-A1	by-A0
+Mercury_SC_401174||want.01	design.01	experiment.01	behavior.01	question.01	ask.02	begin.01||A0	A1||student-A0	to-A1	experiment-A1	regarding-A1	of-A0
+MDSA_2011_4_40||heat.02	pan.01	stir.03	spoon.01	notice.01	become.01	reason.01||A0	A1	AM-ADV	AM-MNR	A2	AM-CAU||student-A0	pan-A1	of-A1	While-AM-ADV	soup-A1	with-AM-MNR	metal-A1	spoon-A1	became-A1	warm-A2	reason-AM-CAU
+MCAS_2003_5_24||change.01||A0	A1	A2||water-A0	vapor-A1	to-A2
+Mercury_SC_415737||cube.01	temperature.01	drop.01	glass.01||A1	AM-LOC	A4||ice-A1	cube-A1	at-AM-LOC	of-A1	into-A4
+MCAS_2003_5_21||following.01	change.01	apply.02||R-A1	A0	A3	A2	R-AM-TMP	A1||Which-R-A1	following-A0	from-A3	to-A2	when-R-AM-TMP	heat-A1
+Mercury_SC_413558||make.07	breathe.01||A0	A1||Which-A0	element-A0	most-A1	air-A1	we-A0
+Mercury_SC_407709||place.01	kind.01	information.01	record.01	find.01	eat.01||A0	A1	A2	AM-MOD	AM-PNC||NNP-A0	caterpillar-A1	in-A2	of-A1	Which-A2	information-A1	should-AM-MOD	he-A0	to-AM-PNC	food-A1	caterpillar-A0	eats-A1
+AKDE&ED_2008_4_43||place.01	take.01	shape.01||A0	A1	A2||teacher-A0	item-A1	in-A2	item-A0	shape-A1	shape-A2	of-A1
+Mercury_SC_406619||difference.01	cycle.01	type.01||A1	A2||between-A1	life-A1	of-A1	types-A2
+Mercury_SC_401169||switch.01	use.01||R-AM-TMP	A1	AM-LOC||When-R-AM-TMP	switch-A1	in-AM-LOC
+AKDE&ED_2008_4_41||study.01	make.02	melt.01	want.01	conduct.01	investigation.01	step.01	measure.01||A0	R-A0	A1	A2	R-AM-TMP	AM-MOD||students-A0	what-R-A0	makes-A1	ice-A1	melt-A1	fastest-A2	They-A0	to-A1	investigation-A1	During-R-AM-TMP	in-A1	their-A0	will-AM-MOD	they-A0
+Mercury_SC_401167||refract.01||A1||object-A1
+Mercury_SC_405529||put.01	system.01	use.01	drinking.01	reason.01	treat.01	drink.01||A1	AM-TMP	A2	AM-LOC	AM-CAU	A0||Water-A1	often-AM-TMP	through-A2	treatment-A1	before-AM-TMP	it-A1	in-AM-LOC	water-A1	reason-AM-CAU	is-A1	people-A0
+NYSEDREGENTS_2011_4_11||crumple.01	sheet.01	property.01	change.01||A0	A1||student-A0	sheet-A1	of-A1	property-A1	of-A0
+Mercury_SC_407700||study.01	moon.01	do.02	make.01||AM-TMP	A0	A1	R-A1	AM-PNC||In-AM-TMP	NNP-A0	moons-A1	moons-A0	of-A1	What-R-A1	to-AM-PNC	observations-A1
+Mercury_SC_405764||use.01	player.01	stop.01	work.01	do.02	try.01	correct.01||A0	A1	R-AM-TMP	AM-MNR	AM-TMP	AM-MOD	AM-PNC||NNP-A0	player-A1	player-A0	when-R-AM-TMP	it-A0	suddenly-AM-MNR	stopped-AM-TMP	working-A1	thing-A1	should-AM-MOD	to-AM-PNC	correcting-A1	problem-A1
+NYSEDREGENTS_2009_4_19||make.01	food.01	call.01||AM-CAU	A0	A1||Since-AM-CAU	plants-A0	their-A0	food-A1	they-A1
+AKDE&ED_2008_4_27||hour.01	statement.01	explain.01	occur.01||A1	AM-MNR	A0||of-A1	Which-AM-MNR	statement-A1	statement-A0	best-A0	difference-A1	occurs-A1
+NYSEDREGENTS_2011_4_10||form.01	find.01||A2	A1	AM-LOC||form-A2	form-A1	of-A1	in-AM-LOC
+NYSEDREGENTS_2011_4_15||nonlive.01||A1||object-A1
+NYSEDREGENTS_2011_4_16||example.01	learn.01||A1	A2||example-A1	of-A2	trait-A1
+Mercury_SC_401165||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2011_4_13||rid.01	observe.02	move.01	happen.01	have.03||A0	A1	AM-MNR	AM-CAU||student-A0	bicycle-A1	that-A1	it-A1	faster-AM-MNR	This-A1	because-AM-CAU	road-A1
+Mercury_SC_402250||use.01	separate.01	make.01||AM-LOC	A1	A0	A2	AM-ADV||In-AM-LOC	magnet-A1	magnet-A0	to-A2	particles-A1	from-A2	most-AM-ADV	of-A2
+MCAS_2006_5_8||list.01	change.01	surface.01	following.01||A1	A2	AM-LOC	A0||All-A1	below-A2	cause-A1	in-AM-LOC	NNP-A1	following-A0	surface-A1
+LEAP_2002_4_10246||class.03	have.03	contain.01	dry.01	box.01	piece.03	wet.01	do.02	get.01	information.01||A1	A2	A0	AM-MNR	AM-MOD	AM-PNC||NNP-A1	class-A2	class-A0	boxes-A1	One-A0	perfume-A1	contains-A0	onions-A1	of-A1	lemon-A1	towel-A1	with-AM-MNR	should-AM-MOD	they-A0	to-AM-PNC	information-A1	about-A1
+NYSEDREGENTS_2009_4_20||structure.01	pair.01	function.01||A2	A1	AM-MNR	A0||structure-A2	structure-A1	of-A1	correctly-AM-MNR	with-A2	its-A0
+NYSEDREGENTS_2009_4_24||fly.01	call.01||A1	AM-LOC	AM-PNC||birds-A1	south-AM-LOC	for-AM-PNC	adaptation-A1
+Mercury_SC_401159||add.02	salt.01	bowl.01	stir.02	have.03	make.01||A0	A1	A2||student-A0	sugar-A1	to-A2	of-A1	them-A1	together-A2	What-A0	student-A1
+NYSEDREGENTS_2009_4_23||inherit.01	parent.01||A1	A0||puppy-A1	from-A0	its-A1	parents-A0
+AKDE&ED_2008_4_30||want.01	find.01	temperature.01	grow.01	process.01	skill.01	use.01||A0	A1	A2	AM-MOD||Students-A0	to-A1	plants-A1	tallest-A2	science-A1	process-A1	skill-A1	skill-A0	would-AM-MOD	to-A2	temperature-A1
+NYSEDREGENTS_2009_4_22||depend.01	resource.01||A1	A2||natural-A1	from-A2
+Mercury_SC_401157||conduct.01	wrap.01||A1	A0	A2	AM-CAU||wire-A1	wire-A0	in-A2	user-A1	because-AM-CAU
+Mercury_SC_401156||use.01	wiring.01||A1	AM-LOC	AM-CAU||Copper-A1	in-AM-LOC	house-A1	because-AM-CAU
+NYSEDREGENTS_2009_4_28||experiment.01	report.01	turn.02	example.01||AM-TMP	A0	A1	A2||During-AM-TMP	student-A0	that-A1	liquid-A1	green-A2	with-AM-TMP	example-A1	of-A2
+NYSEDREGENTS_2009_4_27||live.01	average.01	period.01	call.01||A0	A1	A2	AM-TMP||butterflies-A0	average-A1	average-A2	of-A1	period-A1	of-AM-TMP	life-A2
+NYSEDREGENTS_2009_4_26||die.01	organism.01	help.01	return.01	chain.01||R-AM-TMP	A1	R-A0	A0	A4||When-R-AM-TMP	plants-A1	which-R-A0	organisms-A0	return-A1	nutrients-A1	to-A4	food-A1
+Mercury_SC_405514||plan.01	design.01	give.01	amount.01	squeeze.01	do.02||A0	A1	R-A0	AM-MOD	AM-TMP	R-A1||student-A0	to-A1	tube-A1	tube-A0	that-R-A0	will-AM-MOD	amount-A1	of-A1	time-AM-TMP	it-A1	Which-R-A1	should-AM-MOD	first-AM-TMP	designing-AM-TMP
+NYSEDREGENTS_2009_4_25||get.01	need.01	make.01	food.01||A0	A1	AM-PNC	A2||plants-A0	energy-A1	they-A0	to-AM-PNC	food-A1	from-A2
+Mercury_SC_401150||hour.01	sunlight.01||A1	AM-LOC	AM-TMP||of-A1	in-AM-LOC	during-AM-TMP
+AKDE&ED_2008_4_16||object.02	system.01	reflect.01	orbit.01||A2	A1	A0	R-A0	AM-LOC||object-A2	in-A1	our-A0	solar-A1	light-A1	satellite-A1	that-R-A0	around-AM-LOC
+Mercury_SC_LBS10918||following.01||A1||measurements-A1
+AKDE&ED_2008_4_17||pile.01	block.01	part.01	cause.01	move.01||A1	R-A0	A0	AM-ADV	C-A1	AM-DIR||of-A1	part-A1	Which-R-A0	event-A0	likely-AM-ADV	rocks-A1	to-C-A1	onto-AM-DIR
+Mercury_SC_405994||following.01	limit.01	supply.01	resource.01||R-A0	A0	AM-MOD	A1||Which-R-A0	following-A0	could-AM-MOD	supply-A1	of-A1	renewable-A1
+AKDE&ED_2008_4_14||length.01	change.01	cause.01||A2	A1	AM-MNR	AM-TMP	R-A0||length-A2	length-A1	of-A1	daylight-AM-MNR	during-AM-TMP	What-R-A0	changes-A1	in-AM-TMP
+CSZ_2004_5_CSZ10110||combination.01	following.01||A3	A1	A0||combination-A3	of-A1	following-A0
+Mercury_SC_401154||||||
+Mercury_SC_401153||part.01||A1||plant-A1
+Mercury_SC_400064||characteristic.01||AM-MNR	A1||physical-AM-MNR	of-A1
+Mercury_SC_402240||piece.02	equipment.01	determine.01	mass.02	teaspoon.01||A1||of-A1	lab-A1	mass-A1
+Mercury_SC_412487||measure.01	amount.01	use.01	make.01||A0	A1	AM-MNR	A2||scientist-A0	amount-A1	of-A1	tool-A1	tool-A0	best-AM-MNR	for-A2	measurement-A1
+TIMSS_2003_4_pg71||have.03	explain.01||A0	A1	R-A0||plant-A0	flowers-A1	What-R-A0	best-A0	are-A1
+TIMSS_2003_4_pg70||see.01	moon.01	go.01||A0	AM-MNR	A1	AM-MOD	AM-TMP||NNP-A0	full-AM-MNR	moon-A1	time-A1	will-AM-MOD	before-AM-TMP
+ACTAAP_2009_5_13||use.01	determine.01	ph.01	solution.01	communicate.01	result.01	investigation.01||A0	A1	A2	R-A0||NNP-A0	juice-A1	juice-A0	to-A2	pH-A1	of-A1	household-A0	Which-R-A0	results-A1	results-A2	his-A0
+ACTAAP_2009_5_10||property.01||A1	A0||physical-A1	of-A0
+ACTAAP_2009_5_11||want.01	experiment.01	example.01||A0	A1	A2||NNP-A0	to-A1	with-A1	example-A1	of-A2
+MDSA_2007_5_58||investigate.01	type.01	grow.01	plant.01	seed.01	container.01	step.01	help.01	get.01	result.01||A0	A2	A1	AM-MOD	C-A1	AM-MNR||student-A0	type-A2	of-A1	is-A1	plants-A1	tomato-A1	seeds-A1	seeds-A2	containers-A0	step-A0	would-AM-MOD	student-A1	get-C-A1	reliable-AM-MNR	results-A1	results-A2
+Mercury_SC_405506||perform.01	investigation.01	design.01	measure.01	growth.01	do.02||A0	A1	A3	AM-TMP	R-A1	AM-MOD||Students-A0	investigation-A1	investigation-A0	to-A3	daily-AM-TMP	growth-A1	of-A1	Which-R-A1	should-AM-MOD	students-A0	day-AM-TMP
+AKDE&ED_2008_4_21||put.01	move.01	spread.03	fill.01||A1	A2	AM-TMP	AM-DIR	AM-MOD	AM-PNC||materials-A1	into-A2	then-AM-TMP	from-AM-DIR	material-A1	will-AM-MOD	to-AM-PNC	completely-A2	container-A1
+Mercury_SC_401148||convert.01||A0	R-A0	A1	A2||process-A0	that-R-A0	dioxide-A1	into-A2
+NYSEDREGENTS_2009_4_12||measure.01	volume.01	boil.01||A0	A1	A2	AM-TMP||student-A0	volume-A1	volume-A2	of-A1	water-A1	for-AM-TMP	then-AM-TMP	again-AM-TMP
+Mercury_SC_405505||weather.01	freeze.01	crack.02	happen.01||R-AM-TMP	A2	A1	R-A1	AM-ADV||When-R-AM-TMP	cold-A2	weather-A1	freezes-A1	of-A1	rocks-A1	which-R-A1	likely-AM-ADV
+NYSEDREGENTS_2009_4_10||form.01	use.01	push.01||A2	A1	R-AM-TMP	A0	AM-TMP||form-A2	form-A1	of-A1	when-R-AM-TMP	person-A0	pushes-AM-TMP	block-A1
+Mercury_SC_401145||use.01	count.03	number.01||A2	A1||for-A2	number-A1	of-A1
+MDSA_2007_5_50||resource.01	find.01	use.01||A1	A2	AM-LOC||resources-A1	in-A2	in-AM-LOC	for-A2
+NYSEDREGENTS_2009_4_17||blend.01	call.01||A1||fox-A1	adaptation-A1
+NYSEDREGENTS_2009_4_15||need.01	order.06	survive.01||R-A1	A2	A0	AM-PNC	A1||What-R-A1	do-A2	animals-A0	in-AM-PNC	to-A1
+NYSEDREGENTS_2009_4_14||help.01	survive.01||A0	AM-MOD	AM-MNR	A1||structure-A0	would-AM-MOD	best-AM-MNR	bear-A1	winter-A1
+Mercury_SC_400051||string.01	pluck.01	produce.01||R-AM-TMP	A1	AM-TMP	A0||When-R-AM-TMP	guitar-A1	string-A1	is-AM-TMP	sound-A1	by-A0
+Mercury_SC_401140||part.01	use.01	absorb.01||A1	A2	AM-TMP||part-A1	of-A1	to-A2	sunlight-A1	during-AM-TMP
+NAEP_2005_4_S13+4||breathe.01	part.01	cloud.01	see.01||AM-ADV	A0	A2	A1	R-A0	C-A1||If-AM-ADV	you-A0	on-A2	part-A1	of-A1	What-R-A0	actually-AM-ADV	see-A1	mirror-A1	cloud-C-A1
+Mercury_SC_405500||throw.01	pound.01	decrease.01	amount.01||A0	A2	A1	AM-TMP	R-AM-MNR	AM-MOD||people-A0	away-A2	pounds-A1	of-A1	day-AM-TMP	How-R-AM-MNR	could-AM-MOD	everyone-A0	amount-A1
+Mercury_SC_LBS10907||phase.01	take.01	place.05||A1||of-A1	solar-A1	eclipse-A1	take-A1	place-A1
+NAEP_2005_4_S13+9||example.01||A1	A2||example-A1	of-A2
+Mercury_SC_LBS10900||example.01||A1	A2||example-A1	of-A2
+Mercury_SC_401144||rise.01	cool.01	come.01	form.01||A1	AM-TMP	A3	AM-MNR||vapor-A1	rises-AM-TMP	water-A1	together-A3	together-AM-MNR
+Mercury_SC_400053||allow.01	stay.01||A0	A1	C-A1	A3	AM-LOC||adaptation-A0	walrus-A1	to-C-A1	warm-A3	in-AM-LOC
+Mercury_SC_400294||statement.01	support.01	claim.03	fight.01||A0	A1	A3||statement-A0	on-A1	claim-A1	claim-A3	of-A1	cavities-A1
+MCAS_1999_4_17||need.01	move.01	product.01	choice.01||A0	A1	AM-DIR	A2||You-A0	to-A1	products-A1	across-AM-DIR	from-AM-DIR	to-A2	your-A0	choices-A1
+TIMSS_2003_4_pg86||statement.01||AM-MNR	A1||Which-AM-MNR	for-A1
+Mercury_SC_LBS10908||use.01||R-AM-CAU	A1	AM-MNR	AM-LOC||Why-R-AM-CAU	telescopes-A1	far-AM-MNR	from-AM-LOC
+Mercury_SC_LBS10909||push.02	example.01||A1	A2||on-A1	example-A1	of-A2
+VASoL_2009_3_3||have.03	product.01	come.03||A0	A1	R-A1	A2||Which-A0	products-A1	that-R-A1	from-A2
+MCAS_1999_4_11||pollute.01||A1||river-A1
+VASoL_2009_3_5||study.01	best.01	count.01	spot.01||A0	A1	AM-LOC	R-A0	AM-MOD	AM-PNC||NNP-A0	ladybugs-A1	in-AM-LOC	Which-R-A0	would-AM-MOD	NNP-A1	to-AM-PNC	spots-A1	on-A1
+MCAS_1999_4_12||following.01	source.01||A0	A2	A1||following-A0	SOURCE-A2	of-A1
+VASoL_2009_3_9||grass.01||R-AM-MNR	AM-MNR||How-R-AM-MNR	alike-AM-MNR
+MCAS_1999_4_14||use.01	stir.02	cook.01	stove.01	stay.01||A0	A1	A2	R-A0	AM-MOD	A3	AM-TMP||NNP-A0	spoon-A1	spoon-A0	to-A2	soup-A1	that-R-A0	on-A2	his-A0	will-AM-MOD	coolest-A3	while-AM-TMP	he-A0
+AKDE&ED_2008_4_10||splash.01	statement.01	explain.01	happen.01||AM-TMP	A1	A2	AM-MNR	A0	R-A1	AM-LOC||On-AM-TMP	water-A1	onto-A2	Which-AM-MNR	statement-A0	explains-A1	what-R-A1	happened-A1	to-A2	on-AM-LOC
+VASoL_2008_5_9||make.03	revolution.01||A0	AM-MNR	A1	AM-TMP||NNP-A0	complete-AM-MNR	revolution-A1	around-A1	once-AM-TMP
+Mercury_SC_401377||band.01	make.03	sound.01||A1	A0	AM-MOD	A2	AM-TMP||rubber-A1	band-A0	band-A1	will-AM-MOD	sound-A1	sound-A2	is-AM-TMP
+CSZ_2005_5_CSZ10170||break.01||R-AM-MNR	A0	AM-ADV	A1	A3||How-R-AM-MNR	plants-A0	commonly-AM-ADV	rocks-A1	into-A3
+Mercury_SC_401138||allow.01	get.01	underwater.01||A0	A1	C-A1||adaptation-A0	fish-A1	fish-A0	to-C-A1	oxygen-A1	underwater-A1
+Mercury_SC_400682||have.03	ability.01	crawl.01	mother.01	pouch.01	drink.01	example.01||A0	A1	A2||kangaroo-A0	ability-A1	to-A1	into-A1	its-A1	mother-A0	milk-A1	example-A1	of-A2
+LEAP__4_10223||following.01	example.01	matter.05	change.01||A0	A1	A2||following-A0	example-A1	of-A2	changing-A1	state-A1
+MCAS_2008_5_5638||follow.01	statement.01	appear.02	move.01||AM-TMP	A2	A1	C-A1	AM-DIR||following-AM-TMP	statements-A2	statements-A1	stars-A1	to-C-A1	across-AM-DIR	night-AM-TMP
+MCAS_2008_5_5637||make.01	type.01	following.01||A1	AM-ADV	A2||statue-A1	both-AM-ADV	of-A2	type-A2	of-A1	properties-A1
+MCAS_2008_5_5635||follow.01	statement.01	help.01	make.02||AM-MNR	A2	A1	A0||following-AM-MNR	statements-A2	statements-A1	describes-A2	bacteria-A0	make-A1	soil-A1	fertile-A2
+MCAS_2008_5_5634||following.01	explain.01	fly.01||R-A0	A0	A1	AM-DIR	AM-TMP||Which-R-A0	following-A0	best-A0	species-A1	fly-A1	south-AM-DIR	for-AM-TMP
+MCAS_2008_5_5633||want.01	plant.01	temperature.01	kill.01	following.01	solution.01||A0	A1	A2	AM-TMP	AM-LOC	AM-MOD||Students-A0	to-A1	tree-A1	at-A2	winter-AM-TMP	temperatures-A0	in-AM-LOC	would-AM-MOD	following-A0
+Mercury_SC_LBS10264||way.01	protect.01||A1	A2||to-A1	against-A2
+Mercury_SC_401769||example.01||A1	A2||example-A1	of-A2
+MCAS_2005_5_6||plant.01	seed.01	ten.01	keep.01	group.01	temperature.01	give.01	amount.01	place.01	following.01	question.01	answer.01	experiment.01||A0	A1	A2	AM-LOC	R-A0	AM-TMP||NNP-A0	corn-A1	seeds-A1	seeds-A2	in-A2	in-AM-LOC	He-A0	groups-A1	of-A1	at-AM-LOC	room-A1	them-A2	amount-A1	them-A1	Which-R-A0	following-AM-TMP	questions-A1	with-A1	his-A0
+MCAS_2005_5_3||example.01	behavior.01||A1	A2	A0||example-A1	of-A2	instinctive-A1	in-A0
+Mercury_SC_402619||part.01	cycle.01	take.14	place.03	fall.01||A1	A2	R-AM-TMP	AM-TMP	A4||part-A1	of-A1	water-A1	place-A2	when-R-AM-TMP	falls-AM-TMP	back-A4	to-A4
+MCAS_2005_5_9||have.03	lot.01	part.01	want.01	build.01	do.02||A0	A1	R-A1	AM-MOD||NNP-A0	lots-A1	of-A1	bicycle-A1	She-A0	to-A1	something-A1	What-R-A1	thing-A1	should-AM-MOD
+Mercury_SC_LBS10028||example.01||A1	A2||example-A1	of-A2
+CSZ10356||carry.01	seed.01	find.01||A0	A1	A2	AM-LOC	AM-DIR||animals-A0	seeds-A1	seeds-A2	in-AM-LOC	from-AM-DIR	to-AM-DIR
+Mercury_SC_400673||recycling.01||A1||of-A1
+MCAS_2005_5_7||follow.01	go.01||R-A1	A2||Which-R-A1	animals-A2	through-A2
+Mercury_SC_402615||happen.01	freeze.01||R-A1	A2	A1	R-AM-TMP	A0||What-R-A1	to-A2	state-A1	when-R-AM-TMP	it-A0
+Mercury_SC_401768||form.01	find.01	part.01||A1	R-A1	AM-TMP	A0	AM-LOC||process-A1	that-R-A1	likely-AM-TMP	NNP-A1	NNP-A0	in-AM-LOC	of-A1
+TIMSS_2011_4_pg89||direction.01	flow.01	depend.01||A2	A1	A0	AM-LOC||direction-A2	water-A1	flows-A0	in-AM-LOC	on-A1
+Mercury_SC_401765||have.03	feature.01||A0	A1	AM-TMP	A2||NNP-A0	all-A1	common-AM-TMP	features-A2
+Mercury_SC_415706||choose.01	make.01	handle.01	get.03	place.01	boil.01||A0	AM-MOD	A2	A1	R-AM-TMP||engineer-A0	can-AM-MOD	from-A2	to-A1	handle-A1	for-A1	material-A1	hot-A2	when-R-AM-TMP	spoon-A1	spoon-A0	in-A2	water-A1
+TIMSS_2011_4_pg105||change.01	cause.01||A1	AM-MNR	A0||soil-A1	natural-AM-MNR	causes-A0
+Mercury_SC_407066||action.01	cause.01	change.01||AM-MNR	A0	A1||Which-AM-MNR	action-A0	chemical-A1	change-A1
+MEA_2016_5_1||source.01	surface.01||A2	A1	A3||source-A2	of-A1	for-A3	NNP-A1
+Mercury_SC_408396||stir.02	seashell.01	fill.01	form.01	solution.01||A0	A1	A2	R-A0	AM-MOD||Students-A0	salt-A1	into-A1	jar-A1	with-A2	Which-R-A0	will-AM-MOD	solution-A1
+VASoL_2009_3_13||part.01||A1||of-A1
+TIMSS_2011_4_pg100||sit.01	egg.01	hatch.01	reason.01||A1	A2	A0	AM-TMP	R-AM-CAU||birds-A1	on-A2	their-A1	eggs-A0	until-AM-TMP	they-A0	why-A1	why-R-AM-CAU
+Mercury_SC_409240||lay.01	egg.01	hatch.01	eat.01	floating.01	survive.01||A0	A1	A2	AM-LOC||Toads-A0	their-A1	eggs-A1	eggs-A0	in-A2	Tadpoles-A0	from-A2	plants-A1	in-AM-LOC	toads-A0
+MCAS_2008_5_5627||follow.01	involve.01	consumer.01	chain.01||A2	A1	A0	AM-LOC||Which-A2	events-A2	consumer-A1	consumer-A0	in-AM-LOC	food-A1
+Mercury_SC_415703||cause.01	engine.01	friction.01	reduce.01	amount.01	produce.01||A0	A1	R-A0||cause-A0	cause-A1	of-A1	car-A1	by-A0	between-A1	Which-R-A0	amount-A1
+VASoL_2009_3_10||have.03	mass.02||R-A0	A1||Which-R-A0	NNP-A1	mass-A1
+Mercury_SC_415702||want.01	warm.01	hand.02	rubb.01	surface.01	produce.01	heat.03||A0	A1	AM-MNR	AM-MOD||NNP-A0	to-A1	his-A1	hands-A1	quickly-AM-MNR	by-AM-MNR	them-A1	skin-A1	surface-A0	surface-A1	will-AM-MOD	heat-A1
+MCAS_2008_5_5625||have.03	case.01	make.01	surface.01	dent.01	want.01	make.03	scratch.02	do.02||A0	A3	A1	A2	AM-MNR	R-A0	AM-MOD	AM-NEG	R-A1	AM-PNC||NNP-A0	NNP-A3	pencil-A1	case-A1	of-A2	of-A1	easily-AM-MNR	He-A0	to-A1	that-R-A0	will-AM-MOD	not-AM-NEG	Which-R-A1	should-AM-MOD	to-AM-PNC
+MCAS_2008_5_5623||native.01	grow.01	follow.01	change.01	cause.01	decrease.01	population.01||A1	A0	A2	AM-MNR	AM-LOC	R-A0	AM-ADV	A3||plant-A1	native-A0	to-A2	It-A1	best-AM-MNR	in-AM-LOC	Which-R-A0	environmental-A1	changes-A2	likely-AM-ADV	decrease-A1	in-A1	herb-A3	population-A2
+MCAS_2008_5_5622||following.01	develop.02	change.01	frog.01||A1	A0	A3||structures-A1	frog-A1	it-A0	from-A3	adult-A1
+CSZ20146||following.01	component.01||A0	A1||following-A0	of-A1
+VASoL_2009_3_17||___.01||A0	AM-TMP||hurricanes-A0	always-AM-TMP
+TIMSS_2011_4_pg70||explanation.01	have.03||AM-MNR	A1	R-AM-CAU	A0	AM-LOC||correct-AM-MNR	for-A1	why-R-AM-CAU	we-A0	day-A1	on-AM-LOC
+ACTAAP_2008_5_11||see.01	have.03	observe.01||AM-ADV	A0	A1	R-A1||With-AM-ADV	you-A0	that-A1	object-A0	wall-A1	What-R-A1
+Mercury_SC_409238||hunt.01	live.01	field.03	gather.01	have.03	hide.01	happen.01||A0	A1	R-A0	AM-LOC	AM-TMP	R-A1||owl-A0	mice-A1	mice-A0	that-R-A0	in-AM-LOC	farmer-A1	After-AM-TMP	farmer-A0	crops-A1	places-A1	Which-R-A1	after-AM-TMP
+ACTAAP_2011_5_15||occur.01	energy.01	molecule.01	increase.01||A1	AM-ADV	A2||Which-A1	as-AM-ADV	kinetic-A2	energy-A1	of-A1	water-A1	increases-A2
+Mercury_SC_409237||source.01	population.01	happen.01	begin.01	eat.01||A2	A1	A3	AM-LOC	R-A1	AM-ADV	A0	C-A1||source-A2	of-A1	for-A3	coyote-A3	population-A2	in-AM-LOC	Which-R-A1	to-A2	if-AM-ADV	predator-A1	predator-A0	eating-C-A1	mice-A1
+Mercury_SC_400660||use.01	sleep.01	manufacturer.01||A1	A0	AM-CAU||feathers-A1	by-A0	bag-A1	manufacturers-A0	because-AM-CAU
+Mercury_SC_409235||study.01	compare.01	number.01	live.01	factor.01	explain.01	survive.01||A0	A1	AM-LOC	A2	AM-MOD||NNP-A0	ecosystems-A1	She-A0	number-A1	of-A1	plants-A0	in-AM-LOC	to-A2	Which-A1	factor-A2	factor-A0	may-A1	may-AM-MOD
+ACTAAP_2011_5_11||dig.01	area.02	bottom.01	range.01	fossilized.01	shell.01	find.01	conclusion.01	draw.02	base.02||A0	AM-LOC	A1	A2	AM-MOD	AM-MNR||Scientists-A0	in-AM-LOC	dry-A1	of-A1	mountain-A1	range-A2	shells-A1	that-A1	scientists-A0	will-AM-MOD	based-AM-MNR	on-A2
+Mercury_SC_413533||show.01	form.01||A0	A1||example-A0	substance-A1
+Mercury_SC_407295||create.01	process.01	reduce.01	amount.01||A0	A1	R-A0||NNP-A0	process-A1	process-A0	that-R-A0	amount-A1	of-A1
+Mercury_SC_413531||use.01	make.03	move.02	go.01	change.01	take.14	place.03||A0	A1	A2	AM-MNR	AM-DIR||machine-A0	battery-A1	battery-A0	to-A2	needle-AM-MNR	move-A1	needle-A1	up-AM-DIR	quickly-AM-MNR	energy-A1	change-A1	place-A2
+MCAS_2012_5_18||appear.02	move.01	rise.01	set.01	cause.01||A1	A0	C-A1	AM-DIR	AM-TMP	AM-ADV	A2	R-A0||NNP-A1	NNP-A0	to-C-A1	across-AM-DIR	day-AM-TMP	rising-AM-ADV	in-AM-TMP	in-A2	What-R-A0	motion-A1
+Mercury_SC_407290||quality.01||AM-MOD	A1	A2||can-AM-MOD	plants-A1	air-A2
+CSZ_2007_5_CSZ20560||following.01	represent.01	reaction.01||A0	A1	A2||following-A0	represents-A1	chemical-A0	reaction-A1	reaction-A2
+TIMSS_2011_4_pg64||||||
+CSZ10336||have.03	sweet-smelling.01	produce.01	fruit.01	purpose.01	flower.01||A0	A1	AM-MNR||trees-A0	sweet-smelling-A1	blossoms-A1	rich-AM-MNR	fruit-A1	purpose-A1	of-A0	of-A1
+Mercury_SC_LBS10046||gather.01	help.01||A0	A1||squirrel-A0	nuts-A1	trees-A1
+ACTAAP_2011_5_17||type.01	see.01	eye.01||A2	A1	AM-MNR	A0||types-A2	types-A1	of-A1	easily-AM-MNR	by-A0	human-A0
+TIMSS_2011_4_pg67||put.01	cup.01	happen.01	temperature.01||A1	A2	R-A1||egg-A1	into-A2	of-A1	What-R-A1	to-A2
+NAEP_2005_4_S12+12||live.01	color.01	help.01	survive.01||A0	AM-LOC	R-AM-MNR	A1	C-A1||frog-A0	in-AM-LOC	How-R-AM-MNR	frog-A1	color-A0	it-A1	it-A0	to-C-A1
+VASoL_2009_3_30||describe.01	way.01	feel.01||R-A0	A1	A0||Which-R-A0	way-A1	feather-A0	feels-A1
+Mercury_SC_415729||pair.01	repel.01||A0	A1	AM-MOD||pair-A0	of-A1	will-AM-MOD	other-A1
+Mercury_SC_408377||push.01	travel.01	slow.02	stop.02	explain.01	happen.01	reach.01||A0	A1	AM-MNR	AM-DIR	A4	R-A1	AM-TMP||NNP-A0	car-A1	car-A0	fast-AM-MNR	across-AM-DIR	it-A1	to-A4	on-A1	what-R-A1	happened-A1	reached-AM-TMP	carpet-A1
+MCAS_2010_5_11983||select.01	kind.01	want.01	use.01	make.01	tear.01	following.01	feature.01	consider.01||A0	A1	A2	R-A0	AM-NEG	AM-MNR	AM-TMP||Skyler-A0	kind-A1	of-A1	he-A0	to-A1	to-A2	card-A1	He-A0	paper-A1	that-R-A0	not-AM-NEG	easily-AM-MNR	following-AM-TMP	features-A1	features-A2	NNP-A0
+Mercury_SC_415723||steam.03	use.01	cook.01||AM-MOD	A2	A1||can-AM-MOD	to-A2	food-A1
+Mercury_SC_412697||following.01	property.01||A0	A1||following-A0	chemical-A1
+Mercury_SC_412698||type.01	remedy.01	break.01	place.01	form.01	bubble.01	formation.01||A2	A1	AM-MNR	A0	R-A0	AM-DIR	R-AM-TMP	AM-TMP||type-A2	of-A1	cold-AM-MNR	tablet-A0	that-R-A0	down-AM-DIR	in-A1	When-R-AM-TMP	tablet-A1	is-AM-TMP	in-A2	it-A0	gas-A1	bubbles-A1
+Mercury_SC_413300||temperature.01	change.01	-1.01||A1	AM-LOC	A3||temperature-A1	of-A1	in-AM-LOC	from-A3	NNP-A1	water-A1
+VASoL_2009_3_35||rip.03	use.01	water.02	example.01||A1	AM-MOD	A2	A0||T-shirt-A1	can-AM-MOD	into-A2	as-A2	jug-A1	jug-A0	to-A2	houseplants-A1	examples-A1	of-A2
+VASoL_2009_3_36||cause.01	change.01||A0	A1||Which-A0	NNP-A0	change-A1	in-A1
+Mercury_SC_413301||get.01	observe.01	change.01||A0	A1	AM-TMP||water-A0	colder-A1	night-AM-TMP	tool-A0	its-A0	temperature-A1	change-A1
+VASoL_2009_3_33||rip.03	describe.01	piece.01||A1	A2	R-A0||bag-A1	into-A2	Which-R-A0	pieces-A1	of-A1
+Mercury_SC_413304||resource.01	use.01	make.01||A1	A2||natural-A1	resource-A1	for-A2	shoes-A1
+MCAS_2008_5_5647||use.01	build.01	annette.01	measure.02||A0	A1	A2	R-AM-MNR	AM-ADV	AM-MOD	AM-MNR	AM-TMP||NNP-A0	tools-A1	tools-A0	to-A2	doghouse-A1	For-R-AM-MNR	of-AM-ADV	would-AM-MOD	likely-AM-MNR	tape-A1	measure-A1	while-AM-TMP
+Mercury_SC_413305||change.01	shape.01||R-AM-MNR	A0	A1	A2||How-R-AM-MNR	ice-A0	shape-A1	shape-A2	of-A1
+ACTAAP_2015_5_6||describe.01	mass.02||A0	A1||phrase-A0	mass-A1	of-A1
+Mercury_SC_LBS10030||use.01	remove.01	serve.01||R-AM-TMP	A1	A0	AM-TMP	A2||When-R-AM-TMP	potholders-A1	potholders-A0	are-AM-TMP	to-A2	pans-A1	from-A2	as-A1
+ACTAAP_2015_5_5||statement.01	describe.01||AM-MNR	A1	A0||Which-AM-MNR	statement-A1	statement-A0	matter-A1
+ACTAAP_2015_5_4||observe.02	use.01	think.01	part.01	statement.01	explain.01	theory.01	support.01||A0	A1	AM-LOC	AM-MNR	AM-MOD	A2||student-A0	cells-A1	in-AM-LOC	by-AM-MNR	microscope-A1	that-A1	of-A1	Which-AM-MNR	statement-A0	explains-A1	cell-A1	theory-A1	theory-A0	can-A1	can-AM-MOD	to-A2	thinking-A1
+OHAT_2007_5_8||step.01	process.01||A1||in-A1	design-A1
+ACTAAP_2015_5_3||create.01	call.01	include.01	statement.01	explain.01	have.03	effect.01||AM-TMP	A0	A1	A2	AM-MNR	R-AM-CAU||In-AM-TMP	States-A0	park-A1	NNP-A2	park-A2	acres-A1	Which-AM-MNR	statement-A1	statement-A0	best-A0	why-R-AM-CAU	parks-A0	have-A1	positive-AM-MNR	effect-A1	on-A2
+MCAS_2008_5_5643||type.01	form.01	cool.01||A2	A1	R-AM-TMP	AM-TMP||type-A2	type-A1	of-A1	when-R-AM-TMP	lava-A1	cools-AM-TMP
+Mercury_SC_401736||live.01||A0	AM-LOC||animal-A0	on-AM-LOC
+Mercury_SC_LBS10271||way.01||A1||are-A1
+Mercury_SC_LBS10039||addition.01	produce.01||AM-DIS	A2	R-A1	A1	AM-TMP||In-AM-DIS	to-A2	what-R-A1	do-A1	plants-A1	during-AM-TMP
+Mercury_SC_LBS10034||allow.01	flow.01||A1	AM-NEG	C-A1	AM-DIR||circuit-A1	not-AM-NEG	current-A1	to-C-A1	through-AM-DIR
+Mercury_SC_400403||die.01	decompose.01	become.01	part.01	step.01||R-AM-TMP	A1	AM-TMP	A0	A2||When-R-AM-TMP	plant-A1	dies-AM-TMP	it-A0	it-A1	often-AM-TMP	part-A2	of-A1	in-A1
+Mercury_SC_401733||change.01	seed.01	produce.01	know.01||AM-MNR	A1	A2	A0	R-A0||continuous-AM-MNR	changes-A1	of-A1	seed-A2	to-A1	plant-A0	that-R-A0	seeds-A1	as-A2
+OHAT_2007_5_9||sharpen.01	example.01	change.01	statement.01	describe.01||A1	A2	AM-MNR	A0||pencil-A1	examples-A1	of-A2	physical-A1	Which-AM-MNR	statement-A1	statement-A0	are-A1
+MCAS_2004_5_4||turn.02	form.01	structure.01||A0	A1	A2||cell-A0	sunlight-A1	into-A2	form-A2	of-A1	natural-A1	structure-A2
+TIMSS_2011_4_pg37||produce.01	light.02||AM-ADV	A0	A1||Which-AM-ADV	objects-A0	their-A0	light-A1
+MCAS_2010_5_11990||following.01	describe.01	climate.01||A1	A0||best-A1	best-A0	climate-A1	of-A1
+MCAS_2004_5_6||following.01	inherit.01	trait.01||A0	A1||following-A0	trait-A1	of-A1
+MCAS_2010_5_11992||test.01	property.01	rub.01	sample.01	piece.02	leave.02	follow.01	testing.01||AM-MNR	A1	A0	AM-LOC	A2||Owen-AM-MNR	property-A1	of-A1	He-A0	sample-A1	on-A1	mineral-A0	mark-A1	on-AM-LOC	physical-A1	properties-A2	of-A0	NNP-A0	likely-AM-MNR
+MSA_2012_5_31||need.01	grow.01	survive.01	use.01	body.03||A1	R-A1	AM-NEG	AM-TMP	A0||food-A1	Food-A1	that-R-A1	not-AM-NEG	immediately-AM-TMP	by-A0	for-A1
+MCAS_2004_5_3||grow.01	following.01	determine.01	survive.01||A1	A2	AM-DIS	R-A0	A0	R-AM-LOC	AM-MOD||plants-A1	in-A2	cacti-A1	for-AM-DIS	Which-R-A0	following-A0	where-R-AM-LOC	plant-A1	plant-A0	can-A1	can-AM-MOD
+MSA_2012_5_36||electricity.01||A1||conducts-A1
+OHAT_2010_5_37||set.01	top.03	push.01	slide.02	slow.02	come.04	force.01	cause.01	slow.03||A0	A1	A2	AM-TMP	C-A1||student-A0	block-A1	at-A2	of-A1	As-AM-TMP	block-A0	ramp-A1	it-A1	then-AM-TMP	to-A2	What-A1	force-A0	to-C-A1
+OHAT_2010_5_33||push.01	sheet.01	characteristic.01	increase.01||A0	A1	A2||student-A0	block-A1	of-A1	increases-A2
+OHAT_2010_5_34||type.01	produce.01	start.01	grow.01	go.06	destroy.01	resource.01	need.01	seed.01||AM-LOC	A2	A0	A1	C-A1	AM-TMP	AM-PNC||In-AM-LOC	type-A2	type-A0	of-A1	seeds-A1	seeds-A0	to-C-A1	after-AM-TMP	through-A1	trees-A1	Which-A2	resources-A1	for-AM-PNC	newly-AM-TMP	seeds-A2
+MDSA_2008_5_1||spray.01	kill.01	eat.01	have.03	viewpoint.01	use.01	concern.01||A1	A0	AM-TMP	A2	AM-PNC	R-A0	AM-LOC||pesticides-A1	pesticides-A0	sometimes-AM-TMP	on-A2	to-AM-PNC	insects-A1	insects-A0	that-R-A0	crops-A1	People-A0	viewpoints-A1	about-A1	of-A1	about-A0	on-AM-LOC
+OHAT_2007_5_34||see.01	look.02	statement.01	explain.01	appear.02||AM-LOC	A0	A1	AM-MNR	C-A1||From-AM-LOC	we-A0	sun-A1	in-AM-LOC	stars-A0	like-A1	Which-AM-MNR	statement-A0	explains-A1	stars-A1	appear-A1	so-C-A1
+Mercury_SC_405927||fuel.01	use.01||R-AM-CAU	AM-ADV	A1	AM-LOC||Why-R-AM-CAU	alternative-AM-ADV	fuels-A1	in-AM-LOC
+OHAT_2007_5_39||forecast.01	say.01	come.01	observation.01||A1	A0	AM-TMP||weather-A1	forecast-A0	snowstorm-A1	is-A1	later-AM-TMP	today-AM-TMP
+Mercury_SC_401321||convert.01||A0	R-A0	A1	A2||organisms-A0	that-R-A0	energy-A1	into-A2
+Mercury_SC_LBS10067||stage.01	cycle.01	do.02||A0	A1	A3||stage-A0	of-A1	insect-A3	life-A1	eggs-A1
+Mercury_SC_400237||cause.01	erosion.01||R-A0	A1||What-R-A0	soil-A1	rock-A1
+Mercury_SC_401320||drip.01	reach.01||A1	AM-TMP	A0||wax-A1	drips-AM-TMP	wax-A0
+MCAS_2013_5_29413||receive.01	inch.01	continue.01	cycle.01||A0	A1	AM-TMP	AM-MOD||area-A0	inches-A1	of-A1	during-AM-TMP	snow-A1	can-AM-MOD	through-AM-TMP	water-A1
+MSA_2012_5_24||cover.02||A1	A2	AM-CAU||wires-A1	with-A2	because-AM-CAU
+OHAT_2010_5_43||function.01	stem.01||A0	A1||of-A0	plant-A1
+NCEOGA_2013_5_S1||do.02	happen.01	experiment.01||R-A1	A1	A0	AM-MOD	AM-ADV	AM-TMP||What-R-A1	thing-A1	student-A0	should-AM-MOD	if-AM-ADV	accident-A1	during-AM-TMP	science-A1
+MCAS_2002_5_18||following.01	cause.01	change.01||R-A0	A0	A1	C-A1	A3	A2||Which-R-A0	following-A0	water-A1	to-C-A1	from-A3	to-A2
+OHAT_2007_5_23||surface.01	cover.01||A1	A2||much-A1	NNP-A1	by-A2
+CSZ_2006_5_CSZ10266||spoon.01	leave.01	pot.01	boiling.01	burn.01	touch.01||A1	AM-LOC	A0	AM-MNR||metal-A1	spoon-A1	in-AM-LOC	of-A1	soup-A1	cook-A0	finger-A1	by-AM-MNR
+MCAS_2013_5_29405||freeze.01	follow.01	statement.01||A0	A1	AM-MNR	A2	R-AM-MNR||student-A0	juice-A1	following-AM-MNR	statements-A2	statements-A1	describes-A2	how-R-AM-MNR	it-A1
+MCAS_2013_5_29408||following.01	describe.01	climate.01||A1||data-A1	climate-A1	of-A1
+Mercury_SC_401799||credit.01	use.01	discover.01	moon.01||A1	A0	A2	AM-LOC||scientist-A1	scientist-A0	with-A2	telescope-A1	in-AM-LOC	moons-A1	moons-A0	of-A1
+Mercury_SC_402643||switch.01	happen.01	flow.01||AM-LOC	AM-TMP	R-A1	A2	A1	AM-DIR||in-AM-LOC	is-AM-TMP	what-R-A1	to-A2	electricity-A1	to-AM-DIR
+Mercury_SC_401314||||||
+CSZ10304||break.01	use.01||R-A0	A1	A3	R-A1	AM-MOD	A0||Which-R-A0	food-A1	into-A3	nutrients-A1	that-R-A1	can-AM-MOD	by-A0
+ACTAAP_2008_5_6||ask.02	make.03	use.01	combination.01	choose.01||A2	A0	A1	AM-ADV	A3	R-A1	AM-MOD||student-A2	student-A0	to-A1	soil-A1	using-AM-ADV	substances-A1	combination-A3	combination-R-A1	of-A1	should-AM-MOD
+ACTAAP_2008_5_7||break.01	produce.01||R-A1	A0	A1||What-R-A1	cells-A0	to-A1	energy-A1
+ACTAAP_2008_5_8||type.01	study.01	relationship.01||A2	A0	A1	AM-MOD||type-A2	type-A0	of-A1	would-AM-MOD	relationship-A1	between-A0
+Mercury_SC_402640||example.01	resource.01||A1	A2||example-A1	of-A2	renewable-A1
+Mercury_SC_401793||power.01||A1	A0||object-A1	by-A0
+Mercury_SC_400220||trait.01	inherit.01||A2	A1||human-A2	trait-A1
+ACTAAP_2008_5_2||way.01	scientist.01	determine.01	habit.01||A1	A0||for-A1	marine-A1	scientist-A0	habits-A1	of-A1
+ACTAAP_2008_5_3||aid.01	discover.01	change.01||R-A0	AM-MOD	AM-MNR	A2	A0	A1	R-AM-MNR	AM-TMP||Which-R-A0	would-AM-MOD	best-AM-MNR	scientist-A2	scientist-A0	in-A1	how-R-AM-MNR	NNP-A1	may-A1	may-AM-MOD	over-AM-TMP
+MCAS_2008_5_5617||chick.01	peck.01	way.02	hatch.01	example.01	follow.01	type.01	behavior.01||A0	A1	R-AM-TMP	A2||NNP-A0	peck-A1	their-A0	way-A1	when-R-AM-TMP	they-A0	example-A1	of-A2	types-A2	of-A1
+MCAS_2008_5_5616||contain.01	amount.01	following.01	explain.01||AM-TMP	A0	A1	R-A0||During-AM-TMP	air-A0	amount-A1	of-A1	Which-R-A0	following-A0	best-A0	is-A1
+MCAS_2008_5_5614||following.01	make.01	crack.01	crumble.01||R-A0	A0	A1||Which-R-A0	following-A0	rock-A1	crack-A1
+MCAS_2008_5_5611||following.01	cycle.01||A1||life-A1
+Mercury_SC_401301||example.01	inherit.01	behavior.01||A1	A2||example-A1	of-A2	behavior-A1
+Mercury_SC_402635||see.01	mouth.01	form.01||A1	AM-MOD	AM-LOC	A0||delta-A1	can-AM-MOD	from-AM-LOC	of-A1	by-A0
+Mercury_SC_400696||explain.01	pan.01	have.03	handle.01||A0	R-AM-CAU	A1||best-A0	why-R-AM-CAU	cooking-A1	pans-A0	have-A1	rubber-A1	handles-A1
+ACTAAP_2008_5_1||determine.01	make.07	color.01	use.01	discover.01||A0	A1	R-A1	A2||NNP-A0	that-A1	light-A1	of-A0	of-A1	What-R-A1	he-A0	to-A2	phenomenon-A1
+Mercury_SC_401306||conclusion.01	support.01||A1	AM-MNR	A0||conclusion-A1	best-AM-MNR	by-A0
+Mercury_SC_402631||body.01	break.02	occur.01||AM-LOC	A1||In-AM-LOC	human-A1	breaking-A1	into-A1	in-AM-LOC
+Mercury_SC_401304||take.01	time.01	produce.01	change.01||A0	A1||event-A0	time-A1	to-A1	measurable-A1	changes-A1
+Mercury_SC_400215||research.01	record.01	trait.01	activity.01	describe.01||A0	A1	AM-LOC	AM-MNR	A2||Students-A0	monkeys-A1	at-AM-LOC	They-A0	traits-A1	investigation-A1	activity-A1	best-AM-MNR	as-A2
+LEAP_2012_4_10303||example.01	ecosystem.01	contain.01||A1	A2	AM-MNR	A0||examples-A1	of-A2	complete-AM-MNR	ecosystems-A0	only-A1
+Mercury_SC_400698||kind.01	change.01	occur.01	operate.01	control.01||A1	A0	AM-MNR||kind-A1	of-A1	energy-A1	battery-A0	remote-AM-MNR	toy-A1	toy-A0
+ACTAAP_2014_5_9||wonder.01	build.01	think.01	block.01	put.01	push.01	slop.01	pathway.01	type.01||A0	R-AM-MNR	A1	AM-MOD	A2	AM-MNR||Scientists-A0	how-R-AM-MNR	pyramids-A1	were-A1	They-A0	that-A1	blocks-A1	of-A1	may-AM-MOD	into-A2	by-AM-MNR	them-A1	sloping-AM-MNR	pathway-A1	type-A2
+MSA_2012_5_44||wind.02	have.03	ability.01	uproot.01	benefit.01	change.01||A1	A0	AM-LOC	AM-MOD||Strong-A1	winds-A0	ability-A1	to-A1	trees-A1	in-AM-LOC	would-AM-MOD	from-A0	in-A1
+Mercury_SC_409264||invention.01	help.01||A0	A1	AM-ADV||invention-A0	of-A1	people-A1	most-AM-ADV
+VASoL_2009_5_11||structure.01	protect.01||A2	A1||structure-A2	surrounds-A1	cell-A1
+Mercury_SC_LBS10075||live.01	climate.01||A0	AM-LOC	A2||animals-A0	in-AM-LOC	cold-A2
+Mercury_SC_402628||use.01	measure.01	speed.01||A0	A1	A2||student-A0	to-A1	wind-A1	speed-A1	speed-A2
+Mercury_SC_401775||example.01	learn.01	behavior.01||A1	A2||example-A1	of-A2	learned-A1	behavior-A1
+Mercury_SC_402624||bounce.02||R-AM-TMP	A1||When-R-AM-TMP	light-A1	mirror-A1
+Mercury_SC_400200||form.01||A2||form-A2
+ACTAAP_2014_5_1||bring.01	melt.01	backpack.01	want.01	perform.01	investigation.01	determine.01	reason.01	dawn.01	use.01||A0	A1	AM-LOC	AM-MNR	AM-MOD||NNP-A0	bar-A1	chocolate-A1	in-AM-LOC	her-A0	Dawn-A0	to-A1	scientific-AM-MNR	investigation-A1	reason-A1	melted-A1	hypothesis-A0	should-AM-MOD	use-A1	for-A1
+Mercury_SC_402625||place.01	bowl.01	swimming.01	see.01	appear.02	occur.01||R-AM-TMP	A1	AM-TMP	A0	AM-LOC	C-A1	AM-CAU||When-R-AM-TMP	mirror-A1	is-AM-TMP	by-A0	fish-A1	inside-AM-LOC	fish-A0	what-A1	appears-A1	to-C-A1	This-A1	because-AM-CAU
+Mercury_SC_401772||example.01	recycle.01||A1	A2||example-A1	of-A2
+ACTAAP_2014_5_2||happen.01||R-A1	AM-TMP||What-R-A1	during-AM-TMP
+Mercury_SC_400689||role.01	cycle.01||A0	A1	A2||NNP-A0	role-A1	of-A0	in-A2	water-A1
+Mercury_SC_402621||happen.01	heat.02||A1	AM-MOD	AM-ADV	A2	R-A1||Which-A1	will-AM-MOD	likely-AM-ADV	to-A2	substance-A1	that-R-A1
+Mercury_SC_401776||formation.01||A1||of-A1
+VASoL_2009_5_21||harmful.01||AM-ADV	A1||likely-AM-ADV	to-A1
+MCAS_1998_4_9||project.01	begin.01	study.01	notice.01	difference.01	follow.01	vary.01||AM-PNC	A0	A1	R-A0	A2	AM-MOD||For-AM-PNC	his-A0	science-A1	NNP-A0	study-A1	of-A1	He-A0	differences-A1	among-A1	Which-R-A0	characteristics-A2	would-AM-MOD	LEAST-A1
+Mercury_SC_408323||place.01	pot.01	boil.01	change.01||A0	A1	A2||NNP-A0	pot-A1	of-A1	on-A2	water-A1
+Mercury_SC_405295||number.01	increase.01	affect.01||A1	AM-TMP	R-AM-MNR	AM-MOD||number-A1	of-A1	suddenly-AM-TMP	How-R-AM-MNR	will-AM-MOD	lake-A1
+Mercury_SC_405298||best.01	help.01	travel.01	away.01||A0	A2	AM-MOD	A1	AM-MNR	AM-PNC	AM-EXT||invention-A0	invention-A2	will-AM-MOD	people-A1	people-A0	travel-A1	quickly-AM-MNR	to-AM-PNC	far-AM-EXT	places-A1
+MCAS_1998_4_4||develop.02	replace.01	advantage.01||A0	A1	R-A2	AM-MOD||People-A0	cars-A1	cars-A0	that-R-A2	would-AM-MOD	of-A1
+Mercury_SC_408562||starling.01	take.12	nest.01	move.01	reproduce.01	increase.01	number.01	help.01	do.02||AM-LOC	A0	R-A0	A1	R-AM-TMP	AM-TMP	A2	AM-MNR	C-A1||European-AM-LOC	birds-A0	that-R-A0	nests-A1	nests-A0	of-A1	When-R-AM-TMP	they-A1	move-AM-TMP	into-A2	starlings-A0	quickly-AM-MNR	likely-AM-MNR	increases-A2	number-A1	by-AM-MNR	them-A1	them-A0	to-C-A1	what-A1
+MCAS_1998_4_3||following.01	trait.01	inherit.01	parent.01||A0	A1	AM-ADV	A2||following-A0	that-A1	dog-A0	NNP-AM-ADV	from-A2	its-A1	parents-A0
+NYSEDREGENTS_2016_4_16||occur.01	soil.01||A1	R-AM-TMP	AM-LOC||process-A1	when-R-AM-TMP	rocks-A1	slide-A1	down-AM-LOC
+NYSEDREGENTS_2016_4_14||number.01	change.01||A1	AM-MNR||number-A1	of-A1	with-AM-MNR
+NYSEDREGENTS_2016_4_18||use.01	describe.01	length.01||A1	A0	A2||unit-A1	unit-A0	to-A2	object-A1	length-A1	length-A2
+NYSEDREGENTS_2016_4_19||property.01	describe.01||A1	A0	AM-MOD	AM-MNR||property-A1	of-A0	can-AM-MOD	smooth-AM-MNR
+NYSEDREGENTS_2016_4_20||property.01	have.03||A1	A0||of-A1	they-A0	definite-A1
+Mercury_SC_400835||use.01	examine.01||A1	A0	AM-MOD	A2||tool-A1	tool-A0	would-AM-MOD	to-A2	fingerprint-A1
+NYSEDREGENTS_2016_4_24||toss.01	force.01	cause.01	fall.01||A0	A1	AM-DIR	C-A1	A4||student-A0	ball-A1	into-AM-DIR	Which-A1	force-A0	to-C-A1	back-AM-DIR	to-A4
+NYSEDREGENTS_2016_4_21||reflect.01||A2	AM-MOD	A1	AM-TMP||shirt-A2	will-AM-MOD	light-A1	on-AM-TMP
+Mercury_SC_400838||happen.01	point.02||R-A1	AM-TMP	A0	A1||What-R-A1	at-AM-TMP	boiling-A0	of-A1
+Mercury_SC_408557||class.03	learn.01	teacher.01	write.01	statement.01	describe.01||A1	A2	A0||NNP-A1	class-A2	class-A0	about-A1	Her-A1	teacher-A0	statements-A1	on-A1	statement-A0	mixture-A1
+Mercury_SC_410899||place.01	photograph.01	ask.02	determine.01	answer.01	best.01	help.01||A0	A1	A2	AM-MOD	AM-ADV||teacher-A0	photograph-A1	of-A1	on-A2	He-A0	NNP-A2	NNP-A0	to-A1	if-A1	answer-A0	will-AM-MOD	help-A1	determine-A1	if-AM-ADV
+Mercury_SC_409886||system.01	body.01	work.01	pull.01	create.01||A0	A1	AM-MNR	A3	A2	AM-PNC||systems-A0	of-A1	human-A1	together-AM-MNR	Which-A1	system-A0	with-A3	skeletal-A1	by-AM-MNR	on-A2	to-AM-PNC	movement-A1
+Mercury_SC_LBS10647||way.01	stay.01||A1	A3	AM-LOC||ways-A1	to-A1	safe-A3	around-AM-LOC
+VASoL_2010_5_24||way.01	help.01	restore.01	ecosystem.01||AM-MNR	A0	A1	AM-MOD||way-AM-MNR	people-A0	can-A1	can-AM-MOD	restore-A1	natural-A1	ecosystem-A1
+VASoL_2010_5_25||change.01||A1||of-A1
+Mercury_SC_408550||perform.01	investigation.01	match.01	hypothesis.01	do.02||A0	A1	AM-NEG	R-A1	AM-MOD	AM-TMP||NNP-A0	investigation-A1	results-A1	not-AM-NEG	her-A0	hypothesis-A1	What-R-A1	should-AM-MOD	next-AM-TMP
+Mercury_SC_410891||investigate.01	save.01	last.01	time.03	benefit.01	use.01||A0	A1	R-A0	R-A1	AM-MOD	A2||student-A0	bulb-A1	bulb-A0	that-R-A0	that-R-A1	energy-A1	can-AM-MOD	longer-A2	longer-A1	energy-A0	benefit-A0	of-A1	bulbs-A1
+Mercury_SC_410898||write.01	report.01	class.03	tilt.01	affect.01	include.01||A0	A1	A2	R-AM-MNR	AM-MOD	R-A1	AM-MNR||NNP-A0	report-A1	for-A1	science-A1	class-A2	how-R-AM-MNR	tilt-A0	of-A1	organisms-A1	subject-A2	should-AM-MOD	NNP-A2	in-A2	his-A0	that-R-A1	directly-AM-MNR	by-A0	NNP-A1
+VASoL_2009_5_33||use.01	determine.01	mass.02||A1	A0	A2||tool-A1	tool-A0	to-A2	mass-A1	of-A1
+NYSEDREGENTS_2016_4_12||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2016_4_13||activity.01	have.03	effect.01||R-A0	A0	AM-TMP	AM-MNR	A1	A2||Which-R-A0	human-A0	activity-A0	often-AM-TMP	harmful-AM-MNR	effect-A1	on-A2
+NYSEDREGENTS_2016_4_10||live.01	cut.02||A0	AM-LOC	A1||birds-A0	in-AM-LOC	many-A1
+NYSEDREGENTS_2016_4_11||body.01	get.01	energy.01	need.01	repair.01||A1	A0	AM-PNC	AM-MNR||human-A1	body-A0	body-A1	energy-A1	it-A0	for-AM-PNC	directly-AM-MNR
+Mercury_SC_LBS10656||result.01	change.01||AM-EXT	A2	A1||Which-AM-EXT	in-A2	chemical-A1
+Mercury_SC_408308||learn.01	tilt.01	surface.01	experience.01	darkness.01	process.01	affect.01||A0	A1	AM-TMP	AM-EXT||NNP-A0	that-A1	NNP-A1	its-A1	areas-A1	of-A1	experience-A1	for-AM-TMP	plant-A1	process-A1	most-AM-EXT	during-AM-TMP
+NYSEDREGENTS_2004_4_2||form.01||A2	A1||forms-A2	of-A1
+Mercury_SC_407699||make.01	start.01	use.01	last.01	benefit.01||A0	R-A0	A1	AM-MOD	A2||company-A0	that-R-A0	fences-A1	using-A1	material-A1	will-AM-MOD	longer-A2	of-A0
+NYSEDREGENTS_2004_4_3||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2004_4_4||form.01	need.01	change.01||A2	A1	AM-PNC	A3||form-A2	form-A1	of-A1	to-AM-PNC	water-A1	from-A3	to-A2
+VASoL_2010_5_31||design.01	change.01	energy.01||A1	A0	A3	A2||item-A1	item-A0	to-A3	electrical-A1	energy-A1	into-A2	heat-A1
+NYSEDREGENTS_2004_4_5||type.01	use.01	pedal.01||A2	A1||type-A2	of-A1	person-A1	to-A2	bicycle-A1
+Mercury_SC_408784||learn.01	movement.03	system.01	cause.01	change.01	see.01	take.01	rotate.02	axis.01||A0	A1	R-A1	AM-MOD	AM-LOC	AM-TMP	AM-PNC||NNP-A0	that-A1	movement-A0	of-A1	solar-A1	changes-A1	that-R-A1	can-AM-MOD	on-AM-LOC	Which-A1	change-A1	could-AM-MOD	in-AM-TMP	time-AM-TMP	it-A0	NNP-A1	to-AM-PNC	once-AM-TMP	on-A1	its-A0
+Mercury_SC_407452||supply.01	need.01	make.01||A2	A1	A0||What-A2	supplies-A1	most-A0	plants-A0	to-A1	food-A1
+NYSEDREGENTS_2004_4_1||period.01	occur.01||AM-LOC	A1	AM-TMP||In-AM-LOC	period-A1	of-A1	during-AM-TMP
+Mercury_SC_408781||source.01	have.03	supply.01	develop.02	make.02||A2	A0	A1	R-A0	AM-MOD||sources-A2	sources-A0	of-A1	supplies-A1	Researchers-A0	devices-A1	devices-A0	that-R-A0	will-AM-MOD	energy-A1	available-A2	source-A2
+MSA_2012_5_14||make.03	use.01	gram.01	combine.01	stir.02	dissolve.01	pour.01	put.01	remove.01	observe.02	mass.02||A0	A1	AM-ADV	AM-TMP	A3	A2||Students-A0	lemonade-A1	lemonade-A0	using-AM-ADV	recipe-A1	of-A1	students-A0	juice-A1	They-A0	until-AM-TMP	sugar-A1	into-A3	tray-A1	in-A2	day-AM-TMP	from-A2	that-A1
+Mercury_SC_407691||notice.01	temperature.01	hour.01	following.01	change.01||A0	A1||NNP-A0	air-A1	were-A1	of-A1	contributes-A1	seasonal-A1
+WASL_2003_5_9||object.01	gain.02	stor.01||R-A0	A0	AM-MNR	A1||Which-R-A0	object-A0	below-AM-MNR	energy-A1
+NCEOGA_2013_5_12||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2004_4_6||conductor.01||A1||of-A1
+NCEOGA_2013_5_10||explanation.01	masses.01	move.01||A1	R-AM-MNR	AM-DIR||for-A1	how-R-AM-MNR	move-A1	across-AM-DIR
+NYSEDREGENTS_2004_4_7||base.02	answer.01	information.01	rain.01	have.03	cm.01	go.13	cause.01	rainwater.01	disappear.01	sit.01||A0	A1	A2	AM-TMP	AM-MNR	C-A1	AM-LOC||your-A0	answers-A1	on-A1	below-A2	day-AM-TMP	it-A0	very-AM-MNR	After-AM-TMP	pan-A0	cm-A1	of-A1	later-AM-TMP	rainwater-A1	process-A0	in-A1	to-C-A1	as-AM-TMP	it-A1	outside-AM-LOC	in-A2
+NYSEDREGENTS_2004_4_8||base.02	answer.01	information.01	rain.01	have.03	cm.01	go.13	disappear.01||A0	A1	A2	AM-TMP	AM-MNR	AM-ADV	AM-MOD||your-A0	answers-A1	on-A1	below-A2	day-AM-TMP	it-A0	very-AM-MNR	After-AM-TMP	pan-A0	cm-A1	of-A1	later-AM-TMP	rainwater-A1	If-AM-ADV	would-AM-MOD
+NYSEDREGENTS_2004_4_9||inherit.01||A0	A1||human-A0	offspring-A1
+CSZ10292||following.01	use.01||R-A0	A1	AM-LOC||Which-R-A0	gases-A1	plants-A1	in-AM-LOC
+CSZ10053||locate.01||A1||water-A1
+Mercury_SC_408539||consider.01	resource.01||A1	A2||water-A1	to-A2	renewable-A1
+MCAS_2013_5_29397||following.01	example.01	form.01||A0	A1	A2||following-A0	example-A1	of-A2	form-A2	of-A1
+MCAS_2013_5_29398||hatch.01	follow.01	come.01	cycle.01||A1	AM-ADV	A2	AM-TMP	AM-LOC||bird-A1	just-AM-ADV	from-A2	Which-A1	stages-A2	likely-AM-ADV	next-AM-TMP	in-AM-LOC	life-A1
+Mercury_SC_405024||live.01	play.01	friend.01	explanation.01||A0	AM-LOC	AM-TMP	A1||NNP-A0	in-AM-LOC	in-AM-TMP	His-A1	friend-A0	at-AM-LOC	for-A1
+MCAS_2013_5_29399||following.01	describe.01||A1	A0||best-A1	best-A0	mineral-A1
+MDSA_2009_5_46||measure.01	time.01	car.01	roll.01	follow.01	use.01||A0	A1	R-A0	A2	AM-MOD||Students-A0	time-A1	for-A1	toy-A1	cars-A0	of-A1	hill-A1	Which-R-A0	units-A2	should-AM-MOD	students-A1	students-A0	to-A2
+CSZ_2005_5_CSZ20330||body.03	system.01||A1	A0||in-A1	our-A0	solar-A1
+CSZ_2007_5_CSZ10243||following.01	leave.02	travel.01	leave.01||A0	R-A0	A1	AM-TMP||following-A0	material-A0	that-R-A0	blood-A1	through-A1	before-AM-TMP	body-A1
+Mercury_SC_407440||contain.01	solution.01||A0	A1||Which-A0	solution-A1
+Mercury_SC_407681||player.01	kick.02	factor.01	have.03	effect.01	distance.01	travel.01||A1	A0	AM-LOC	A2||soccer-A1	player-A0	ball-A1	across-AM-LOC	Which-A1	factor-A2	factor-A0	effect-A1	on-A2	distance-A1	ball-A0
+NYSEDREGENTS_2016_4_25||stand.01	see.01||A1	AM-LOC	A2	A0||boy-A1	in-AM-LOC	in-A2	he-A0	his-A1
+NYSEDREGENTS_2016_4_26||object.01	attract.01||R-A0	A1	AM-MOD	AM-ADV	A2||Which-R-A0	will-A1	will-AM-MOD	likely-AM-ADV	to-A2
+MCAS_2013_5_29394||class.03	combine.01	kg.01	create.01	separate.01||AM-TMP	A1	A2	A0	AM-PNC	R-A0||During-AM-TMP	science-A1	class-A2	students-A0	kg-A1	of-A1	with-A2	to-AM-PNC	mixture-A1	Which-R-A0	filings-A1	from-A2
+NYSEDREGENTS_2016_4_29||trip.01	hold.01	report.01	have.03	skin.01	example.01||AM-LOC	A1	A0	A2||On-AM-LOC	field-A1	student-A0	frog-A1	that-A1	it-A0	slippery-A1	skin-A1	example-A1	of-A2
+CSZ_2007_5_CSZ20273||flow.01	filament.01	convert.01||R-AM-TMP	A1	AM-TMP	A2||When-R-AM-TMP	electric-A1	current-AM-TMP	through-AM-TMP	metal-A1	of-A1	energy-A1	to-A2
+CSZ10286||move.01	factor.01	form.01||A1	A2||water-A1	factor-A2	in-A1
+VASoL_2010_5_40||use.01	determine.01	speed.01	walk.01||A1	A0	AM-MNR	A2	AM-DIR||tools-A1	tools-A0	best-AM-MNR	to-A2	speed-A1	speed-A2	of-A1	it-A0	along-AM-DIR
+Mercury_SC_LBS10674||following.01	example.01	change.01||A0	A1	A2||following-A0	example-A1	of-A2	chemical-A1
+Mercury_SC_408368||put.01	turn.02	happen.01||A0	A1	A2	R-A1	AM-MOD||NNP-A0	water-A1	in-A2	He-A0	pan-A1	on-A2	stove-A1	What-R-A1	will-AM-MOD	to-A2
+MDSA_2009_5_17||salt.01	statement.01	describe.01	property.01||A1	AM-MNR	A0	AM-TMP||student-A1	mixed-AM-MNR	Which-AM-MNR	statement-A1	statement-A0	physical-A1	properties-A1	of-A0	after-AM-TMP
+Mercury_SC_408364||play.02	catch.02	describe.01||A0	A1	A2||NNP-A0	catch-A1	with-A2	term-A0	motion-A1
+VASoL_2010_3_38||reason.01	plant.01||A1||for-A1	trees-A1
+Mercury_SC_408361||investigate.01	happen.01	add.02	combine.01	form.01	solution.01||A0	R-A1	A1	R-AM-TMP	AM-TMP	A2	AM-MOD||Phyllis-A0	what-R-A1	happened-A1	when-R-AM-TMP	she-A0	added-AM-TMP	substances-A1	to-A2	substance-A0	can-AM-MOD	with-A2	solution-A1
+Mercury_SC_409692||determine.01	property.01	use.01	graduate.01||A0	A1||NNP-A0	property-A1	of-A0	marble-A0	balance-A1	cylinder-A1	property-A0	by-A0	tools-A1
+MDSA_2011_4_2||have.03	statement.01	explain.01	help.01	survive.01	forest.01||AM-LOC	A0	A1	AM-MNR	R-AM-MNR||In-AM-LOC	bears-A0	fur-A1	Which-AM-MNR	statement-A0	how-R-AM-MNR	fur-A0	helps-A1	survive-A1	in-AM-LOC	of-A1
+Mercury_SC_416158||job.01	system.01||A1||jobs-A1	of-A1	skeletal-A1
+MDSA_2009_5_19||resource.01	depend.01	slow.01	replace.01	use.01	disappear.01	statement.01	describe.01||A1	A2	A0	AM-ADV	AM-MNR	AM-TMP||natural-A1	on-A2	Whether-A0	on-A1	resource-A1	If-AM-ADV	faster-AM-MNR	it-A1	in-AM-TMP	Which-AM-MNR	statement-A1	statement-A0	use-A1	of-A1
+CSZ10278||following.01	energy.01||A1||converts-A1	electrical-A1
+Mercury_SC_401724||body.01	get.01||R-AM-MNR	A1	A0||How-R-AM-MNR	human-A1	body-A0	energy-A1
+MDSA_2008_5_18||use.01	way.01	waste.01||A0	A1	AM-MNR||People-A0	water-A1	in-AM-MNR
+Mercury_SC_408356||pick.01	put.01	basket.01	read.01	measure.01||A0	A1	A2	R-AM-TMP	AM-TMP||NNP-A0	apples-A1	them-A1	in-A2	When-R-AM-TMP	she-A0	puts-AM-TMP	her-A1	basket-A1	on-A2	scale-A0	kilograms-A1	property-A1	NNP-A1
+MDSA_2009_5_26||build.01	use.01	call.01	have.03	roof.01	make.01	energy-save.01	double-pan.01	mean.01	piece.02	window.01	layer.01	barrier.01	save.02	panel.01||A1	R-A1	AM-PNC	AM-CAU	A0	AM-MNR	A2	AM-TMP	AM-ADV	A3||Homes-A1	that-R-A1	to-AM-PNC	because-AM-CAU	they-A0	energy-A1	efficiently-AM-MNR	homes-A2	homes-A0	homes-A1	often-AM-TMP	roofs-A1	of-A2	windows-A1	windows-A0	meaning-AM-ADV	window-A0	has-A1	pieces-A1	of-A1	NNP-A1	layer-A1	layer-A0	barrier-A3	against-A1	solar-A1	panel-A0	on-A1
+MCAS_2000_4_22||example.01||A1	A2||example-A1	of-A2
+CSZ_2007_5_CSZ10068||quail.01	have.03||R-A0	A1	C-A0	AM-MNR||What-R-A0	water-A1	all-C-A0	in-AM-MNR
+Mercury_SC_405080||rain.01	collect.01||AM-TMP	A0	A1	AM-MOD||Before-AM-TMP	it-A0	water-A0	must-A1	must-AM-MOD	in-A1
+MDSA_2009_5_21||have.03	program.01	recycle.01	product.01	describe.01	effect.01||A0	A1	A2	R-A0	AM-MNR||schools-A0	programs-A1	to-A1	paper-A2	products-A1	Which-R-A0	positive-AM-MNR	effect-A1	of-A0
+Mercury_SC_415075||example.01	shelter.01||A1	A2	A0	AM-LOC||example-A1	of-A2	shelter-A0	in-AM-LOC
+NYSEDREGENTS_2005_4_3||function.01	scale.01||A0	A1||of-A0	on-A1
+NYSEDREGENTS_2005_4_4||behavior.01	example.01	adapt.01	change.01||A1	A2||example-A1	of-A2	animal-A1	to-A2	in-A1
+Mercury_SC_415079||make.02	become.01||AM-MOD	A0	A1	A2||can-AM-MOD	you-A0	water-A1	become-A2	solid-A2
+NYSEDREGENTS_2005_4_1||describe.01	take.01||A0	A1||example-A0	organism-A1	organism-A0	nutrients-A1
+NYSEDREGENTS_2005_4_2||inherit.01	learn.01||A1||characteristic-A1
+Mercury_SC_416160||support.01	pull.01	push.01	move.01||A0	A1	R-A0	A2||Bones-A0	body-A1	What-R-A0	on-A2	bones-A1	bones-A0	to-A2	them-A1
+Mercury_SC_400861||object.02	reflect.01||A2	A1||object-A2	light-A1
+Mercury_SC_415072||cover.02||A1	A2||areas-A1	with-A2
+MDSA_2008_5_16||leave.02	bucket.01	happen.01||A0	A1	A2	AM-ADV	AM-LOC||student-A0	bucket-A1	of-A1	outside-A2	process-A1	likely-AM-ADV	to-A2	in-AM-LOC
+Mercury_SC_400865||happen.01	cycle.01||A1	AM-LOC||event-A1	in-AM-LOC	daily-A1
+Mercury_SC_400863||cycle.01	occur.01||A1	R-A1	AM-TMP||life-A1	of-A1	Which-R-A1	first-AM-TMP
+MCAS_2004_5_13||take.01	container.01	happen.01||AM-ADV	A1	A2	R-A1	AM-MOD||If-AM-ADV	heat-A1	from-A2	of-A1	what-R-A1	will-AM-MOD	to-A2
+Mercury_SC_407499||determine.01	rotate.01	axis.01||A1	A0	R-A1||What-A1	by-A0	that-R-A1	NNP-A0	on-A1	its-A0
+MCAS_2000_4_17||example.01	product.01||A1	A2	A0||example-A1	of-A2	human-made-A0	product-A1
+Mercury_SC_409675||put.01	check.01	see.01	change.01||A0	A1	A2	AM-TMP	AM-LOC	AM-MNR||scientist-A0	plants-A1	in-A2	hour-AM-TMP	she-A0	oxygen-A1	in-AM-LOC	if-A1	it-A1	container-A1	likely-AM-MNR
+Mercury_SC_408343||want.01	report.01	condition.01	record.01	temperature.01||A0	A1	AM-TMP	A2	R-AM-LOC||NNP-A0	to-A1	daily-AM-TMP	weather-A1	conditions-A1	conditions-A2	In-R-AM-LOC	unit-A0	air-A1	temperature-A1
+Mercury_SC_405078||leave.02||AM-LOC||in-AM-LOC
+MCAS_2000_4_14||turn.02	axis.01	cause.01||A0	A1||rotation-A0	on-A1	its-A0
+Mercury_SC_408584||reduce.01	bring.01	spread.02	cause.01	reduction.01||AM-LOC	A1	A3	A0||At-AM-LOC	sand-A1	from-A3	on-AM-LOC	process-A0	reduction-A1	to-A1
+Mercury_SC_409672||watch.01	set.01	cause.01	setting.02||A0	C-A1	A1	R-A0||NNP-A0	set-C-A1	in-A1	What-R-A0	setting-A1	of-A1
+Mercury_SC_409670||plant.01	lot.01	root.01	help.01	protect.01||A0	A1	A2	AM-MOD||class-A0	trees-A1	in-A2	beside-A1	roots-A2	roots-A0	of-A1	can-AM-MOD	protect-A1	soil-A1	from-A2
+CSZ20059||action.01	result.01	product.01	property.01||A1	AM-MOD	A2||action-A1	will-AM-MOD	in-A2	product-A1	chemical-A1
+MDSA_2008_5_28||need.01	survive.01	source.01||A0	A1	AM-PNC	A2||things-A0	energy-A1	energy-A0	to-AM-PNC	source-A2	of-A1
+Mercury_SC_LBS10244||list.01	give.01	order.01	point.01||A2	A0	A1||Which-A2	list-A0	order-A1	of-A1	melting-A1	to-A2
+Mercury_SC_400852||run.01	side.01	cause.01||A0	A1||Grooves-A0	Grooves-A1	sides-A1	of-A1	by-A0
+MCAS_2004_5_24||reason.01	classify.01||AM-CAU	A1	A2||reason-AM-CAU	quartz-A1	is-A1	as-A2
+Mercury_SC_408575||want.01	know.01	volume.01	change.01	freeze.01	measure.01	use.01||A0	A1	A2	R-AM-TMP	AM-TMP	AM-MNR||NNP-A0	to-A1	if-A1	volume-A2	volume-A1	of-A1	water-A1	when-R-AM-TMP	it-A0	He-A0	then-AM-TMP	it-A1	tool-A1	likely-AM-MNR	to-A2
+CSZ_2008_5_CSZ20111||metamorphose.01||A1	R-A1	AM-MOD	A2	A0||rock-A1	that-R-A1	can-AM-MOD	into-A2	by-A0
+MCAS_2004_5_27||have.03	effect.01	change.01	make.03	environment.02||R-A0	A1	A2	AM-CAU	A0||Which-R-A0	effect-A1	on-A2	because-AM-CAU	changes-A1	they-A0	to-A2	their-A1
+Mercury_SC_410872||absorb.01	lot.01	shower.01	store.01	leave.01	ability.01	adaptation.01	type.01||A0	AM-MOD	A1	AM-TMP	AM-LOC	AM-ADV	A2||plant-A0	can-AM-MOD	lot-A1	of-A1	during-AM-TMP	rain-A1	water-A1	in-AM-LOC	its-A0	to-A1	likely-AM-ADV	type-A2
+NAEP_2000_4_S12+1||want.01	look.01	use.01||AM-ADV	A0	A1	R-A1	AM-MOD||If-AM-ADV	you-A0	to-A1	at-A1	planets-A0	what-R-A1	should-AM-MOD
+Mercury_SC_410875||way.01	produce.01	resource.01	example.01	use.01	source.01||A0	A1	A2	AM-ADV||ways-A0	to-A1	electricity-A1	nonrenewable-A2	resources-A1	example-A1	of-A2	using-AM-ADV	source-A1	source-A2	of-A1
+Mercury_SC_LBS10470||following.01	help.01	body.03	cool.01||A0	A1||Which-A0	following-A0	body-A1	to-A1
+Mercury_SC_400605||skin.01	change.01	help.01	blend.01	surrounding.01	survive.01||A0	A1	AM-MOD	AM-PNC	C-A1	A2	AM-ADV||skin-A0	of-A1	can-AM-MOD	colors-A1	to-AM-PNC	it-A1	it-A0	blend-C-A1	with-A1	its-A0	How-A2	would-AM-MOD	adaptation-A0	likely-AM-ADV	help-A0	chameleon-A1
+NAEP_2000_4_S12+2||surface.01||A1||of-A1
+MDSA_2008_5_30||source.01	have.03	influence.01	matter.04||A1	A2	A0||energy-A1	source-A2	source-A0	influence-A1	on-A2	of-A1
+NAEP_2000_4_S12+7||rid.01	help.01	see.01	work.01||R-AM-TMP	A0	AM-TMP	A1	C-A1	R-AM-MNR||When-R-AM-TMP	you-A0	are-AM-TMP	bicycle-A1	at-AM-TMP	reflectors-A0	people-A1	people-A0	see-C-A1	How-R-AM-MNR
+TIMSS_2011_4_pg91||have.03	look.02	form.01||A0	A1	R-A0	A2||Which-A0	form-A1	form-A0	that-R-A0	like-A1	adult-A1	form-A2
+TIMSS_2011_4_pg92||happen.01||AM-ADV	R-A1	AM-MOD||If-AM-ADV	what-R-A1	will-AM-MOD	likely-AM-ADV
+Mercury_SC_400607||build.01	kind.01	parent.01	see.01	example.01||A0	A1	AM-ADV	AM-TMP	A2||robins-A0	kinds-A1	of-A1	their-A1	parents-A0	if-AM-ADV	birds-A0	never-AM-TMP	nest-A1	example-A1	of-A2
+CSZ10244||process.01	begin.01	following.01||A1	A0||digestion-A1	process-A1	following-A0
+CSZ10245||following.01	explain.01	stem.02	part.01||R-A0	A0	A1	A2||Which-R-A0	following-A0	best-A0	stems-A1	water-A1	to-A2	of-A1
+Mercury_SC_400602||cause.01	bend.01	form.01||A0	A1	C-A1||process-A0	light-A1	light-A0	to-C-A1	rainbow-A1
+MDSA_2008_5_38||researcher.01	note.01	find.01	statement.01	explain.01||AM-TMP	A0	AM-LOC	A1	AM-MNR	R-AM-CAU||In-AM-TMP	researchers-A0	in-AM-LOC	that-A1	hare-A1	longer-AM-TMP	Which-AM-MNR	statement-A0	why-R-AM-CAU	is-A1
+Mercury_SC_LBS10477||use.01	body.01||A1	A0	A2||NNP-A1	by-A0	human-A1	to-A2
+Mercury_SC_405456||manage.01	number.01||A0	AM-MOD	AM-MNR	A1||companies-A0	can-AM-MOD	best-AM-MNR	number-A1	of-A1	by-AM-MNR
+MDSA_2010_4_1||share.01	have.03	learn.01	behavior.01||A1	A0||child-A1	individuals-A0	hair-A1	freckles-A1	behavior-A1
+Mercury_SC_405455||technology.01	help.01	get.01	gallon.01	come.03	affect.01	supply.01||A1	A0	C-A1	AM-CAU	A2	AM-MOD	A3	AM-EXT||engine-A1	technology-A0	cars-A1	cars-A0	get-C-A1	mileage-A1	of-A1	Since-AM-CAU	gasoline-A1	from-A2	will-AM-MOD	world-A2	supply-A1	supply-A3	by-AM-EXT
+Mercury_SC_406541||discover.01	fossil.01	rock.01	discovery.01	tell.01||A0	A1	A2||scientist-A0	fossil-A1	of-A1	discovery-A0	scientist-A2
+Mercury_SC_416105||travel.01	stem.01||R-A0	A1	A2||What-R-A0	What-A1	through-A1	of-A2
+Mercury_SC_416112||way.01	support.01||AM-MNR	A0	A1||way-AM-MNR	stem-A0	supports-A1	flower-A1
+MDSA_2008_5_40||investigate.01	change.01	fill.01	graduate.01	milliliter.01	pack.01	have.03	mass.02	put.01	statement.01	describe.01||A0	A1	A2	R-AM-TMP||student-A0	changes-A1	in-A1	cylinder-A1	with-A2	of-A1	snow-A1	cylinder-A0	mass-A1	empty-A1	to-A2	when-R-AM-TMP	in-A2	statement-A0	process-A1
+Mercury_SC_405208||fact.01	benefit.01||A1	A0||Which-A1	of-A0
+Mercury_SC_405207||have.03	invention.01	help.01||A0	A1||Which-A0	activity-A0	invention-A1	of-A1	most-A1
+Mercury_SC_413080||||||
+CSZ_2004_5_CSZ10003||following.01	question.01	investigation.01||AM-TMP	A1||following-AM-TMP	questions-A1	scientific-A1
+Mercury_SC_411900||action.01	help.01	find.01||A0	AM-ADV	C-A1	A1||action-A0	most-AM-ADV	scientists-A0	find-C-A1	cures-A1
+Mercury_SC_408710||climb.02||A0	A1||NNP-A0	tree-A1
+Mercury_SC_411901||remove.01	help.01||A0	AM-MOD	A1	R-AM-MNR	A2||machines-A0	can-AM-MOD	salt-A1	How-R-AM-MNR	from-A2	most-A0	people-A1
+MSA_2015_5_24||compare.01	object.01	system.01	find.01	moon.01	cause.01	question.01||A0	A1	A2	C-A1||Scientists-A0	NNP-A1	with-A2	in-A1	solar-A1	that-A1	moon-A0	finding-A0	scientists-A1	scientists-A0	to-C-A1	whether-A1
+NYSEDREGENTS_2006_4_3||form.01||A2	A1||forms-A2	of-A1
+NYSEDREGENTS_2006_4_4||movement.03	call.01||A1||movement-A1	of-A1
+NYSEDREGENTS_2006_4_5||use.01	measure.01	volume.01||A1	A0	A2||tool-A1	tool-A0	to-A2	volume-A1	volume-A2	of-A1
+Mercury_SC_415027||||||
+NAEP_2005_4_S10+1||surface.01	cover.02	form.01||A1	A2	A0||surface-A1	of-A1	with-A2	Most-A1	by-A0
+NYSEDREGENTS_2006_4_7||use.01	compare.01	masses.01||A0	A1	A2||tool-A0	student-A1	to-A2	masses-A1	of-A1
+Mercury_SC_402170||project.01	convert.01	temperature.01	way.01	present.01	information.01||A3	A1	A0	A2	AM-TMP||For-A3	class-A1	students-A0	students-A2	daily-AM-TMP	temperatures-A1	for-AM-TMP	for-A1	information-A1
+NYSEDREGENTS_2006_4_9||conductor.01||A1||of-A1
+Mercury_SC_403015||absorb.01	oxygen.01||A0	A1	AM-LOC||NNP-A0	oxygen-A1	in-AM-LOC
+Mercury_SC_406766||precaution.01	take.01	make.01	observation.01||A1	AM-MOD	A0	R-AM-TMP	AM-TMP||What-A1	precaution-A1	must-AM-MOD	by-A0	when-R-AM-TMP	making-AM-TMP	observations-A1	of-A1
+Mercury_SC_408702||put.01	light.03	help.01	provide.01||A0	A1	A2	R-A0	AM-MNR||NNP-A0	plants-A1	under-A2	plant-A1	What-R-A0	he-A0	by-AM-MNR	light-A1
+VASoL_2010_3_10||take.01	time.01	observe.01||R-A0	AM-MOD	A0	A1||Which-R-A0	will-AM-MOD	NNP-A0	time-A1	to-A1
+Mercury_SC_402161||way.01	help.01	conserve.01	resource.01||R-A0	A0	A1	AM-MOD	AM-LOC||that-R-A0	students-A0	can-A1	can-AM-MOD	conserve-A1	natural-A1	resources-A1	at-AM-LOC
+Mercury_SC_403010||need.01	create.01||A1	A0	AM-PNC||items-A1	items-A0	to-AM-PNC	circuit-A1
+NAEP_2000_4_S21+1||play.01	bange.01	drop.05	have.03||R-A0	R-A1	A1	AM-LOC||What-R-A0	What-R-A1	guitar-A1	drum-A1	pebble-A1	in-AM-LOC
+VASoL_2010_3_18||rain.01	___.01||R-AM-TMP	A0	AM-TMP	AM-MOD||When-R-AM-TMP	it-A0	rains-AM-TMP	animals-A0	will-AM-MOD
+VASoL_2010_3_17||part.01	move.01||A1	AM-LOC||part-A1	of-A1	in-AM-LOC
+NAEP_2000_4_S21+3||stor.01	come.03	store.01||A0	A1	R-A2	A2	R-A1	AM-LOC||Beans-A0	both-A0	energy-A1	Where-R-A2	from-A2	that-R-A1	in-AM-LOC
+NAEP_2000_4_S21+7||house.01	rattle.01	hear.01	cause.01||A0	A1	AM-TMP	R-A1	C-A1||your-A0	house-A1	windows-A0	at-AM-TMP	you-A0	thunder-A1	What-R-A1	windows-A1	to-C-A1
+Mercury_SC_403008||use.01	collect.01	information.01||A1	A0	AM-ADV	A2||tool-A1	tool-A0	best-AM-ADV	to-A2	information-A1	about-A1
+CSZ_2005_5_CSZ10383||describe.01||R-A0	A0	A1||Which-R-A0	best-A0	circuit-A1
+Mercury_SC_403009||use.01	help.01	count.01	number.01	ladybug.01||A1	A0	AM-MOD	A2	C-A1||tool-A1	tool-A0	could-AM-MOD	to-A2	someone-A1	someone-A0	count-C-A1	number-A1	of-A1	on-A1
+Mercury_SC_402158||rule.01	follow.02	work.01||R-A1	A3	A1	A0	AM-TMP||What-R-A1	safety-A3	rule-A1	students-A0	working-AM-TMP	with-A3
+CSZ_2008_5_CSZ10104||go.01	leave.01||R-A4	A1	A0	AM-TMP||Where-R-A4	oxygen-rich-A1	oxygen-rich-A0	blood-A1	after-AM-TMP	lungs-A1
+VASoL_2010_3_21||||||
+Mercury_SC_LBS10824||pair.01	have.03||A0	A1||pair-A0	of-A1	value-A1
+VASoL_2010_3_29||help.01	keep.02	place.05	live.01||A0	AM-MOD	A1	A2	C-A1	AM-MNR||People-A0	can-AM-MOD	keep-A1	forest-A1	good-A2	place-C-A1	for-A1	birds-A0	by-AM-MNR
+VASoL_2007_3_16||get.03	crack.02	most.01||AM-ADV	A1	A2	AM-MOD||If-AM-ADV	water-A1	into-A2	of-A1	rock-A1	will-AM-MOD
+VASoL_2007_3_13||example.01||A1	A2||example-A1	of-A2
+Mercury_SC_416141||become.01||R-A1	AM-MOD	A1||What-R-A1	can-AM-MOD	flower-A1
+Mercury_SC_401299||best.01	help.01	survive.01	climate.01||A0	AM-MOD	A1	C-A1	AM-LOC||characteristic-A0	would-AM-MOD	help-A1	land-A1	animal-C-A1	animal-A0	survive-C-A1	in-AM-LOC	NNP-A1
+Mercury_SC_406744||cause.01||R-A0	A1	AM-LOC||What-R-A0	nighttime-A1	on-AM-LOC
+Mercury_SC_406987||explain.01||R-A0	A0	A1||Which-R-A0	best-A0	are-A1
+Mercury_SC_407435||watch.01	wave.01	crash.01	statement.01	describe.01	happen.01||A0	A1	C-A1	AM-DIR	AM-MNR	R-A1	AM-ADV	AM-CAU||students-A0	ocean-A1	waves-A1	crash-C-A1	on-AM-DIR	Which-AM-MNR	statement-A1	statement-A0	what-R-A1	will-A1	likely-AM-ADV	because-AM-CAU
+Mercury_SC_407431||melt.01	make.01	product.01	recycle.01	community.01||A1	AM-MOD	A2	AM-TMP	R-AM-MNR||containers-A1	can-AM-MOD	into-A2	into-A1	new-AM-TMP	products-A1	How-R-AM-MNR	will-AM-MOD	benefit-A1	communities-A1
+Mercury_SC_LBS10615||example.01	interact.01||A1	A2	A0||examples-A1	of-A2	NNP-A0
+Mercury_SC_407674||show.01	flow.01	chain.01||R-A0	A0	R-AM-MNR	A1	AM-DIR||Which-R-A0	diagram-A0	best-A0	how-R-AM-MNR	energy-A1	flows-A1	through-AM-DIR	food-A1
+MCAS_2001_5_17||smoother.01	rounder.01||R-AM-CAU	A0||Why-R-AM-CAU	rocks-A0
+MCAS_2001_5_16||following.01||A0||following-A0
+Mercury_SC_415465||investigate.01	take.02	hatch.01	number.01	give.01	result.01||A0	A1	A2	AM-MOD	AM-MNR||NNP-A0	days-A1	it-A0	takes-A1	for-A0	chick-A1	from-A2	number-A0	of-A1	would-AM-MOD	NNP-A2	reliable-AM-MNR	results-A1	results-A2
+OHAT_2008_5_31||part.01	get.01||A1	A0||of-A1	bee-A0	food-A1
+NYSEDREGENTS_2006_4_14||drop.01	force.01	pull.01	bottom.01||A1	AM-LOC	A0	A2||marble-A1	in-AM-LOC	Which-A1	force-A0	to-A2	of-A1
+Mercury_SC_408759||prey.01	white-tail.01	competition.01	affect.01	population.01	decrease.01||AM-LOC	A0	A1	R-AM-MNR	AM-MOD	A2	AM-ADV	A3	AM-MNR||In-AM-LOC	panthers-A0	on-A1	deer-A1	How-R-AM-MNR	will-AM-MOD	their-A0	competition-A1	for-A2	likely-AM-ADV	if-AM-ADV	deer-A3	populations-A1	in-AM-LOC	suddenly-AM-MNR
+NYSEDREGENTS_2006_4_10||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2006_4_19||eat.01	example.01||A0	A1	A2||turtle-A0	worms-A1	example-A1	of-A2
+NYSEDREGENTS_2007_4_7||use.01	measure.01	milliliter.01||A0	A2	A1||student-A0	to-A2	milliliters-A1	of-A1
+NYSEDREGENTS_2007_4_8||hardness.01	example.01||A1	A2||object-A1	examples-A1	of-A2
+NYSEDREGENTS_2007_4_5||cause.01||A0	A1||motion-A0	day-A1
+NYSEDREGENTS_2006_4_16||help.01	find.01	food.01||A0	A1||characteristic-A0	fox-A1	find-A1	food-A1
+Mercury_SC_LBS10605||slow.01	transfer.01||R-A0	AM-MNR	A1||Which-R-A0	best-AM-MNR	transfer-A1	of-A1
+NYSEDREGENTS_2007_4_3||unit.01	use.01	describe.01	length.01||A1	A0	AM-MOD	A2||unit-A1	unit-A0	of-A1	can-AM-MOD	to-A2	length-A1	length-A2
+Mercury_SC_405001||invent.01	remove.01	keep.02	use.01||A0	A1	R-A0	C-A1	R-AM-MNR	AM-MOD	AM-ADV||Scientists-A0	liquid-A1	liquid-A0	that-R-A0	grease-A1	skin-A1	soft-C-A1	How-R-AM-MNR	could-AM-MOD	discovery-A1	likely-AM-ADV
+NYSEDREGENTS_2006_4_18||cause.01	leave.01	become.01||A0	A1	C-A1	A2||process-A0	leaves-A1	of-A1	to-C-A1	larger-A2
+NYSEDREGENTS_2007_4_4||force.01	cause.01	sink.01	bottom.01||A1	A0	C-A1	A4||Which-A1	force-A0	marble-A1	to-C-A1	to-A4	of-A1
+NYSEDREGENTS_2007_4_1||attract.01	make.01||A1	A2||object-A1	to-A2	likely-A1	of-A2
+MCAS_2009_5_6521||put.01	bug.01	cover.01	piece.02	place.01	day.01	move.01	respond.01	following.01||A0	A1	A2	AM-TMP	AM-DIR	AM-LOC||NNP-A0	pill-A1	bugs-A1	into-A2	She-A2	box-A1	of-A1	She-A0	then-AM-TMP	outside-AM-DIR	on-A2	summer-A1	under-AM-LOC	bugs-A0	to-A1	following-A0
+NYSEDREGENTS_2007_4_2||form.01	cause.01	cube.01	melt.01||A2	A1	A0	C-A1||form-A2	form-A1	of-A1	ice-A1	cube-A1	cube-A0	to-C-A1
+Mercury_SC_415468||cause.01	flooding.01	thrive.01||A0	A1	AM-LOC	AM-MOD	AM-ADV||rains-A0	flooding-A1	in-AM-LOC	animals-A1	would-AM-MOD	likely-AM-ADV
+Mercury_SC_415467||change.01	cause.02	deer.01	die.01	leave.01||A1	AM-MOD||Which-A1	would-AM-MOD	cause-A1	to-A1	woodland-A1
+MCAS_2009_5_6522||form.01||A2	A1||forms-A2	of-A1
+MDSA_2007_4_35||compose.01	type.01	statement.01	describe.01||A1	A2	A0||Aluminum-A1	of-A2	types-A2	of-A1	statement-A0	matter-A1
+Mercury_SC_415472||affect.01||AM-MOD	A1	AM-EXT	A0||would-AM-MOD	animals-A1	most-AM-EXT	by-A0
+TIMSS_2007_4_pg99||make.01	food.01	use.01||A0	A1||organism-A0	its-A0	food-A1	sunlight-A1
+MDSA_2007_4_37||fossil.01	find.01	explain.01||A1	AM-LOC	R-A0	A0||Fossils-A1	of-A1	in-AM-LOC	Which-R-A0	best-A0	shells-A1	were-A1
+Mercury_SC_415470||connect.01	fish.01	move.01||AM-NEG	A1	A0	AM-MOD	AM-DIR	A2||not-AM-NEG	to-A1	What-A0	would-AM-MOD	from-AM-DIR	to-A2
+Mercury_SC_415477||stay.01||A1	AM-MOD||animal-A1	would-AM-MOD
+MDSA_2007_4_31||have.03	eye.01	tail.01	sit.01	bark.01	roll.01	set.01	inherit.01||A0	A1	AM-MOD	AM-MNR||dog-A0	puppies-A1	She-A0	fur-A1	brown-A1	curly-A1	She-A1	can-AM-MOD	on-AM-MNR	of-A1	puppies-A0
+Mercury_SC_415475||have.03	effect.01	color.01	eye.01||A0	A1	A2||Which-A0	effect-A1	on-A2	of-A1	eagle-A1
+NYSEDREGENTS_2006_4_22||put.01	type.01	give.01	amount.01	test.01	respond.01||A0	A1	A2	R-AM-MNR||student-A0	plants-A1	in-A2	type-A2	of-A1	She-A0	them-A2	amount-A1	one-A1	experiment-A0	how-R-AM-MNR	plants-A0	respond-A1	to-A1
+Mercury_SC_408506||part.01	absorb.01	need.01||A1	A0||of-A1	most-A1	water-A1	by-A0
+NYSEDREGENTS_2006_4_20||function.01	web.01	help.01||A0	A1||function-A0	of-A0	feet-A1	duck-A1
+NYSEDREGENTS_2006_4_21||way.01	respond.01	drop.01||A0	AM-TMP	A1	AM-MNR||animals-A0	usually-AM-TMP	respond-A1	to-A1	sudden-AM-MNR	in-A1
+Mercury_SC_405233||live.01	cut.04	happen.01||A0	AM-LOC	AM-ADV	A1	AM-MOD||Deer-A0	in-AM-LOC	If-AM-ADV	forest-A1	situation-A1	would-AM-MOD	likely-AM-ADV
+OHAT_2008_5_18||live.01	fossil.01	find.01	presence.01	suggest.01	environment.02	change.01||A0	R-A0	AM-LOC	A1	R-A1	AM-TMP||animals-A0	that-R-A0	in-AM-LOC	Fossils-A1	of-A1	What-R-A1	presence-A0	about-A1	environment-A1	over-AM-TMP
+Mercury_SC_408743||notice.01	have.03	miss.01	hurt.01||A0	A1	R-AM-CAU	A2||NNP-A0	plant-A0	had-A1	leaves-A1	Why-R-AM-CAU	leaves-A2	plant-A1
+Mercury_SC_408742||happen.01	live.01||A1	AM-MOD	AM-ADV	A2	A0	AM-LOC||Which-A1	will-AM-MOD	likely-AM-ADV	to-A2	rabbits-A0	in-AM-LOC
+MDSA_2010_4_14||object.01	produce.01	heat.01	star.01||AM-MNR	A0	R-A0	A1	A2||celestial-AM-MNR	object-A0	that-R-A0	its-A0	heat-A1	star-A0	to-A2
+Mercury_SC_408983||use.01	ax.01	clear.01	do.02	chainsaw.01	help.01	farmer.01||A0	A1	AM-TMP	A2||Farmers-A0	axes-A1	to-A1	Now-AM-TMP	farmers-A0	chainsaws-A1	chainsaws-A0	to-A2	trees-A1	How-A1	help-A1	farmers-A2
+Mercury_SC_415479||change.01	go.01||R-A1	A1	AM-TMP||Which-R-A1	environmental-A1	for-AM-TMP
+OHAT_2011_5_19||star.01	size.01	appear.02	object.01	see.01	point.02||A0	A1	A2	AM-ADV	C-A1	AM-TMP	R-A1||star-A0	star-A1	of-A1	size-A2	From-AM-ADV	sun-A1	as-C-A1	in-A1	At-AM-TMP	we-A0	stars-A1	They-A1	larger-C-A1	that-R-A1	at-AM-TMP
+Mercury_SC_415002||result.01	level.01	evaporation.01	reservoir.01||A1	A2	AM-LOC	A0||relationship-A1	results-A2	in-AM-LOC	of-A1	from-A1	NNP-A0	water-A1
+Mercury_SC_415480||change.01	increase.01	number.01||A1	A0	AM-ADV||Which-A1	change-A0	likely-AM-ADV	number-A1	of-A1
+LEAP_2004_4_10259||type.01	force.01	require.01	contact.01	push.02	pull.01||A2	A0	A1||type-A2	type-A0	of-A1	contact-A1	between-A0	one-A0	other-A1
+MCAS_2011_5_17||following.01	describe.01||A1	A0||best-A1	best-A0	mineral-A1
+Mercury_SC_406795||best.01	protect.01	group.01	investigate.01	ecosystem.01||A0	AM-MOD	A1	AM-TMP||items-A0	would-AM-MOD	protect-A1	group-A1	of-A1	while-AM-TMP	forest-A1	ecosystem-A1
+Mercury_SC_408974||use.01	test.01	supply.01	send.01	home.01	help.01||A0	A2	A1	AM-LOC	AM-TMP	AM-MNR	R-AM-MNR||company-A0	lab-A2	tests-A1	on-AM-LOC	on-A1	water-A1	before-AM-TMP	through-AM-MNR	to-A2	people-A0	homes-A1	How-R-AM-MNR	tests-A0	people-A1
+Mercury_SC_406796||perform.01	investigation.01	determine.01	type.01	grow.01	avoid.01||A0	A1	A2	R-A1	AM-LOC	AM-MOD	AM-TMP||Students-A0	investigation-A1	to-A1	types-A1	types-A2	of-A1	bacteria-A1	that-R-A1	inside-AM-LOC	activity-A1	should-AM-MOD	students-A0	while-AM-TMP
+Mercury_SC_405460||type.01	use.01	cure.01	cause.01	reaction.01	take.01	example.01||A2	A1	A0	AM-MOD	AM-TMP	AM-DIS	AM-MNR	C-A1||types-A2	types-A1	types-A0	of-A1	can-AM-MOD	to-A2	people-A2	are-AM-TMP	medicines-A0	however-AM-DIS	may-AM-MOD	bad-AM-MNR	reactions-A1	to-C-A1	to-A1	people-A0	them-A1	example-A1	of-A2
+OHAT_2008_5_23||property.01	measure.02||A1||of-A1	barometer-A1
+MDSA_2010_4_28||eat.01	seed.01	describe.01	role.01	web.01	contain.01||R-A1	A0	A2	A1||that-R-A1	humans-A0	seeds-A2	from-A0	best-A0	role-A1	of-A0	in-A2	food-A1	web-A0	plants-A1
+Mercury_SC_416101||keep.04	root.01	grow.01	move.01||A0	A1	C-A1	AM-TMP	A2	A4||Plants-A0	dirt-A1	in-C-A1	during-AM-TMP	Plant-A1	roots-A1	roots-A0	into-A2	from-A2	into-A4
+Mercury_SC_416102||need.01	grow.01	part.01	take.01||A0	A1	AM-PNC	R-A1	AM-LOC||Plants-A0	iron-A1	to-AM-PNC	What-R-A1	parts-A0	of-A1	in-AM-LOC
+Mercury_SC_417675||object.01||A1||in-A1
+MCAS_2000_4_2||problem.01	cause.01	invention.01||A1	A2	AM-MNR	A0||environmental-A1	problem-A2	problem-A1	directly-AM-MNR	by-A0	of-A1
+Mercury_SC_417676||reflect.01	light.03||A2	A1||it-A2	light-A1	toward-A2
+MCAS_2000_4_3||way.01	tell.01	difference.01	compare.01||A2	AM-MNR	A1||NNP-A2	way-AM-MNR	to-A1	DIFFERENCE-A2	between-A1
+OHAT_2011_5_33||explain.01	pattern.01||R-A0	A1	A2	AM-TMP||Which-R-A0	pattern-A1	pattern-A2	of-AM-TMP
+MCAS_2000_4_4||find.01	smooth.03||A1	AM-LOC	AM-TMP||rocks-A1	on-AM-LOC	usually-AM-TMP
+Mercury_SC_413078||cause.01	become.01||A0	AM-MOD	A1	C-A1	A2	AM-TMP||event-A0	can-AM-MOD	rock-A1	to-C-A1	soil-A2	over-AM-TMP
+CSZ10086||remove.01	waste.01||A0	A1	A2||organ-A0	cell-A1	waste-A1	from-A2	from-A0
+Mercury_SC_415014||change.01	cause.01||AM-MNR	A1	AM-MOD	A0||rapid-AM-MNR	changes-A1	can-AM-MOD	by-A0
+Mercury_SC_413079||process.01	form.01||A0	R-A0	AM-MOD	A1	AM-LOC||process-A0	that-R-A0	can-AM-MOD	land-A1	near-AM-LOC
+Mercury_SC_415013||change.01	cause.01	heat.01||AM-MNR	A1	A0	A2||rapid-AM-MNR	changes-A1	by-A0	from-A2
+Mercury_SC_415012||change.01	surface.01	happen.01||A1	AM-MOD	AM-MNR	R-A1||Changes-A1	to-A1	NNP-A1	can-AM-MOD	slowly-AM-MNR	Which-R-A1	quickly-AM-MNR
+Mercury_SC_413077||cube.01	place.01	change.01	happen.01||A1	A2	AM-MOD	AM-ADV	AM-TMP||ice-A1	cube-A1	in-A2	pan-A1	over-A2	Which-A1	change-A1	will-AM-MOD	likely-AM-ADV	over-AM-TMP
+OHAT_2008_5_20||wrap.01	connect.01	attract.01	stick.01	force.01	hold.01||A0	A1	A2	AM-TMP	AM-MNR||student-A0	wire-A1	around-A2	then-AM-TMP	to-A1	nail-A0	nail-A1	they-A1	together-A2	What-A1	force-A0	nails-A1	together-AM-MNR
+Mercury_SC_415490||describe.01	orbit.01||A0	A1	AM-LOC||term-A0	NNP-A1	orbit-A1	around-AM-LOC
+Mercury_SC_405459||corn.01	use.01	make.01	problem.01	cause.01	increase.01||A1	A0	AM-MOD	A2	AM-MNR||Corn-A1	Corn-A0	can-A1	can-AM-MOD	to-A2	ethanol-A1	What-A1	problem-A2	problem-A1	could-AM-MOD	by-A0	increased-AM-MNR	use-A1	of-A1
+Mercury_SC_400161||wear.01||R-AM-CAU	AM-MOD	A0	A1	AM-TMP||Why-R-AM-CAU	should-AM-MOD	scientists-A0	goggles-A1	during-AM-TMP
+Mercury_SC_400160||inherit.01	trait.01||A1||following-A1	traits-A1	of-A1
+AIMS_2008_4_2||statement.01||AM-MNR	A1||Which-AM-MNR	is-A1
+Mercury_SC_400165||explanation.01	roll.01	floor.01||AM-MNR	A1	AM-LOC||reasonable-AM-MNR	for-A1	car-A1	farther-AM-MNR	on-AM-LOC	wood-A1
+Mercury_SC_401254||form.01||AM-TMP	A0	A1||are-AM-TMP	they-A0	a-A1
+Mercury_SC_413243||cycle.01	go.01||A1	R-A1	AM-DIR||moth-A1	life-A1	insect-A1	that-R-A1	through-AM-DIR
+Mercury_SC_401005||know.01	study.01||A1	A0	AM-MNR	A2||scientist-A1	scientist-A0	best-AM-MNR	for-A2	plants-A1
+Mercury_SC_401004||enable.01	see.01	moon.01||R-A0	A1	C-A1	A0||What-R-A0	NNP-A1	in-C-A1	moons-A1	moons-A0	of-A1
+Mercury_SC_400399||wall.01	work.01	keep.04	make.03||R-A0	A1	AM-MOD	AM-MNR	A2||Which-R-A0	of-A1	would-AM-MOD	best-AM-MNR	to-A1	sound-A1	from-A2	echo-A1
+Mercury_SC_400156||part.01	cycle.01	absorb.01||R-AM-LOC	A1	A0||In-R-AM-LOC	of-A1	water-A1	water-A0	energy-A1
+Mercury_SC_400155||type.01	conversion.01	occur.01||A2	A1	AM-LOC||type-A2	type-A1	of-A1	energy-A1	in-AM-LOC
+Mercury_SC_401002||choice.01	issue.02	study.01||A1	A0||choice-A1	for-A0	student-A0	environmental-A1
+CSZ_2004_5_CSZ10403||find.01||A1	AM-LOC||fossils-A1	in-AM-LOC
+AKDE&ED_2012_4_19||statement.01	identify.01	need.01||A0	A1||statement-A0	need-A1	of-A1
+TIMSS_2003_4_pg5||separate.01	mixture.01||A0	AM-MOD	A1||magnet-A0	will-AM-MOD	mixture-A1	of-A1
+AKDE&ED_2012_4_17||observe.01	ask.01	following.01	run.01	answer.01	question.01||AM-TMP	A1	A0	AM-MNR	A2||After-AM-TMP	dogs-A1	students-A0	question-A1	dogs-A0	faster-AM-MNR	students-A2	best-AM-MNR	their-A0
+Mercury_SC_401243||form.01	result.01	acid.01	seep.01	dissolve.01||A1	A2	R-AM-TMP	AM-LOC	AM-MNR||land-A1	form-A2	form-A1	results-A2	when-R-AM-TMP	carbonic-A1	acid-A1	in-AM-LOC	through-AM-MNR	limestone-A1
+LEAP_2006_4_10274||have.03	mixture.01	best.01	help.01	separate.01||A0	A1	AM-LOC	R-A0	AM-MOD||NNP-A0	mixture-A1	of-A1	in-AM-LOC	Which-R-A0	would-AM-MOD	help-A1	soil-A1
+Mercury_SC_400395||become.01	help.01	increase.01||A1	A2	A0	R-A0	AM-ADV||environment-A1	warmer-A2	change-A0	that-R-A0	likely-AM-ADV	species-A1	increase-A2	in-A1
+Mercury_SC_400151||separate.01	add.02	pour.01	filter.03||A1	A0	AM-MOD	AM-MNR||mixture-A1	mixture-A0	can-AM-MOD	easily-AM-MNR	by-AM-MNR	water-A1	it-A1	through-AM-MNR	coffee-A1
+Mercury_SC_416518||have.03	stream.01	fill.01	base.05||A0	A1	A2||mountain-A0	stream-A1	with-A1	waterfall-A0	lake-A1	at-A2	of-A1
+Mercury_SC_413003||range.01	have.03	edge.02||A1	A2	A0||mountain-A1	range-A2	range-A0	hills-A1	its-A0
+Mercury_SC_415424||get.01	eat.01	energy.01||A0	A1	A2||goat-A0	energy-A1	from-A2	grass-A1	it-A0	grass-A0	its-A1
+AKDE&ED_2012_4_10||cause.01	become.01	piece.01||R-A0	A0	AM-ADV	A1	C-A1	A2||Which-R-A0	action-A0	likely-AM-ADV	rocks-A1	to-C-A1	pieces-A2	of-A1
+Mercury_SC_415423||make.01||R-AM-TMP	AM-MOD	A0	A1||When-R-AM-TMP	can-AM-MOD	producers-A0	food-A1
+VASoL_2007_5_18||group.01	prepare.01	activity.01	determine.01	float.01	sink.01	place.01	start.01	say.01	think.01	statement.01||A0	A1	AM-MOD	AM-TMP	A2||group-A0	of-A1	activity-A1	to-A1	whether-A1	materials-A1	will-AM-MOD	placed-AM-TMP	on-A2	Before-AM-TMP	experiment-A1	student-A0	I-A0	think-A1	sponge-A1	will-A1	statement-A1
+NAEP_2005_4_S14+2||get.01	need.01	survive.01||R-AM-MNR	A0	A1	AM-PNC||How-R-AM-MNR	fish-A0	oxygen-A1	they-A0	to-AM-PNC
+Mercury_SC_416515||body.03	have.03	live.01||A0	A1	AM-LOC||body-A0	of-A1	plants-A1	plants-A0	in-AM-LOC
+Mercury_SC_415427||need.01	make.01||R-A0	A0	A1||What-R-A0	producers-A0	to-A1	food-A1
+VASoL_2010_5_1||activity.01	rely.01||A0	A1||human-A0	most-A0	relies-A1	on-A1
+TIMSS_2007_4_pg56||reason.01	see.01||A0	A1	AM-MOD||we-A0	can-A1	can-AM-MOD	NNP-A1
+Mercury_SC_401235||hear.01	key.01	hit.02	cause.01||A1	A0	AM-TMP||sound-A1	piano-A1	key-A0	key-A1	is-AM-TMP	by-A0
+Mercury_SC_401233||wrap.01	attach.01	form.01||R-AM-TMP	A1	A2	AM-TMP	A0||When-R-AM-TMP	nail-A1	in-A2	is-AM-TMP	to-A1	it-A0
+Mercury_SC_401237||change.01	color.01	brown.01	white.01	example.01||A1	A3	AM-TMP	AM-PNC	AM-LOC	A2||in-A1	of-A1	from-A3	in-AM-TMP	to-AM-PNC	in-AM-LOC	example-A1	of-A2
+MDSA_2007_4_4||shape.01	surface.01	form.01||A0	A1||processes-A0	surface-A1	of-A1	canyons-A1	by-A0
+AKDE&ED_2012_4_27||do.02	have.03	help.01	survive.01||A0	A1	C-A1	AM-LOC||Which-A0	characteristic-A0	organisms-A0	have-A1	that-A1	them-A1	them-A0	survive-C-A1	in-AM-LOC
+Mercury_SC_400385||occur.01	interval.01||A1	AM-LOC	A2||Which-A1	at-AM-LOC	time-A2
+NYSEDREGENTS_2006_4_27||activity.01	have.03	effect.01||R-A0	A0	AM-TMP	AM-MNR	A1	A2||Which-R-A0	human-A0	activity-A0	often-AM-TMP	harmful-AM-MNR	effect-A1	on-A2
+Mercury_SC_401231||appear.02||A1	C-A1	AM-CAU||leaves-A1	green-C-A1	because-AM-CAU
+Mercury_SC_400384||knock.02	want.01	get.04	fall.01	ecosystem.01||A0	A1	AM-LOC	A2	AM-MOD	A3||windstorm-A0	trees-A1	in-AM-LOC	companies-A0	to-A1	rid-A2	would-AM-MOD	harm-A3	park-A1
+NYSEDREGENTS_2006_4_28||period.01	occur.01||AM-LOC	A1	AM-TMP||In-AM-LOC	period-A1	of-A1	during-AM-TMP
+Mercury_SC_401230||frying.01	place.01	top.01	energy.01	transfer.01	pan.01||R-AM-TMP	A1	AM-TMP	A2	A3	A0||When-R-AM-TMP	pan-A1	is-AM-TMP	on-A2	electric-A1	heat-A1	energy-A1	from-A3	to-A2	by-A0
+Mercury_SC_400141||measure.01	length.01||AM-MNR	A1	A2||best-AM-MNR	length-A1	length-A2	of-A1
+AKDE&ED_2012_4_23||statement.01	identify.01	depend.01	survive.01||AM-MNR	A1	A0	R-A0||Which-AM-MNR	statement-A1	statement-A0	thing-A1	thing-A0	that-R-A0	on-A1
+MCAS_2009_5_6510||adapt.01	catch.03	fast-move.01	following.01	help.01	swim.01	catch.01	prey.01||A0	A1	R-A1	AM-EXT	A2	R-A0	AM-MNR||tuna-A0	fish-A1	that-R-A1	well-AM-EXT	to-A2	small-A2	prey-A1	Which-R-A0	adaptations-A1	most-A0	tuna-A1	swim-A1	swim-A0	fast-AM-MNR	its-A0
+Mercury_SC_416528||shine.01	leave.01||A1	AM-LOC	A0||sunlight-A1	on-AM-LOC	its-A0
+AKDE&ED_2012_4_22||see.01	statement.01	explain.01	appear.02||A1	AM-MOD	AM-LOC	AM-TMP	AM-MNR	A0	C-A1||stars-A1	can-AM-MOD	in-AM-LOC	at-AM-TMP	Which-AM-MNR	statement-A0	NNP-A1	appears-A1	brighter-C-A1
+AKDE&ED_2012_4_21||open.01	can.01	front.01	smell.01	statement.01	identify.01	property.01	allow.01||A0	A1	AM-TMP	AM-MOD	AM-MNR	R-A0	C-A1||teacher-A0	can-A1	of-A1	Soon-AM-TMP	all-A0	can-AM-MOD	food-A1	Which-AM-MNR	statement-A0	identifies-A1	property-A1	of-A0	gas-A0	that-R-A0	all-A1	to-C-A1
+Mercury_SC_416523||part.01	make.01||A0	A1||part-A0	of-A1	food-A1
+MSA_2015_5_8||cause.01	change.01	surface.01||A0	AM-MNR	A1	AM-ADV	C-A1	A2||processes-A0	rapid-AM-MNR	changes-A1	to-A1	NNP-A1	Which-AM-ADV	event-A0	to-C-A1	to-A2
+MDSA_2007_4_49||color.01	statement.01	explain.01	have.03||A1	AM-MNR	A0	R-AM-CAU||Eye-A1	Which-AM-MNR	statement-A0	best-A0	why-R-AM-CAU	child-A0	has-A1	eye-A1	color-A1
+VASoL_2007_5_28||give.01||A1	A0||gas-A1	by-A0
+Mercury_SC_416525||pick.01	mother.01	tell.01	leave.01||A0	A1	A3	A2	AM-LOC||NNP-A0	lettuce-A1	from-A3	His-A1	mother-A0	him-A2	him-A0	to-A1	leaves-A1	on-AM-LOC	on-A1
+MCAS_2009_5_6516||follow.01	statement.01	stick.01||AM-TMP	A2	A1||following-AM-TMP	statements-A2	statements-A1	magnets-A1	usually-AM-TMP	to-A2
+MCAS_2009_5_6515||take.01	complete.01	orbit.01||A1	A0	AM-PNC||how-A1	NNP-A0	to-AM-PNC	its-A1	orbit-A1
+TIMSS_2007_4_pg43||||||
+FCAT_2008_5_5||measure.02	degree.03	observe.02	fall.01	form.01	type.01	observe.01||A1	AM-TMP	A0	A3	A2	AM-MNR||measures-A1	temperature-A1	61-AM-TMP	She-A0	precipitation-A1	from-A3	form-A2	type-A2	of-A1	NNP-A0	likely-AM-MNR
+Mercury_SC_416531||place.01	see.01	tilt.01	window.01	need.01||A0	A1	A2	AM-TMP||NNP-A0	plant-A1	in-A2	Soon-AM-TMP	she-A0	that-A1	leaves-A1	toward-A2	her-A1	from-A0
+MCAS_2009_5_6517||live.01	pump.01	stream.01	body.01	cause.01	move.01	follow.01	system.01	way.01||A0	R-A0	AM-LOC	A2	A1	AM-MNR	AM-ADV	C-A1||animal-A0	that-R-A0	in-AM-LOC	It-A0	stream-A2	of-A1	out-AM-MNR	its-A1	causing-AM-ADV	it-A1	to-C-A1	rapidly-AM-MNR	mechanical-A1	systems-A1	moves-A2
+MEAP_2005_5_37||vibrate.01	produce.01||A1	A0	R-A1||NNP-A1	NNP-A0	that-R-A1
+MEAP_2005_5_38||climb.02	notice.01	ice.01	form.01	happen.01||AM-ADV	A1	AM-LOC	A0	AM-CAU||As-AM-ADV	airplane-A1	in-AM-LOC	pilot-A1	notices-A0	crystals-A1	on-AM-LOC	This-A1	because-AM-CAU
+AIMS_2009_4_30||statement.01	description.01||AM-MNR	A1||Which-AM-MNR	is-A1	of-A1
+MEAP_2005_5_39||mixture.01	stir.03	dissolve.01	add.02	allow.01	settle.02	bottom.01	place.01	source.01	leave.01||AM-LOC	A1	AM-PNC	AM-MNR	A2	C-A1	AM-ADV	R-A1	AM-MOD||In-AM-LOC	mixture-A1	of-A1	so-AM-PNC	salt-A1	completely-AM-MNR	Sand-A1	to-A2	to-C-A1	to-AM-MNR	If-AM-ADV	container-A1	on-A2	heat-A1	source-A2	what-R-A1	will-AM-MOD	in-AM-LOC
+Mercury_SC_400377||want.01	area.01	wash.01	make.01	puddle.01	put.01	pass.02	use.01||A0	A1	A2	C-A1	AM-MNR||NNP-A0	area-A1	area-A0	in-A2	to-C-A1	dog-A1	without-AM-MNR	mud-A1	puddles-A1	He-A0	to-A1	something-A1	on-A2	ground-A1	water-A0	easily-AM-MNR	him-A0
+Mercury_SC_401224||combine.01	maintain.01	property.01	label.01||A1	A0	R-A1	R-A0	A3	AM-MNR	A2||Solids-A1	Solids-A0	that-R-A1	that-R-A0	together-A3	their-A0	physical-A1	properties-A1	best-AM-MNR	as-A2
+Mercury_SC_401223||container.01	place.01	result.01||A1	A2	AM-TMP	AM-MNR||container-A1	of-A1	in-A2	for-AM-TMP	likely-AM-MNR	result-A2
+Mercury_SC_404979||shout.01	characteristic.01	explain.01	hear.01||A0	A1	A2||Campers-A0	toward-A1	What-A2	of-A1	best-A0	campers-A0	heard-A1	echo-A1
+Mercury_SC_401229||transfer.01	know.01||A1	A3	A2||transfer-A1	of-A1	from-A3	to-A2	as-A2
+TIMSS_2007_4_pg48||cut.02	finger.01	body.01	need.01	help.01	heal.01	come.03||A0	A1	AM-PNC	A2||NNP-A0	his-A1	finger-A1	His-A1	body-A0	energy-A1	to-AM-PNC	heal-A1	cut-A1	from-A2
+VASoL_2011_5_4||see.01	discharge.01	observe.01||A1	AM-TMP||discharge-A1	of-A1	for-AM-TMP	time-AM-TMP
+Mercury_SC_401227||boiling.01	result.01	change.01||A1	A2	AM-TMP	AM-MNR	A3||of-A1	results-A2	in-AM-TMP	physical-AM-MNR	in-A1	from-A3
+Mercury_SC_401220||describe.01	cycle.01	reach.01	stage.02||A0	A1	R-A0	AM-MNR||term-A0	life-A1	cycle-A1	of-A1	insect-A0	that-R-A0	adult-A1	stage-A1	without-AM-MNR
+Mercury_SC_400373||find.01||A1	AM-MOD	AM-DIS	AM-LOC||feature-A1	could-AM-MOD	also-AM-DIS	on-AM-LOC
+Mercury_SC_400372||use.01	hand.07	observe.02||A0	A1	A2||student-A0	lens-A1	to-A2
+AKDE&ED_2012_4_33||give.01	push.02	push.01	floor.01	question.01||A0	A2	A1	AM-TMP||student-A0	car-A2	push-A1	on-A1	then-AM-TMP	car-A1	cement-A1
+AKDE&ED_2012_4_31||past.01	share.01	know.01	pair.01	gather.01	information.01||AM-TMP	A0	A1	R-A1	A2||In-AM-TMP	people-A0	have-A1	what-R-A1	they-A0	knew-A1	about-A2	through-A2	of-A1	information-A1	about-A1
+VASoL_2007_5_39||following.01	observation.01	class.03	make.01	walk.01||A0	A1	A2	AM-MOD	AM-LOC||following-A0	about-A1	that-A1	science-A1	class-A2	class-A1	could-AM-MOD	on-AM-LOC	their-A0	nature-A1
+VASoL_2007_5_35||screen.01	place.01	windshield.01	park.01	help.01	keep.02||A1	AM-MOD	A2	A0	C-A1	AM-CAU||aluminum-A1	screen-A1	can-AM-MOD	on-A2	of-A1	car-A1	screen-A0	to-A1	cool-C-A1	because-AM-CAU
+VASoL_2007_5_37||conduct.01||A1||electricity-A1
+Mercury_SC_415697||rubb.01	piece.02	produce.01	type.01||A0	A1	A2||Rubbing-A0	sandpaper-A1	on-A1	of-A1	types-A1	types-A2
+Mercury_SC_415695||force.01	produce.01||A1	A0	AM-MNR||Which-A1	force-A0	energy-A1	as-AM-MNR
+TIMSS_2007_4_pg30||harm.01	body.03||A0	A1||Smoking-A0	body-A1	in-A1
+Mercury_SC_400124||want.01	document.01	change.01	pattern.01	observe.01	period.01||A0	A1	A2	AM-MOD	AM-TMP||scientist-A0	to-A1	change-A1	in-A1	river-A2	flow-A1	should-AM-MOD	river-A1	over-AM-TMP	of-A1
+Mercury_SC_400123||live.01	ecosystem.01	submerge.01	expose.01	type.01	contain.01	star.01	advantage.01||A0	R-A0	AM-LOC	A1	R-A1	AM-MNR	A2	A3||consumers-A0	that-R-A0	in-AM-LOC	pool-A1	ecosystem-A1	that-R-A1	alternately-AM-MNR	by-A0	type-A2	type-A0	of-A1	anemones-A1	sea-A3	star-A0	in-A1
+Mercury_SC_400129||formation.01	deposit.01	occur.01	million.01||A1	A2	AM-LOC||formation-A1	of-A1	coal-A2	deposits-A1	over-AM-LOC
+AIMS_2008_4_9||have.03	help.01	keep.02	period.01||A0	A1	R-A0	C-A1	AM-TMP||invention-A0	technology-A1	technology-A0	that-R-A0	people-A1	people-A0	keep-C-A1	food-A1	fresh-C-A1	for-AM-TMP	long-AM-TMP
+AIMS_2008_4_8||dry.01	cause.01||A0	AM-MOD	A1||event-A0	can-AM-MOD	plants-A1	wildfires-A1
+Mercury_SC_401216||take.01	day.01||A0	A1||It-A0	days-A1	for-A1
+TIMSS_2007_4_pg39||surface.01	cover.01||A1	A2||Most-A1	NNP-A1	by-A2
+NAEP_2005_4_S13+13||following.01	explain.01	appear.02	move.01||R-A0	A0	A1	C-A1	AM-DIR	AM-TMP||Which-R-A0	following-A0	best-A0	NNP-A1	appears-A1	to-C-A1	across-AM-DIR	day-AM-TMP
+AIMS_2009_4_19||move.01	river.01	help.01	create.01||A0	A1	R-AM-MNR	A2||river-A0	of-A1	How-R-AM-MNR	glacier-A2	help-A0	soil-A1
+Mercury_SC_405651||study.01	collect.01	use.01	magnification.01||A0	A1	AM-MOD	A2||class-A0	textures-A1	samples-A1	would-AM-MOD	students-A0	to-A2	to-A1
+AIMS_2009_4_18||spine.01	help.01	survive.01||R-AM-MNR	A2	A1	A0||How-R-AM-MNR	spines-A2	of-A1	cactus-A0	it-A0
+Mercury_SC_401292||provide.01	snail.01||A0	A1||shell-A0	snail-A1	with-A1
+AIMS_2009_4_17||claim.01	cover.01	evidence.01	support.01	claim.03||A0	A1	AM-TMP	A2	AM-MOD||Scientists-A0	that-A1	area-A1	once-AM-TMP	by-A2	What-A1	evidence-A2	evidence-A0	would-AM-MOD	their-A0	claim-A1
+Mercury_SC_401291||function.01	shell.01||AM-MNR	A0	A1||likely-AM-MNR	of-A0	turtle-A1	hard-AM-MNR
+Mercury_SC_401298||help.01	avoid.01||R-A0	AM-MOD	AM-MNR	A1	C-A1||Which-R-A0	would-AM-MOD	best-AM-MNR	animal-A1	avoid-C-A1
+AIMS_2009_4_11||make.01	record.01	follow.01	statement.01	book.01||A0	A1	AM-TMP	A2	AM-MNR||NNP-A0	flashlight-A1	She-A0	following-AM-TMP	statements-A1	statements-A2	in-AM-MNR	her-A0	lab-A1	Which-AM-MNR	is-A1
+AIMS_2009_4_10||read.01	information.01	answer.01	question.01	cause.01	change.01	surface.01	have.03	effect.01	remove.01	pollute.01	want.01	find.01	speed.01	increase.01	amount.01	use.01	measure.01||A0	A1	AM-TMP	AM-MOD	R-A0	AM-MNR	A2||Directions-A0	information-A1	about-A1	then-AM-TMP	question-A1	Wind-A0	can-AM-MOD	erosion-A1	erosion-A0	that-R-A0	surface-A1	of-A1	negative-AM-MNR	effects-A1	on-A2	by-AM-MNR	soil-A1	air-A1	during-AM-TMP	NNP-A0	to-A1	if-A1	faster-A2	wind-A1	speeds-A0	amount-A1	instrument-A1	should-AM-MOD	he-A0	to-A2	speed-A1
+VASoL_2007_3_22||collect.01	mass.02	feel.01||A0	A1	AM-MOD||NNP-A0	rocks-A1	rock-A0	NNP-A1	will-AM-MOD	___-A1
+NAEP_2009_4_S11+5||statement.01	explain.01	warm.01||AM-MNR	A0	A1	AM-MOD	AM-LOC||Which-AM-MNR	statement-A0	explains-A1	light-A0	can-A1	can-AM-MOD	water-A1	in-AM-LOC
+VASoL_2007_3_23||get.01	need.01	run.01||A0	A1	AM-PNC	A3||dog-A0	energy-A1	it-A0	to-AM-PNC	from-A3
+AIMS_2008_4_12||have.03	strp.01	pattern.01	king.02	snake.01	look.02	example.01||A0	A1	A2	AM-LOC||snakes-A0	color-A1	pattern-A1	pattern-A2	NNP-AM-LOC	mountain-A1	king-A0	like-A1	of-A1	king-A1	example-A1	of-A2
+NAEP_2009_4_S11+2||pour.01	pile.01	wash.01	following.01||A0	A1	A3||NNP-A0	water-A1	over-A3	of-A1	Some-A0	following-A0
+AIMS_2008_4_11||following.01	give.01	example.01	sparrow.01	use.01	resource.01	environment.02	survive.01||R-A0	A0	AM-NEG	A1	A2	R-AM-MNR	AM-LOC||Which-R-A0	following-A0	not-AM-NEG	example-A1	of-A2	how-R-AM-MNR	resources-A1	in-AM-LOC	in-A2	their-A1
+AIMS_2008_4_10||lay.01	have.03||A0	A1||group-A0	it-A0	eggs-A1	scales-A1
+MDSA_2011_5_11||study.01	location.01	recognize.01	importance.01	exist.01||A0	A1	A2||hydrologist-A0	location-A1	location-A2	of-A1	importance-A1	importance-A2	water-A1	as-A2
+Mercury_SC_408918||build.01	improve.01	perform.01	job.01	help.01||A1	AM-TMP	A0	R-AM-MNR||microscopes-A1	in-AM-TMP	Microscopes-A1	Microscopes-A0	since-AM-TMP	still-AM-TMP	job-A1	How-R-AM-MNR	microscopes-A0	scientists-A1
+TIMSS_2007_4_pg29||get.01	make.01||A0	A1	A2||plants-A0	energy-A1	from-A2	food-A1
+MCAS_2015_5_15||following.01||A0||following-A0
+Mercury_SC_401289||unit.01	measure.02||A1||of-A1	for-A1
+MCAS_2015_5_13||following.01	role.01	find.01	flower.01||A0	A1	AM-LOC||following-A0	role-A1	of-A0	flowers-A1	on-AM-LOC	plants-A1
+Mercury_SC_405886||observe.02	puddle.01	explain.01||AM-LOC	A0	A1	R-A1	AM-MOD	AM-MNR||In-AM-LOC	students-A0	puddles-A1	of-A1	What-R-A1	would-AM-MOD	best-AM-MNR	was-A1
+Mercury_SC_405647||cube.01	melt.01	change.01	cause.01||A1	AM-LOC	A0	C-A1||ice-A1	cubes-A1	in-AM-LOC	Which-A1	change-A0	change-A1	cubes-A0	to-C-A1
+AIMS_2008_4_16||following.01	cause.01||R-A0	A0	AM-MOD	A1||Which-R-A0	following-A0	can-AM-MOD	erosion-A1
+MCAS_2015_5_12||system.01	rotate.02	axis.01	period.01||A1	A0	AM-TMP||solar-A1	It-A0	on-A1	its-A0	once-AM-TMP	hours-AM-TMP	time-AM-TMP	NNP-A0
+MEA_2014_5_13||source.01	growth.01||A2	A1||source-A2	of-A1
+MEA_2014_5_14||gram.01	dissolve.01	solution.01||A1	AM-LOC	A0||grams-A1	of-A1	in-AM-LOC	sugar-and-water-A0
+Mercury_SC_401281||use.01	stinger.01||A0	A1	AM-LOC||wasp-A0	poison-A1	in-AM-LOC	to-A1
+Mercury_SC_401284||specialize.01	cause.01	change.01	help.01||A0	A1	R-A0	AM-MOD	C-A1	AM-MNR	A2||animal-A0	cells-A1	cells-A0	that-R-A0	can-AM-MOD	it-A1	it-A0	to-C-A1	color-A1	rapidly-AM-MNR	change-A0	will-AM-MOD	likely-A2	animal-A1
+AIMS_2009_4_21||test.01	drop.05	do.02||AM-ADV	A0	A1	R-A1	AM-MOD||While-AM-ADV	NNP-A0	circuit-A1	she-A0	bulb-A1	What-R-A1	thing-A1	can-AM-MOD
+Mercury_SC_413443||measure.01	amount.01	fall.01||A1	R-A1	AM-TMP||amount-A1	of-A1	that-R-A1	during-AM-TMP
+Mercury_SC_400190||fuel.01	consider.01	resource.01||A2	A1	AM-CAU||Fossil-A2	fuels-A1	nonrenewable-A2	resource-A2	because-AM-CAU
+AIMS_2009_4_24||put.01	bottle.01	shake.01	stop.01	observe.02	piece.02	float.01	make.01	base.02	cause.01	piece.01	break.03||A0	A1	A2	AM-TMP	AM-LOC	AM-MOD	AM-MNR	C-A1||NNP-A0	stones-A1	in-A2	of-A1	it-A1	After-AM-TMP	he-A0	shaking-A1	bottle-A1	that-A1	pieces-A1	in-AM-LOC	prediction-A1	can-AM-MOD	based-AM-MNR	on-A2	shaking-A0	to-C-A1
+ACTAAP_2013_5_10||six-side.01	scratch.02||A0	A1	R-A0	AM-MOD||mineral-A0	crystals-A1	crystals-A0	that-R-A0	will-AM-MOD	glass-A1
+VASoL_2007_3_34||seed.01	come.03||A2	A1||seeds-A2	seeds-A1	of-A1	from-A2
+VASoL_2010_3_1||find.01	grow.01	chain.01	mold.01||A1	AM-TMP	C-A1	A2	AM-LOC||NNP-A1	often-AM-TMP	growing-C-A1	on-A2	In-AM-LOC	food-A1	___-A1
+VASoL_2007_3_35||grow.01	change.01	need.01	survive.01||R-AM-TMP	A1	AM-TMP	A2	R-A1	A0||When-R-AM-TMP	tadpole-A1	grows-AM-TMP	gills-A1	into-A2	What-R-A1	it-A0	now-AM-TMP	to-A1
+LEAP_2009_4_10292||investigate.01	supply.01	affect.01	action.01||A0	A1	AM-LOC	R-A0||NNP-A0	water-A1	supply-A1	at-AM-LOC	things-A0	that-R-A0	it-A1
+VASoL_2007_3_36||want.01	cut.02	piece.01	string.01	activity.01	length.01	measure.01||A0	A1	A2||student-A0	to-A1	piece-A1	of-A1	for-A1	class-A1	length-A2	length-A1	NNP-A1	in-A2
+LEAP_2009_4_10293||give.01	sample.01	type.01	action.01	help.01	identify.01||A0	A1	A2	AM-MNR	C-A1||NNP-A0	samples-A1	of-A1	soil-A1	types-A2	Which-AM-MNR	action-A0	NNP-A1	identify-C-A1	type-A1	type-A2
+VASoL_2007_3_31||clear.01	plant.01	most.01	happen.01||AM-ADV	A1	R-A1	AM-MOD||If-AM-ADV	area-A1	corn-A1	what-R-A1	will-AM-MOD	likely-A1	likely-AM-ADV
+TIMSS_2007_4_pg18||have.03	teeth.01||A0	A1||Which-A0	teeth-A1	of-A1
+Mercury_SC_401279||reading.01	rise.01||A1||reading-A1	on-A1	when-A1
+Mercury_SC_406726||group.01	observe.01	tank.01	assignment.01	share.01	statement.01||A0	A1	A2||group-A0	of-A1	fish-A1	tank-A1	for-A1	school-A1	observations-A1	with-A2	about-A1
+Mercury_SC_400189||||||
+ACTAAP_2013_5_15||galaxy.01	description.01||A0	A1||our-A0	of-A1
+Mercury_SC_400188||cut.02	way.01	estimate.01	age.01||A1	AM-MNR||tree-A1	with-AM-MNR	to-A1	age-A1	of-A1
+ACTAAP_2013_5_14||do.02	demonstration.01	inflate.01	place.01	remove.01	describe.01	volume.01	allow.01	warm.02||A0	A1	A2	AM-TMP	C-A1||NNP-A0	science-A1	demonstration-A1	He-A0	balloon-A1	it-A1	in-A2	then-AM-TMP	after-AM-TMP	Which-A0	volume-A1	volume-A2	to-C-A1
+CSZ_2006_5_CSZ10302||following.01	property.01||A0	A1||following-A0	of-A1
+Mercury_SC_408901||have.03	hold.01	hand.01	feel.02	describe.01||A0	A1	R-AM-TMP	AM-TMP	R-A1||NNP-A0	blocks-A1	When-R-AM-TMP	holds-AM-TMP	her-A0	she-A0	that-A1	term-A0	what-R-A1	feels-A1
+Mercury_SC_402126||remove.01	atmosphere.02||A1	A2||dioxide-A1	from-A2	NNP-A1
+Mercury_SC_405635||measure.01	point.02	mixture.01	take.01	measurement.01	way.01	ensure.01||A0	A1||student-A0	boiling-A0	point-A1	of-A1	salt-A1	water-A1	He-A0	temperature-A1	measurement-A1	to-A1	are-A1
+ACTAAP_2013_5_11||part.01	take.01	scale.01	weigh.01	read.01	pound.01	have.03	mass.02	weight.01	stand.01||AM-ADV	A1	A0	A2	R-A1||As-AM-ADV	of-A1	astronaut-A0	scale-A1	scale-A2	to-A2	to-A1	himself-A1	scale-A0	pounds-A1	mass-A1	which-R-A1	weight-A2	on-A2
+Mercury_SC_406721||characteristic.01	aid.01	obtain.01	find.01||A1	AM-LOC||of-A1	aids-A1	in-A1	food-A1	in-AM-LOC
+Mercury_SC_401274||heat.02||R-AM-TMP	A1||When-R-AM-TMP	air-A1
+MSA_2015_5_38||platform.01	affect.01	environment.02	damage.01	platform.02||A1	A0	AM-ADV	AM-CAU||oil-A1	platforms-A0	habitats-A1	ocean-A1	environment-A1	likely-AM-ADV	by-A0	because-AM-CAU
+MSA_2015_5_39||find.01	study.01	remain.01	cover.01	layer.01||A0	AM-TMP	A1	R-AM-TMP	A2||Paleontologists-A0	often-AM-TMP	remains-A1	of-A1	When-R-AM-TMP	are-AM-TMP	by-A2	over-AM-TMP	the-A1
+OHAT_2010_5_1||find.01	fossil.01	tell.01||A0	A1	AM-LOC	AM-TMP||Scientists-A0	fish-A1	fossils-A1	in-AM-LOC	fossils-A0	about-A1	were-AM-TMP
+Mercury_SC_405869||cell.01	help.01	destroy.01	enter.01	body.01||R-A0	A1	A0	AM-PNC||Which-R-A0	help-A1	help-A0	to-AM-PNC	to-A1	pathogens-A1	bacteria-A0	that-R-A0	human-A1	body-A1
+Mercury_SC_401268||pour.01	liquid.01	beaker.01	turn.02	infer.01	result.01||A0	AM-MNR	A1	A3	A2||student-A0	clear-AM-MNR	liquid-A1	from-A1	into-A3	with-A1	in-A1	mixture-A1	pink-A2	are-A1	result-A2	of-A1
+Mercury_SC_401266||conduct.01	investigation.01	order.06	make.01	conclusion.01||A0	A1	AM-MNR	A2||student-A0	investigation-A1	to-A1	valid-AM-MNR	conclusion-A1	must-A2
+Mercury_SC_406712||help.01	discover.01||R-A0	AM-MOD	AM-MNR	A1	A0	C-A1||Which-R-A0	would-AM-MOD	best-AM-MNR	scientist-A1	scientist-A0	discover-C-A1	planet-A1
+Mercury_SC_401261||melt.01	become.01||R-AM-TMP	A1	AM-TMP	A2||When-R-AM-TMP	ice-A1	melts-AM-TMP	it-A1	a-A2
+Mercury_SC_401260||place.01	shake.01	become.01||A1	AM-MNR	A2	R-AM-TMP	AM-TMP||Salt-A1	together-AM-MNR	in-A2	When-R-AM-TMP	container-A1	is-AM-TMP	salt-A1	a-A2
+Mercury_SC_405862||look.01	use.01	magnify.01	best.01	see.01||A0	A1	AM-MOD||student-A0	at-A1	insects-A0	lens-A1	can-AM-MOD	be-A1	with-A1	lens-A0
+Mercury_SC_415409||leave.02	gully.01	slow.03	foot.01	fan.01	deposit.01	structure.01	form.01	way.01||AM-TMP	A1	A2	AM-LOC	AM-ADV	A3	AM-MNR||During-AM-TMP	wash-A1	down-A2	on-A1	water-A1	at-AM-LOC	of-A1	depositing-AM-ADV	leaves-A1	What-A3	geologic-A1	structure-A2	structure-A1	is-A1	in-AM-MNR	similar-A2
+Mercury_SC_400176||length.01	take.01	complete.01	cycle.01||A2	A1	A0	AM-PNC||length-A2	of-A1	it-A0	NNP-A1	NNP-A0	to-AM-PNC	lunar-A1	cycle-A1
+MSA_2015_5_46||contain.01	milliliter.01	place.01	melt.01	property.01	change.01||A0	A1	A2	AM-NEG	R-AM-TMP	AM-TMP||beaker-A0	beaker-A1	milliliters-A1	of-A1	on-A2	ice-A1	property-A1	of-A0	not-AM-NEG	when-R-AM-TMP	it-A1	melted-AM-TMP
+Mercury_SC_400174||compare.01	roll.01	order.06	make.02||A0	A1	R-AM-LOC	A2||student-A0	speeds-A1	at-R-AM-LOC	rolled-A2	plane-A1	to-A1	findings-A1	reliable-A2	should-A2
+MEA_2012_5_8||rotate.02	axis.01||R-AM-MNR	A0	A1	AM-TMP||How-R-AM-MNR	NNP-A0	on-A1	its-A0	in-AM-TMP
+Mercury_SC_415403||leave.01	chunk.01	melt.01||A0	AM-TMP	AM-LOC	A2	A1	R-A1||glacier-A0	sometimes-AM-TMP	behind-AM-LOC	large-A2	of-A1	What-R-A1	in-AM-LOC	chunks-A1	ice-A1
+Mercury_SC_415410||form.01||R-A0	A1||What-R-A0	valleys-A1
+MDSA_2011_5_43||change.01	surface.01	formation.01	result.01	deposition.01||A0	A1	A2	AM-MNR||Wind-A0	surface-A1	of-A1	land-A1	result-A2	by-AM-MNR
+Mercury_SC_400169||advertisement.01	find.01	fraction.01	buy.01	simu-gem.01	suggest.01	supplier.01||A1	AM-LOC	A0||advertisement-A1	in-AM-LOC	of-A1	Simu-Gems-A1	at-AM-LOC	advertisement-A0	NNP-A1	supplier-A1	supplier-A0
+Mercury_SC_401258||freeze.01	form.01	cube.01||A1	AM-TMP	A0||water-A1	freezes-AM-TMP	it-A0	ice-A1
+Mercury_SC_401255||place.01	stir.02	form.01||A1	A0	A2	AM-TMP||NNP-A1	NNP-A0	in-A2	What-A1	are-AM-TMP
+Mercury_SC_406702||protect.01	enemy.01	have.03||A1	AM-ADV	AM-MOD	A2	A0||lizard-A1	likely-AM-ADV	would-AM-MOD	from-A2	its-A1	enemies-A0	if-AM-ADV	it-A0	characteristic-A1
+Mercury_SC_406700||stage.02	cycle.01	birth.01	cub.01||A1	A0||in-A1	life-A1	of-A1	lion-A1	cub-A0
+Mercury_SC_402105||resource.01||||
+CSZ_2006_5_CSZ10326||describe.01	role.01||R-A0	A0	A1||Which-R-A0	best-A0	role-A1	of-A0
+Mercury_SC_408047||discover.01	way.01	make.02	use.01	work.01	job.01	benefit.01||A0	A1	A2	AM-LOC	R-A0	AM-MOD	AM-ADV||Scientists-A0	ways-A1	to-A1	crops-A1	crops-A0	use-A2	water-A1	person-A0	person-A1	in-AM-LOC	which-R-A0	job-A1	would-AM-MOD	most-AM-ADV	from-A0
+Mercury_SC_408048||vaccine.01	develop.02	do.02	help.01||A1	AM-TMP	AM-MNR	A3	A2||vaccines-A1	for-A1	time-AM-TMP	How-AM-MNR	vaccines-A3	people-A1	people-A2
+Mercury_SC_407194||effect.01	cut.02	number.01||AM-MNR	A1	A0||likely-AM-MNR	effect-A1	of-A0	numbers-A1	of-A1
+LEAP__5_10310||nitrogen.01	find.01	cycle.01||R-AM-LOC	AM-MOD	AM-MNR	AM-LOC	A1||Where-R-AM-LOC	would-AM-MOD	easily-AM-MNR	in-AM-LOC	nitrogen-A1
+Mercury_SC_LBS10384||classify.01||A1	AM-MOD	AM-MNR	A0||Vegetables-A1	can-AM-MOD	scientifically-AM-MNR	by-A0
+Mercury_SC_LBS10385||have.03	impact.01	development.01	light.03||R-A0	A0	A1	AM-MNR||Which-R-A0	inventor-A0	impact-A1	on-A1	of-A1	artificial-AM-MNR
+LEAP__5_10313||use.01	enter.01	affect.01	cause.01||A0	R-A1	A1	AM-MNR||Runoff-A0	farms-A0	that-R-A1	fertilizers-A1	lake-A1	This-A0	most-A0	directly-AM-MNR	by-AM-MNR
+LEAP__5_10314||role.01	chain.01||A1	A0	A2||role-A1	of-A0	in-A2	food-A1
+LEAP__5_10318||conduct.01	experiment.01	write.01	temperature.01	degree.03	weigh.01	place.01	increase.01	make.01||A0	A1	AM-LOC	AM-TMP	A3	A2	A4	R-AM-LOC||NNP-A0	experiment-A1	He-A0	sentences-A1	in-AM-LOC	starting-AM-TMP	of-A1	NNP-A1	object-A1	grams-A3	in-A2	temperature-A1	to-A4	In-R-AM-LOC	inference-A1
+Mercury_SC_401647||plan.01	project.01	determine.01	effect.01	formation.01	area.01	choose.01	site.01	measure.01	change.01||A0	A1	A2	AM-TMP	AM-MOD||scientist-A0	project-A1	to-A1	effect-A1	of-A0	on-A2	of-A1	area-A1	as-A2	for-A1	How-AM-TMP	should-AM-MOD	changes-A1	in-A1
+Mercury_SC_401645||characteristic.01	acquire.01	influence.01||A1||of-A1	trait-A1	environmental-A1
+Mercury_SC_LBS10389||group.01	study.01	affect.01	change.01||A0	A1||group-A0	of-A1	plants-A1	All-A1	by-A0	in-A1
+Mercury_SC_401644||inherit.01	parent.01||A0	AM-MOD	A1||horse-A0	will-AM-MOD	all-A1	its-A1	parents-A0
+Mercury_SC_408038||side.01	receive.01	statement.01	explain.01	fact.01||AM-TMP	A0	A1	AM-MOD	A2||In-AM-TMP	side-A0	of-A1	will-AM-MOD	energy-A1	from-A2	statement-A0	fact-A1
+NYSEDREGENTS_2011_4_8||sense.01	use.01	determine.01	texture.01||A1	A0	A2||sense-A1	sense-A0	to-A2	object-A1	texture-A1	texture-A2
+Mercury_SC_407186||gain.02	come.03||A0	A1	R-A1	A2||chicken-A0	energy-A1	that-R-A1	from-A2
+NYSEDREGENTS_2011_4_7||unit.01	describe.01	length.01||A0	A1	A2||unit-A0	of-A1	object-A1	length-A1	length-A2
+NYSEDREGENTS_2011_4_6||force.01	cause.01	roll.01||A1	A0	C-A1	AM-MNR||Which-A1	force-A0	rocks-A1	to-C-A1	downhill-AM-MNR
+NYSEDREGENTS_2011_4_5||rain.01	form.01	go.13	make.01	disappear.01||A0	A2	A1	AM-TMP||It-A0	on-A2	puddle-A1	After-AM-TMP	Which-AM-TMP	processes-A0	processes-A1	puddle-A2	form-A1	form-A2	then-AM-TMP
+NYSEDREGENTS_2011_4_3||use.01	describe.01||A1	A0	AM-ADV	A2||observations-A1	observations-A0	both-AM-ADV	to-A2	weather-A1
+NYSEDREGENTS_2011_4_2||length.01	change.01	fall.01||A2	A0	A1	A3||length-A2	length-A0	length-A1	of-A1	from-A3
+Mercury_SC_400301||floating.01	point.01||A1	A0	AM-TMP	A2||arrow-A1	arrow-A0	always-AM-TMP	towards-A2
+Mercury_SC_401631||use.01	power.01	appliance.01	convert.01||AM-PNC	A1	A0	A2	AM-MOD||To-AM-PNC	energy-A1	energy-A0	from-A2	to-A2	household-A1	appliances-A1	must-AM-MOD
+Mercury_SC_400300||use.01	observe.01||R-AM-TMP	A1	AM-LOC||when-R-AM-TMP	insects-A1	in-AM-LOC
+MCAS_2005_5_15||erupt.01	flow.01	type.01	form.01||R-AM-TMP	A1	AM-TMP	AM-DIR	A2	A4||When-R-AM-TMP	volcano-A1	erupts-AM-TMP	lava-A1	from-AM-DIR	type-A2	type-A1	of-A1	as-A4
+MCAS_2005_5_16||temperature.01	represent.01	following.01||AM-LOC	AM-TMP	A2	A1	AM-MNR	A0||In-AM-LOC	daily-AM-TMP	high-A2	temperatures-A1	for-AM-TMP	best-AM-MNR	by-A0	following-A0
+Mercury_SC_401633||make.03	reflect.01||A1	A2	AM-PNC||object-A1	object-A2	to-AM-PNC	light-A1
+NYSEDREGENTS_2007_4_30||||||
+Mercury_SC_408027||want.01	know.01	temperature.01	affect.01	type.01	use.01	measure.01||A0	A1	R-AM-MNR	A2||NNP-A0	to-A1	how-R-AM-MNR	temperature-A0	of-A1	affects-A1	temperature-A1	type-A2	type-A1	they-A0	to-A2	temperatures-A1
+MEA_2013_5_2||climb.02	see.01	piece.02	make.01	piece.01||A0	A1	AM-LOC	R-A0	AM-ADV||student-A0	trail-A1	in-AM-LOC	She-A0	pieces-A1	of-A1	on-AM-LOC	Which-R-A0	action-A0	likely-AM-ADV
+Mercury_SC_406088||ability.01	ship.01	improve.01	improvement.01	have.03||AM-TMP	A1	AM-LOC	A0	AM-MNR||Over-AM-TMP	ability-A1	to-A1	foods-A1	around-AM-LOC	effect-A1	shipping-A1	improvements-A0	on-AM-MNR
+VASoL_2010_3_7||eat.01	come.01	run.01	hear.01	opener.01	mother.01	open.01	can.01	example.01||A0	A1	A2	R-AM-TMP	AM-TMP	AM-MOD||cats-A0	food-A1	cats-A1	running-A2	into-A1	when-R-AM-TMP	they-A0	hear-AM-TMP	electric-A1	can-A1	can-AM-MOD	Now-AM-TMP	time-AM-TMP	NNP-A1	mother-A0	of-A1	example-A1	of-A2
+NYSEDREGENTS_2007_4_27||live.01	depend.01	energy.01||A0	A1	A2||things-A0	things-A1	on-A1	from-A2
+NYSEDREGENTS_2007_4_29||help.01	attract.01||R-A0	A0	AM-TMP	A1	C-A1||Which-R-A0	adaptation-A0	often-AM-TMP	animal-A1	animal-A0	attract-C-A1	mate-A1
+Mercury_SC_401625||help.01	determine.01||A0	AM-MOD	AM-MNR	A1	AM-ADV||object-A0	would-AM-MOD	best-AM-MNR	student-A0	determine-A1	if-AM-ADV
+MCAS_2005_5_28||habitat.01	add.02	amount.01	cycle.01||R-A0	A0	A1	AM-ADV	A2	AM-MNR||Which-R-A0	habitat-A0	on-A1	probably-AM-ADV	amount-A1	of-A1	to-A2	water-A1	through-AM-MNR
+Mercury_SC_400535||cause.01	action.01||R-A1	AM-ADV	A0	A1||Which-R-A1	likely-AM-ADV	by-A0	of-A1
+MCAS_2005_5_29||following.01	formation.01||A0	A1||following-A0	of-A1
+Mercury_SC_400534||cause.02	weather.01||A2	A1	A0||Water-A2	causes-A1	causes-A0	weathering-A1	when-A1	it-A0
+NYSEDREGENTS_2007_4_22||decrease.01	temperature.01	cause.01||A0	A1	AM-TMP	AM-ADV	C-A1||decrease-A0	in-A1	air-A1	from-AM-TMP	likely-AM-ADV	person-A1	to-C-A1
+NYSEDREGENTS_2007_4_21||maintain.01||A0	A1||humans-A0	health-A1
+NYSEDREGENTS_2007_4_24||fly.01	example.01||A1	AM-LOC	AM-TMP	A2||birds-A1	south-AM-LOC	before-AM-TMP	year-AM-TMP	example-A1	of-A2
+MCAS_2005_5_30||turn.01	change.01	following.01	describe.01||A1	AM-DIR	A0||bulb-A1	energy-A1	changes-A1	from-AM-DIR	to-AM-DIR	best-A1	best-A0	change-A1
+MCAS_2005_5_32||following.01	have.03||A0	A1||Which-A0	climates-A1	winters-A1
+Mercury_SC_409583||have.03	transport.01||A0	A1	R-A0||Plants-A0	tissues-A1	tissues-A0	that-R-A0	food-A1
+Mercury_SC_407162||reason.01||A1||are-A1
+Mercury_SC_406073||complete.01	make.01	solution.01||A0	A1	AM-TMP	R-AM-LOC||student-A0	tasks-A1	while-AM-TMP	breakfast-A1	During-R-AM-LOC	task-A0	solution-A1
+Mercury_SC_406071||melt.01	make.01||A0	A1||jeweler-A0	gold-A1	jewelry-A1
+Mercury_SC_400528||have.03	layer.01	protect.01	cover.01	removal.01	cause.01	erode.01||A0	AM-TMP	A1	R-A1	A2	R-A2	C-A1||ecosystem-A0	once-AM-TMP	layer-A1	of-A1	topsoil-A1	which-R-A1	by-A0	grasses-A2	that-R-A2	it-A1	NNP-A0	NNP-A1	soil-A1	to-C-A1
+Mercury_SC_400527||type.01	survive.01	condition.01	hold.01	stem.01	example.01||A2	A0	A1	AM-CAU	AM-LOC||types-A2	types-A0	of-A1	dry-A2	conditions-A1	because-AM-CAU	they-A0	water-A1	in-AM-LOC	their-A1	example-A1	of-A2
+Mercury_SC_LBS11007||show.01||R-A1	AM-MOD	A1	AM-PRD||Which-R-A1	would-AM-MOD	best-A1	as-AM-PRD
+NYSEDREGENTS_2007_4_17||live.01	statement.01	suggest.01||A0	AM-MOD	AM-TMP	A1||trees-A0	can-AM-MOD	for-AM-TMP	plants-A0	usually-AM-TMP	statement-A1	statement-A0	that-A1
+MEA_2013_5_6||information.01	need.01	calculate.01	speed.01||A2	A1	A0	AM-PNC||What-A2	information-A1	information-A0	to-AM-PNC	speed-A1	speed-A2	of-A1
+NYSEDREGENTS_2007_4_16||grow.01	fur.01	help.01||A0	AM-MNR	A1||Growing-A0	thicker-AM-MNR	fur-A1	in-A1	animals-A1
+Mercury_SC_400520||form.01||A1	A0||Minerals-A1	by-A0
+MCAS_2005_5_36||measure.02	pressure.01||A1	A0||instrument-A1	instrument-A0	air-A1	pressure-A1
+Mercury_SC_401614||amount.01	use.01	affect.01	kind.01	choice.01||A0	A1	AM-LOC	AM-MOD||Research-A0	of-A1	around-AM-LOC	can-AM-MOD	kind-A1	human-A0	choice-A1
+Mercury_SC_LBS11002||write.01	report.01	include.01	best.01	help.01	explain.01	works.01||A0	A1	R-A1	AM-MOD	A2	R-AM-MNR||student-A0	report-A1	on-A1	What-R-A1	should-AM-MOD	student-A2	to-A1	help-A1	explain-A1	how-R-AM-MNR	volcano-A1	works-A1
+Mercury_SC_400524||measurement.01	concentration.02	take.01	show.01||A1	AM-LOC	AM-TMP||Measurements-A1	of-A1	dioxide-A1	in-AM-LOC	air-A1	over-AM-TMP	a-AM-TMP
+ACTAAP_2014_5_16||pull.01	state.01	result.01||A0	A1	A2	AM-MNR||temperature-A0	electrons-A1	away-A2	of-A2	matter-AM-MNR	results-A2	from-A1
+Mercury_SC_401210||use.01	measure.01	diameter.01||A1	A0	A2||tool-A1	tool-A0	to-A2	diameter-A1	of-A1
+ACTAAP_2014_5_14||role.01||A1	A0||role-A1	of-A0
+Mercury_SC_409179||investigate.01	effect.01	growth.01	record.01	result.01	find.01	grow.01	temperature.01	purpose.01	conclusion.01	process.01||A0	A1	A2	AM-NEG||NNP-A0	effect-A1	of-A0	on-A2	of-A1	He-A0	results-A1	results-A2	from-A1	that-A1	snapdragons-A1	not-AM-NEG	well-A2	low-A2	purpose-A1	in-A1	scientific-A1
+NCEOGA_2013_5_38||ecosystem.01	population.01	decrease.01	effect.01	rest.01||A1	A2	A0	AM-MNR||grassland-A1	population-A2	population-A0	of-A1	suddenly-AM-MNR	will-A1	effect-A1	on-A2
+AKDE&ED_2012_4_46||change.01	cause.01||A1	AM-ADV	A0||Which-A1	change-A1	likely-AM-ADV	by-A0
+Mercury_SC_400360||do.02	light.01	cause.01	appear.01||R-A1	A1	AM-PNC	C-A1	AM-MNR||What-R-A1	mirror-A1	to-AM-PNC	that-A1	objects-A1	to-C-A1	backwards-AM-MNR
+AKDE&ED_2012_4_44||help.01	observe.02	part.01||A0	AM-MOD	AM-MNR	A1	C-A1||tool-A0	would-AM-MOD	best-AM-MNR	person-A1	person-A0	observe-C-A1	parts-A1	of-A1
+CSZ_2004_5_CSZ20414||try.01	identify.01	have.03	luster.01	scratch.02	sheet.02||A0	A1	R-A0	A2	AM-MOD	AM-DIS	AM-MNR||student-A0	to-A1	mineral-A1	mineral-A0	that-R-A0	nonmetallic-A1	luster-A1	luster-A2	It-A1	can-AM-MOD	also-AM-DIS	with-AM-MNR	reference-A1
+ACTAAP_2014_5_10||catch.03	eat.01	statement.01	describe.01	role.01||A0	A1||robin-A0	cricket-A1	statement-A0	roles-A1	of-A1
+NCEOGA_2013_5_34||system.01	body.01	provide.01	protection.01||A0	A1	A2||system-A0	system-A1	of-A1	human-A1	protection-A1	to-A2
+AIMS_2009_4_7||play.02	make.03	use.01	resource.01||A0	A1	AM-MOD	AM-MNR||NNP-A0	to-A1	radio-A1	can-AM-MOD	using-AM-MNR	resources-A1
+AIMS_2009_4_6||look.01	toothbrush.01	have.03	plug.02	prong.01	make.01||A0	A1	R-A0	R-AM-CAU	A2||NNP-A0	at-A1	electric-A1	toothbrush-A0	that-R-A0	plug-A1	with-A1	metal-A1	Why-R-AM-CAU	prongs-A1	out-A2
+NCEOGA_2013_5_33||have.03||A0	A1||organisms-A0	in-A1
+AIMS_2009_4_9||cause.01	change.01	surface.01	have.03	effect.01	remove.01	pollute.01	following.01	create.01	erosion.01||A0	AM-MOD	A1	R-A0	AM-MNR	A2	AM-TMP||Wind-A0	can-AM-MOD	erosion-A1	erosion-A0	that-R-A0	surface-A1	of-A1	negative-AM-MNR	effects-A1	on-A2	by-AM-MNR	soil-A1	air-A1	during-AM-TMP	Which-A1	forms-A1	by-A0	wind-A1
+NCEOGA_2013_5_30||forecaster.01	predict.01	system.01	move.01	condition.01	bring.01||AM-LOC	AM-TMP	A1	A0	AM-MOD	A2	AM-ADV||On-AM-LOC	day-AM-TMP	local-AM-LOC	weather-A1	forecaster-A0	that-A1	high-pressure-A1	system-A1	will-AM-MOD	into-A2	in-AM-TMP	conditions-A2	likely-AM-ADV	to-A2
+AIMS_2009_4_8||read.01	information.01	answer.01	question.01	cause.01	change.01	surface.01	have.03	effect.01	remove.01	pollute.01	way.01	prevent.01	erosion.01||A0	A1	AM-TMP	AM-MOD	R-A0	AM-MNR	A2||Directions-A0	information-A1	about-A1	then-AM-TMP	question-A1	Wind-A0	can-AM-MOD	erosion-A1	erosion-A0	that-R-A0	surface-A1	of-A1	negative-AM-MNR	effects-A1	on-A2	by-AM-MNR	soil-A1	air-A1	during-AM-TMP	way-AM-MNR	to-A1	wind-A1
+NCEOGA_2013_5_31||describe.01	characteristic.01	stream.01||R-A0	A0	A1||Which-R-A0	best-A0	characteristic-A1	of-A1	jet-A1
+Mercury_SC_LBS10184||use.01	following.01||A1	AM-MOD	A2||telescope-A1	would-AM-MOD	for-A2
+MCAS_1999_4_8||make.01	grow.01||A1	A2||item-A1	from-A2	material-A1	in-A2
+NCEOGA_2013_5_40||example.01	inherit.01||A1	A2||examples-A1	of-A2	traits-A1
+Mercury_SC_400119||change.01	occur.01	work.01||A1	AM-MOD	AM-LOC	A0	R-A0	AM-MNR||Which-A1	change-A1	will-AM-MOD	in-AM-LOC	circuit-A0	that-R-A0	properly-AM-MNR
+MCAS_1999_4_6||wish.01	observe.01	use.01||A0	A1	AM-MNR||You-A0	to-A1	closely-AM-MNR	insect-A1	best-A1
+Mercury_SC_401203||use.01	determine.01	mass.02||A1	A0	A2||tool-A1	tool-A0	to-A2	mass-A1	of-A1
+Mercury_SC_400113||mix.01	amount.01	ask.02	observe.02	change.01	occur.01	dissolve.01	observe.01||A0	A1	A2	R-A1	AM-TMP	AM-MOD||teacher-A0	amount-A1	of-A1	students-A2	students-A0	to-A1	physical-A1	changes-A1	that-R-A1	as-AM-TMP	salt-A1	will-AM-MOD	they-A0
+Mercury_SC_400597||hatch.01	develop.02	know.01||A1	AM-DIR	A0	AM-MNR	A2||eggs-A1	into-AM-DIR	tadpoles-A0	gradually-AM-MNR	into-A1	process-A1	as-A2
+Mercury_SC_401202||determine.01	point.02	use.01||A2	A0	A1	AM-MOD||To-A2	boiling-A0	point-A1	of-A1	student-A0	must-AM-MOD	all-A1
+MCAS_1999_4_2||wear.01||A1||T-shirt-A1
+Mercury_SC_400596||occur.01||A1	R-A1	AM-LOC||processes-A1	which-R-A1	in-AM-LOC
+Mercury_SC_401200||action.01	turn.02	brush.01	example.01||A1	AM-TMP	A2||of-A1	water-A1	while-AM-TMP	teeth-A1	example-A1	of-A2
+Mercury_SC_401207||present.01	collect.01	usage.01||A1	A2	AM-TMP	AM-LOC||data-A1	on-A2	yearly-AM-TMP	water-A1	in-AM-LOC
+Mercury_SC_401206||source.01	number.01	decrease.01	effect.01	have.03||A2	A1	A3	AM-ADV	AM-MNR	A0	AM-LOC||source-A2	of-A1	for-A3	If-AM-ADV	number-A1	suddenly-AM-MNR	effect-A1	it-A0	likely-AM-ADV	on-AM-LOC
+Mercury_SC_400116||enter.01	eye.01||A0	A1||NNP-A0	human-A0	eye-A1	through-A1
+Mercury_SC_401204||use.01	determine.01	take.01	melt.01	cube.01||A1	A0	A2	AM-TMP	AM-PNC||tool-A1	tool-A0	to-A2	how-AM-TMP	it-A0	takes-A1	water-A1	to-AM-PNC	ice-A1	cube-A1
+MCAS_2010_5_5||class.03	build.01	stack.01	control.01	movement.03	perform.01	function.01	part.01	body.01||A2	A0	A1	R-A0||students-A2	students-A0	engineering-A1	robot-A1	robot-A0	that-R-A0	blocks-A1	computer-A0	movement-A1	of-A1	function-A1	human-A1
+NCEOGA_2013_5_29||live.01	season.01	experience.01||A0	AM-LOC	A1	AM-TMP||NNP-A0	in-AM-LOC	What-A1	he-A0	in-AM-TMP
+MCAS_2010_5_9||dry.01	population.01	follow.01	live.01	affect.01||A1	AM-TMP	A2	A0	R-A0	AM-LOC	AM-EXT||ponds-A1	during-AM-TMP	population-A2	population-A1	of-A1	animals-A2	animals-A0	that-R-A0	in-AM-LOC	most-AM-EXT	by-A0
+Mercury_SC_401680||base.02	analysis.01	core.03	theorize.01	cause.01	pollution.01	make.04||AM-ADV	A2	A1	A0	AM-MOD||Based-AM-ADV	on-A2	of-A1	ice-A1	from-A0	scientists-A0	that-A1	humans-A0	air-A1	pollution-A1	can-AM-MOD	sure-A1	is-A2
+Mercury_SC_400591||way.01	show.01	change.01	happen.01	display.01	result.01	use.01||A2	A1	AM-TMP	AM-MNR||effective-A2	to-A1	change-A1	happening-A1	over-AM-TMP	your-A1	results-A1	results-A2	using-AM-MNR	a-A1
+NCEOGA_2013_5_25||gram.01	add.02	make.01||AM-ADV	A1	A2	AM-MNR	AM-MOD||If-AM-ADV	grams-A1	of-A1	to-A2	how-AM-MNR	water-A1	will-AM-MOD
+Mercury_SC_410573||learn.01	adaptation.01	example.01||A0	A1	A2||NNP-A0	about-A1	of-A1	example-A1	of-A2
+NCEOGA_2013_5_26||notice.03	get.03	warm.01	describe.01	mass.02	result.01||A0	A1	A2	R-AM-TMP	AM-TMP||student-A0	that-A1	balloon-A1	larger-A2	when-R-AM-TMP	it-A1	is-AM-TMP	by-A0	Which-A0	best-A0	describes-A2	mass-A1	of-A1	as-A2
+Mercury_SC_410572||notice.03	ice.01	cover.01	hood.01	park.01	engine.01	run.01	begin.01	melt.01	form.01	release.01||AM-TMP	A0	A1	C-A1	A2	AM-PNC||During-AM-TMP	NNP-A0	notices-A0	covering-A1	hoods-A1	of-A1	cars-A1	Once-AM-TMP	engine-A1	for-AM-TMP	ice-A1	to-C-A1	form-A2	form-A1	from-A2	car-A1	to-AM-PNC
+NCEOGA_2013_5_21||describe.01	speed.01	throw.01	come.01||R-A0	R-A1	A0	A1	A2	AM-MNR	AM-DIR||Which-R-A0	Which-R-A1	best-A0	best-A1	speed-A1	of-A1	as-A2	it-A1	straight-AM-MNR	into-A2	back-AM-DIR
+NCEOGA_2013_5_22||cause.01	move.01	increase.01	speed.01	direction.01||R-A0	A1	AM-MOD	A0	C-A1	A2	AM-MNR||What-R-A0	What-A1	can-AM-MOD	object-A1	object-A0	to-C-A1	its-A2	speed-A1	in-AM-MNR	forward-A2	direction-A2
+Mercury_SC_LBS10173||build-up.01	move.01	call.01||A1||of-A1	ice-A1
+NYSEDREGENTS_2005_4_13||season.01||A1||of-A1
+NYSEDREGENTS_2005_4_12||open.01	mouth.01	let.01	hang.01	body.01	produce.01	way.01	organism.01	adjust.01||A0	A1	AM-MOD	A4||dog-A0	its-A1	mouth-A1	its-A0	tongue-A1	hang-A1	human-A1	body-A0	sweat-A1	that-A1	organisms-A1	may-AM-MOD	to-A4
+NYSEDREGENTS_2005_4_11||get.01	energy.01	repair.01||A0	A1||Animals-A0	energy-A1	for-A1	from-A0
+Mercury_SC_400345||class.03	take.01	trip.01	observe.01	study.01||A1	A2	A0	AM-PNC||science-A1	class-A2	class-A0	field-A1	trip-A1	to-A2	to-AM-PNC	birds-A1
+Mercury_SC_401676||theory.01	change.01	inspire.01	research.01	set.01||A0	A1	AM-MOD	AM-TMP	A2||NNP-A0	theory-A1	that-A1	species-A1	can-AM-MOD	over-AM-TMP	by-A0	his-A0	research-A1	of-A2
+Mercury_SC_400587||do.02	shatter.01	experiment.01||R-A1	AM-MOD	A0	AM-MNR	AM-TMP	A1||What-R-A1	should-AM-MOD	student-A0	glass-A0	beaker-AM-MNR	shatters-AM-TMP	during-AM-TMP	laboratory-A1
+Mercury_SC_401674||bone.01	fly.01	discover.01	kind.01	help.01	learn.01||AM-TMP	A1	A0	C-A1||In-AM-TMP	bones-A1	of-A1	dinosaur-A1	kind-A0	everyone-A1	everyone-A0	learn-C-A1	more-A1
+Mercury_SC_400341||fall.01	crowded.01	become.01	surround.01||AM-ADV	A1	AM-LOC	A2||If-AM-ADV	tree-A1	in-AM-LOC	forest-A1	resource-A1	available-A2	plants-A2
+Mercury_SC_400581||radiation.01	have.03	part.01	cycle.01||A1	A0||Solar-A1	radiation-A0	part-A1	in-A1	water-A1
+NCEOGA_2013_5_58||have.03	characteristic.01	parent.01||R-AM-CAU	A0	A1||Why-R-AM-CAU	dogs-A0	most-A1	of-A1	their-A1	parents-A0
+NCEOGA_2013_5_59||characteristic.01	result.01	environment.02||A1	A2||of-A1	result-A2	its-A1
+NYSEDREGENTS_2005_4_19||grow.01	notice.01	spot.01	she.01	use.01	get.01	look.01||A1	AM-PNC	A0	A2	AM-MOD	AM-MNR||plants-A1	for-AM-PNC	She-A0	white-A2	spots-A1	on-A1	tool-A0	tool-A1	should-AM-MOD	use-A1	to-AM-PNC	to-A2	better-AM-MNR	look-A1	at-A1
+NCEOGA_2013_5_56||chain.01	include.01	happen.01	population.01	spray.01	kill.01	find.01||A1	A2	AM-MOD	AM-ADV	A3	A0	AM-NEG	AM-LOC||food-A1	chain-A2	hawks-A1	Which-A1	will-AM-MOD	likely-AM-ADV	to-A2	lizard-A3	if-AM-ADV	pesticide-A1	pesticide-A0	insects-A1	populations-A0	can-AM-MOD	not-AM-NEG	in-AM-LOC
+Mercury_SC_409152||put.01	supply.01	make.02	turn.13||A0	A1	A2	A3	R-A0||NNP-A0	battery-A1	into-A2	supply-A3	to-A2	radio-A0	that-R-A0	it-A1	turn-A2
+NCEOGA_2013_5_57||explain.01	resemble.01	parent.01||R-A0	A0	A1	A2||Which-R-A0	best-A0	children-A1	resemble-A1	their-A1	parents-A2	parents-A0
+Mercury_SC_409151||visit.01	have.03	describe.01	role.01	ecosystem.01||A0	A1	R-A0||NNP-A0	park-A1	park-A0	that-R-A0	trees-A1	Which-R-A0	best-A0	role-A1	of-A0	its-A0
+NCEOGA_2013_5_54||move.01	population.01	decrease.01	cause.01||AM-ADV	A1	A2	A3	A0||As-AM-ADV	people-A1	to-A2	turtle-A3	population-A2	population-A1	likely-AM-ADV	cause-A0	of-A1
+MEA_2014_5_7||rain.01	flow.01	mix.01	following.01	happen.01||AM-TMP	AM-MNR	A1	AM-DIR	R-A1	A0||After-AM-TMP	heavy-AM-MNR	mudslide-A1	into-AM-DIR	pond-A1	Which-R-A1	following-A0
+NYSEDREGENTS_2005_4_16||find.01||A1	AM-TMP	AM-LOC	A3||substance-A1	usually-AM-TMP	in-AM-LOC	as-A3
+NCEOGA_2013_5_55||cause.01	decrease.01	population.01||A0	AM-MOD	AM-ADV	A1	A3||Which-A0	will-AM-MOD	likely-AM-ADV	decrease-A1	in-A1	predator-A3
+MEA_2014_5_6||rise.01	have.03	advantage.01	gain.01||A1	A0	AM-ADV	AM-MNR	A2||One-A1	One-A0	is-AM-ADV	fragrance-A1	What-A0	likely-AM-MNR	gain-A2
+Mercury_SC_409150||study.01	way.01	system.01	work.01	compare.01||A0	A1	AM-MNR||NNP-A0	ways-A1	body-A1	systems-A0	work-A1	together-AM-MNR	He-A0	respiratory-A1	systems-A1	are-A1
+NYSEDREGENTS_2005_4_15||example.01	habit.01||A1	A2	AM-MNR||example-A1	of-A2	poor-AM-MNR	health-A1
+Mercury_SC_409391||pull.01	cause.01||A1	A2	A0||pull-A1	of-A1	on-A2	by-A0
+NYSEDREGENTS_2005_4_14||prepare.01	change.01||A0	A2	AM-MNR	A1||animal-A0	for-A2	seasonal-AM-MNR	in-A1
+NCEOGA_2013_5_53||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2005_4_24||speak.01	change.01	form.01||R-AM-TMP	A0	AM-TMP	A1	AM-ADV	A2||When-R-AM-TMP	person-A0	speaks-AM-TMP	into-A1	energy-A1	mostly-AM-ADV	into-A2	form-A2	of-A1
+MDSA_2008_4_2||use.01	resource.01	survive.01||A0	A2	A1	AM-LOC||Animals-A0	Animals-A2	resources-A1	resources-A0	in-AM-LOC	to-A2	animal-A1	for-A2
+LEAP_2001_4_10241||nonlive.01||A1||thing-A1
+NCEOGA_2013_5_60||inherit.01	parent.01||A0	A1||trait-A0	children-A1	from-A0	their-A1	parents-A0
+NYSEDREGENTS_2005_4_20||way.01	change.01||A1	A3	A2||to-A1	water-A1	from-A3	to-A2
+Mercury_SC_401664||use.01	recycle.01||A1	AM-LOC	AM-MOD	AM-MNR||object-A1	in-AM-LOC	can-AM-MOD	safely-AM-MNR
+Mercury_SC_400338||body.03	cover.01	scale.01||A1	A2	A3||body-A1	of-A1	by-A2	for-A3
+Mercury_SC_409148||transform.01	make.03	food.01	type.01	use.01	make.01||A0	A1	R-AM-TMP	AM-TMP	A2||Plants-A0	energy-A1	when-R-AM-TMP	they-A0	make-AM-TMP	their-A0	food-A1	type-A2	type-A1	type-A0	of-A1	by-A0	for-A2
+Mercury_SC_401660||theorize.01	cause.01	fall.01	discover.01	force.01||R-AM-TMP	A0	AM-TMP	A1	C-A1	A4	AM-DIS	R-A0||When-R-AM-TMP	NNP-A0	theorized-AM-TMP	that-A1	gravity-A0	objects-A1	to-C-A1	to-A4	he-A0	also-AM-DIS	force-A1	force-A0	that-R-A0
+Mercury_SC_400570||area.01	clear.01	burn.01	affect.01	explain.01	destruction.01	contribute.01||A1	AM-TMP	AM-MOD	R-A0	A0	A2||areas-A1	of-A1	are-AM-TMP	climate-A1	can-AM-MOD	Which-R-A0	best-A0	rainforest-A1	destruction-A0	can-A1	to-A2
+NCEOGA_2013_5_47||happen.01	track.03	heat.01||R-A1	A2	A0	AM-TMP	A1||What-R-A1	to-A2	railroad-A0	during-AM-TMP	of-A1
+NYSEDREGENTS_2005_4_29||toss.01	come.01||A1	AM-DIR	AM-CAU||ball-A1	in-AM-DIR	it-A1	back-AM-DIR	down-AM-DIR	because-AM-CAU
+Mercury_SC_413625||describe.01	property.01||R-A0	A1||Which-R-A0	property-A1	of-A1
+NYSEDREGENTS_2005_4_28||shake.01	make.01	form.01	change.01	sound.01||A0	AM-TMP	A1	A2	AM-PNC||baby-A0	shakes-AM-TMP	rattle-A1	it-A0	noise-A1	form-A2	form-A1	of-A1	to-AM-PNC	energy-A1
+NCEOGA_2013_5_44||allow.01	control.01	amount.01	stor.01	leave.01||A0	A1	C-A1	AM-LOC||process-A0	plants-A1	plants-A0	to-C-A1	amount-A1	of-A1	in-AM-LOC	their-A0
+Mercury_SC_409381||find.01||R-A1	AM-MOD	AM-ADV	AM-LOC||Which-R-A1	can-AM-MOD	only-AM-ADV	in-AM-LOC
+NYSEDREGENTS_2005_4_26||use.01	show.01	energy.01	transfer.01||A1	A0	AM-MOD	AM-ADV	A2||example-A1	example-A0	could-AM-MOD	thermometer-AM-ADV	to-A2	that-A1	heat-A1	energy-A1
+NCEOGA_2013_5_41||pencil.01	fall.01	move.01||A1	R-A0	A2||pencil-A1	of-A1	What-R-A0	toward-A2
+Mercury_SC_408290||lose.02	outside.01	find.01	part.01	cover.02	type.01	occur.01	form.01||A0	A1	R-AM-TMP	AM-TMP	A2	AM-MNR||NNP-A0	her-A0	hammer-A1	outside-A1	When-R-AM-TMP	she-A0	found-AM-TMP	it-A1	later-AM-TMP	parts-A1	of-A1	with-A2	type-A2	type-A1	rust-AM-MNR	formed-AM-TMP	on-A2
+NYSEDREGENTS_2005_4_25||skid.01	appear.02	come.03	heat.01	produce.01	cause.01||A1	A0	C-A1	A2	AM-LOC	R-A0||car-A1	skids-A1	along-A0	to-C-A1	from-A2	under-AM-LOC	heat-A2	heat-A0	heat-A1	that-R-A0	smoke-A1	by-A0
+NCEOGA_2013_5_42||ride.01	come.01	cause.01	stop.01||A0	A1	AM-DIR	AM-TMP	A4	C-A1||child-A0	wagon-A1	down-AM-DIR	Eventually-AM-TMP	to-A4	to-C-A1
+NCEOGA_2013_5_50||result.01	stream.02	move.02||A2	AM-ADV	R-AM-TMP	A0	A1||What-A2	will-A2	likely-AM-ADV	when-R-AM-TMP	jet-A0	moves-A1
+Mercury_SC_400329||process.01	begin.01||AM-LOC	A1	AM-TMP||In-AM-LOC	digestion-A1	process-A1	in-AM-TMP
+Mercury_SC_400328||use.01	protection.01	splash.01||A1	A2||item-A1	for-A2	from-A2	chemical-A1
+NYSEDREGENTS_2005_4_30||help.01	move.01||A0	R-A0	A1	AM-DIR||machine-A0	that-R-A0	move-A1	flag-A1	up-AM-DIR
+Mercury_SC_401653||form.01	result.01	force.03||A1	A2	AM-MNR	A0||land-A1	form-A2	result-A2	of-A1	constructive-AM-MNR	of-A0
+Mercury_SC_401651||make.03	ecosystem.01||A1	A2||Coal-A1	from-A2
+Mercury_SC_400326||eat.01	rate.01	camouflage.01||A0	A1	AM-LOC	A2	R-AM-LOC	AM-MNR||Birds-A0	moths-A1	at-AM-LOC	higher-A2	they-A0	In-R-AM-LOC	birds-A0	at-AM-MNR
+Mercury_SC_408447||walk.01	wonder.01	decide.01	use.01	take.01	do.02	make.02	comparison.01||AM-TMP	A0	AM-DIR	A1	AM-MNR	R-A1	AM-MOD	AM-PNC	A2||As-AM-TMP	NNP-A0	to-AM-DIR	he-A0	would-A1	He-A0	to-A1	using-AM-MNR	routes-A1	how-A1	it-A0	Which-R-A1	should-AM-MOD	to-AM-PNC	his-A0	comparison-A1	fair-A2
+Mercury_SC_408443||write.01	report.01	investigation.01	add.02	tomato.01	information.01	help.01	repeat.01||A0	A1	A2	AM-MOD	C-A1||student-A0	report-A1	about-A1	investigation-A0	fertilizer-A1	to-A2	plants-A1	information-A0	from-A0	would-AM-MOD	student-A1	repeat-C-A1	investigation-A1
+Mercury_SC_408685||have.03	bubble.01	dioxide.01	describe.01||A0	R-A0	A1	AM-LOC||liquid-A0	that-R-A0	bubbles-A1	of-A1	carbon-A1	in-AM-LOC	term-A0	water-A1
+Mercury_SC_407594||test.01	effect.01	rate.01	compare.01	run.01	help.01	result.01||A0	A1	A2	A3	C-A1	AM-LOC	AM-MOD	AM-EXT	AM-MNR||class-A0	effect-A1	of-A0	on-A2	heart-A1	rate-A2	rate-A1	of-A2	to-A2	their-A3	after-C-A1	around-AM-LOC	procedure-A0	will-AM-MOD	likely-AM-EXT	correctly-AM-MNR	compare-A1	results-A1	results-A2	of-A1
+Mercury_SC_405170||roll.01	size.01	identify.01	reason.01||A0	A1	A2	AM-MNR	AM-ADV	R-A1||balls-A0	planes-A1	size-A2	ball-A0	plane-A1	faster-AM-MNR	possible-AM-ADV	reason-A1	that-R-A1	ball-A1	rolled-A1
+TAKS_2009_5_9||separate.01	mixture.01||A0	AM-MOD	A1	A2||process-A0	will-AM-MOD	sugar-A1	from-A2	of-A1
+MCAS_2007_5_4788||separate.01	can.01	center.01	following.01	way.01||A1	A2	A3	A0	AM-MNR	AM-MOD||cans-A1	from-A2	aluminum-A1	recycling-A3	center-A1	following-A0	way-AM-MNR	center-A0	can-A1	can-AM-MOD	steel-A1
+VASoL_2007_3_8||sense.01	use.01	tell.02||A1	A0	A2||sense-A1	sense-A0	to-A2	if-A1
+Mercury_SC_401802||action.01	method.01	separate.01	mixture.01||A1||to-A1	mixture-A1	of-A1
+MCAS_2007_5_4781||following.01	have.03	effect.01	ability.01	hold.01||R-A0	A0	A1	A2||Which-R-A0	following-A0	effect-A1	on-A2	of-A0	to-A1	water-A1
+VASoL_2007_3_5||want.01	look.01	use.01	lift.02||A0	A1	A2||student-A0	to-A1	under-A1	NNP-A0	to-A2	rock-A1
+Mercury_SC_401808||authority.01||A2	A1||on-A2	in-A1
+VASoL_2007_3_6||continue.01	support.01	fish.01	live.01||A1	A0	AM-MOD	C-A1	R-A0	AM-LOC	AM-ADV||habitat-A1	habitat-A0	can-AM-MOD	to-C-A1	birds-A1	birds-A0	that-A1	that-R-A0	there-AM-LOC	if-AM-ADV
+Mercury_SC_401807||run.01	enable.01||A1	AM-MOD	AM-MNR	A0||dogs-A1	can-AM-MOD	very-AM-MNR	adaptation-A0	dog-A1
+NYSEDREGENTS_2004_4_27||plan.01	race.01||A0	A2	A1||graders-A0	roller-skate-A2	race-A1
+Mercury_SC_LBS10788||walk.01	generate.01	charge.01	get.01	shock.01	touch.01||A0	AM-DIR	AM-MNR	A1	AM-MOD||child-A0	across-AM-DIR	electrical-AM-MNR	charge-A1	will-AM-MOD	slight-AM-MNR	shock-A1	by-AM-MNR	a-A1
+NAEP_2009_4_S11+16||example.01||A1	A2||example-A1	of-A2
+NYSEDREGENTS_2004_4_24||part.01	produce.01||A0	A1||part-A0	of-A1	seeds-A1
+Mercury_SC_LBS10782||use.01	classify.01	property.01||A1	A0	AM-MOD	A2||properties-A1	properties-A0	can-AM-MOD	to-A2	substances-A1	chemical-A1
+NYSEDREGENTS_2004_4_29||way.01	maintain.01||R-A1	A0	A1	AM-MOD||that-R-A1	humans-A0	can-A1	can-AM-MOD	health-A1
+NYSEDREGENTS_2004_4_28||measure.01	volume.01||AM-MNR	A1	A2||best-AM-MNR	volume-A1	volume-A2	of-A1
+MCAS_2007_5_4799||following.01	form.01	travel.01	vibrate.01	particle.01||R-A0	A1	A2	AM-MOD	AM-MNR||Which-R-A0	forms-A1	forms-A2	of-A1	can-AM-MOD	by-AM-MNR	particles-A1
+ACTAAP_2010_5_3||landing.01	play.01||AM-TMP	A1	A0	AM-LOC||During-AM-TMP	moon-A1	astronauts-A0	golf-A1	on-AM-LOC
+MCAS_2007_5_4795||purchase.01	kit.01	make.01	ramp.01	following.01	have.03	put.03||A0	A1	R-A0	A2||NNP-A0	kit-A1	for-A1	skateboard-A1	ramp-A1	Which-R-A0	following-A0	together-A2
+TAKS_2009_5_5||cream.01	change.01	follow.01	cause.01||A1	AM-LOC	A3	A2	AM-TMP	A0||Ice-A1	in-AM-LOC	bowl-A1	from-A3	to-A2	in-AM-TMP	Which-A0	likely-A2	change-A1
+ACTAAP_2010_5_4||list.01	order.01||A2	A1	AM-MNR||Which-A2	list-A1	correctly-AM-MNR	from-A2
+ACTAAP_2010_5_6||plant.01	pot.01	seed.01	place.01	water.02	measure.01	growth.01	analyze.01	conclusion.01	help.01	make.01||A0	A1	A2	AM-LOC	AM-TMP	AM-MOD	C-A1||NNP-A0	pots-A1	of-A1	lettuce-A1	seeds-A2	She-A0	in-AM-LOC	in-A2	pot-A1	growth-A1	After-AM-TMP	data-A1	what-A0	conclusion-A1	will-AM-MOD	it-A0	her-A1	her-A0	to-C-A1
+TAKS_2009_5_2||fur.01	turn.02	change.01	help.01	hare.01||A1	A2	AM-TMP	A0||fur-A1	of-A1	white-A2	in-AM-TMP	How-A0	color-A1	change-A0	change-A1	help-A0
+MCAS_2007_5_4794||place.01	sheet.01	paper.02	happen.01	strike.01||A0	A1	A2	R-A1	R-A0||student-A0	sheet-A1	of-A1	construction-A1	on-A2	What-R-A1	to-A2	light-A0	that-R-A0	paper-A1
+Mercury_SC_408423||run.01	track.03	need.01	know.01	order.06	find.01	speed.01||A0	A1	R-A1	A2	AM-PNC||NNP-A0	meters-A1	school-A0	What-R-A1	she-A0	to-A1	to-A2	in-AM-PNC	her-A1	speed-A1
+NYSEDREGENTS_2004_4_12||||||
+Mercury_SC_408664||grow.01	receive.01	energy.01||A1	A0||garden-A1	plants-A0	plants-A1	energy-A1
+NYSEDREGENTS_2004_4_11||function.03	root.01	support.01||A0	A1||functions-A0	of-A1	plant-A1
+NYSEDREGENTS_2004_4_10||cover.02	keep.02	have.03	help.01||A1	A2	A0	R-A0	C-A1||feathers-A1	with-A2	oil-A0	that-R-A0	duck-A1	dry-C-A1	ducks-A0	that-A0	helps-A1	them-A1
+Mercury_SC_408661||cause.01	erode.01||R-A0	AM-MOD	A1	C-A1	A2||Which-R-A0	would-AM-MOD	soil-A1	to-C-A1	from-A2
+Mercury_SC_407570||build.01	use.01	measure.01	height.01||A0	A1	A2	AM-MOD||NNP-A0	house-A1	tool-A1	tool-A2	should-AM-MOD	to-A2	height-A1	height-A2	of-A1
+Mercury_SC_406481||factor.01	prevent.01	survive.01||A1	A2	A0	AM-ADV	AM-LOC||environmental-A1	factor-A2	factor-A0	likely-AM-ADV	tree-A1	from-A2	in-AM-LOC
+Mercury_SC_407571||prepare.01	cake.01	use.01	bake.01	add.01	frost.01	measure.01||A0	A1	AM-TMP	AM-LOC	AM-MOD	A2||NNP-A0	layer-A1	cake-A1	cake-A0	oil-A1	After-AM-TMP	in-AM-LOC	they-A0	frosting-A1	property-A1	could-AM-MOD	with-A2
+OHAT_2010_5_14||provide.01	following.01	direction.01	brush.01	turn.13	leave.02	run.01	mouth.01	rinse.01	change.01	conserve.01||A0	AM-TMP	A1	A2	AM-MOD||student-A0	following-AM-TMP	directions-A1	for-A2	teeth-A1	•-A0	on-A1	water-A1	running-A1	NNP-A1	with-A1	toothbrush-A1	change-A0	in-A1	would-AM-MOD
+MCAS_2007_5_4765||type.01	survive.01	heat.03	fire.01	following.01	best.01	help.01||A2	A0	A1	R-A0	AM-MOD	C-A1||types-A2	types-A0	of-A1	heat-A1	forest-A1	Which-R-A0	characteristics-A1	would-AM-MOD	help-A1	tree-A1	tree-A0	survive-C-A1	fire-A1
+Mercury_SC_408417||neighbor.01	have.03	tree.01	source.01||A1	A0	AM-LOC	A2	A3||Miranda-A1	neighbors-A0	apple-A1	tree-A1	in-AM-LOC	source-A2	of-A1	for-A3
+Mercury_SC_408415||learn.01	release.01||A0	A1	AM-DIR	AM-TMP||NNP-A0	that-A1	trees-A0	gases-A1	into-AM-DIR	during-AM-TMP	tree-A1
+Mercury_SC_408656||inherit.01	feature.01	parent.01	come.03	environment.02||A0	A1	A2	AM-MOD||deer-A0	some-A1	its-A1	features-A2	from-A2	parents-A0	features-A1	would-AM-MOD	deer-A1	from-A0
+Mercury_SC_407568||want.01	make.01	friend.01	use.01	describe.01||A0	A1	A3	R-A0||NNP-A0	to-A1	lemonade-A1	for-A3	his-A1	friends-A0	He-A0	water-A1	Which-R-A0
+Mercury_SC_408414||system.01	body.01	perform.01	take.01	move.01||A0	A1	A2	AM-PNC||systems-A0	of-A1	human-A1	functions-A1	Which-A1	system-A0	oxygen-A1	from-A2	to-AM-PNC	by-A0	circulatory-A1
+OHAT_2010_5_20||flower.01	produce.01	drink.01	stick.01	show.01	drinking.01	nectar.01	statement.01	explain.01	role.01	cycle.01||R-A0	A1	A0	A2	R-AM-TMP	AM-TMP	AM-MNR||that-R-A0	plants-A1	plants-A0	hummingbird-A0	nectar-A1	from-A2	When-R-AM-TMP	drinks-AM-TMP	nectar-A2	pollen-A1	to-A2	picture-A0	hummingbird-A1	drinking-A1	from-A0	Which-AM-MNR	statement-A0	explains-A1	role-A1	of-A0	in-A2	life-A1	of-A1
+Mercury_SC_408413||system.01	break.01	use.01	carry.01	part.01||A1	A0	A3	AM-MOD	AM-DIR||digestive-A1	system-A0	food-A1	into-A3	body-A0	can-AM-MOD	What-A1	substances-A1	to-AM-DIR	of-A1
+Mercury_SC_405148||use.01	spoon.01	stir.02	cooking.01	notice.01	energy.01	make.01||A0	A1	A2	AM-LOC	AM-TMP||chef-A0	metal-A1	spoon-A1	spoon-A0	to-A2	noodles-A1	in-AM-LOC	After-AM-TMP	she-A0	that-A1	thermal-A1	energy-A0	from-A2
+Mercury_SC_405147||make.03	place.01	measure.01||A0	A1	A2	R-A1||NNP-A0	candy-A1	on-A2	She-A0	thermometer-A1	in-A2	What-R-A1	she-A0
+NYSEDREGENTS_2004_4_22||signal.01	friend.01	shine.01	see.01||A0	A1	AM-MNR	AM-LOC	AM-MOD	AM-CAU||girl-A0	her-A1	friend-A1	friend-A0	by-AM-MNR	flashlight-A1	on-AM-LOC	Her-A1	can-AM-MOD	signal-A1	because-AM-CAU
+Mercury_SC_408894||reproduce.01	lay.01	egg.01	place.05||A0	R-A0	AM-MNR	A1	A2||bird-A0	that-R-A0	by-AM-MNR	its-A1	eggs-A1	eggs-A0	in-A2	animal-A0	animal-A2
+NYSEDREGENTS_2004_4_21||have.03	ball.01	place.01	pan.01	change.01	make.01	float.01||A0	A1	R-A1	A2	AM-MOD	AM-PNC||student-A0	ball-A1	of-A1	that-R-A1	in-A2	property-A1	should-AM-MOD	he-A0	to-AM-PNC	clay-A1	float-A1
+MDSA_2010_5_35||require.01	examine.01	meet.01	standard.01	impact.01	vehicle.01	have.03||A0	A2	A1	A3	AM-MOD	AM-LOC||states-A0	vehicles-A2	vehicles-A1	to-A1	safety-A3	pollution-A1	standards-A1	standards-A2	What-A0	impact-A1	might-AM-MOD	inspections-A0	have-A1	on-A1	on-AM-LOC
+NYSEDREGENTS_2004_4_20||reach.01	hand.06	fill.01	feel.02	look.01	property.01	identify.01||A0	A1	A2	AM-DIR	AM-NEG	AM-MOD||student-A0	student-A1	hand-A1	hand-A2	into-AM-DIR	bag-A1	with-A2	objects-A1	not-AM-NEG	into-A1	property-A1	of-A0	can-AM-MOD
+Mercury_SC_411884||resource.01	provide.01	need.01	grow.01||A0	A1||resource-A0	plants-A0	plants-A1	need-A1	to-A1
+Mercury_SC_408890||compete.01	catch.03	fly.01	insect.01	tongue.01	help.01||A0	A1	A2	AM-ADV	C-A1||Frogs-A0	with-A1	for-A2	frogs-A0	insects-A1	their-A1	feature-A0	likely-AM-ADV	animals-A1	animals-A0	compete-C-A1
+Mercury_SC_411888||recycle.01||A1	AM-MNR	AM-LOC||material-A1	easily-AM-MNR	at-AM-LOC
+Mercury_SC_LBS10790||condense.01	following.01	form.01||AM-MNR	A1	A2	A0	AM-MOD||As-AM-MNR	vapor-A1	into-A2	following-A0	can-AM-MOD
+Mercury_SC_LBS10791||see.01||A1	AM-TMP||stars-A1	during-AM-TMP
+MCAS_2003_5_5||change.01	example.01||A1	A2||caterpillar-A1	into-A2	example-A1	of-A2
+MCAS_2003_5_6||have.03	make.07	property.01||A0	A1	AM-ADV	R-A1||NNP-A0	rocks-A1	entirely-AM-ADV	What-R-A1	of-A0
+MCAS_2007_5_4772||put.01	container.01	leave.01	see.01	change.01	ice.01	follow.01	statement.01	explain.01||A0	A1	A2	AM-LOC	AM-TMP	AM-PNC||NNP-A0	container-A1	of-A1	in-A2	it-A1	there-AM-LOC	morning-AM-TMP	she-A0	that-A1	water-A1	to-AM-PNC	following-AM-TMP	statements-A2	statements-A1	to-A2
+ACTAAP_2009_5_6||part.01	pair.01	function.01||A1	AM-MNR	A2	A0||cell-A1	part-A1	correctly-AM-MNR	with-A2	its-A0
+NYSEDREGENTS_2004_4_15||chick.01	sense.01	help.01	receive.01	warn.01	danger.02	mother.01||A0	A1	C-A1||her-A0	sense-A0	chicks-A1	receive-C-A1	warning-A1	about-A1	from-A0	their-A1	mother-A0
+NYSEDREGENTS_2004_4_14||lay.01	develop.02	frog.01	sequence.01	example.01	live.01||A0	A1	R-A0	A4	A2||Frogs-A0	eggs-A1	that-R-A0	into-A4	adult-A1	of-A1	example-A1	of-A2	things-A1
+NYSEDREGENTS_2004_4_13||protect.01||A3	AM-MOD	A1	AM-MNR	A2||In-A3	would-AM-MOD	rabbit-A1	best-AM-MNR	from-A2
+NYSEDREGENTS_2004_4_19||freeze.01	expect.01	do.02	protect.01	grow.01||A1	AM-TMP	R-A1	A3	AM-MOD	AM-PNC	AM-ADV	A4||Temperatures-A1	overnight-AM-TMP	What-R-A1	What-A3	might-AM-MOD	to-AM-PNC	plants-A1	growing-AM-ADV	outside-A4
+Mercury_SC_409578||know.01	tilt.01	axis.01	season.01	experience.01||A0	A1	A2	AM-DIS	AM-MOD	R-AM-TMP||Drew-A0	that-A1	NNP-A1	on-A2	its-A0	He-A0	also-AM-DIS	is-A1	region-A0	will-AM-MOD	When-R-AM-TMP	toward-A2
+OHAT_2009_5_44||cause.01	appear.01||R-A0	A1	C-A1	AM-LOC||What-R-A0	block-A1	to-C-A1	blue-C-A1	in-AM-LOC
+Mercury_SC_407397||want.01	know.01	add.02	field.03	make.02	crop.01	do.02||A0	A1	A2	AM-MOD	AM-TMP||farmer-A0	to-A1	if-A1	adding-A0	fertilizer-A1	to-A2	his-A1	will-AM-MOD	his-A0	crops-A1	healthier-A2	activity-A1	should-AM-MOD	first-AM-TMP
+Mercury_SC_407394||take.12	leave.01	make.01	food.01||R-A1	A0	A1	AM-PNC	AM-MOD||What-R-A1	by-A0	of-A1	so-AM-PNC	it-A0	can-AM-MOD	its-A0	food-A1
+Mercury_SC_406063||stand.01	feel.01	grow.01	transfer.01	heat.02||A1	A0	A2	AM-TMP	AM-MNR||student-A1	student-A0	near-A2	warmer-A1	as-AM-TMP	fire-A1	likely-AM-MNR	transfers-A1	from-A2
+ACTAAP_2011_5_9||set.01	state.01	difference.01||A0	A1	AM-MNR||set-A0	of-A1	correctly-AM-MNR	difference-A1	between-A1
+LEAP_2008_4_10288||fishing.01	affect.01	ecosystem.01||R-AM-MNR	A0	AM-LOC	A1||How-R-AM-MNR	fishing-A0	in-AM-LOC	its-A0	ecosystem-A1
+Mercury_SC_410961||learn.01	measure.01	temperature.01	way.01	provide.01||A0	A1	AM-TMP	AM-MOD||class-A0	about-A1	students-A0	air-A1	temperature-A1	at-AM-TMP	day-AM-TMP	way-A0	of-A1	would-AM-MOD	data-A1
+Mercury_SC_401606||test.01||A1	R-A1	AM-MOD	AM-MNR||hypothesis-A1	that-R-A1	can-AM-MOD	easily-AM-MNR
+VASoL_2007_5_7||find.01	living.01	feed.01	floor.01||R-A0	A1	AM-LOC||Which-R-A0	living-A1	on-AM-LOC	on-A1	of-A1
+Mercury_SC_LBS10340||study.01	learn.01||A0	A1||Scientists-A0	fossils-A1	fossils-A0	about-A1
+Mercury_SC_400519||study.01	layer.01	sediment.01	find.01	top.02	explain.01	occur.01||AM-LOC	A1	A0	R-AM-LOC	R-A0	R-AM-MNR||In-AM-LOC	layers-A1	of-A1	rock-A1	geologist-A0	area-A1	where-R-AM-LOC	on-AM-LOC	Which-R-A0	best-A0	how-R-AM-MNR	this-A1	occurred-A1
+Mercury_SC_LBS10349||take.01||R-A0	A1||Which-R-A0	hours-A1
+Mercury_SC_400991||ability.01	make.01||A0	A1||ability-A0	observations-A1
+Mercury_SC_LBS10584||following.01	chain.01||A0	A1||following-A0	food-A1
+VASoL_2008_3_34||ask.02	bring.01	feel.01||A2	A0	A1	R-A1||student-A2	student-A0	to-A1	something-A1	something-A0	that-R-A1	rough-A1	him-A0
+Mercury_SC_LBS10343||weight.01	compact.01	soil.01	avoid.01	drive.02	machinery.01||A2	A0	A1||weight-A2	weight-A0	of-A1	machinery-A1	is-A1	farmers-A0	driving-A1	their-A1	machinery-A0	across-A2
+Mercury_SC_LBS10587||information.01	transmit.01	offspring.01||A1	AM-MNR	A2	AM-DIR||information-A1	from-AM-MNR	to-A2	through-AM-DIR
+Mercury_SC_409569||role.01	type.01	use.01	produce.01	eat.01	have.03||A1	A0	A2||role-A1	of-A0	type-A2	of-A1	energy-A1	energy-A0	from-A2	to-A2	food-A1	animals-A0	organism-A0	in-A2
+Mercury_SC_406058||have.03	engine.01	combine.01	battery-power.01	stop.01	stops.01	run.01	begin.01	work.01	type.01	benefit.01||A0	A1	A2	R-AM-TMP	AM-TMP	AM-LOC	C-A1||car-A0	gasoline-A1	engine-A1	with-A2	motor-A1	When-R-AM-TMP	car-A1	stops-AM-TMP	at-AM-LOC	engine-A0	running-A1	motor-A0	working-C-A1	type-A2	of-A1
+Mercury_SC_406050||effect.01	cool.01	temperature.01	have.03	cycle.01||A1	A2	AM-LOC||effect-A1	cooling-A1	temperatures-A1	temperatures-A2	on-AM-LOC	water-A1
+Mercury_SC_407380||source.01	ecosystem.01||A2	A1	A3||source-A2	of-A1	for-A3	beach-A1
+Mercury_SC_401836||occur.01||A1	AM-TMP||Which-A1	months-AM-TMP
+Mercury_SC_401830||energy.01||A1||electrical-A1
+Mercury_SC_400986||look.01||A1	A0||at-A1	it-A0
+Mercury_SC_401832||cause.01||R-A0	A1||What-R-A0	soil-A1
+VASoL_2008_3_17||cube.01	place.01	melt.01	explain.01||A1	A2	AM-MNR	R-A1	A0||ice-A1	cube-A1	in-A2	sunlight-A1	quickly-AM-MNR	Which-R-A1	NNP-A0	event-A1
+Mercury_SC_407137||use.01	find.01	break.01	become.01||A0	A1	AM-LOC	R-A0	AM-MOD||Plants-A0	nutrients-A1	in-AM-LOC	Which-R-A0	can-AM-MOD	in-A1
+Mercury_SC_409556||threaten.01	release.01	help.01||R-AM-TMP	A1	AM-TMP	A0	AM-MOD||When-R-AM-TMP	octopus-A1	feels-AM-TMP	it-A0	can-AM-MOD	ink-A1	into-AM-TMP	ink-A0
+Mercury_SC_406048||rosebush.01	see.01	pull.01	base.05	reason.01||A1	AM-LOC	A0	AM-TMP	C-A1	A2||plants-A1	in-AM-LOC	student-A1	student-A0	frequently-AM-TMP	pulling-C-A1	weeds-A1	from-A2	of-A1	that-A1
+Mercury_SC_405198||increase.01	population.01||AM-MOD	AM-MNR	A2	A1	A3||will-AM-MOD	likely-AM-MNR	increase-A2	plant-A1	population-A1	population-A2	in-A3
+Mercury_SC_406041||attach.01	fish.01	eat.01	scrap.01	leave.02	feed.01||AM-MNR	A1	AM-LOC	R-AM-TMP	A0||By-AM-MNR	to-A1	remora-A1	scraps-A1	of-A1	behind-AM-LOC	when-R-AM-TMP	sharks-A0	remoras-A0
+MEA_2013_5_14||result.01	food.01||AM-MOD	A2	A1||would-AM-MOD	in-A2	food-A1	for-A2
+Mercury_SC_406042||contain.01	grow.01	base.05	adaptation.01||A0	A1	A2||forest-A0	trees-A1	plants-A1	at-A2	of-A1
+CSZ_2008_5_CSZ20469||thaw.01	action.01	affect.01	rock.01||A1	A0||action-A1	action-A0	of-A1	rock-A1	by-A0
+Mercury_SC_401824||part.01	method.01	involve.01	measure.01	growth.01	period.01||A2	A1	AM-TMP||part-A2	of-A1	scientific-A1	measuring-A1	growth-A1	one-month-AM-TMP
+CSZ10373||following.01	change.01	vapor.01||R-A0	A1	A2||Which-R-A0	processes-A1	water-A1	into-A2
+Mercury_SC_401822||system.01	removal.01||A1||body-A1	of-A1
+VASoL_2008_3_14||reason.01	study.01||A0	AM-CAU	A1||NNP-A0	reason-AM-CAU	to-A1	weather-A1
+Mercury_SC_407369||investigate.01	mold.01	growth.01	start.01	procedure.01	state.01	think.01	place.01	grow.01	describe.01	statement.01||A0	R-AM-MNR	A1	AM-TMP	AM-LOC	A2	AM-MOD||Byron-A0	how-R-AM-MNR	affects-A0	growth-A1	on-A1	Before-AM-TMP	his-A0	procedure-A1	NNP-A0	in-AM-LOC	that-A1	he-A0	bread-A1	in-A2	will-A1	will-AM-MOD	mold-A2	term-A0	statement-A1
+MDSA_2009_4_30||organize.01	call.01	name.01	statement.01	explain.01	appear.01	area.01||A1	A4	A2	AM-MNR	A0	R-AM-CAU	AM-LOC	AM-TMP||Stars-A1	into-A4	patterns-A1	constellations-A2	constellation-A1	NNP-A2	Which-AM-MNR	statement-A0	best-A0	why-R-AM-CAU	NNP-A1	appears-A1	in-AM-LOC	of-A1	throughout-AM-TMP
+Mercury_SC_406036||absorb.01	carry.01	system.01	rest.01||A1	AM-DIR||system-A1	food-A1	from-AM-DIR	digestive-A1	to-AM-DIR	of-A1
+MCAS_2002_5_5||change.01	explain.01||A1	A3	AM-MOD	A0||change-A1	from-A3	on-A1	can-AM-MOD	by-A0
+Mercury_SC_LBS10351||appearance.02	change.01||AM-MNR	A1	AM-TMP||How-AM-MNR	of-A1	constellation-A1	during-AM-TMP
+Mercury_SC_401814||consider.01||A1	AM-MOD	A2||situation-A1	would-AM-MOD	observation-A2
+VASoL_2008_3_22||sign.01	go.04	start.01	grow.01	___.01||A1	A0	AM-MOD	R-AM-TMP||that-A1	tree-A0	going-AM-MOD	apples-A1	when-R-AM-TMP	tree-A1
+VASoL_2008_3_24||fishing.01	get.03	lose.02	help.01	direct.01||AM-ADV	A1	A2	AM-LOC	A0	AM-MOD	C-A1||While-AM-ADV	sailor-A1	he-A1	lost-A2	at-AM-LOC	object-A0	would-AM-MOD	him-A1	him-A0	direct-C-A1	boat-A1
+Mercury_SC_401812||cycle.01||A1||life-A1
+Mercury_SC_406660||bury.01	following.01	happen.01||A0	AM-MOD	A1	R-A1	A2	AM-TMP||animals-A0	may-AM-MOD	acorns-A1	Which-R-A1	following-A0	to-A2	after-AM-TMP	they-A1
+Mercury_SC_402060||happen.01	flow.01	period.01||R-A1	R-AM-TMP	A1	AM-TMP	AM-DIR||What-R-A1	when-R-AM-TMP	water-A1	flows-AM-TMP	over-AM-DIR	long-AM-TMP
+CSZ_2008_5_CSZ20249||concentration.02	temperature.01	use.01	description.01||A1	AM-MOD	AM-LOC||Salt-A1	water-A1	shark-A1	might-AM-MOD	in-AM-LOC	of-A1
+VASoL_2011_5_26||form.01	lava.01	cool.01	type.01||A1	R-AM-TMP	AM-TMP	A2	A0||NNP-A1	when-R-AM-TMP	lava-AM-TMP	from-A2	from-A0	volcano-A1	rock-A1	type-A2
+Mercury_SC_415389||||||
+Mercury_SC_417560||find.01	prey.01	use.01	sense.01	detect.01	send.01||A0	A1	AM-TMP	C-A1	A2	R-A1||Bats-A0	their-A0	prey-A1	at-AM-TMP	using-C-A1	one-A1	to-A2	echoes-A1	What-R-A1	bat-A0
+VASoL_2011_5_23||activity.01	have.03	effect.01||A0	AM-LOC	AM-MNR	A1	A2||Which-A0	human-A0	in-AM-LOC	positive-AM-MNR	effect-A1	on-A2
+Mercury_SC_415388||step.01	cycle.01	give.01	energy.01	evaporate.01||A1	R-A1	A2||in-A1	water-A1	What-R-A1	water-A2	energy-A1
+Mercury_SC_402059||name.01	ring.03	feed.01	make.01	drool.01	hear.01	receive.01	type.01	response.01	exhibit.01||AM-LOC	A1	A0	A2	AM-TMP	R-A0	AM-MOD	AM-ADV	AM-NEG||In-AM-LOC	scientist-A1	scientist-A0	NNP-A2	bell-A1	before-AM-TMP	he-A0	dogs-A2	dogs-A0	which-R-A0	drool-A1	Soon-AM-TMP	would-AM-MOD	they-A0	heard-AM-TMP	if-AM-ADV	not-AM-NEG	food-A1	type-A2	type-A1	of-A1	response-A2
+Mercury_SC_407501||release.01	cool.03	harden.01	form.01||A0	AM-MNR	A1	AM-TMP	AM-ADV	AM-LOC	AM-MOD	A2||volcano-A0	slowly-AM-MNR	lava-A1	over-AM-TMP	As-AM-ADV	it-A1	on-AM-LOC	feature-A1	will-AM-MOD	form-A2	from-A2	of-A1
+Mercury_SC_402055||explain.01	lay.01	abundance.01||R-A0	A0	A1||Which-R-A0	best-A0	reptiles-A0	lay-A1	abundance-A1	of-A1
+Mercury_SC_406650||live.02	thousands.01	black-ey.01	live.01	have.03	order.06	survive.01||A0	AM-ADV	AM-MOD	A1	AM-MNR	AM-TMP	R-A1	A2	AM-PNC||plants-A0	like-AM-ADV	may-AM-MOD	for-A1	of-A1	like-AM-MNR	wildflower-A1	only-AM-ADV	weeks-AM-TMP	What-R-A1	would-A2	in-A1	in-AM-PNC	to-A1
+Mercury_SC_402050||need.01	occur.01||A1	AM-PNC||Which-A1	for-AM-PNC	boiling-A1
+Mercury_SC_LBS10923||invention.01	telescope.01	allow.01	take.14	place.03||A1	C-A1	A2||invention-A1	of-A1	to-C-A1	place-A2
+Mercury_SC_417575||||||
+MCAS_1998_4_16||invent.01||A1	AM-LOC	A0||telephone-A1	in-AM-LOC	by-A0
+VASoL_2011_5_35||surface.01	make.07||A1||surface-A1	of-A1
+Mercury_SC_415398||begin.01||R-A2	A1||Where-R-A2	landslide-A1
+MCAS_1998_4_17||order.01	metamorphosis.01||AM-MNR	A1||correct-AM-MNR	of-A1
+VASoL_2011_5_32||have.03||A0	A1||Which-A0	cells-A1
+MCAS_1998_4_18||following.01	help.01	break.01	fall.01||R-A0	A0	A1	C-A1	AM-TMP	A2||Which-R-A0	following-A0	leaves-A1	break-C-A1	after-AM-TMP	they-A1	off-A2
+MDSA_2009_4_18||group.01	base.02	feature.01	classify.01||A1	A2	AM-CAU	R-A1||Scientists-A1	animals-A1	on-A2	physical-A1	features-A2	Trout-A1	as-A2	because-AM-CAU	what-R-A1	feature-A2
+VASoL_2008_5_22||mine.01	use.01	source.01||R-A1	R-A0	AM-MOD	A2	A1||Which-R-A1	Which-R-A0	can-AM-MOD	from-A2	as-A2	energy-A1	source-A2
+Mercury_SC_402047||piece.01	have.03||R-A1	A1	AM-MNR||What-R-A1	of-A1	in-AM-MNR
+Mercury_SC_402048||happen.01	mix.01||R-A1	R-AM-TMP	A1	AM-TMP||What-R-A1	when-R-AM-TMP	oil-A1	are-AM-TMP
+Mercury_SC_402043||occur.01||A1	R-A1	AM-TMP||process-A1	that-R-A1	during-AM-TMP
+Mercury_SC_402285||product.01	form.01	die.01	sink.01	bottom.01||A0	A1	AM-TMP	A4||What-A0	product-A1	as-AM-TMP	plants-A1	to-A4	of-A1
+Mercury_SC_401194||hatch.01	prey.01	ability.01	have.03	survival.01	offspring.01||AM-TMP	A1	AM-MNR	A0||Newly-AM-TMP	turtles-A1	easy-AM-MNR	for-A0	turtles-A0	have-A1	for-A1	of-A0	their-A0
+Mercury_SC_405796||use.01	increase.01||A1	A0	AM-MOD	AM-LOC	A2||material-A1	material-A0	should-AM-MOD	on-AM-LOC	to-A2	friction-A1
+Mercury_SC_402281||die.01	part.01	decay.01	form.01||R-AM-TMP	A1	AM-TMP||When-R-AM-TMP	animals-A1	died-AM-TMP	their-A1	parts-A1	product-A1
+Mercury_SC_401199||use.01	fuel.01	avoid.01	example.01||A2	A1	AM-MNR||fossil-A2	fuels-A1	wisely-AM-MNR	waste-A1	example-A1	of-A2
+Mercury_SC_401198||order.02	perform.01	experiment.01||A1	A0	AM-MNR||for-A1	students-A0	lab-A1	experiments-A1	safely-AM-MNR
+Mercury_SC_405793||use.01	view.01	sample.01	take.01	part.01	she.01	see.01||A0	A1	A2	AM-MOD	C-A1||NNP-A0	microscope-A1	microscope-A0	to-A2	soil-A1	sample-A1	from-A2	part-A0	of-A1	would-AM-MOD	NNP-A1	be-C-A1	with-A1
+Mercury_SC_401197||practice.01	include.01||AM-MNR	A2	AM-LOC	A1||Safe-AM-MNR	practices-A2	in-AM-LOC	all-A1
+Mercury_SC_402041||repeat.01||A1||experiment-A1
+Mercury_SC_401191||snap.08	band.01	produce.01	type.01||A0	A1	AM-ADV	A2||Snapping-A0	rubber-A1	band-A1	likely-AM-ADV	type-A1	type-A2	of-A1
+Mercury_SC_414079||have.03	show.01||A0	A1	AM-LOC||student-A0	eraser-A1	on-AM-LOC	property-A0	that-A1
+Mercury_SC_409907||have.03	keep.04	plant.01	bottom.01||A0	A1	A2||NNP-A0	goldfish-A1	she-A0	in-A2	She-A0	plants-A1	of-A1
+MCAS_2011_5_17663||leave.01	look.01	evaporate.01	follow.04	describe.01	happen.01	particle.01||A0	A1	AM-LOC	R-AM-TMP	AM-TMP	R-A1	A2||NNP-A0	glass-A1	on-AM-LOC	When-R-AM-TMP	he-A0	looked-AM-TMP	at-A1	later-AM-TMP	some-A1	what-R-A1	happened-A1	to-A2	particles-A1	of-A1	that-R-A1
+MCAS_2011_5_17664||following.01	cause.01	weather.01||R-A1	R-A0	A0	AM-MOD||Which-R-A1	Which-R-A0	following-A0	can-AM-MOD	by-A0
+Mercury_SC_401189||example.01	reflect.01||A1	A2||example-A1	of-A2
+MCAS_2001_5_4||compare.01	hardness.01	find.01||A1	A0||hardness-A1	of-A1	it-A0	NNP-A0
+Mercury_SC_405303||form.01	appear.01	freeze.01||A2	A1	AM-TMP||form-A2	form-A1	of-A1	temperature-A1	is-AM-TMP
+MCAS_2001_5_7||function.01	root.01||A0	A1||of-A0	plant-A1
+Mercury_SC_407724||take.01	help.01	make.01||R-A1	A0	A2	R-A0	A1	C-A1||What-R-A1	plants-A0	from-A2	air-A0	that-R-A0	them-A1	them-A0	make-C-A1	food-A1
+Mercury_SC_409901||need.01	source.01	order.06	perform.01	receive.01||A0	A2	A1	AM-PNC	R-AM-LOC||Plants-A0	need-A2	source-A1	source-A2	of-A1	in-AM-PNC	to-A1	photosynthesis-A1	From-R-AM-LOC	plants-A0	energy-A1	energy-A0	to-AM-PNC
+Mercury_SC_401184||property.01||A1||of-A1
+Mercury_SC_401183||part.01	cycle.01||A1||of-A1	life-A1
+Mercury_SC_402033||way.01	describe.01	result.01||A1	A0	A2||for-A1	student-A0	results-A1	results-A2	of-A1
+Mercury_SC_401182||property.01||A1	A0||physical-A1	of-A0
+Mercury_SC_LBS10945||use.01	produce.01||R-AM-TMP	A0	A1||When-R-AM-TMP	animals-A0	use-A1	energy-A1	they-A0
+VASoL_2008_3_8||feel.01||AM-MOD	A0	A1	AM-TMP||will-AM-MOD	sidewalk-A0	hottest-A1	on-AM-TMP
+Mercury_SC_LBS10947||determine.01||R-A0	A1||What-R-A0	if-A1
+LEAP_2003_4_10252||sample.01||A1||rock-A1
+Mercury_SC_401180||occur.01||A1	AM-TMP||event-A1	day-AM-TMP
+VASoL_2008_3_2||||||
+MCAS_2012_5_23630||location.01	sleep.01	period.01	follow.01||AM-LOC	A2	A0	AM-TMP	A1||In-AM-LOC	locations-A2	squirrels-A0	for-A2	long-AM-TMP	of-A1	squirrels-A2
+MCAS_2003_5_11||hang.01	outdoor.01	get.03	following.01	affect.01	dry.01||A0	A1	AM-TMP	A2	R-A0||NNP-A0	NNP-A1	always-AM-TMP	her-A0	swimsuit-A1	outdoors-A1	after-AM-TMP	out-A2	Which-R-A0	following-A0	rate-A1
+MCAS_2016_5_3||following.01	part.01	test.01	find.01	hardness.01	sample.01||A1	A0	A2||actions-A1	of-A1	test-A0	to-A2	hardness-A1	mineral-A1
+VASoL_2011_5_15||function.01||A0||of-A0
+VASoL_2011_5_12||following.01	observation.01	refraction.01||A0	A1||following-A0	of-A1
+MCAS_2012_5_23624||part.01	use.01	energy.01	produce.01	food.01||A1	A0	A2||of-A1	energy-A1	energy-A0	from-A2	to-A2	food-A1	for-A2
+Mercury_SC_LBS10951||statement.01	describe.01	theory.01	selection.01||A0	A1||statement-A0	theory-A1	of-A1	natural-A0
+CSZ_2008_5_CSZ10238||following.01	produce.01	digest.01||R-A1	A0	R-AM-TMP	A1	AM-TMP	AM-LOC||Which-R-A1	following-A0	when-R-AM-TMP	sugar-A1	is-AM-TMP	in-AM-LOC
+Mercury_SC_LBS10953||help.01	prevent.01	occur.01||R-A0	AM-MOD	A1	A2	AM-LOC||Which-R-A0	would-AM-MOD	to-A1	infections-A1	from-A2	in-AM-LOC
+Mercury_SC_406628||do.02	experiment.01	get.01	result.01	way.01	figure.05||A0	A1	AM-MNR	A2||scientists-A0	experiment-A1	different-AM-MNR	results-A1	results-A2	way-AM-MNR	to-A1	result-A2	might-A1
+MDSA_2010_5_2||combine.01	form.02||A1	AM-MNR	A0	R-AM-TMP||Materials-A1	chemically-AM-MNR	materials-A0	substance-A1	when-R-AM-TMP
+Mercury_SC_414081||blow.06	seal.01	push.02	middle.01	happen.01||A0	A1	AM-DIR	AM-TMP	A2	R-A1	AM-LOC||student-A0	air-A1	into-AM-DIR	it-A1	She-A0	then-AM-TMP	on-A2	of-A1	What-R-A1	to-A2	inside-AM-LOC
+Mercury_SC_402269||help.01	survive.01	environment.02||A0	A1	AM-LOC||characteristic-A0	rabbit-A1	survive-A1	in-AM-LOC	winter-A1
+Mercury_SC_414080||pour.01	put.01	property.01	change.01||A0	A1	A3	AM-TMP	A2||student-A0	water-A1	into-A3	then-AM-TMP	tray-A1	into-A2	property-A1	of-A0	as-AM-TMP
+MCAS_2016_5_9||ecosystem.01	receive.01	need.01	survive.01	following.01||AM-LOC	A1	A0	AM-PNC	AM-MNR||In-AM-LOC	meadow-A1	mice-A0	most-A1	energy-A1	they-A0	to-AM-PNC	directly-AM-MNR	sources-A0
+Mercury_SC_402028||conduct.01	experiment.01	use.01	do.02||AM-PNC	AM-MNR	A1	R-A1	AM-MOD	A0	AM-TMP||To-AM-PNC	safely-AM-MNR	experiment-A1	using-AM-MNR	chemicals-A1	what-R-A1	should-AM-MOD	students-A0	always-AM-TMP
+TIMSS_2003_4_pg16||happen.01	boil.01||R-A1	A2	R-AM-TMP	A0	AM-TMP||What-R-A1	to-A2	when-R-AM-TMP	it-A0	boils-AM-TMP
+Mercury_SC_408402||make.03	run.01	make.01	develop.02	fuel.01	replace.01	become.01||A1	AM-MOD	AM-MNR	R-A1	A2	A0	AM-ADV||Some-A1	cars-A1	can-AM-MOD	on-AM-MNR	fuel-A1	that-R-A1	from-A2	Scientists-A0	fuels-A1	gasoline-A1	likely-AM-ADV	important-A2
+Mercury_SC_406463||put.01	milliliter.01	set.02	heat.02	boil.01	take.01	contain.01	happen.01	rest.01||A0	A1	A2	R-AM-TMP	R-A1||student-A0	milliliters-A1	of-A1	into-A2	pot-A1	on-A2	water-A1	When-R-AM-TMP	burner-A1	it-A0	What-R-A1	to-A2
+Mercury_SC_416424||pattern.01||A1	A2||weather-A1	of-A2
+MEA_2016_5_12||group.01	leave.01	lake.01	arrive.01	2,000.01	km.01	travel.01	rate.01||A0	A1	AM-TMP	A4	AM-LOC	AM-MNR	A2||group-A0	of-A1	NNP-A1	lake-A1	in-AM-TMP	geese-A1	at-A4	NNP-AM-LOC	away-AM-TMP	geese-A0	at-AM-MNR	constant-A2
+MEA_2016_5_10||find.01	pebble.01	action.01	make.02	smooth.01||A0	AM-MNR	A1	AM-LOC	A2||student-A0	smooth-AM-MNR	pebble-A1	on-AM-LOC	on-A1	action-A0	pebble-A0	smooth-A2
+AKDE&ED_2008_4_6||name.01	study.01	include.01	help.01	design.01	see.01	make.02	ask.01	quality.01	want.01||A1	A0	A2	C-A1	R-A0	AM-ADV||person-A1	person-A0	NNP-A2	things-A1	things-A2	animals-A1	His-A0	study-A0	of-A1	him-A1	him-A0	design-C-A1	parachute-A1	Everything-A0	he-A0	made-A1	ask-A2	how-A1	Which-R-A0	human-A2	quality-A0	likely-AM-ADV	want-A2	to-A1
+AKDE&ED_2008_4_5||change.01	live.01	help.01	share.01	information.01||A1	A0	AM-LOC	A2||in-A1	people-A0	in-AM-LOC	tools-A0	scientists-A2	scientists-A0	to-A1	information-A1	about-A1
+MSA_2013_5_33||pollution.01	include.01	container.01	activity.01	increase.01	beach.01||A0	A2	A1	AM-MNR||Beach-A0	pollution-A2	sewage-A1	containers-A1	containers-A0	beach-A1	likely-AM-MNR	increases-A2	increases-A0	pollution-A1
+AKDE&ED_2008_4_1||study.01	group.01	leave.01	shape.01	process.01	use.01	put.01||A0	A1	A2	R-AM-TMP	AM-TMP||Students-A0	leaves-A1	They-A0	by-A1	shape-A2	science-A1	students-A1	when-R-AM-TMP	they-A0	put-AM-TMP	in-A2
+MCAS_2014_5_4||turtle.01	migrate.01	reproduce.01	example.01||AM-TMP	A0	A1	AM-PNC	A2||year-AM-TMP	sea-A0	migrate-A1	NNP-A1	NNP-A0	to-AM-PNC	example-A1	of-A2
+AKDE&ED_2008_4_7||property.01	cause.01	break.01||A0	A1	AM-MOD	C-A1||property-A0	of-A1	can-AM-MOD	rock-A1	to-C-A1
+Mercury_SC_407308||combine.01	cereal.01	describe.01	make.02||A0	A1	A2	R-A0	R-A1||student-A0	rice-A1	cereal-A1	with-A2	Which-R-A0	best-A0	what-R-A1	made-A1
+MSA_2013_5_36||type.01	occur.01	system.01	describe.01||A2	A1	AM-LOC	A0||types-A2	types-A1	of-A1	in-AM-LOC	our-A0	solar-A1	type-A2	type-A0	year-A1
+Mercury_SC_405129||student.01	shout.01	explain.01	hear.01||A0	AM-LOC	R-A1	A1	AM-TMP||student-A0	in-AM-LOC	best-A0	what-R-A1	hears-A1	after-AM-TMP
+TIMSS_2003_4_pg28||||||
+Mercury_SC_407787||throw.01	force.01	pull.01||A0	A1	A2||NNP-A0	ball-A1	What-A1	force-A0	down-A2	toward-A2
+TIMSS_2003_4_pg27||make.03	bubble.01||R-AM-TMP	A0	A1||When-R-AM-TMP	you-A0	soap-A1	bubbles-A1
+Mercury_SC_402099||formation.01	example.01	result.01	deposition.01||A1	A2||natural-A1	example-A1	of-A2	of-A1
+Mercury_SC_407783||class.03	study.01	measure.01||A1	A2	A0||NNP-A1	class-A2	class-A0	trees-A1	property-A1	students-A0	with-A2
+TIMSS_2003_4_pg24||cause.01||R-A0	A0	AM-MNR	AM-MOD	A1||Which-R-A0	pair-A0	together-AM-MNR	could-AM-MOD	rainbow-A1
+Mercury_SC_415349||get.01||R-AM-MNR	A0	A1||How-R-AM-MNR	tiger-A0	stripes-A1
+Mercury_SC_415347||learn.01	behavior.01||A1||behavior-A1
+Mercury_SC_414016||statement.01	describe.01||AM-MNR	A0	A1||Which-AM-MNR	statement-A0	is-A1	climate-A1
+MCAS_2016_5_11||watch.01	report.01	following.01	include.01||A0	A1	AM-ADV	A2||student-A0	weather-A1	report-A1	for-A0	Which-A1	following-A0	likely-AM-ADV	in-A2
+MCAS_2016_5_15||follow.01	characteristic.01	affect.01	environment.02||A1	A2	AM-EXT	A0||Which-A1	characteristics-A2	of-A1	most-AM-EXT	by-A0	its-A1
+MSA_2013_5_46||region.01	produce.01	factor.01	influence.01	grow.03||A2	A0	AM-LOC	A1	R-A1||NNP-A2	regions-A0	in-AM-LOC	crops-A1	environmental-A2	influences-A1	crops-R-A1
+MCAS_2016_5_13||describe.01	behavior.01||R-A0	A1||Which-R-A0	instinctive-A1	behavior-A1
+MCAS_2016_5_12||cycle.01	show.01	death.01	stage.01	make.03||A1	AM-TMP	R-AM-LOC	AM-MOD||stages-A1	life-A1	of-A1	below-AM-TMP	>-A1	In-R-AM-LOC	cycle-A1	will-AM-MOD	organism-A1
+MSA_2013_5_44||leak.01	amount.01	statement.01	describe.01	affect.01||A0	A1	AM-MNR	R-AM-MNR	AM-ADV	AM-MOD||ship-A0	amount-A1	of-A1	Which-AM-MNR	statement-A1	statement-A0	how-R-AM-MNR	oil-A0	likely-AM-ADV	will-A1	will-AM-MOD	habitat-A1
+Mercury_SC_405359||record.01	amount.01	fall.01	way.01	organize.01	information.01||A0	A1	R-A1	AM-TMP	AM-LOC	A2||student-A0	amount-A1	of-A1	that-R-A1	in-AM-TMP	in-AM-LOC	for-A1	him-A0	his-A2	information-A1
+Mercury_SC_402087||play.01	produce.01||A0	AM-TMP	A1	AM-CAU||someone-A0	plays-AM-TMP	flute-A1	sound-A1	because-AM-CAU
+Mercury_SC_402088||change.01	enable.01||A0	A1	C-A1||changes-A0	in-A1	fox-A1	to-C-A1
+Mercury_SC_402089||live.01	best.01	help.01	survive.01||A0	AM-LOC	AM-MNR	A1	AM-MOD||beardfish-A0	in-AM-LOC	They-A0	so-AM-MNR	that-A1	characteristic-A0	would-AM-MOD	stout-A1	stout-A0
+Mercury_SC_408861||vaccine.01	prevent.01	disease.01	develop.02	give.01	group.01	test.01	have.03||A3	A0	AM-MOD	AM-MNR	A1	A2	R-AM-TMP	AM-TMP	AM-LOC||vaccine-A3	vaccine-A0	can-AM-MOD	serious-AM-MNR	disease-A1	disease-A2	When-R-AM-TMP	new-AM-TMP	vaccine-A1	is-AM-TMP	it-A1	to-A2	of-A1	it-A0	on-AM-LOC	on-A1	before-AM-TMP	everyone-A0	one-A1
+Mercury_SC_402085||refract.01	pass.01||A1	AM-TMP	AM-DIR||NNP-A1	passing-AM-TMP	through-AM-DIR
+LEAP_2011_4_10298||test.01	see.01	kind.01	grow.01	do.02||A0	A1	A2	R-A1	AM-MOD||NNP-A0	soils-A1	which-A1	is-A1	for-A2	marigolds-A1	Which-R-A1	should-AM-MOD	she-A0
+Mercury_SC_402081||make.03	dissolve.01||R-A1	R-AM-TMP	A1	AM-LOC||What-R-A1	when-R-AM-TMP	sugar-A1	in-AM-LOC
+LEAP_2011_4_10297||shadow.01	flagpole.01||A0	A1||of-A0	school-A1
+MSA_2013_5_12||break.03	break.01||A1	A0	A3	AM-TMP||rock-A1	process-A0	into-A3	within-AM-TMP
+CSZ_2008_5_CSZ10022||following.01	cause.01	decrease.01	strength.01||R-A0	A1	AM-ADV	A0	C-A1	A2||Which-R-A0	factors-A1	likely-AM-ADV	hurricane-A1	hurricane-A0	to-C-A1	in-A1	strength-A2
+Mercury_SC_416456||do.02	except.01||A0	AM-MOD	A1||organism-A0	can-AM-MOD	everything-A1	cell-A0
+VASoL_2008_5_30||part.01	control.01	activity.01||A1	A0||of-A1	activities-A1	of-A0
+VASoL_2008_5_31||function.01||A0||of-A0
+Mercury_SC_415364||prefer.01	live.01	find.01||A0	A1	AM-LOC	R-AM-LOC	AM-ADV||Bluebirds-A0	to-A1	near-AM-LOC	Where-R-AM-LOC	you-A0	likely-AM-ADV	bluebird-A1
+Mercury_SC_LBS10764||slice.01	view.02	lot.01	shape.01	see.01||R-AM-TMP	AM-MNR	A1	AM-TMP	A2||When-R-AM-TMP	thin-AM-MNR	slice-A1	from-A1	is-AM-TMP	through-A2	lots-A1	of-A1	little-A2	box-like-A1
+VASoL_2008_5_36||have.03	impact.01	environment.02||R-A0	AM-MNR	A1||Which-R-A0	positive-AM-MNR	impact-A1	on-A1	of-A1
+Mercury_SC_406677||seed.01	stick.01	fur.01	walk.01	help.01||A2	A1	AM-TMP	A0	R-AM-MNR||seed-A2	seed-A1	of-A1	to-A2	as-AM-TMP	it-A0	How-R-AM-MNR	animal-A0	plant-A1
+Mercury_SC_402078||attract.01||A1	AM-MOD	A0||item-A1	would-AM-MOD	magnet-A0
+MCAS_2015_5_4||follow.01	statement.01	explain.01	decomposition.01	matter.02	help.01	form.01||R-A0	AM-TMP	A2	A1	A0||Which-R-A0	following-AM-TMP	statements-A2	statements-A1	best-A0	decomposition-A0	of-A1	plant-A1	helps-A1	to-A1	soils-A1
+Mercury_SC_415368||develop.01	stage.01	cycle.01	include.01||A1	AM-MNR	A2||dragonfly-A1	through-AM-MNR	life-A1	cycle-A2
+Mercury_SC_416457||describe.01||R-A0	A0	A1||Which-R-A0	best-A0	organisms-A1
+MCAS_2015_5_9||move.01	change.01	following.01	occur.01||A1	AM-DIR	A3	A2	AM-TMP	AM-ADV	AM-LOC||Clouds-A1	across-AM-DIR	temperature-A1	from-A3	to-A2	Which-A1	following-AM-TMP	changes-A1	in-A1	likely-AM-ADV	on-AM-LOC
+Mercury_SC_414042||pour.01	stir.02	remain.01	statement.01	describe.01	happen.01||A0	A1	A3	AM-TMP	R-A1||student-A0	sugar-A1	into-A3	After-AM-TMP	water-A1	in-A3	statement-A0	what-R-A1	happened-A1
+Mercury_SC_417556||build.01	live.01	side.01	help.01	protect.01||A0	A1	AM-LOC	R-A0	AM-MOD	AM-NEG	A2||town-A0	road-A1	through-AM-LOC	Deer-A0	in-AM-LOC	of-A1	Which-R-A0	would-AM-MOD	not-AM-NEG	protect-A1	deer-A1	from-A2
+Mercury_SC_416460||survive.01	help.01||A0	A2	AM-MOD	AM-MNR||cell-A0	cell-A2	can-AM-MOD	without-AM-MNR	of-A0
+Mercury_SC_416461||modeling.01	difference.01	model.01||A0	A1	A2||class-A0	differences-A1	between-A1	model-A2	of-A1
+Mercury_SC_406669||need.01	happen.01	grow.01||R-A0	AM-MOD	AM-ADV	A1	A2||Which-R-A0	would-AM-MOD	likely-AM-ADV	to-A1	for-A2	plant-A1
+Mercury_SC_405337||class.03	make.01	instrument.01	measure.01	pressure.01||A1	A2	A0||NNP-A1	class-A2	class-A0	instrument-A1	to-A1	air-A1	pressure-A1
