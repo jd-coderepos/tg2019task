@@ -32,9 +32,9 @@ As query data for ConceptNet and Wiktionary, create a text file with a list of a
 
 ### Usage
 
-To replicate the shared task features as is, we make available a pre-compiled `jar` file: [tg2019task.jar](tg2019task.jar)
+To replicate the shared task features as is, we make available a pre-compiled jar file: `tg2019task.jar`
 
-To use it, download the data directory 
+To use it, first make a local copy of the [data](/data) directory, then run the following command:
 
-`java `
+`java -jar tg2019task.jar <data_dir>`
 
