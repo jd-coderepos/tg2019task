@@ -1,12 +1,17 @@
 import requests
 import os
+import sys
+
+if len(sys.argv) != 3:
+	print("Usage: python query-term-categories.py <resources-dir> <query-terms file> <output file>")
+	sys.exit()
 
 url = "https://en.wiktionary.org/w/api.php"
 
-RES_DIR = "../../data/resources"
+RES_DIR = sys.argv[0]
 
-f = open(os.path.join(RES_DIR, "querytermsforconceptnet.txt"), "r", encoding="utf8")
-fw = open(os.path.join(RES_DIR, "new-wiki-concept-categories.txt"), "w", encoding="utf8")
+f = open(os.path.join(RES_DIR, sys.argv[1]), "r", encoding="utf8")
+fw = open(os.path.join(RES_DIR, sys.argv[2]), "w", encoding="utf8")
 
 
 for x in f:
