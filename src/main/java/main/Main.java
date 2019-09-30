@@ -105,13 +105,13 @@ public class Main {
     public void initTestSetup(String data_dir, String feat_grp) throws IOException {
         Test test = new Test(this);
         String qa_file = "Elem-Test-Rel.csv";
-        test.processQA(IO.readCSV(data_dir+"\\"+qa_file, '\t', 0));
+        test.processQA(IO.readCSV(data_dir+"/"+qa_file, '\t', 0));
         String expl_file = "expl-tablestore-rel.csv";
-        test.processExpl(IO.readCSV(data_dir+"\\"+expl_file, '\t', 0));
+        test.processExpl(IO.readCSV(data_dir+"/"+expl_file, '\t', 0));
         String output_file = "test-"+feat_grp+".dat";
         String id_file = "test-ids.txt";
         //test.writeOutput(new FileOutputStream(data_dir+"\\"+output_file), new FileOutputStream(data_dir+"\\"+id_file));
-        test.writeOutput(new FileOutputStream(data_dir+"\\"+output_file), null);
+        test.writeOutput(new FileOutputStream(data_dir+"/"+output_file), null);
 
         System.out.println("Done writing Test data!");
     }
@@ -119,15 +119,15 @@ public class Main {
     public void initDevSetup(String data_dir, String feat_grp) throws IOException {
         Dev dev = new Dev(this);
         String qa_file = "Elem-Dev-Rel.csv";
-        dev.processQA(IO.readCSV(data_dir+"\\"+qa_file, '\t', 0));
+        dev.processQA(IO.readCSV(data_dir+"/"+qa_file, '\t', 0));
         String expl_file = "expl-tablestore-rel.csv";
-        dev.processExpl(IO.readCSV(data_dir+"\\"+expl_file, '\t', 0));
+        dev.processExpl(IO.readCSV(data_dir+"/"+expl_file, '\t', 0));
         String gold_data = "Elem-Dev-Expl.csv";
-        dev.processPositiveQAExpl(IO.readCSV(data_dir+"\\"+gold_data, '\t', 0));
+        dev.processPositiveQAExpl(IO.readCSV(data_dir+"/"+gold_data, '\t', 0));
         String output_file = "dev-"+feat_grp+".dat";
         String id_file = "dev-ids-"+feat_grp+".txt";
         //dev.writeOutput(new FileOutputStream(data_dir+"\\"+output_file), new FileOutputStream(data_dir+"\\"+id_file));
-        dev.writeOutput(new FileOutputStream(data_dir+"\\"+output_file), null);
+        dev.writeOutput(new FileOutputStream(data_dir+"/"+output_file), null);
 
         System.out.println("Done writing Dev data!");
     }
@@ -135,9 +135,9 @@ public class Main {
     public void initTrainSetup(String data_dir, int numNeg, String feat_grp) throws IOException {
         Train train = new Train(this);
         String qa_file = "Elem-Train-Rel.csv";
-        train.processQA(IO.readCSV(data_dir+"\\"+qa_file, '\t', 0));
+        train.processQA(IO.readCSV(data_dir+"/"+qa_file, '\t', 0));
         String expl_file = "expl-tablestore-rel.csv";
-        train.processExpl(IO.readCSV(data_dir+"\\"+expl_file, '\t', 0));
+        train.processExpl(IO.readCSV(data_dir+"/"+expl_file, '\t', 0));
         lemma.setFeatureSizes(0);
         ts.setFeatureSizes(lemma.getLastSize());
         affix.setFeatureSizes(ts.getLastSize());
@@ -152,14 +152,14 @@ public class Main {
         System.out.println("Done generating training features!");
 
         String gold_data = "Elem-Train-Expl.csv";
-        train.processPositiveQAExpl(IO.readCSV(data_dir+"\\"+gold_data, '\t', 0));
+        train.processPositiveQAExpl(IO.readCSV(data_dir+"/"+gold_data, '\t', 0));
         String output_file = "train-"+1000+"-"+feat_grp+".dat";
         String id_file = "train-1000-ids.txt";
 
-        train.setNegAnn(IO.readCSV(data_dir+"\\"+id_file, '\t', 0));
+        train.setNegAnn(IO.readCSV(data_dir+"/"+id_file, '\t', 0));
         //train.generateNegativeQAExpl(numNeg);
         //train.writePosAndNegIDs(new FileOutputStream(data_dir+"\\train-1000-ids.txt"));
-        train.writePosAndNegSelectInstances(new FileOutputStream(data_dir+"\\"+output_file),
+        train.writePosAndNegSelectInstances(new FileOutputStream(data_dir+"/"+output_file),
                 /*new FileOutputStream(data_dir+"\\"+id_file)*/   null);
 
         System.out.println("Done writing training data!");
@@ -179,7 +179,8 @@ public class Main {
         NLP.setConcepts(IO.readCSV(data_dir+"/resources/conceptnet/concepts.txt", '\t', 0));
         NLP.setConceptRelations(IO.readCSV(data_dir+"/resources/conceptnet/wordtriples.txt", '\t', 0));
 
-        NLP.setWordNet(IO.readFile(data_dir+"/resources/WordNet.txt", StandardCharsets.UTF_8).split("\\n"));
+        //WordNet features were not useful for this task
+        //NLP.setWordNet(IO.readFile(data_dir+"/resources/WordNet.txt", StandardCharsets.UTF_8).split("\\n"));
 
         NLP.setWikiCategories(IO.readCSV(data_dir+"/resources/wiki/concept-categories.txt", '\t', 0));
         NLP.setWikiTitles(IO.readCSV(data_dir+"/resources/wiki/concept-search-titles.txt", '\t', 0));
@@ -196,7 +197,7 @@ public class Main {
 
         Main main = new Main();
 
-        String feat_grp = "framenet";
+        String feat_grp = "svm-features";
         main.initTrainSetup(data_dir, 500, feat_grp);
         main.initDevSetup(data_dir, feat_grp);
         main.initTestSetup(data_dir, feat_grp);
