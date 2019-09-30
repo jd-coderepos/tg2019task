@@ -26,11 +26,15 @@ As query data for ConceptNet and Wiktionary, create a text file with a list of a
 
 3. FrameNet
    
-#### Note: The ConceptNet, Wiktionary, and FrameNet data used in the shared task is made available in `data/resources` folder.
+   For FrameNet features, we use [Open-Sesame](https://github.com/swabhs/open-sesame) and [Mateplus](https://github.com/microth/mateplus).
+   
+#### Note: The ConceptNet, Wiktionary, and FrameNet data used in the shared task is made available in [data/resources](/data/resources) folder.
 
 ### Usage
 
+To replicate the shared task features as is, we make available a pre-compiled `jar` file: [tg2019task.jar](tg2019task.jar)
 
+To use it, download the data directory 
 
-<java >
+`java `
 
