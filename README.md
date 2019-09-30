@@ -1,6 +1,6 @@
 # tg2019task
 
-This repository contains the data, precompiled jar, and source code of our system for generating features used in our pairwise learning-to-rank approach in [TextGraphs 2019 Shared Task](https://github.com/umanlp/tg2019task).
+This repository contains the data, precompiled jar, and source code of our system for generating features used in our pairwise learning-to-rank approach for [TextGraphs 2019 Shared Task](https://github.com/umanlp/tg2019task).
 
 ### Data preprocessing
 
