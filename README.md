@@ -38,3 +38,4 @@ To use it, first make a local copy of the [data](/data) directory, then run the 
 
 `java -jar tg2019task.jar <data_dir>`
 
+The generated output can be used as training, development, and testing data for [SVM-rank](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html).
