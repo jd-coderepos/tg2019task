@@ -1,5 +1,7 @@
 # tg2019task
 
+This repository contains the data, precompiled jar, and source code of our system for generating features used in our pairwise learning-to-rank approach in [TextGraphs 2019 Shared Task](https://github.com/umanlp/tg2019task).
+
 ### Data preprocessing
 
 As query data for ConceptNet and Wiktionary, create a text file with a list of all the non-stop words in the dataset of questions, answers, and explanation sentences. 
