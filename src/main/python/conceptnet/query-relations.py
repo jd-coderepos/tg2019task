@@ -1,43 +1,56 @@
 import requests
 import os
+import sys
 
-RES_DIR = "../../data/resources/conceptnet"
+if len(sys.argv) != 3:
+	print("Usage: python query-relations.py <resources-dir> <query-terms file> <output file>")
+	sys.exit()
 
-#f = open(os.path.join(RES_DIR, "wordpairs.txt"), "r", encoding="utf8")
-f = open(os.path.join(RES_DIR, "wordlemmapairs.txt"), "r", encoding="utf8")
-#fw = open(os.path.join(RES_DIR, "wordpairs-relations.txt"), "w", encoding="utf8")
-fw = open(os.path.join(RES_DIR, "wordlemmapairs-relations.txt"), "w", encoding="utf8")
+RES_DIR = sys.argv[0]
+
+f = open(os.path.join(RES_DIR, sys.argv[1]), "r", encoding="utf8")
+fw = open(os.path.join(RES_DIR, sys.argv[2]), "w", encoding="utf8")
 
 for x in f:
 	x = x.strip()
-	terms = x.split("\t")	
 	
-	r = requests.get('http://api.conceptnet.io/query?node=/c/en/'+terms[0]+'&other=/c/en/'+terms[1])
+	r = requests.get('http://api.conceptnet.io/c/en/'+x)
+	
 	if (r.status_code != 200):
 		continue
 	
-	obj = r.json()
-
-	word1 = terms[0].replace("_", " ")
-	word2 = terms[1].replace("_", " ")
-		
-	relations = set()
+	obj = r.json()	
+	
+	triples_set = set()
+	relations = {}
+	
 	for edge in obj['edges']:
-	
+		
 		if 'language' not in edge['start'].keys() or edge['start']['language'] != 'en' or 'language' not in edge['end'].keys() or edge['end']['language'] != 'en':
-			continue	
-	
-		relations.add(edge['rel']['label'])
-	
-	if len(relations) == 0:
-		continue
-	
+			continue
+		
+		triples_set.add(edge['start']['label'] +"/"+ edge['rel']['label'] +"/"+ edge['end']['label'])
+		
+		x = x.replace("_", " ")
+		
+		if edge['rel']['label'] not in relations:
+			if edge['start']['label'] == x:
+				relations[edge['rel']['label']] = set()
+				relations[edge['rel']['label']].add(edge['end']['label'])
+			elif edge['end']['label'] == x:
+				relations[edge['rel']['label']] = set()
+				relations[edge['rel']['label']].add(edge['start']['label'])
+		elif edge['rel']['label'] in relations:
+			if edge['start']['label'] == x:
+				relations[edge['rel']['label']].add(edge['end']['label'])
+			elif edge['end']['label'] == x:
+				relations[edge['rel']['label']].add(edge['start']['label'])
+		
 	str = ""
-	for relation in relations:	
-		str = str+"\t"+relation
-		
+	for triples in triples_set:
+		str = str+'\t'+triples
 	str = str.strip()
-	fw.write(word1+"\t"+word2+"\t"+str+"\n")
-		
+	fw.write(x+"\t"+str+"\n")	
+	
 f.close()
 fw.close()

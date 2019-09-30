@@ -152,12 +152,6 @@ public class Sentence {
 
             List<String> concepts = NLP.concepts.get(elements[0].toLowerCase());
             Token t = new Token(elements[0], elements[1], elements[2], elements[4], elements[5].equals("null") ? null : Double.parseDouble(elements[5]), concepts);
-            if (elements.length == 7) {
-                t.setDepRel(elements[6].split("\\|"), false);
-            }
-            if (elements.length == 8) {
-                t.setDepRel(elements[7].split("\\|"), true);
-            }
 
             String word_lowercase = t.word.toLowerCase();
             t.setCn_wordrelations(word_lowercase);
